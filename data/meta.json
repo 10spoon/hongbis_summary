@@ -1,0 +1,53 @@
+{
+  "categories": [
+    "비교과",
+    "선배들의공부방법모음",
+    "설명회",
+    "세특자료실",
+    "시간표",
+    "엄마공부",
+    "입시뉴스"
+  ],
+  "category_index_path": "data/index/by_category/index.json",
+  "dates": [
+    {
+      "date": "2026-03-26",
+      "path": "data/index/by_date/2026-03-26.json",
+      "post_count": 2,
+      "updated_at": "2026-03-26T17:41:32.121243+09:00"
+    },
+    {
+      "date": "2026-03-25",
+      "path": "data/index/by_date/2026-03-25.json",
+      "post_count": 14,
+      "updated_at": "2026-03-26T17:42:29.911849+09:00"
+    },
+    {
+      "date": "2026-03-24",
+      "path": "data/index/by_date/2026-03-24.json",
+      "post_count": 19,
+      "updated_at": "2026-03-26T17:42:29.911849+09:00"
+    },
+    {
+      "date": "2026-03-23",
+      "path": "data/index/by_date/2026-03-23.json",
+      "post_count": 15,
+      "updated_at": "2026-03-26T17:42:29.911849+09:00"
+    }
+  ],
+  "generated_at": "2026-03-26T08:58:25.089362+00:00",
+  "latest_path": "data/index/latest.json",
+  "latest_post_count": 50,
+  "latest_updated_at": "2026-03-26T17:42:29.911849+09:00",
+  "notice": "Pages에는 index와 report JSON만 배포합니다. 글 전문 JSON은 저장소 내부에만 유지합니다.",
+  "reports": [
+    {
+      "label": "2026-03-26-1800",
+      "new_count": 50,
+      "path": "data/reports/2026-03-26-1800.json",
+      "updated_count": 0,
+      "window_end": "2026-03-26T18:00:00+09:00",
+      "window_start": "2026-03-26T08:00:00+09:00"
+    }
+  ]
+}

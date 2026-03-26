@@ -1,2 +1,15 @@
 # hongbis_summary
-Public summary site for hongbis Naver blog updates.
+
+`hongbis` 네이버 블로그의 요약 JSON과 조회 화면을 공개 배포하는 저장소입니다.
+
+이 저장소에는 다음만 포함됩니다.
+
+- 최신 글 인덱스
+- 날짜별 인덱스
+- 카테고리별 인덱스
+- 텔레그램 보고용 리포트 JSON
+- 정적 조회 화면
+
+글 전문 JSON과 수집 스크립트 원본은 private 저장소에서 관리됩니다.
+
+이 저장소는 자동 배포로 갱신됩니다.
