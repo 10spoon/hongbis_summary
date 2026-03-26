@@ -27,17 +27,17 @@ body {
 }
 
 .shell {
-  width: min(1240px, calc(100vw - 32px));
+  width: calc(100vw - 24px);
   margin: 0 auto;
-  padding: 32px 0 48px;
+  padding: 24px 0 40px;
 }
 
 .hero {
   display: grid;
-  grid-template-columns: 1.8fr 1fr;
-  gap: 20px;
+  grid-template-columns: minmax(0, 2.35fr) minmax(320px, 0.8fr);
+  gap: 16px;
   align-items: stretch;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 
 .eyebrow {
@@ -101,7 +101,7 @@ body {
 
 .layout {
   display: grid;
-  gap: 20px;
+  gap: 16px;
 }
 
 .controls {
@@ -110,6 +110,9 @@ body {
   flex-wrap: wrap;
   gap: 14px;
   align-items: end;
+  position: sticky;
+  top: 10px;
+  z-index: 4;
 }
 
 .control-block {
@@ -154,13 +157,13 @@ input {
 
 .grid {
   display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
-  gap: 20px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
 }
 
 .panel {
   padding: 18px;
-  min-height: 60vh;
+  min-height: auto;
 }
 
 .panel-header {
@@ -195,7 +198,8 @@ input {
   padding: 0;
   margin: 0;
   display: grid;
-  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 12px;
 }
 
 .post-item {
@@ -228,7 +232,7 @@ input {
 
 .post-title {
   margin: 0;
-  font-size: 0.96rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -254,7 +258,7 @@ input {
 
 .json-viewer {
   margin: 0;
-  height: calc(60vh - 54px);
+  height: 36vh;
   overflow: auto;
   padding: 16px;
   border-radius: 18px;
@@ -266,8 +270,8 @@ input {
 
 @media (max-width: 900px) {
   .shell {
-    width: min(100vw - 20px, 1240px);
-    padding-top: 20px;
+    width: calc(100vw - 16px);
+    padding-top: 16px;
   }
 
   .hero,
@@ -277,6 +281,10 @@ input {
 
   .panel {
     min-height: auto;
+  }
+
+  .post-list {
+    grid-template-columns: 1fr;
   }
 
   .json-viewer {
