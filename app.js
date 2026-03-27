@@ -172,7 +172,9 @@ function renderPosts(items) {
     const li = document.createElement("li");
     li.className = "post-item";
     li.innerHTML = item.post_url
-      ? `<a class="post-item-content post-item-link" href="${escapeHtml(item.post_url)}" aria-label="${escapeHtml(
+      ? `<a class="post-item-content post-item-link" href="${escapeHtml(
+          item.post_url
+        )}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(
           `원문 보기: ${title}`
         )}">${content}</a>`
       : `<div class="post-item-content">${content}</div>`;
