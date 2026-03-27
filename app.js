@@ -150,14 +150,13 @@ function renderPosts(items) {
       item.updated_count !== undefined ? `수정 ${item.updated_count}` : "",
     ].filter(Boolean);
 
-    const li = document.createElement("li");
-    li.className = "post-item";
-    li.innerHTML = `
+    const title = item.title || item.label || "제목 없음";
+    const content = `
       <div class="post-main">
         <div class="post-item-top">
           <span class="post-tag">${escapeHtml(getItemCategory(item))}</span>
         </div>
-        <p class="post-title">${escapeHtml(item.title || item.label || "제목 없음")}</p>
+        <p class="post-title">${escapeHtml(title)}</p>
         <div class="post-meta">
           ${metaParts.map((part) => `<span>${escapeHtml(part)}</span>`).join("")}
         </div>
@@ -166,11 +165,17 @@ function renderPosts(items) {
         <span class="post-date">${escapeHtml(
           formatDateTime(item.published_at || item.window_end || item.last_changed_at)
         )}</span>
-        <div class="post-links">
-          ${item.post_url ? `<a href="${item.post_url}" target="_blank" rel="noreferrer">원문</a>` : ""}
-        </div>
+        ${item.post_url ? '<span class="post-open">원문 보기</span>' : ""}
       </div>
     `;
+
+    const li = document.createElement("li");
+    li.className = "post-item";
+    li.innerHTML = item.post_url
+      ? `<a class="post-item-content post-item-link" href="${escapeHtml(item.post_url)}" aria-label="${escapeHtml(
+          `원문 보기: ${title}`
+        )}">${content}</a>`
+      : `<div class="post-item-content">${content}</div>`;
     elements.postList.append(li);
   }
 }
