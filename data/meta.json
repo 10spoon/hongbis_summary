@@ -1,5 +1,6 @@
 {
   "categories": [
+    "mom's diary",
     "비교과",
     "선배들의공부방법모음",
     "설명회",
@@ -10,6 +11,12 @@
   ],
   "category_index_path": "data/index/by_category/index.json",
   "dates": [
+    {
+      "date": "2026-03-28",
+      "path": "data/index/by_date/2026-03-28.json",
+      "post_count": 1,
+      "updated_at": "2026-03-28T02:34:10.770320+09:00"
+    },
     {
       "date": "2026-03-27",
       "path": "data/index/by_date/2026-03-27.json",
@@ -41,10 +48,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-03-27T16:35:08.558531+00:00",
+  "generated_at": "2026-03-27T17:34:48.178782+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 76,
-  "latest_updated_at": "2026-03-27T23:37:56.230770+09:00",
+  "latest_post_count": 77,
+  "latest_updated_at": "2026-03-28T02:34:10.770320+09:00",
   "notice": "Pages에는 index와 report JSON만 배포합니다. 글 전문 JSON은 저장소 내부에만 유지합니다.",
   "reports": [
     {
