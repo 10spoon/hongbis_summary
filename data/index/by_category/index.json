@@ -124,6 +124,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-03-27T20:31:02.200657+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-27T20:31:02.200657+09:00",
+        "link_count": 0,
+        "log_no": "224231803459",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224231803459",
+        "published_at": "2026-03-27T20:02:20+09:00",
+        "text_length": 0,
+        "title": "대치세정 논술설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-03-27T20:31:02.200657+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-27T20:31:02.200657+09:00",
+        "link_count": 0,
+        "log_no": "224231801596",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224231801596",
+        "published_at": "2026-03-27T19:59:53+09:00",
+        "text_length": 639,
+        "title": "두각학원 생기부 멘토링 Part1 (나오미멘토) 서울대 의대 학부모 특별 초청"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-03-27T18:18:09.247351+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-27T18:18:09.247351+09:00",
@@ -926,5 +952,5 @@
     ]
   },
   "category_count": 7,
-  "updated_at": "2026-03-27T19:32:40.602488+09:00"
+  "updated_at": "2026-03-27T20:31:02.200657+09:00"
 }
