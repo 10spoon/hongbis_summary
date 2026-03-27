@@ -1,7 +1,85 @@
 {
   "key": "2026-03-27",
-  "post_count": 2,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-27T18:18:09.247351+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-27T18:18:09.247351+09:00",
+      "link_count": 0,
+      "log_no": "224231685033",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231685033",
+      "published_at": "2026-03-27T17:45:00+09:00",
+      "text_length": 0,
+      "title": "한양대학교 2027 홍보일정"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-27T17:32:01.949562+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-27T17:32:01.949562+09:00",
+      "link_count": 2,
+      "log_no": "224231611994",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231611994",
+      "published_at": "2026-03-27T16:42:24+09:00",
+      "text_length": 444,
+      "title": "강남영재사관학원 중3 자사고 특목고 입시전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-27T16:40:50.504448+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-03-27T16:40:50.504448+09:00",
+      "link_count": 0,
+      "log_no": "224231581757",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231581757",
+      "published_at": "2026-03-27T16:17:06+09:00",
+      "text_length": 474,
+      "title": "예섬학원 <최상위권으로 가는 ‘공부 근육’ 키우기> 실전편 - 수학 선행 제대로 하는 법 (중간고사 대비)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
+      "link_count": 0,
+      "log_no": "224231391800",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231391800",
+      "published_at": "2026-03-27T13:41:26+09:00",
+      "text_length": 0,
+      "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
+      "link_count": 0,
+      "log_no": "224231389706",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231389706",
+      "published_at": "2026-03-27T13:39:47+09:00",
+      "text_length": 0,
+      "title": "로고스논술학원 논술설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
+      "link_count": 0,
+      "log_no": "224231386744",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224231386744",
+      "published_at": "2026-03-27T13:37:05+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 서울 대학부설영재교육원지도"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
@@ -29,5 +107,5 @@
       "title": "리뉴어학원 특목영어 IVY설명회"
     }
   ],
-  "updated_at": "2026-03-27T09:22:34.291411+09:00"
+  "updated_at": "2026-03-27T18:18:09.247351+09:00"
 }
