@@ -466,6 +466,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-03-28T22:35:48.348755+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T22:35:48.348755+09:00",
+        "link_count": 0,
+        "log_no": "224232722824",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232722824",
+        "published_at": "2026-03-28T21:43:25+09:00",
+        "text_length": 0,
+        "title": "꽃은 곤충 맞춰 피고 향기 내는 ‘생체시계’있다"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-03-28T19:26:25.101335+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-28T19:26:25.101335+09:00",
@@ -1188,5 +1201,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T21:27:33.416002+09:00"
+  "updated_at": "2026-03-28T22:35:48.348755+09:00"
 }
