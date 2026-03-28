@@ -1,7 +1,20 @@
 {
   "key": "2026-03-28",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-03-28T10:56:01.471469+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-28T10:56:01.471469+09:00",
+      "link_count": 0,
+      "log_no": "224232229597",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224232229597",
+      "published_at": "2026-03-28T10:00:57+09:00",
+      "text_length": 0,
+      "title": "강서별빛우주관 2026년 4월 주요 행사 프로그램"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-03-28T09:52:32.197675+09:00",
@@ -55,5 +68,5 @@
       "title": "부석사무량수전 당일치기 다녀오기"
     }
   ],
-  "updated_at": "2026-03-28T09:52:32.197675+09:00"
+  "updated_at": "2026-03-28T10:56:01.471469+09:00"
 }

@@ -455,6 +455,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-03-28T10:56:01.471469+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T10:56:01.471469+09:00",
+        "link_count": 0,
+        "log_no": "224232229597",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232229597",
+        "published_at": "2026-03-28T10:00:57+09:00",
+        "text_length": 0,
+        "title": "강서별빛우주관 2026년 4월 주요 행사 프로그램"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-03-27T23:37:56.230770+09:00",
         "image_count": 3,
         "last_changed_at": "2026-03-27T23:37:56.230770+09:00",
@@ -1058,5 +1071,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T09:52:32.197675+09:00"
+  "updated_at": "2026-03-28T10:56:01.471469+09:00"
 }
