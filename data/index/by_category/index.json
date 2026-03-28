@@ -18,6 +18,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-03-28T09:52:32.197675+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T09:52:32.197675+09:00",
+        "link_count": 0,
+        "log_no": "224232201989",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232201989",
+        "published_at": "2026-03-28T09:17:15+09:00",
+        "text_length": 354,
+        "title": "법원도서관 견학신청"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-03-28T09:52:32.197675+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-03-28T09:52:32.197675+09:00",
+        "link_count": 0,
+        "log_no": "224232197635",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232197635",
+        "published_at": "2026-03-28T09:10:19+09:00",
+        "text_length": 0,
+        "title": "전국민 AI경진대회"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-03-28T09:52:32.197675+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T09:52:32.197675+09:00",
+        "link_count": 0,
+        "log_no": "224232184901",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232184901",
+        "published_at": "2026-03-28T08:47:36+09:00",
+        "text_length": 594,
+        "title": "온라인강좌 하정문 박사님의 새소리 강의_4월"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-03-27T19:32:40.602488+09:00",
         "image_count": 2,
         "last_changed_at": "2026-03-27T19:32:40.602488+09:00",
@@ -1019,5 +1058,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T02:34:10.770320+09:00"
+  "updated_at": "2026-03-28T09:52:32.197675+09:00"
 }
