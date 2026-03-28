@@ -163,6 +163,19 @@
     "선배들의공부방법모음": [
       {
         "category": "선배들의공부방법모음",
+        "first_seen_at": "2026-03-28T15:36:06.350467+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T15:36:06.350467+09:00",
+        "link_count": 1,
+        "log_no": "224232458351",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232458351",
+        "published_at": "2026-03-28T15:23:20+09:00",
+        "text_length": 392,
+        "title": "스튜디오S 대치동에서 전교 1등(중대부고)! 의대 6관왕 넘사벽 스펙 의대생을 만든 부모님의 교육 원칙?"
+      },
+      {
+        "category": "선배들의공부방법모음",
         "first_seen_at": "2026-03-26T17:41:32.121243+09:00",
         "image_count": 10,
         "last_changed_at": "2026-03-26T17:41:32.121243+09:00",
@@ -453,6 +466,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-03-28T15:36:06.350467+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T15:36:06.350467+09:00",
+        "link_count": 0,
+        "log_no": "224232446737",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232446737",
+        "published_at": "2026-03-28T15:07:26+09:00",
+        "text_length": 0,
+        "title": "보람과학 초5/4월시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-03-28T10:56:01.471469+09:00",
@@ -1071,5 +1097,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T10:56:01.471469+09:00"
+  "updated_at": "2026-03-28T15:36:06.350467+09:00"
 }
