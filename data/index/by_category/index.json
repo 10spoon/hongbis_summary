@@ -204,6 +204,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-03-28T21:27:33.416002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T21:27:33.416002+09:00",
+        "link_count": 0,
+        "log_no": "224232692915",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232692915",
+        "published_at": "2026-03-28T21:03:19+09:00",
+        "text_length": 0,
+        "title": "시리우스 5-6월 개강 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-03-27T20:31:02.200657+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-27T20:31:02.200657+09:00",
@@ -492,6 +505,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-03-28T21:27:33.416002+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-28T21:27:33.416002+09:00",
+        "link_count": 0,
+        "log_no": "224232691696",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232691696",
+        "published_at": "2026-03-28T21:01:36+09:00",
+        "text_length": 0,
+        "title": "시리우스 2026년 5월~6월 개강 올림물리,올림물리 문제풀이, 일반물리 문제풀이, 올림화학, STEP화학 Genius 프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-03-28T15:36:06.350467+09:00",
@@ -1162,5 +1188,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T19:26:25.101335+09:00"
+  "updated_at": "2026-03-28T21:27:33.416002+09:00"
 }
