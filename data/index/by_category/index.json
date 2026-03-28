@@ -940,6 +940,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-03-28T18:27:19.254719+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-28T18:27:19.254719+09:00",
+        "link_count": 0,
+        "log_no": "224232579108",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224232579108",
+        "published_at": "2026-03-28T18:13:34+09:00",
+        "text_length": 0,
+        "title": "뉴질랜드 수학 천재 김우진, 국제 온라인 수학대회 5연패"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
@@ -1123,5 +1136,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T16:33:29.403968+09:00"
+  "updated_at": "2026-03-28T18:27:19.254719+09:00"
 }
