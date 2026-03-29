@@ -873,6 +873,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-03-29T10:56:24.945045+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-29T10:56:24.945045+09:00",
+        "link_count": 0,
+        "log_no": "224233102323",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233102323",
+        "published_at": "2026-03-29T10:37:06+09:00",
+        "text_length": 0,
+        "title": "“DM으로 부탁드려요” 이제부터 16금?…SNS 금지법 전세계 확산"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-03-28T19:26:25.101335+09:00",
         "image_count": 2,
         "last_changed_at": "2026-03-28T19:26:25.101335+09:00",
@@ -1003,6 +1016,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-03-29T10:56:24.945045+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-29T10:56:24.945045+09:00",
+        "link_count": 0,
+        "log_no": "224233098179",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233098179",
+        "published_at": "2026-03-29T10:31:26+09:00",
+        "text_length": 0,
+        "title": "같은 고2 전혀 다른 선택지… 선택과목 서울 큰학교 31개 vs 강원도 작은학교 12개"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-03-28T18:27:19.254719+09:00",
@@ -1201,5 +1227,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-28T22:35:48.348755+09:00"
+  "updated_at": "2026-03-29T10:56:24.945045+09:00"
 }
