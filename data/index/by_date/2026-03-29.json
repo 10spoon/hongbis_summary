@@ -1,7 +1,20 @@
 {
   "key": "2026-03-29",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-03-29T22:37:13.754032+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-29T22:37:13.754032+09:00",
+      "link_count": 0,
+      "log_no": "224233615483",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224233615483",
+      "published_at": "2026-03-29T21:50:05+09:00",
+      "text_length": 1160,
+      "title": "미강학원 물리역학 과 에너지 내신반"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-03-29T18:12:01.915320+09:00",
@@ -159,5 +172,5 @@
       "title": "같은 고2 전혀 다른 선택지… 선택과목 서울 큰학교 31개 vs 강원도 작은학교 12개"
     }
   ],
-  "updated_at": "2026-03-29T18:12:01.915320+09:00"
+  "updated_at": "2026-03-29T22:37:13.754032+09:00"
 }
