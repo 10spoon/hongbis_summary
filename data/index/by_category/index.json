@@ -204,6 +204,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-03-29T18:12:01.915320+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-29T18:12:01.915320+09:00",
+        "link_count": 0,
+        "log_no": "224233432099",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233432099",
+        "published_at": "2026-03-29T18:00:32+09:00",
+        "text_length": 0,
+        "title": "서울과학고 입학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-03-29T14:49:55.300775+09:00",
         "image_count": 0,
         "last_changed_at": "2026-03-29T14:49:55.300775+09:00",
@@ -925,6 +938,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-03-29T18:12:01.915320+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-03-29T18:12:01.915320+09:00",
+        "link_count": 0,
+        "log_no": "224233432866",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233432866",
+        "published_at": "2026-03-29T18:01:39+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 학총 갈때 ‘전재산 룩’은 피해주세요… 초1 병아리 엄마 주의사항"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-03-29T16:36:08.957079+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-29T16:36:08.957079+09:00",
@@ -1331,5 +1357,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-29T16:36:08.957079+09:00"
+  "updated_at": "2026-03-29T18:12:01.915320+09:00"
 }
