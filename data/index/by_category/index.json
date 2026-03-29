@@ -925,6 +925,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-03-29T16:36:08.957079+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-29T16:36:08.957079+09:00",
+        "link_count": 0,
+        "log_no": "224233328017",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233328017",
+        "published_at": "2026-03-29T15:46:01+09:00",
+        "text_length": 0,
+        "title": "운 안 풀리면 연주대 간다”…2030 몰린 관악산, 그 기운의 실체"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-03-29T12:24:03.897855+09:00",
         "image_count": 0,
         "last_changed_at": "2026-03-29T12:24:03.897855+09:00",
@@ -1318,5 +1331,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-29T14:49:55.300775+09:00"
+  "updated_at": "2026-03-29T16:36:08.957079+09:00"
 }
