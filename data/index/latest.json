@@ -1,6 +1,19 @@
 {
-  "post_count": 108,
+  "post_count": 109,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-30T09:59:58.356292+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-30T09:59:58.356292+09:00",
+      "link_count": 0,
+      "log_no": "224233971772",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224233971772",
+      "published_at": "2026-03-30T09:04:27+09:00",
+      "text_length": 0,
+      "title": "\"찍고 자는 애들이 내 등급 받쳐줘요\"... 인문계고 교실의 민낯"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-03-30T00:26:17.425925+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-23T19:59:57+09:00",
       "text_length": 220,
       "title": "공감학원 중등 국어 내신반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 1,
-      "log_no": "224226890323",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224226890323",
-      "published_at": "2026-03-23T18:55:51+09:00",
-      "text_length": 879,
-      "title": "대치파인만 중3과학 1학기 중간고사 대비"
     }
   ],
-  "updated_at": "2026-03-30T00:26:17.425925+09:00"
+  "updated_at": "2026-03-30T09:59:58.356292+09:00"
 }

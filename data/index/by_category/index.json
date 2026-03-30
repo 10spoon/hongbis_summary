@@ -1187,6 +1187,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-03-30T09:59:58.356292+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-30T09:59:58.356292+09:00",
+        "link_count": 0,
+        "log_no": "224233971772",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224233971772",
+        "published_at": "2026-03-30T09:04:27+09:00",
+        "text_length": 0,
+        "title": "\"찍고 자는 애들이 내 등급 받쳐줘요\"... 인문계고 교실의 민낯"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
@@ -1422,5 +1435,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-30T00:26:17.425925+09:00"
+  "updated_at": "2026-03-30T09:59:58.356292+09:00"
 }
