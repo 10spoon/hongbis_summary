@@ -230,6 +230,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
+        "link_count": 0,
+        "log_no": "224234776921",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234776921",
+        "published_at": "2026-03-30T20:01:24+09:00",
+        "text_length": 0,
+        "title": "수준영재수학 4월 18일, 중·고등수학 2차 간담회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
+        "link_count": 0,
+        "log_no": "224234761862",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234761862",
+        "published_at": "2026-03-30T19:47:29+09:00",
+        "text_length": 0,
+        "title": "대치세정 2027년 수시 논술 전형 콘서트 1차 - 메디컬 선승범T"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-03-30T16:54:16.948956+09:00",
         "image_count": 2,
         "last_changed_at": "2026-03-30T17:48:24.911504+09:00",
@@ -622,6 +648,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
+        "link_count": 0,
+        "log_no": "224234773391",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234773391",
+        "published_at": "2026-03-30T19:58:13+09:00",
+        "text_length": 0,
+        "title": "사이언스캠퍼스 1학기 중간고사 내신특강-중등부(중23)"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
+        "link_count": 0,
+        "log_no": "224234763672",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234763672",
+        "published_at": "2026-03-30T19:49:16+09:00",
+        "text_length": 0,
+        "title": "아토즈 모의논술 경진대회"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-03-30T18:48:19.667616+09:00",
@@ -1265,6 +1317,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
+        "link_count": 0,
+        "log_no": "224234770761",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234770761",
+        "published_at": "2026-03-30T19:55:43+09:00",
+        "text_length": 0,
+        "title": "[6년 전 오늘] [삼성 디스플레이Vlog]화학전공자는 어떤 일을 할까?"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-03-30T10:56:30.974650+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-30T10:56:30.974650+09:00",
@@ -1526,5 +1591,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-30T18:48:19.667616+09:00"
+  "updated_at": "2026-03-30T20:37:14.790434+09:00"
 }
