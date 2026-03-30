@@ -230,6 +230,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-03-30T16:54:16.948956+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-30T16:54:16.948956+09:00",
+        "link_count": 1,
+        "log_no": "224234550963",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234550963",
+        "published_at": "2026-03-30T16:39:09+09:00",
+        "text_length": 251,
+        "title": "목동 독특;관점의발견 비문학 구조독해 기반 서논술형 전문수업"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-03-30T00:26:17.425925+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-30T00:26:17.425925+09:00",
@@ -1474,5 +1487,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-30T14:10:51.422632+09:00"
+  "updated_at": "2026-03-30T16:54:16.948956+09:00"
 }
