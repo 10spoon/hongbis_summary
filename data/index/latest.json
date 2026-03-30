@@ -1,6 +1,32 @@
 {
-  "post_count": 110,
+  "post_count": 112,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-03-30T14:10:51.422632+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-03-30T14:10:51.422632+09:00",
+      "link_count": 0,
+      "log_no": "224234234764",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224234234764",
+      "published_at": "2026-03-30T12:47:01+09:00",
+      "text_length": 0,
+      "title": "국어의고수 단대부중2 국어내신"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-03-30T14:10:51.422632+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-30T14:10:51.422632+09:00",
+      "link_count": 0,
+      "log_no": "224234230178",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224234230178",
+      "published_at": "2026-03-30T12:43:11+09:00",
+      "text_length": 767,
+      "title": "화학·생명과학 전시 아이디어 공모전"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-03-30T10:56:30.974650+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-23T22:49:23+09:00",
       "text_length": 126,
       "title": "미래GT아카데미 초2 대상 주제별 실험과학 SOS 무료체험수업 및 브리핑"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227105333",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227105333",
-      "published_at": "2026-03-23T22:42:04+09:00",
-      "text_length": 4,
-      "title": "고앤정수학 4월 정규반개강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227095128",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227095128",
-      "published_at": "2026-03-23T22:31:04+09:00",
-      "text_length": 0,
-      "title": "틀니 해주시면 청소하겠다\"던 중학생...5년 뒤 의대생 된 감동 사연"
     }
   ],
-  "updated_at": "2026-03-30T10:56:30.974650+09:00"
+  "updated_at": "2026-03-30T14:10:51.422632+09:00"
 }
