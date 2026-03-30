@@ -1,6 +1,19 @@
 {
-  "post_count": 109,
+  "post_count": 110,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-30T10:56:30.974650+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-30T10:56:30.974650+09:00",
+      "link_count": 0,
+      "log_no": "224234060641",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224234060641",
+      "published_at": "2026-03-30T10:28:02+09:00",
+      "text_length": 4,
+      "title": "절대 단톡방 들어가지 마라\"…학폭으로 대입 불합격도"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-03-30T09:59:58.356292+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-23T22:31:04+09:00",
       "text_length": 0,
       "title": "틀니 해주시면 청소하겠다\"던 중학생...5년 뒤 의대생 된 감동 사연"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224226947691",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224226947691",
-      "published_at": "2026-03-23T19:59:57+09:00",
-      "text_length": 220,
-      "title": "공감학원 중등 국어 내신반"
     }
   ],
-  "updated_at": "2026-03-30T09:59:58.356292+09:00"
+  "updated_at": "2026-03-30T10:56:30.974650+09:00"
 }
