@@ -1,6 +1,19 @@
 {
-  "post_count": 115,
+  "post_count": 116,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-03-30T18:48:19.667616+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-03-30T18:48:19.667616+09:00",
+      "link_count": 0,
+      "log_no": "224234693063",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224234693063",
+      "published_at": "2026-03-30T18:35:38+09:00",
+      "text_length": 0,
+      "title": "유준형화학 26년 05월, 화학1, 화학2 일반화학 프로그램 설명서(개강 05월23일"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-03-30T17:48:24.911504+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-24T00:20:43+09:00",
       "text_length": 0,
       "title": "한일고등학교 입학설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227179422",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227179422",
-      "published_at": "2026-03-24T00:02:30+09:00",
-      "text_length": 0,
-      "title": "반포세정 3월학평 분석과 6평대비 설명회] ★서울대 의대 선배에게 듣는 '슬기로운 고3생활'"
     }
   ],
-  "updated_at": "2026-03-30T17:48:24.911504+09:00"
+  "updated_at": "2026-03-30T18:48:19.667616+09:00"
 }

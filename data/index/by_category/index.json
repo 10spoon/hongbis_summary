@@ -624,6 +624,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-03-30T18:48:19.667616+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-30T18:48:19.667616+09:00",
+        "link_count": 0,
+        "log_no": "224234693063",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234693063",
+        "published_at": "2026-03-30T18:35:38+09:00",
+        "text_length": 0,
+        "title": "유준형화학 26년 05월, 화학1, 화학2 일반화학 프로그램 설명서(개강 05월23일"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-03-30T17:48:24.911504+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-30T17:48:24.911504+09:00",
@@ -1513,5 +1526,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-30T17:48:24.911504+09:00"
+  "updated_at": "2026-03-30T18:48:19.667616+09:00"
 }
