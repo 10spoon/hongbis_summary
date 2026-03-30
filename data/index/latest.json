@@ -1,6 +1,19 @@
 {
-  "post_count": 122,
+  "post_count": 123,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-03-31T00:45:20.001318+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T00:45:20.001318+09:00",
+      "link_count": 0,
+      "log_no": "224235018070",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235018070",
+      "published_at": "2026-03-30T23:58:53+09:00",
+      "text_length": 0,
+      "title": "은지호영감수학 중등토요일 종일반"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-03-30T21:37:00.445867+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-24T16:14:21+09:00",
       "text_length": 0,
       "title": "[2년 전 오늘] \"공부 안하는 고3 아들, 어쩌죠\"…당근에 올렸더니 '깜짝'"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227967866",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227967866",
-      "published_at": "2026-03-24T16:11:58+09:00",
-      "text_length": 0,
-      "title": "대한민국학생발명전시회"
     }
   ],
-  "updated_at": "2026-03-30T21:37:00.445867+09:00"
+  "updated_at": "2026-03-31T00:45:20.001318+09:00"
 }
