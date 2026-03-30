@@ -1317,6 +1317,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-03-30T21:37:00.445867+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-03-30T21:37:00.445867+09:00",
+        "link_count": 0,
+        "log_no": "224234858542",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224234858542",
+        "published_at": "2026-03-30T21:19:22+09:00",
+        "text_length": 0,
+        "title": "3주 전부터 무게중심 바꿔라\"… 중간고사 성패 가를 '4단계 로드맵'"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
         "image_count": 0,
         "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
@@ -1591,5 +1604,5 @@
     ]
   },
   "category_count": 8,
-  "updated_at": "2026-03-30T20:37:14.790434+09:00"
+  "updated_at": "2026-03-30T21:37:00.445867+09:00"
 }
