@@ -1,7 +1,20 @@
 {
   "key": "2026-03-31",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-03-31T10:56:22.958800+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-03-31T10:56:22.958800+09:00",
+      "link_count": 0,
+      "log_no": "224235351220",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235351220",
+      "published_at": "2026-03-31T10:02:10+09:00",
+      "text_length": 0,
+      "title": "좋고 싫음을 떠날 자유"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-03-31T09:57:25.591181+09:00",
@@ -16,5 +29,5 @@
       "title": "SNS가 괴롭다” 日 Z세대 확산 ‘어텐션 디톡스’란"
     }
   ],
-  "updated_at": "2026-03-31T09:57:25.591181+09:00"
+  "updated_at": "2026-03-31T10:56:22.958800+09:00"
 }
