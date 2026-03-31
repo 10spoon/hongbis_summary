@@ -650,6 +650,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-03-31T17:39:08.520314+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-31T17:39:08.520314+09:00",
+        "link_count": 0,
+        "log_no": "224235912742",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224235912742",
+        "published_at": "2026-03-31T17:20:13+09:00",
+        "text_length": 0,
+        "title": "대치시대인재 고3 4월 특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-03-31T17:39:08.520314+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-31T17:39:08.520314+09:00",
+        "link_count": 0,
+        "log_no": "224235908721",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224235908721",
+        "published_at": "2026-03-31T17:17:04+09:00",
+        "text_length": 0,
+        "title": "대찬학원 중3 5월특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-03-31T00:45:20.001318+09:00",
         "image_count": 1,
         "last_changed_at": "2026-03-31T00:45:20.001318+09:00",
@@ -1671,5 +1697,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-03-31T15:45:02.904235+09:00"
+  "updated_at": "2026-03-31T17:39:08.520314+09:00"
 }
