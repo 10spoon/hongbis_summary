@@ -1,7 +1,46 @@
 {
   "key": "2026-03-31",
-  "post_count": 15,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
+      "link_count": 0,
+      "log_no": "224236296523",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236296523",
+      "published_at": "2026-03-31T23:32:47+09:00",
+      "text_length": 0,
+      "title": "“동아리 떨어졌어요, 생기부 어쩌죠?”…대입 준비로 동아리 면접 보는 아이들"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
+      "link_count": 0,
+      "log_no": "224236292998",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236292998",
+      "published_at": "2026-03-31T23:29:30+09:00",
+      "text_length": 0,
+      "title": "선생님, 이번 생은 망했어요\"...벌점이 낳은 비극"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
+      "link_count": 0,
+      "log_no": "224236288729",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236288729",
+      "published_at": "2026-03-31T23:25:17+09:00",
+      "text_length": 0,
+      "title": "타블로, 딸 하루 유창한 영어 실력 만든 비법…\"이중언어 되길 원한다면, 기다려라\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
@@ -198,5 +237,5 @@
       "title": "SNS가 괴롭다” 日 Z세대 확산 ‘어텐션 디톡스’란"
     }
   ],
-  "updated_at": "2026-03-31T22:54:16.601295+09:00"
+  "updated_at": "2026-03-31T23:44:35.296582+09:00"
 }
