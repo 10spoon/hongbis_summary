@@ -1,6 +1,58 @@
 {
-  "post_count": 129,
+  "post_count": 133,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-31T19:36:21.143508+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-03-31T19:36:21.143508+09:00",
+      "link_count": 0,
+      "log_no": "224236044431",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236044431",
+      "published_at": "2026-03-31T19:23:32+09:00",
+      "text_length": 0,
+      "title": "청심국제중고등학교 입학설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-03-31T19:36:21.143508+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T19:36:21.143508+09:00",
+      "link_count": 0,
+      "log_no": "224236039365",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236039365",
+      "published_at": "2026-03-31T19:17:58+09:00",
+      "text_length": 0,
+      "title": "서초구 1:1 진로진학 컨설팅"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-03-31T19:36:21.143508+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-03-31T19:36:21.143508+09:00",
+      "link_count": 0,
+      "log_no": "224236032746",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236032746",
+      "published_at": "2026-03-31T19:10:48+09:00",
+      "text_length": 0,
+      "title": "중앙대학교 고1,2대상 입학설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-31T19:36:21.143508+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T19:36:21.143508+09:00",
+      "link_count": 0,
+      "log_no": "224236029312",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236029312",
+      "published_at": "2026-03-31T19:07:07+09:00",
+      "text_length": 0,
+      "title": "분필로 그렸다고?...지친 제자들 위로하는 선생님의 ‘칠판 아트’"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-03-31T17:39:08.520314+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-03-24T23:58:00+09:00",
       "text_length": 0,
       "title": "공주사대부고 신입생입학설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228429371",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228429371",
-      "published_at": "2026-03-24T23:51:42+09:00",
-      "text_length": 4,
-      "title": "대치넥서스수학 3,4월시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228427651",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228427651",
-      "published_at": "2026-03-24T23:49:38+09:00",
-      "text_length": 0,
-      "title": "다즐영재교육 중간입반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228421822",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228421822",
-      "published_at": "2026-03-24T23:42:27+09:00",
-      "text_length": 0,
-      "title": "수학의힘대치 초등부4월 시간표"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228413073",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228413073",
-      "published_at": "2026-03-24T23:31:44+09:00",
-      "text_length": 81,
-      "title": "대치명인 이종환소장 ★ 3평분석 전략설명회"
     }
   ],
-  "updated_at": "2026-03-31T17:39:08.520314+09:00"
+  "updated_at": "2026-03-31T19:36:21.143508+09:00"
 }
