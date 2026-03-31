@@ -7,15 +7,16 @@
     "세특자료실",
     "시간표",
     "엄마공부",
-    "입시뉴스"
+    "입시뉴스",
+    "함께맘북클럽"
   ],
   "category_index_path": "data/index/by_category/index.json",
   "dates": [
     {
       "date": "2026-03-31",
       "path": "data/index/by_date/2026-03-31.json",
-      "post_count": 2,
-      "updated_at": "2026-03-31T10:56:22.958800+09:00"
+      "post_count": 3,
+      "updated_at": "2026-03-31T12:23:24.362617+09:00"
     },
     {
       "date": "2026-03-30",
@@ -66,10 +67,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-03-31T01:56:55.630577+00:00",
+  "generated_at": "2026-03-31T03:23:52.286510+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 125,
-  "latest_updated_at": "2026-03-31T10:56:22.958800+09:00",
+  "latest_post_count": 126,
+  "latest_updated_at": "2026-03-31T12:23:24.362617+09:00",
   "notice": "Pages에는 index와 report JSON만 배포합니다. 글 전문 JSON은 저장소 내부에만 유지합니다.",
   "reports": [
     {

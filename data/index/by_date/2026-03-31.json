@@ -1,7 +1,20 @@
 {
   "key": "2026-03-31",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "함께맘북클럽",
+      "first_seen_at": "2026-03-31T12:23:24.362617+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-03-31T12:23:24.362617+09:00",
+      "link_count": 0,
+      "log_no": "224235463186",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235463186",
+      "published_at": "2026-03-31T11:26:57+09:00",
+      "text_length": 292,
+      "title": "함께맘북클럽 2026년 4월 중3을 위한 고등학교 사용설명서"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-03-31T10:56:22.958800+09:00",
@@ -29,5 +42,5 @@
       "title": "SNS가 괴롭다” 日 Z세대 확산 ‘어텐션 디톡스’란"
     }
   ],
-  "updated_at": "2026-03-31T10:56:22.958800+09:00"
+  "updated_at": "2026-03-31T12:23:24.362617+09:00"
 }

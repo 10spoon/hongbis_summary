@@ -1,6 +1,19 @@
 {
-  "post_count": 125,
+  "post_count": 126,
   "posts": [
+    {
+      "category": "함께맘북클럽",
+      "first_seen_at": "2026-03-31T12:23:24.362617+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-03-31T12:23:24.362617+09:00",
+      "link_count": 0,
+      "log_no": "224235463186",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235463186",
+      "published_at": "2026-03-31T11:26:57+09:00",
+      "text_length": 292,
+      "title": "함께맘북클럽 2026년 4월 중3을 위한 고등학교 사용설명서"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-03-31T10:56:22.958800+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-24T22:05:59+09:00",
       "text_length": 495,
       "title": "한티역세모수학 4월 중등내신 실전 모의고사반 모집"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228125165",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228125165",
-      "published_at": "2026-03-24T18:19:47+09:00",
-      "text_length": 0,
-      "title": "경희대학교 입학설명회"
     }
   ],
-  "updated_at": "2026-03-31T10:56:22.958800+09:00"
+  "updated_at": "2026-03-31T12:23:24.362617+09:00"
 }
