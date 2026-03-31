@@ -1,7 +1,20 @@
 {
   "key": "2026-03-31",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-31T15:45:02.904235+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T15:45:02.904235+09:00",
+      "link_count": 0,
+      "log_no": "224235757564",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235757564",
+      "published_at": "2026-03-31T15:24:42+09:00",
+      "text_length": 0,
+      "title": "지방 의약학 ‘자퇴 쇼크’ 속 지역 합격문 2배 넓어진다… ‘N수생’ 독주 예고"
+    },
     {
       "category": "함께맘북클럽",
       "first_seen_at": "2026-03-31T12:23:24.362617+09:00",
@@ -42,5 +55,5 @@
       "title": "SNS가 괴롭다” 日 Z세대 확산 ‘어텐션 디톡스’란"
     }
   ],
-  "updated_at": "2026-03-31T12:23:24.362617+09:00"
+  "updated_at": "2026-03-31T15:45:02.904235+09:00"
 }

@@ -1,6 +1,19 @@
 {
-  "post_count": 126,
+  "post_count": 127,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-03-31T15:45:02.904235+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-03-31T15:45:02.904235+09:00",
+      "link_count": 0,
+      "log_no": "224235757564",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224235757564",
+      "published_at": "2026-03-31T15:24:42+09:00",
+      "text_length": 0,
+      "title": "지방 의약학 ‘자퇴 쇼크’ 속 지역 합격문 2배 넓어진다… ‘N수생’ 독주 예고"
+    },
     {
       "category": "함께맘북클럽",
       "first_seen_at": "2026-03-31T12:23:24.362617+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-24T23:22:52+09:00",
       "text_length": 0,
       "title": "대치이강 2026년 3월 학평 분석 및 입시전략 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 1,
-      "log_no": "224228332429",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228332429",
-      "published_at": "2026-03-24T22:05:59+09:00",
-      "text_length": 495,
-      "title": "한티역세모수학 4월 중등내신 실전 모의고사반 모집"
     }
   ],
-  "updated_at": "2026-03-31T12:23:24.362617+09:00"
+  "updated_at": "2026-03-31T15:45:02.904235+09:00"
 }

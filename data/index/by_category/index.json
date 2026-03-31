@@ -1356,6 +1356,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-03-31T15:45:02.904235+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-03-31T15:45:02.904235+09:00",
+        "link_count": 0,
+        "log_no": "224235757564",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224235757564",
+        "published_at": "2026-03-31T15:24:42+09:00",
+        "text_length": 0,
+        "title": "지방 의약학 ‘자퇴 쇼크’ 속 지역 합격문 2배 넓어진다… ‘N수생’ 독주 예고"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-03-30T21:37:00.445867+09:00",
         "image_count": 2,
         "last_changed_at": "2026-03-30T21:37:00.445867+09:00",
@@ -1658,5 +1671,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-03-31T12:23:24.362617+09:00"
+  "updated_at": "2026-03-31T15:45:02.904235+09:00"
 }
