@@ -1,6 +1,19 @@
 {
-  "post_count": 146,
+  "post_count": 147,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-01T14:10:51.835228+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T14:10:51.835228+09:00",
+      "link_count": 0,
+      "log_no": "224236887515",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236887515",
+      "published_at": "2026-04-01T13:02:14+09:00",
+      "text_length": 0,
+      "title": "읽기'는 '자전거 타기'와 비슷… 문해력 향상 교육, 어릴수록 효과 커\""
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-01T10:56:41.027948+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-25T23:53:41+09:00",
       "text_length": 0,
       "title": "시대인재 고1/4월 단기특강"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-26T17:41:32.121243+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:41:32.121243+09:00",
-      "link_count": 0,
-      "log_no": "224229607717",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229607717",
-      "published_at": "2026-03-25T22:55:16+09:00",
-      "text_length": 0,
-      "title": "읽었는데 왜 기억 못할까… 문해력을 위해 부모가 바꿔야 할 한 가지"
     }
   ],
-  "updated_at": "2026-04-01T10:56:41.027948+09:00"
+  "updated_at": "2026-04-01T14:10:51.835228+09:00"
 }
