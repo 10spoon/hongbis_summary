@@ -1,0 +1,33 @@
+{
+  "key": "2026-04-02",
+  "post_count": 2,
+  "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237622914",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237622914",
+      "published_at": "2026-04-02T00:03:15+09:00",
+      "text_length": 0,
+      "title": "테라과학 4월 개강"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237620034",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237620034",
+      "published_at": "2026-04-02T00:00:09+09:00",
+      "text_length": 42,
+      "title": "아이에게 미안할 때 무너지는 엄마들"
+    }
+  ],
+  "updated_at": "2026-04-02T00:45:59.401687+09:00"
+}

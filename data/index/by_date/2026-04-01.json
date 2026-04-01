@@ -1,7 +1,33 @@
 {
   "key": "2026-04-01",
-  "post_count": 18,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237614654",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237614654",
+      "published_at": "2026-04-01T23:54:49+09:00",
+      "text_length": 0,
+      "title": "불꽃수학 1학기 시간표"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237609420",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237609420",
+      "published_at": "2026-04-01T23:49:05+09:00",
+      "text_length": 0,
+      "title": "관상을 주관하는 부위는 연령대별로 다릅니다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
@@ -237,5 +263,5 @@
       "title": "고교 중간고사 대비 요령 학교 수업·교과서 중심 반복 학습… 3주 전 로드맵 짜야"
     }
   ],
-  "updated_at": "2026-04-01T22:54:37.209801+09:00"
+  "updated_at": "2026-04-02T00:45:59.401687+09:00"
 }

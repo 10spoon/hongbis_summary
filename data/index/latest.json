@@ -1,6 +1,58 @@
 {
-  "post_count": 159,
+  "post_count": 163,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237622914",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237622914",
+      "published_at": "2026-04-02T00:03:15+09:00",
+      "text_length": 0,
+      "title": "테라과학 4월 개강"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237620034",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237620034",
+      "published_at": "2026-04-02T00:00:09+09:00",
+      "text_length": 42,
+      "title": "아이에게 미안할 때 무너지는 엄마들"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237614654",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237614654",
+      "published_at": "2026-04-01T23:54:49+09:00",
+      "text_length": 0,
+      "title": "불꽃수학 1학기 시간표"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+      "link_count": 0,
+      "log_no": "224237609420",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237609420",
+      "published_at": "2026-04-01T23:49:05+09:00",
+      "text_length": 0,
+      "title": "관상을 주관하는 부위는 연령대별로 다릅니다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-03-27T13:39:47+09:00",
       "text_length": 0,
       "title": "로고스논술학원 논술설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231386744",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231386744",
-      "published_at": "2026-03-27T13:37:05+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] 서울 대학부설영재교육원지도"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224231065631",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231065631",
-      "published_at": "2026-03-27T08:31:14+09:00",
-      "text_length": 0,
-      "title": "KAIST 교수가 쓴 ‘10미터 한지 논문’ 英 박물관 영구 소장"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230911072",
-      "place_count": 5,
-      "post_url": "https://blog.naver.com/hongbis/224230911072",
-      "published_at": "2026-03-27T01:29:08+09:00",
-      "text_length": 531,
-      "title": "리뉴어학원 특목영어 IVY설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230822434",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230822434",
-      "published_at": "2026-03-26T23:19:20+09:00",
-      "text_length": 0,
-      "title": "지니엠국어 1학기 중간고사 시간표"
     }
   ],
-  "updated_at": "2026-04-01T22:54:37.209801+09:00"
+  "updated_at": "2026-04-02T00:45:59.401687+09:00"
 }

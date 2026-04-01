@@ -884,6 +884,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+        "link_count": 0,
+        "log_no": "224237622914",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237622914",
+        "published_at": "2026-04-02T00:03:15+09:00",
+        "text_length": 0,
+        "title": "테라과학 4월 개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+        "link_count": 0,
+        "log_no": "224237614654",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237614654",
+        "published_at": "2026-04-01T23:54:49+09:00",
+        "text_length": 0,
+        "title": "불꽃수학 1학기 시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
         "image_count": 5,
         "last_changed_at": "2026-04-01T22:54:37.209801+09:00",
@@ -1443,6 +1469,32 @@
       }
     ],
     "엄마공부": [
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+        "link_count": 0,
+        "log_no": "224237620034",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237620034",
+        "published_at": "2026-04-02T00:00:09+09:00",
+        "text_length": 42,
+        "title": "아이에게 미안할 때 무너지는 엄마들"
+      },
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
+        "link_count": 0,
+        "log_no": "224237609420",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237609420",
+        "published_at": "2026-04-01T23:49:05+09:00",
+        "text_length": 0,
+        "title": "관상을 주관하는 부위는 연령대별로 다릅니다"
+      },
       {
         "category": "엄마공부",
         "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
@@ -2087,5 +2139,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-01T22:54:37.209801+09:00"
+  "updated_at": "2026-04-02T00:45:59.401687+09:00"
 }
