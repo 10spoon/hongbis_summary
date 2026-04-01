@@ -1,6 +1,45 @@
 {
-  "post_count": 154,
+  "post_count": 157,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T21:37:56.158265+09:00",
+      "link_count": 0,
+      "log_no": "224237476339",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237476339",
+      "published_at": "2026-04-01T21:32:21+09:00",
+      "text_length": 1240,
+      "title": "목동다원 나오미멘토초청 학부모 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-01T21:37:56.158265+09:00",
+      "link_count": 0,
+      "log_no": "224237439288",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237439288",
+      "published_at": "2026-04-01T20:54:23+09:00",
+      "text_length": 480,
+      "title": "다원과학 과학 대회” 준비 전략 설명회"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T21:37:56.158265+09:00",
+      "link_count": 0,
+      "log_no": "224237436703",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237436703",
+      "published_at": "2026-04-01T20:51:37+09:00",
+      "text_length": 0,
+      "title": "하루 7~8시간 자고 의대 6곳 합격\"...서울대 의대생의 공부법은"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-01T19:37:00.001379+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-03-26T21:30:26+09:00",
       "text_length": 0,
       "title": "서울국제고등학교 1차 학교견학"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 1,
-      "log_no": "224230722734",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230722734",
-      "published_at": "2026-03-26T21:26:47+09:00",
-      "text_length": 722,
-      "title": "KNS 남녀공학 vs 여고, 현명한 지원 전략은? 유튜브라이브"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 1,
-      "log_no": "224230679636",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230679636",
-      "published_at": "2026-03-26T20:36:38+09:00",
-      "text_length": 970,
-      "title": "아카로드블루 프리미엄 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230676857",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230676857",
-      "published_at": "2026-03-26T20:33:38+09:00",
-      "text_length": 0,
-      "title": "문학책 읽고 에세이 쓰는 미국 학생"
     }
   ],
-  "updated_at": "2026-04-01T19:37:00.001379+09:00"
+  "updated_at": "2026-04-01T21:37:56.158265+09:00"
 }
