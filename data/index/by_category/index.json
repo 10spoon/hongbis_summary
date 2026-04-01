@@ -18,6 +18,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
+        "link_count": 0,
+        "log_no": "224237275211",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237275211",
+        "published_at": "2026-04-01T18:05:40+09:00",
+        "text_length": 1037,
+        "title": "2026년 서울과학기술대학교 전국 고교생 문예백일장"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
+        "link_count": 0,
+        "log_no": "224237262016",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237262016",
+        "published_at": "2026-04-01T17:54:15+09:00",
+        "text_length": 0,
+        "title": "한생연 자연학교캠프"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
+        "link_count": 0,
+        "log_no": "224237253263",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237253263",
+        "published_at": "2026-04-01T17:46:59+09:00",
+        "text_length": 271,
+        "title": "2026년 경복궁 집옥재(팔우정 포함) 작은 도서관 개방"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
@@ -306,6 +345,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
+        "link_count": 0,
+        "log_no": "224237270706",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237270706",
+        "published_at": "2026-04-01T18:01:35+09:00",
+        "text_length": 0,
+        "title": "서강대학교 입학설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
@@ -778,6 +830,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
+        "link_count": 0,
+        "log_no": "224237258198",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237258198",
+        "published_at": "2026-04-01T17:51:06+09:00",
+        "text_length": 507,
+        "title": "극지연구소 청소년 북극연구체험단(21C 다산주니어"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
@@ -1944,5 +2009,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-01T14:55:58.091084+09:00"
+  "updated_at": "2026-04-01T18:26:02.799316+09:00"
 }
