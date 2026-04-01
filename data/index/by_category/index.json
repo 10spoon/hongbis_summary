@@ -308,6 +308,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-01T14:55:58.091084+09:00",
+        "link_count": 1,
+        "log_no": "224237005030",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224237005030",
+        "published_at": "2026-04-01T14:35:22+09:00",
+        "text_length": 517,
+        "title": "예설라 대치 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-01T10:56:41.027948+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-01T10:56:41.027948+09:00",
@@ -1931,5 +1944,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-01T14:10:51.835228+09:00"
+  "updated_at": "2026-04-01T14:55:58.091084+09:00"
 }

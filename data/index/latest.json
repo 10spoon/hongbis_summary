@@ -1,6 +1,19 @@
 {
-  "post_count": 147,
+  "post_count": 148,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T14:55:58.091084+09:00",
+      "link_count": 1,
+      "log_no": "224237005030",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237005030",
+      "published_at": "2026-04-01T14:35:22+09:00",
+      "text_length": 517,
+      "title": "예설라 대치 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-01T14:10:51.835228+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-26T00:11:47+09:00",
       "text_length": 0,
       "title": "서울대합격한 보인고선배의 조언"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:41:32.121243+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:41:32.121243+09:00",
-      "link_count": 0,
-      "log_no": "224229656895",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229656895",
-      "published_at": "2026-03-25T23:53:41+09:00",
-      "text_length": 0,
-      "title": "시대인재 고1/4월 단기특강"
     }
   ],
-  "updated_at": "2026-04-01T14:10:51.835228+09:00"
+  "updated_at": "2026-04-01T14:55:58.091084+09:00"
 }

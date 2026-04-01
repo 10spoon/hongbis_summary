@@ -1,7 +1,20 @@
 {
   "key": "2026-04-01",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T14:55:58.091084+09:00",
+      "link_count": 1,
+      "log_no": "224237005030",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237005030",
+      "published_at": "2026-04-01T14:35:22+09:00",
+      "text_length": 517,
+      "title": "예설라 대치 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-01T14:10:51.835228+09:00",
@@ -81,5 +94,5 @@
       "title": "고교 중간고사 대비 요령 학교 수업·교과서 중심 반복 학습… 3주 전 로드맵 짜야"
     }
   ],
-  "updated_at": "2026-04-01T14:10:51.835228+09:00"
+  "updated_at": "2026-04-01T14:55:58.091084+09:00"
 }
