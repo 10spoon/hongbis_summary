@@ -1,7 +1,33 @@
 {
   "key": "2026-04-01",
-  "post_count": 16,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T22:54:37.209801+09:00",
+      "link_count": 0,
+      "log_no": "224237549984",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237549984",
+      "published_at": "2026-04-01T22:46:51+09:00",
+      "text_length": 330,
+      "title": "목동cms 고등과정 학습전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-01T22:54:37.209801+09:00",
+      "link_count": 0,
+      "log_no": "224237543324",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237543324",
+      "published_at": "2026-04-01T22:40:11+09:00",
+      "text_length": 0,
+      "title": "대치새움 5월 기말전 단기 특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
@@ -211,5 +237,5 @@
       "title": "고교 중간고사 대비 요령 학교 수업·교과서 중심 반복 학습… 3주 전 로드맵 짜야"
     }
   ],
-  "updated_at": "2026-04-01T21:37:56.158265+09:00"
+  "updated_at": "2026-04-01T22:54:37.209801+09:00"
 }
