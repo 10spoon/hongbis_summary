@@ -1,6 +1,19 @@
 {
-  "post_count": 145,
+  "post_count": 146,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-01T10:56:41.027948+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-01T10:56:41.027948+09:00",
+      "link_count": 1,
+      "log_no": "224236714839",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236714839",
+      "published_at": "2026-04-01T10:40:24+09:00",
+      "text_length": 1110,
+      "title": "햇살정원 의대관 \"가천대 입학관계자 초청\" 의학계열 입시 전략 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-25T22:55:16+09:00",
       "text_length": 0,
       "title": "읽었는데 왜 기억 못할까… 문해력을 위해 부모가 바꿔야 할 한 가지"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:41:32.121243+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-03-26T17:41:32.121243+09:00",
-      "link_count": 0,
-      "log_no": "224229592754",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229592754",
-      "published_at": "2026-03-25T22:38:24+09:00",
-      "text_length": 4,
-      "title": "대치스템학원 사문 생윤 한국사수업"
     }
   ],
-  "updated_at": "2026-04-01T10:03:38.932321+09:00"
+  "updated_at": "2026-04-01T10:56:41.027948+09:00"
 }
