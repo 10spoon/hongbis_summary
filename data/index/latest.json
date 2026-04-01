@@ -1,6 +1,58 @@
 {
-  "post_count": 141,
+  "post_count": 145,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
+      "link_count": 1,
+      "log_no": "224236628351",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236628351",
+      "published_at": "2026-04-01T09:22:49+09:00",
+      "text_length": 48,
+      "title": "우리동네 과학문화 장소"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
+      "link_count": 0,
+      "log_no": "224236625445",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236625445",
+      "published_at": "2026-04-01T09:19:40+09:00",
+      "text_length": 0,
+      "title": "서울시융합과학교육원 가족과 함께하는 과학 나들이, 해봄"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
+      "link_count": 0,
+      "log_no": "224236620282",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236620282",
+      "published_at": "2026-04-01T09:14:06+09:00",
+      "text_length": 0,
+      "title": "대원국제중 2027학년도 입학전형기본계획"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
+      "link_count": 0,
+      "log_no": "224236616588",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224236616588",
+      "published_at": "2026-04-01T09:10:09+09:00",
+      "text_length": 0,
+      "title": "고교 중간고사 대비 요령 학교 수업·교과서 중심 반복 학습… 3주 전 로드맵 짜야"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-03-25T22:38:24+09:00",
       "text_length": 4,
       "title": "대치스템학원 사문 생윤 한국사수업"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224229561302",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229561302",
-      "published_at": "2026-03-25T22:04:53+09:00",
-      "text_length": 0,
-      "title": "[6년 전 오늘] [ 이해인- 3월의 바람 속에...]"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224229496119",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229496119",
-      "published_at": "2026-03-25T20:54:39+09:00",
-      "text_length": 586,
-      "title": "수학프런티어 고3 확률과 통계 수업"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224229436508",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229436508",
-      "published_at": "2026-03-25T19:45:43+09:00",
-      "text_length": 0,
-      "title": "체감 난이도 ‘매우 어려웠다’…국어·수학 1등급 컷은?"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224229278540",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229278540",
-      "published_at": "2026-03-25T17:14:57+09:00",
-      "text_length": 0,
-      "title": "이천시, 경기·인천권 지역의사제 적용…지역학생 의대 진학 길 열린다"
     }
   ],
-  "updated_at": "2026-03-31T23:44:35.296582+09:00"
+  "updated_at": "2026-04-01T10:03:38.932321+09:00"
 }
