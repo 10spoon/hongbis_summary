@@ -1,6 +1,19 @@
 {
-  "post_count": 153,
+  "post_count": 154,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-01T19:37:00.001379+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-01T19:37:00.001379+09:00",
+      "link_count": 0,
+      "log_no": "224237359513",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237359513",
+      "published_at": "2026-04-01T19:29:02+09:00",
+      "text_length": 0,
+      "title": "영유 가면 SKY 보장되나’ 미 펜실베니아 주립대 교수 대답은 “그렇지 않다”"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-26T20:33:38+09:00",
       "text_length": 0,
       "title": "문학책 읽고 에세이 쓰는 미국 학생"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230639354",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230639354",
-      "published_at": "2026-03-26T19:48:11+09:00",
-      "text_length": 0,
-      "title": "서울대 자연계열 신입생 4명 중 1명, 미적분 다시 배운다"
     }
   ],
-  "updated_at": "2026-04-01T18:26:02.799316+09:00"
+  "updated_at": "2026-04-01T19:37:00.001379+09:00"
 }
