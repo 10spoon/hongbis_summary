@@ -412,6 +412,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
+        "link_count": 0,
+        "log_no": "224238877935",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224238877935",
+        "published_at": "2026-04-03T00:00:31+09:00",
+        "text_length": 408,
+        "title": "대치명인 학부모 입시 전문가 과정"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-02T23:39:46.197011+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-02T23:39:46.197011+09:00",
@@ -1980,6 +1993,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
+        "link_count": 0,
+        "log_no": "224238883959",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224238883959",
+        "published_at": "2026-04-03T00:06:39+09:00",
+        "text_length": 0,
+        "title": "서울 시내 5개 대학 2028 입시 방향 분석해보니"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
+        "link_count": 0,
+        "log_no": "224238880595",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224238880595",
+        "published_at": "2026-04-03T00:03:03+09:00",
+        "text_length": 0,
+        "title": "올해도 늘어나는 첨단학과…“서울 주요 대학 ‘AI·반도체 인재’ 선발 늘린다”"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
@@ -2399,5 +2438,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-02T23:39:46.197011+09:00"
+  "updated_at": "2026-04-03T00:37:25.843023+09:00"
 }
