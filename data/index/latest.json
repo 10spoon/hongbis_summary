@@ -1,6 +1,58 @@
 {
-  "post_count": 163,
+  "post_count": 167,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237929524",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237929524",
+      "published_at": "2026-04-02T09:44:04+09:00",
+      "text_length": 0,
+      "title": "뉴스읽기 뉴스일기 대회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237921872",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237921872",
+      "published_at": "2026-04-02T09:36:43+09:00",
+      "text_length": 0,
+      "title": "서울역사박물관 고등학생인턴제"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237916201",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237916201",
+      "published_at": "2026-04-02T09:31:07+09:00",
+      "text_length": 0,
+      "title": "깜빡이고 ‘음~’ 소리 반복하는 아이, 혼내지 마세요"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237912205",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237912205",
+      "published_at": "2026-04-02T09:27:10+09:00",
+      "text_length": 0,
+      "title": "수능 성적 오른 재수생 이럴수가…미·적분, 과탐 버리고 사탐, 확률 택했다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-03-27T17:45:00+09:00",
       "text_length": 0,
       "title": "한양대학교 2027 홍보일정"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T17:32:01.949562+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T17:32:01.949562+09:00",
-      "link_count": 2,
-      "log_no": "224231611994",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231611994",
-      "published_at": "2026-03-27T16:42:24+09:00",
-      "text_length": 444,
-      "title": "강남영재사관학원 중3 자사고 특목고 입시전략 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T16:40:50.504448+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T16:40:50.504448+09:00",
-      "link_count": 0,
-      "log_no": "224231581757",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231581757",
-      "published_at": "2026-03-27T16:17:06+09:00",
-      "text_length": 474,
-      "title": "예섬학원 <최상위권으로 가는 ‘공부 근육’ 키우기> 실전편 - 수학 선행 제대로 하는 법 (중간고사 대비)"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231391800",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231391800",
-      "published_at": "2026-03-27T13:41:26+09:00",
-      "text_length": 0,
-      "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231389706",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231389706",
-      "published_at": "2026-03-27T13:39:47+09:00",
-      "text_length": 0,
-      "title": "로고스논술학원 논술설명회"
     }
   ],
-  "updated_at": "2026-04-02T00:45:59.401687+09:00"
+  "updated_at": "2026-04-02T09:54:54.831237+09:00"
 }

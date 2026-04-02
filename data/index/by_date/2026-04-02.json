@@ -1,7 +1,59 @@
 {
   "key": "2026-04-02",
-  "post_count": 2,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237929524",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237929524",
+      "published_at": "2026-04-02T09:44:04+09:00",
+      "text_length": 0,
+      "title": "뉴스읽기 뉴스일기 대회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237921872",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237921872",
+      "published_at": "2026-04-02T09:36:43+09:00",
+      "text_length": 0,
+      "title": "서울역사박물관 고등학생인턴제"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237916201",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237916201",
+      "published_at": "2026-04-02T09:31:07+09:00",
+      "text_length": 0,
+      "title": "깜빡이고 ‘음~’ 소리 반복하는 아이, 혼내지 마세요"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T09:54:54.831237+09:00",
+      "link_count": 0,
+      "log_no": "224237912205",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237912205",
+      "published_at": "2026-04-02T09:27:10+09:00",
+      "text_length": 0,
+      "title": "수능 성적 오른 재수생 이럴수가…미·적분, 과탐 버리고 사탐, 확률 택했다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
@@ -29,5 +81,5 @@
       "title": "아이에게 미안할 때 무너지는 엄마들"
     }
   ],
-  "updated_at": "2026-04-02T00:45:59.401687+09:00"
+  "updated_at": "2026-04-02T09:54:54.831237+09:00"
 }
