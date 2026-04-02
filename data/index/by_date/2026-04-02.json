@@ -1,7 +1,20 @@
 {
   "key": "2026-04-02",
-  "post_count": 15,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T20:32:49.344816+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T20:32:49.344816+09:00",
+      "link_count": 0,
+      "log_no": "224238653085",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238653085",
+      "published_at": "2026-04-02T19:52:57+09:00",
+      "text_length": 0,
+      "title": "서울대-사시 최연소-김앤장 8년'…92년생 워킹맘의 파격 변신"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
@@ -198,5 +211,5 @@
       "title": "아이에게 미안할 때 무너지는 엄마들"
     }
   ],
-  "updated_at": "2026-04-02T17:36:16.475697+09:00"
+  "updated_at": "2026-04-02T20:32:49.344816+09:00"
 }

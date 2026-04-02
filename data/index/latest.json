@@ -1,6 +1,19 @@
 {
-  "post_count": 176,
+  "post_count": 177,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T20:32:49.344816+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T20:32:49.344816+09:00",
+      "link_count": 0,
+      "log_no": "224238653085",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238653085",
+      "published_at": "2026-04-02T19:52:57+09:00",
+      "text_length": 0,
+      "title": "서울대-사시 최연소-김앤장 8년'…92년생 워킹맘의 파격 변신"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-28T08:47:36+09:00",
       "text_length": 594,
       "title": "온라인강좌 하정문 박사님의 새소리 강의_4월"
-    },
-    {
-      "category": "mom's diary",
-      "first_seen_at": "2026-03-28T02:34:10.770320+09:00",
-      "image_count": 20,
-      "last_changed_at": "2026-03-28T02:34:10.770320+09:00",
-      "link_count": 0,
-      "log_no": "224232043256",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232043256",
-      "published_at": "2026-03-28T01:46:42+09:00",
-      "text_length": 1639,
-      "title": "부석사무량수전 당일치기 다녀오기"
     }
   ],
-  "updated_at": "2026-04-02T17:36:16.475697+09:00"
+  "updated_at": "2026-04-02T20:32:49.344816+09:00"
 }
