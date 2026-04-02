@@ -1,7 +1,59 @@
 {
   "key": "2026-04-02",
-  "post_count": 8,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
+      "link_count": 0,
+      "log_no": "224238159677",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238159677",
+      "published_at": "2026-04-02T12:58:14+09:00",
+      "text_length": 0,
+      "title": "경희대 의약학계열입학설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
+      "link_count": 0,
+      "log_no": "224238156309",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238156309",
+      "published_at": "2026-04-02T12:54:59+09:00",
+      "text_length": 109,
+      "title": "공감학원 화학1 김희진t"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
+      "link_count": 0,
+      "log_no": "224238141336",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238141336",
+      "published_at": "2026-04-02T12:41:07+09:00",
+      "text_length": 0,
+      "title": "한성과학고등학교 발명교육센터"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
+      "link_count": 0,
+      "log_no": "224238138034",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238138034",
+      "published_at": "2026-04-02T12:37:55+09:00",
+      "text_length": 0,
+      "title": "인류, 달 향해 다시 날아오르다... 美 유인 우주선 발사 성공"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-02T10:56:22.099524+09:00",
@@ -107,5 +159,5 @@
       "title": "아이에게 미안할 때 무너지는 엄마들"
     }
   ],
-  "updated_at": "2026-04-02T10:56:22.099524+09:00"
+  "updated_at": "2026-04-02T13:57:09.957170+09:00"
 }
