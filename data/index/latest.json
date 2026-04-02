@@ -1,6 +1,45 @@
 {
-  "post_count": 173,
+  "post_count": 176,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 2,
+      "log_no": "224238497147",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238497147",
+      "published_at": "2026-04-02T17:20:51+09:00",
+      "text_length": 2054,
+      "title": "2026학년도 2차 서울대학교 공과대학 멘토링 프로그램 『공대 톡톡(Talk Talk)』 개최"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 1,
+      "log_no": "224238474314",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238474314",
+      "published_at": "2026-04-02T17:03:13+09:00",
+      "text_length": 785,
+      "title": "씨앤씨 영재입시센터 과고대비반설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 2,
+      "log_no": "224238460825",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238460825",
+      "published_at": "2026-04-02T16:52:42+09:00",
+      "text_length": 763,
+      "title": "반포 시대인재 2027 고3 이과 입시전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-03-28T01:46:42+09:00",
       "text_length": 1639,
       "title": "부석사무량수전 당일치기 다녀오기"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-27T23:37:56.230770+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T23:37:56.230770+09:00",
-      "link_count": 0,
-      "log_no": "224231946106",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231946106",
-      "published_at": "2026-03-27T23:11:29+09:00",
-      "text_length": 0,
-      "title": "\"다 너 잘되라고 하는 소리야\"… 중년의 말투가 관계를 망치는 3가지 착각"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-27T23:37:56.230770+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-03-27T23:37:56.230770+09:00",
-      "link_count": 0,
-      "log_no": "224231940956",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231940956",
-      "published_at": "2026-03-27T23:04:29+09:00",
-      "text_length": 0,
-      "title": "목동소마 4월 입학테스트"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-27T23:37:56.230770+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T23:37:56.230770+09:00",
-      "link_count": 0,
-      "log_no": "224231939368",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231939368",
-      "published_at": "2026-03-27T23:02:18+09:00",
-      "text_length": 0,
-      "title": "수람 국어 초등 5,6학년 대상 온라인(줌 수업) 수람 국어 10주 완성 비문학. 문학 집중반"
     }
   ],
-  "updated_at": "2026-04-02T13:57:09.957170+09:00"
+  "updated_at": "2026-04-02T17:36:16.475697+09:00"
 }

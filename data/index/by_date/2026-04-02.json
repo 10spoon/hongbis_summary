@@ -1,7 +1,46 @@
 {
   "key": "2026-04-02",
-  "post_count": 12,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 2,
+      "log_no": "224238497147",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238497147",
+      "published_at": "2026-04-02T17:20:51+09:00",
+      "text_length": 2054,
+      "title": "2026학년도 2차 서울대학교 공과대학 멘토링 프로그램 『공대 톡톡(Talk Talk)』 개최"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 1,
+      "log_no": "224238474314",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238474314",
+      "published_at": "2026-04-02T17:03:13+09:00",
+      "text_length": 785,
+      "title": "씨앤씨 영재입시센터 과고대비반설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
+      "link_count": 2,
+      "log_no": "224238460825",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224238460825",
+      "published_at": "2026-04-02T16:52:42+09:00",
+      "text_length": 763,
+      "title": "반포 시대인재 2027 고3 이과 입시전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
@@ -159,5 +198,5 @@
       "title": "아이에게 미안할 때 무너지는 엄마들"
     }
   ],
-  "updated_at": "2026-04-02T13:57:09.957170+09:00"
+  "updated_at": "2026-04-02T17:36:16.475697+09:00"
 }
