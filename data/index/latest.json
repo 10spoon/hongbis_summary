@@ -1,6 +1,32 @@
 {
-  "post_count": 167,
+  "post_count": 169,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T10:56:22.099524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T10:56:22.099524+09:00",
+      "link_count": 0,
+      "log_no": "224237944615",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237944615",
+      "published_at": "2026-04-02T09:58:23+09:00",
+      "text_length": 0,
+      "title": "하희라, 50대 나이에도 매일 '이 운동'… 단순하지만 효과 좋아"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T10:56:22.099524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T10:56:22.099524+09:00",
+      "link_count": 0,
+      "log_no": "224237942803",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237942803",
+      "published_at": "2026-04-02T09:56:44+09:00",
+      "text_length": 0,
+      "title": "52kg 한가인 “걷는 건 운동 안돼”…대신 ‘이 운동’으로 관리, 뭘까?"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-27T19:30:21+09:00",
       "text_length": 0,
       "title": "2026 양천구 청소년참여위원회 제6기 위원 모집"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-27T19:32:40.602488+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T19:32:40.602488+09:00",
-      "link_count": 0,
-      "log_no": "224231751314",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231751314",
-      "published_at": "2026-03-27T18:55:06+09:00",
-      "text_length": 0,
-      "title": "이든수학 6월 공통수학1 기본반 개강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T18:18:09.247351+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T18:18:09.247351+09:00",
-      "link_count": 0,
-      "log_no": "224231685033",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231685033",
-      "published_at": "2026-03-27T17:45:00+09:00",
-      "text_length": 0,
-      "title": "한양대학교 2027 홍보일정"
     }
   ],
-  "updated_at": "2026-04-02T09:54:54.831237+09:00"
+  "updated_at": "2026-04-02T10:56:22.099524+09:00"
 }

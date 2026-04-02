@@ -1,7 +1,33 @@
 {
   "key": "2026-04-02",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T10:56:22.099524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T10:56:22.099524+09:00",
+      "link_count": 0,
+      "log_no": "224237944615",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237944615",
+      "published_at": "2026-04-02T09:58:23+09:00",
+      "text_length": 0,
+      "title": "하희라, 50대 나이에도 매일 '이 운동'… 단순하지만 효과 좋아"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-02T10:56:22.099524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-02T10:56:22.099524+09:00",
+      "link_count": 0,
+      "log_no": "224237942803",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224237942803",
+      "published_at": "2026-04-02T09:56:44+09:00",
+      "text_length": 0,
+      "title": "52kg 한가인 “걷는 건 운동 안돼”…대신 ‘이 운동’으로 관리, 뭘까?"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-02T09:54:54.831237+09:00",
@@ -81,5 +107,5 @@
       "title": "아이에게 미안할 때 무너지는 엄마들"
     }
   ],
-  "updated_at": "2026-04-02T09:54:54.831237+09:00"
+  "updated_at": "2026-04-02T10:56:22.099524+09:00"
 }
