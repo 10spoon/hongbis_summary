@@ -1640,6 +1640,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-03T09:57:28.407421+09:00",
+        "link_count": 0,
+        "log_no": "224239147357",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239147357",
+        "published_at": "2026-04-03T09:07:14+09:00",
+        "text_length": 0,
+        "title": "공부 안 하던 아이를 움직인 뜻밖의 방법"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-02T23:39:46.197011+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-02T23:39:46.197011+09:00",
@@ -2438,5 +2451,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-03T00:37:25.843023+09:00"
+  "updated_at": "2026-04-03T09:57:28.407421+09:00"
 }

@@ -1,6 +1,19 @@
 {
-  "post_count": 186,
+  "post_count": 187,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-03T09:57:28.407421+09:00",
+      "link_count": 0,
+      "log_no": "224239147357",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239147357",
+      "published_at": "2026-04-03T09:07:14+09:00",
+      "text_length": 0,
+      "title": "공부 안 하던 아이를 움직인 뜻밖의 방법"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-28T19:12:27+09:00",
       "text_length": 0,
       "title": "창문이 모은 햇빛의 양 계산될까? 서울대 공대생 '실패할 연구' 도전"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-28T19:26:25.101335+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-28T19:26:25.101335+09:00",
-      "link_count": 0,
-      "log_no": "224232615594",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232615594",
-      "published_at": "2026-03-28T19:09:23+09:00",
-      "text_length": 0,
-      "title": "가수이소라에게 칭찬만하는 친구,내 마음을 흔들어놨다."
     }
   ],
-  "updated_at": "2026-04-03T00:37:25.843023+09:00"
+  "updated_at": "2026-04-03T09:57:28.407421+09:00"
 }
