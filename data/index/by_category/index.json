@@ -425,6 +425,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-03T15:42:14.053159+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T15:42:14.053159+09:00",
+        "link_count": 2,
+        "log_no": "224239579447",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239579447",
+        "published_at": "2026-04-03T15:14:31+09:00",
+        "text_length": 752,
+        "title": "시대인재 2027 고3 문과 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
@@ -2477,5 +2490,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-03T13:57:48.967947+09:00"
+  "updated_at": "2026-04-03T15:42:14.053159+09:00"
 }

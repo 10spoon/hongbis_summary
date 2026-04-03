@@ -1,6 +1,19 @@
 {
-  "post_count": 189,
+  "post_count": 190,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-03T15:42:14.053159+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T15:42:14.053159+09:00",
+      "link_count": 2,
+      "log_no": "224239579447",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239579447",
+      "published_at": "2026-04-03T15:14:31+09:00",
+      "text_length": 752,
+      "title": "시대인재 2027 고3 문과 입시전략 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-28T21:43:25+09:00",
       "text_length": 0,
       "title": "꽃은 곤충 맞춰 피고 향기 내는 ‘생체시계’있다"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-28T21:27:33.416002+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-28T21:27:33.416002+09:00",
-      "link_count": 0,
-      "log_no": "224232692915",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232692915",
-      "published_at": "2026-03-28T21:03:19+09:00",
-      "text_length": 0,
-      "title": "시리우스 5-6월 개강 설명회"
     }
   ],
-  "updated_at": "2026-04-03T13:57:48.967947+09:00"
+  "updated_at": "2026-04-03T15:42:14.053159+09:00"
 }
