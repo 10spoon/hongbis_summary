@@ -18,6 +18,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
+        "link_count": 0,
+        "log_no": "224239909380",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239909380",
+        "published_at": "2026-04-03T20:10:20+09:00",
+        "text_length": 0,
+        "title": "제7회. 전국문해력대상"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
@@ -1090,6 +1103,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
+        "link_count": 0,
+        "log_no": "224239913002",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239913002",
+        "published_at": "2026-04-03T20:14:46+09:00",
+        "text_length": 0,
+        "title": "대치와이즈만 과학의달 주말특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
@@ -2568,5 +2594,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-03T19:29:53.223830+09:00"
+  "updated_at": "2026-04-03T20:28:02.377975+09:00"
 }

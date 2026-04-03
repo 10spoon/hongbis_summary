@@ -1,6 +1,32 @@
 {
-  "post_count": 196,
+  "post_count": 198,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
+      "link_count": 0,
+      "log_no": "224239913002",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239913002",
+      "published_at": "2026-04-03T20:14:46+09:00",
+      "text_length": 0,
+      "title": "대치와이즈만 과학의달 주말특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
+      "link_count": 0,
+      "log_no": "224239909380",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239909380",
+      "published_at": "2026-04-03T20:10:20+09:00",
+      "text_length": 0,
+      "title": "제7회. 전국문해력대상"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-29T13:41:35+09:00",
       "text_length": 322,
       "title": "두각학원 전용준 소장 고교학점제 2022교육과정 & 2028대학별 전형방식분석"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
-      "link_count": 0,
-      "log_no": "224233235992",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233235992",
-      "published_at": "2026-03-29T13:39:42+09:00",
-      "text_length": 0,
-      "title": "노량진메가스터디 2027 N수 맞춤 3WAY 학습전략 컨설팅"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
-      "link_count": 0,
-      "log_no": "224233234339",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233234339",
-      "published_at": "2026-03-29T13:37:21+09:00",
-      "text_length": 0,
-      "title": "정영어학원 정규 주1회 토요반"
     }
   ],
-  "updated_at": "2026-04-03T19:29:53.223830+09:00"
+  "updated_at": "2026-04-03T20:28:02.377975+09:00"
 }
