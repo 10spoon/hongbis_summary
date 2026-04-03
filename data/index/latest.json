@@ -1,6 +1,45 @@
 {
-  "post_count": 193,
+  "post_count": 196,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239861348",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239861348",
+      "published_at": "2026-04-03T19:12:57+09:00",
+      "text_length": 0,
+      "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239839050",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239839050",
+      "published_at": "2026-04-03T18:48:09+09:00",
+      "text_length": 0,
+      "title": "이대로는 못 버텨\" 남고·여고가 사라진다…무슨 일이"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239829926",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239829926",
+      "published_at": "2026-04-03T18:38:09+09:00",
+      "text_length": 0,
+      "title": "내신 1등급 학생의 비결…“학원보다 자습 우선, 오답 분석 철저히"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-03-29T13:37:21+09:00",
       "text_length": 0,
       "title": "정영어학원 정규 주1회 토요반"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
-      "link_count": 0,
-      "log_no": "224233226693",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233226693",
-      "published_at": "2026-03-29T13:26:14+09:00",
-      "text_length": 0,
-      "title": "교사계의 호날두\" 학생들이 '신'이라 부르는 고3 전문 담임선생님 만나봄"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
-      "link_count": 0,
-      "log_no": "224233194757",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233194757",
-      "published_at": "2026-03-29T12:41:36+09:00",
-      "text_length": 0,
-      "title": "미사여구뒤의 우열반 고교학점제"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-29T12:24:03.897855+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-29T12:24:03.897855+09:00",
-      "link_count": 0,
-      "log_no": "224233153968",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233153968",
-      "published_at": "2026-03-29T11:46:02+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] 대치동 삽니다' [어쩌다 워킹맘]"
     }
   ],
-  "updated_at": "2026-04-03T16:41:41.645972+09:00"
+  "updated_at": "2026-04-03T19:29:53.223830+09:00"
 }

@@ -1,7 +1,46 @@
 {
   "key": "2026-04-03",
-  "post_count": 10,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239861348",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239861348",
+      "published_at": "2026-04-03T19:12:57+09:00",
+      "text_length": 0,
+      "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239839050",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239839050",
+      "published_at": "2026-04-03T18:48:09+09:00",
+      "text_length": 0,
+      "title": "이대로는 못 버텨\" 남고·여고가 사라진다…무슨 일이"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
+      "link_count": 0,
+      "log_no": "224239829926",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239829926",
+      "published_at": "2026-04-03T18:38:09+09:00",
+      "text_length": 0,
+      "title": "내신 1등급 학생의 비결…“학원보다 자습 우선, 오답 분석 철저히"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
@@ -133,5 +172,5 @@
       "title": "대치명인 학부모 입시 전문가 과정"
     }
   ],
-  "updated_at": "2026-04-03T16:41:41.645972+09:00"
+  "updated_at": "2026-04-03T19:29:53.223830+09:00"
 }
