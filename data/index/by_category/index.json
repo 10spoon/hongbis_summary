@@ -18,6 +18,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-03T23:30:59.234351+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T23:30:59.234351+09:00",
+        "link_count": 0,
+        "log_no": "224240037854",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224240037854",
+        "published_at": "2026-04-03T22:44:43+09:00",
+        "text_length": 8,
+        "title": "서울대안양수목원 방문예약"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
@@ -2659,5 +2672,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-03T22:41:39.013555+09:00"
+  "updated_at": "2026-04-03T23:30:59.234351+09:00"
 }
