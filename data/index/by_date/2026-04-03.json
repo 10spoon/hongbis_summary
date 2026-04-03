@@ -1,7 +1,20 @@
 {
   "key": "2026-04-03",
-  "post_count": 21,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-04-04T00:29:57.945680+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-04T00:29:57.945680+09:00",
+      "link_count": 0,
+      "log_no": "224240084305",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224240084305",
+      "published_at": "2026-04-03T23:40:03+09:00",
+      "text_length": 0,
+      "title": "수능 연계 체감 높이는 3단계 공부법과 고득점 전략은"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-03T23:30:59.234351+09:00",
@@ -276,5 +289,5 @@
       "title": "대치명인 학부모 입시 전문가 과정"
     }
   ],
-  "updated_at": "2026-04-03T23:30:59.234351+09:00"
+  "updated_at": "2026-04-04T00:29:57.945680+09:00"
 }
