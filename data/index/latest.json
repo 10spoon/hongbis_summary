@@ -1,6 +1,32 @@
 {
-  "post_count": 198,
+  "post_count": 200,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
+      "link_count": 0,
+      "log_no": "224239964687",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239964687",
+      "published_at": "2026-04-03T21:18:53+09:00",
+      "text_length": 407,
+      "title": "한양대학교와 함께하는 2026 전국 청소년 SW·AI 경진대회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
+      "link_count": 0,
+      "log_no": "224239953951",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239953951",
+      "published_at": "2026-04-03T21:05:42+09:00",
+      "text_length": 0,
+      "title": "공부만 잘하는 아이”의 시대는 끝났다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-29T15:46:01+09:00",
       "text_length": 0,
       "title": "운 안 풀리면 연주대 간다”…2030 몰린 관악산, 그 기운의 실체"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-29T14:49:55.300775+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-29T14:49:55.300775+09:00",
-      "link_count": 1,
-      "log_no": "224233281579",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233281579",
-      "published_at": "2026-03-29T14:43:55+09:00",
-      "text_length": 842,
-      "title": "픽스아카데미 【2033 대입 개편안】과 【픽스 사고력 교과 수학 노잉】 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-29T14:02:07.808196+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T14:02:07.808196+09:00",
-      "link_count": 0,
-      "log_no": "224233237214",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233237214",
-      "published_at": "2026-03-29T13:41:35+09:00",
-      "text_length": 322,
-      "title": "두각학원 전용준 소장 고교학점제 2022교육과정 & 2028대학별 전형방식분석"
     }
   ],
-  "updated_at": "2026-04-03T20:28:02.377975+09:00"
+  "updated_at": "2026-04-03T21:30:21.319123+09:00"
 }

@@ -18,6 +18,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
+        "link_count": 0,
+        "log_no": "224239964687",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239964687",
+        "published_at": "2026-04-03T21:18:53+09:00",
+        "text_length": 407,
+        "title": "한양대학교와 함께하는 2026 전국 청소년 SW·AI 경진대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
@@ -1770,6 +1783,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
+        "link_count": 0,
+        "log_no": "224239953951",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224239953951",
+        "published_at": "2026-04-03T21:05:42+09:00",
+        "text_length": 0,
+        "title": "공부만 잘하는 아이”의 시대는 끝났다"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
         "image_count": 4,
         "last_changed_at": "2026-04-03T09:57:28.407421+09:00",
@@ -2594,5 +2620,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-03T20:28:02.377975+09:00"
+  "updated_at": "2026-04-03T21:30:21.319123+09:00"
 }
