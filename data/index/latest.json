@@ -1,6 +1,45 @@
 {
-  "post_count": 190,
+  "post_count": 193,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
+      "link_count": 0,
+      "log_no": "224239684540",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239684540",
+      "published_at": "2026-04-03T16:33:08+09:00",
+      "text_length": 0,
+      "title": "두각학원 대학에서 Pick 하는 생기부 만들기"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
+      "link_count": 6,
+      "log_no": "224239654936",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239654936",
+      "published_at": "2026-04-03T16:09:56+09:00",
+      "text_length": 1231,
+      "title": "유웨이 대치센터 4월 합격하는 생기부 설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
+      "link_count": 0,
+      "log_no": "224239634996",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239634996",
+      "published_at": "2026-04-03T15:55:37+09:00",
+      "text_length": 0,
+      "title": "대한민국학생창의력챔피언대회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-03T15:42:14.053159+09:00",
@@ -18,7 +57,7 @@
       "category": "시간표",
       "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
       "image_count": 2,
-      "last_changed_at": "2026-04-03T13:57:48.967947+09:00",
+      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
       "link_count": 2,
       "log_no": "224239462200",
       "place_count": 0,
@@ -1261,46 +1300,7 @@
       "published_at": "2026-03-29T11:46:02+09:00",
       "text_length": 0,
       "title": "[1년 전 오늘] 대치동 삽니다' [어쩌다 워킹맘]"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-29T10:56:24.945045+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-29T10:56:24.945045+09:00",
-      "link_count": 0,
-      "log_no": "224233102323",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233102323",
-      "published_at": "2026-03-29T10:37:06+09:00",
-      "text_length": 0,
-      "title": "“DM으로 부탁드려요” 이제부터 16금?…SNS 금지법 전세계 확산"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-29T10:56:24.945045+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T10:56:24.945045+09:00",
-      "link_count": 0,
-      "log_no": "224233098179",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233098179",
-      "published_at": "2026-03-29T10:31:26+09:00",
-      "text_length": 0,
-      "title": "같은 고2 전혀 다른 선택지… 선택과목 서울 큰학교 31개 vs 강원도 작은학교 12개"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-03-28T22:35:48.348755+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-28T22:35:48.348755+09:00",
-      "link_count": 0,
-      "log_no": "224232722824",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232722824",
-      "published_at": "2026-03-28T21:43:25+09:00",
-      "text_length": 0,
-      "title": "꽃은 곤충 맞춰 피고 향기 내는 ‘생체시계’있다"
     }
   ],
-  "updated_at": "2026-04-03T15:42:14.053159+09:00"
+  "updated_at": "2026-04-03T16:41:41.645972+09:00"
 }
