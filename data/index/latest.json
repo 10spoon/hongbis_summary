@@ -1,6 +1,32 @@
 {
-  "post_count": 187,
+  "post_count": 189,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-03T13:57:48.967947+09:00",
+      "link_count": 2,
+      "log_no": "224239462200",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239462200",
+      "published_at": "2026-04-03T13:40:13+09:00",
+      "text_length": 939,
+      "title": "대치독수리의대관 26 언어와매체 만점배출 류성훈T 언어와매체 5회특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T13:57:48.967947+09:00",
+      "link_count": 0,
+      "log_no": "224239419261",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239419261",
+      "published_at": "2026-04-03T13:03:17+09:00",
+      "text_length": 0,
+      "title": "송암스페이스센터 영어우주과학캠프"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-28T21:03:19+09:00",
       "text_length": 0,
       "title": "시리우스 5-6월 개강 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-28T21:27:33.416002+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-28T21:27:33.416002+09:00",
-      "link_count": 0,
-      "log_no": "224232691696",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232691696",
-      "published_at": "2026-03-28T21:01:36+09:00",
-      "text_length": 0,
-      "title": "시리우스 2026년 5월~6월 개강 올림물리,올림물리 문제풀이, 일반물리 문제풀이, 올림화학, STEP화학 Genius 프로그램"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-03-28T19:26:25.101335+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-28T19:26:25.101335+09:00",
-      "link_count": 0,
-      "log_no": "224232617728",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232617728",
-      "published_at": "2026-03-28T19:12:27+09:00",
-      "text_length": 0,
-      "title": "창문이 모은 햇빛의 양 계산될까? 서울대 공대생 '실패할 연구' 도전"
     }
   ],
-  "updated_at": "2026-04-03T09:57:28.407421+09:00"
+  "updated_at": "2026-04-03T13:57:48.967947+09:00"
 }
