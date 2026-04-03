@@ -1,6 +1,45 @@
 {
-  "post_count": 200,
+  "post_count": 203,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224240032919",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224240032919",
+      "published_at": "2026-04-03T22:38:53+09:00",
+      "text_length": 0,
+      "title": "이든수학 초등관 7월이후 정규반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224239981950",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239981950",
+      "published_at": "2026-04-03T21:39:52+09:00",
+      "text_length": 0,
+      "title": "콴다일로 중등수학내신프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224239977661",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239977661",
+      "published_at": "2026-04-03T21:34:43+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 정이규 고3 이과 입시설명회 2부【영상-현장참석】"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-03-29T21:50:05+09:00",
       "text_length": 1160,
       "title": "미강학원 물리역학 과 에너지 내신반"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-29T18:12:01.915320+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-29T18:12:01.915320+09:00",
-      "link_count": 0,
-      "log_no": "224233432866",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233432866",
-      "published_at": "2026-03-29T18:01:39+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] 학총 갈때 ‘전재산 룩’은 피해주세요… 초1 병아리 엄마 주의사항"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-29T18:12:01.915320+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-29T18:12:01.915320+09:00",
-      "link_count": 0,
-      "log_no": "224233432099",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233432099",
-      "published_at": "2026-03-29T18:00:32+09:00",
-      "text_length": 0,
-      "title": "서울과학고 입학설명회"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-29T16:36:08.957079+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-29T16:36:08.957079+09:00",
-      "link_count": 0,
-      "log_no": "224233328017",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233328017",
-      "published_at": "2026-03-29T15:46:01+09:00",
-      "text_length": 0,
-      "title": "운 안 풀리면 연주대 간다”…2030 몰린 관악산, 그 기운의 실체"
     }
   ],
-  "updated_at": "2026-04-03T21:30:21.319123+09:00"
+  "updated_at": "2026-04-03T22:41:39.013555+09:00"
 }

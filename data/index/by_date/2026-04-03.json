@@ -1,7 +1,46 @@
 {
   "key": "2026-04-03",
-  "post_count": 17,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224240032919",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224240032919",
+      "published_at": "2026-04-03T22:38:53+09:00",
+      "text_length": 0,
+      "title": "이든수학 초등관 7월이후 정규반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224239981950",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239981950",
+      "published_at": "2026-04-03T21:39:52+09:00",
+      "text_length": 0,
+      "title": "콴다일로 중등수학내신프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
+      "link_count": 0,
+      "log_no": "224239977661",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224239977661",
+      "published_at": "2026-04-03T21:34:43+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 정이규 고3 이과 입시설명회 2부【영상-현장참석】"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
@@ -224,5 +263,5 @@
       "title": "대치명인 학부모 입시 전문가 과정"
     }
   ],
-  "updated_at": "2026-04-03T21:30:21.319123+09:00"
+  "updated_at": "2026-04-03T22:41:39.013555+09:00"
 }
