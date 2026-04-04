@@ -1157,6 +1157,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-04T13:54:26.005896+09:00",
+        "link_count": 0,
+        "log_no": "224240542425",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224240542425",
+        "published_at": "2026-04-04T13:04:18+09:00",
+        "text_length": 0,
+        "title": "제이프렙어학원 4월 입학시험"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-04T12:16:58.719874+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-04T12:16:58.719874+09:00",
@@ -1859,6 +1872,19 @@
       }
     ],
     "엄마공부": [
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-04T13:54:26.005896+09:00",
+        "link_count": 0,
+        "log_no": "224240535244",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224240535244",
+        "published_at": "2026-04-04T12:54:28+09:00",
+        "text_length": 0,
+        "title": "가장 친절하게 대해야 할 사람은 가족” 장항준&김은희 부부"
+      },
       {
         "category": "엄마공부",
         "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
@@ -2698,5 +2724,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-04T12:16:58.719874+09:00"
+  "updated_at": "2026-04-04T13:54:26.005896+09:00"
 }
