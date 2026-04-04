@@ -1196,6 +1196,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-05T00:26:23.337354+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-05T00:26:23.337354+09:00",
+        "link_count": 0,
+        "log_no": "224241032612",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241032612",
+        "published_at": "2026-04-04T23:39:53+09:00",
+        "text_length": 0,
+        "title": "정도수학 초등부시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-04T20:25:58.269256+09:00",
         "image_count": 4,
         "last_changed_at": "2026-04-04T20:25:58.269256+09:00",
@@ -2841,5 +2854,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-04T21:27:34.138399+09:00"
+  "updated_at": "2026-04-05T00:26:23.337354+09:00"
 }
