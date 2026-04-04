@@ -1157,6 +1157,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-04T12:16:58.719874+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-04T12:16:58.719874+09:00",
+        "link_count": 0,
+        "log_no": "224240451765",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224240451765",
+        "published_at": "2026-04-04T11:16:57+09:00",
+        "text_length": 0,
+        "title": "대치동초월수학 내신대비반개강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
@@ -2685,5 +2698,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-04T00:29:57.945680+09:00"
+  "updated_at": "2026-04-04T12:16:58.719874+09:00"
 }
