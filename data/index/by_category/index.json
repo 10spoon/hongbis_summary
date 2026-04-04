@@ -18,6 +18,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-04T21:27:34.138399+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-04T21:27:34.138399+09:00",
+        "link_count": 0,
+        "log_no": "224240891787",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224240891787",
+        "published_at": "2026-04-04T20:39:09+09:00",
+        "text_length": 237,
+        "title": "서을시립과학관 4월 북토크: 야구x수학"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-03T23:30:59.234351+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-03T23:30:59.234351+09:00",
@@ -2828,5 +2841,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-04T20:25:58.269256+09:00"
+  "updated_at": "2026-04-04T21:27:34.138399+09:00"
 }
