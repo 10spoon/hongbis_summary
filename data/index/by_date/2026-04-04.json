@@ -1,7 +1,20 @@
 {
   "key": "2026-04-04",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-04T16:35:22.666488+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-04T16:35:22.666488+09:00",
+      "link_count": 0,
+      "log_no": "224240668525",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224240668525",
+      "published_at": "2026-04-04T15:47:41+09:00",
+      "text_length": 0,
+      "title": "선행 못한 초6, 중학교 가기가 두렵다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-04T14:40:03.477097+09:00",
@@ -55,5 +68,5 @@
       "title": "대치동초월수학 내신대비반개강"
     }
   ],
-  "updated_at": "2026-04-04T14:40:03.477097+09:00"
+  "updated_at": "2026-04-04T16:35:22.666488+09:00"
 }
