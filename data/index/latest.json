@@ -1,6 +1,19 @@
 {
-  "post_count": 208,
+  "post_count": 209,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-04T14:40:03.477097+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-04T14:40:03.477097+09:00",
+      "link_count": 1,
+      "log_no": "224240598755",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224240598755",
+      "published_at": "2026-04-04T14:17:46+09:00",
+      "text_length": 94,
+      "title": "대치동 유일수학 강민진T 중등 개별 맞춤 수업"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-30T10:28:02+09:00",
       "text_length": 4,
       "title": "절대 단톡방 들어가지 마라\"…학폭으로 대입 불합격도"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-30T09:59:58.356292+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T09:59:58.356292+09:00",
-      "link_count": 0,
-      "log_no": "224233971772",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233971772",
-      "published_at": "2026-03-30T09:04:27+09:00",
-      "text_length": 0,
-      "title": "\"찍고 자는 애들이 내 등급 받쳐줘요\"... 인문계고 교실의 민낯"
     }
   ],
-  "updated_at": "2026-04-04T13:54:26.005896+09:00"
+  "updated_at": "2026-04-04T14:40:03.477097+09:00"
 }

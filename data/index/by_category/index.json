@@ -1157,6 +1157,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-04T14:40:03.477097+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-04T14:40:03.477097+09:00",
+        "link_count": 1,
+        "log_no": "224240598755",
+        "place_count": 1,
+        "post_url": "https://blog.naver.com/hongbis/224240598755",
+        "published_at": "2026-04-04T14:17:46+09:00",
+        "text_length": 94,
+        "title": "대치동 유일수학 강민진T 중등 개별 맞춤 수업"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-04T13:54:26.005896+09:00",
@@ -2724,5 +2737,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-04T13:54:26.005896+09:00"
+  "updated_at": "2026-04-04T14:40:03.477097+09:00"
 }
