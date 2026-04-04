@@ -1,7 +1,20 @@
 {
   "key": "2026-04-04",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-04T20:25:58.269256+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-04T20:25:58.269256+09:00",
+      "link_count": 0,
+      "log_no": "224240842111",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224240842111",
+      "published_at": "2026-04-04T19:30:57+09:00",
+      "text_length": 0,
+      "title": "서율학원 6월모평대비 3대킬러압축특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-04T19:26:49.162261+09:00",
@@ -133,5 +146,5 @@
       "title": "대치동초월수학 내신대비반개강"
     }
   ],
-  "updated_at": "2026-04-04T19:26:49.162261+09:00"
+  "updated_at": "2026-04-04T20:25:58.269256+09:00"
 }
