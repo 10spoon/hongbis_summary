@@ -516,6 +516,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
+        "link_count": 2,
+        "log_no": "224241878762",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241878762",
+        "published_at": "2026-04-05T22:41:48+09:00",
+        "text_length": 546,
+        "title": "목동cms 2028학년도 영재학교 입시대비 전략설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
@@ -1220,6 +1233,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
+        "link_count": 0,
+        "log_no": "224241912004",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241912004",
+        "published_at": "2026-04-05T23:16:54+09:00",
+        "text_length": 0,
+        "title": "대치예감학원 PT수업"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-05T15:41:11.317577+09:00",
@@ -2030,6 +2056,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
+        "link_count": 0,
+        "log_no": "224241921278",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241921278",
+        "published_at": "2026-04-05T23:27:07+09:00",
+        "text_length": 0,
+        "title": "[3년 전 오늘] 우리엄마는 말이 통해"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-05T22:38:01.577093+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-05T22:38:01.577093+09:00",
@@ -2472,6 +2511,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
+        "link_count": 0,
+        "log_no": "224241887177",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241887177",
+        "published_at": "2026-04-05T22:50:35+09:00",
+        "text_length": 0,
+        "title": "수능 만점자 4명이 제자…‘만점 택시’ 기사님의 깜짝 정체"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-04-05T21:28:12.909376+09:00",
@@ -2997,5 +3049,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-05T22:38:01.577093+09:00"
+  "updated_at": "2026-04-05T23:27:18.566890+09:00"
 }
