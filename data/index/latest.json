@@ -1,6 +1,19 @@
 {
-  "post_count": 228,
+  "post_count": 229,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-05T22:38:01.577093+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-05T22:38:01.577093+09:00",
+      "link_count": 0,
+      "log_no": "224241871133",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241871133",
+      "published_at": "2026-04-05T22:33:50+09:00",
+      "text_length": 0,
+      "title": "우리 애가 얌전하긴 한데, 자주 멍때리고 깜빡…뇌가 보내는 SOS 신호라는데"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-05T21:28:12.909376+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-31T19:07:07+09:00",
       "text_length": 0,
       "title": "분필로 그렸다고?...지친 제자들 위로하는 선생님의 ‘칠판 아트’"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-31T17:39:08.520314+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-31T17:39:08.520314+09:00",
-      "link_count": 0,
-      "log_no": "224235912742",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224235912742",
-      "published_at": "2026-03-31T17:20:13+09:00",
-      "text_length": 0,
-      "title": "대치시대인재 고3 4월 특강"
     }
   ],
-  "updated_at": "2026-04-05T21:28:12.909376+09:00"
+  "updated_at": "2026-04-05T22:38:01.577093+09:00"
 }
