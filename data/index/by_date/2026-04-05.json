@@ -1,7 +1,20 @@
 {
   "key": "2026-04-05",
-  "post_count": 8,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-05T15:41:11.317577+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-05T15:41:11.317577+09:00",
+      "link_count": 0,
+      "log_no": "224241530643",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241530643",
+      "published_at": "2026-04-05T15:22:12+09:00",
+      "text_length": 0,
+      "title": "대치원수학 6월 공수1기본반"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-05T14:50:46.454924+09:00",
@@ -107,5 +120,5 @@
       "title": "날아보자 훨훨, 1년에 딱 열흘뿐이니까"
     }
   ],
-  "updated_at": "2026-04-05T14:50:46.454924+09:00"
+  "updated_at": "2026-04-05T15:41:11.317577+09:00"
 }
