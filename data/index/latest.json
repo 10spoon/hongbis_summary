@@ -1,6 +1,19 @@
 {
-  "post_count": 235,
+  "post_count": 236,
   "posts": [
+    {
+      "category": "mom's diary",
+      "first_seen_at": "2026-04-06T01:26:51.719166+09:00",
+      "image_count": 23,
+      "last_changed_at": "2026-04-06T01:26:51.719166+09:00",
+      "link_count": 0,
+      "log_no": "224241991948",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241991948",
+      "published_at": "2026-04-06T00:57:40+09:00",
+      "text_length": 1049,
+      "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-06T00:26:27.259350+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-31T22:35:34+09:00",
       "text_length": 0,
       "title": "[2년 전 오늘] 전교1등이 공개하는 중간고사 학습비법"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236233842",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236233842",
-      "published_at": "2026-03-31T22:34:08+09:00",
-      "text_length": 0,
-      "title": "대치mil어학원 레벨매칭무료초청수업"
     }
   ],
-  "updated_at": "2026-04-06T00:26:27.259350+09:00"
+  "updated_at": "2026-04-06T01:26:51.719166+09:00"
 }
