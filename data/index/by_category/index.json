@@ -2017,6 +2017,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-05T14:50:46.454924+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-05T14:50:46.454924+09:00",
+        "link_count": 0,
+        "log_no": "224241476936",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224241476936",
+        "published_at": "2026-04-05T14:06:45+09:00",
+        "text_length": 0,
+        "title": "송일국 “사춘기 삼둥이, 화장실서 1시간”…극한 직업 ‘아빠’"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-05T12:24:08.403923+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-05T12:24:08.403923+09:00",
@@ -2945,5 +2958,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-05T14:02:46.650590+09:00"
+  "updated_at": "2026-04-05T14:50:46.454924+09:00"
 }

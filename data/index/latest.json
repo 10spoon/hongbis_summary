@@ -1,6 +1,19 @@
 {
-  "post_count": 225,
+  "post_count": 226,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-05T14:50:46.454924+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-05T14:50:46.454924+09:00",
+      "link_count": 0,
+      "log_no": "224241476936",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241476936",
+      "published_at": "2026-04-05T14:06:45+09:00",
+      "text_length": 0,
+      "title": "송일국 “사춘기 삼둥이, 화장실서 1시간”…극한 직업 ‘아빠’"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-31T15:24:42+09:00",
       "text_length": 0,
       "title": "지방 의약학 ‘자퇴 쇼크’ 속 지역 합격문 2배 넓어진다… ‘N수생’ 독주 예고"
-    },
-    {
-      "category": "함께맘북클럽",
-      "first_seen_at": "2026-03-31T12:23:24.362617+09:00",
-      "image_count": 7,
-      "last_changed_at": "2026-03-31T12:23:24.362617+09:00",
-      "link_count": 0,
-      "log_no": "224235463186",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224235463186",
-      "published_at": "2026-03-31T11:26:57+09:00",
-      "text_length": 292,
-      "title": "함께맘북클럽 2026년 4월 중3을 위한 고등학교 사용설명서"
     }
   ],
-  "updated_at": "2026-04-05T14:02:46.650590+09:00"
+  "updated_at": "2026-04-05T14:50:46.454924+09:00"
 }
