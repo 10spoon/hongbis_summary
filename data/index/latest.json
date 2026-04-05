@@ -1,6 +1,19 @@
 {
-  "post_count": 218,
+  "post_count": 219,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-05T12:24:08.403923+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-05T12:24:08.403923+09:00",
+      "link_count": 0,
+      "log_no": "224241353998",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241353998",
+      "published_at": "2026-04-05T11:11:27+09:00",
+      "text_length": 0,
+      "title": "날아보자 훨훨, 1년에 딱 열흘뿐이니까"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-05T00:26:23.337354+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-03-30T19:58:13+09:00",
       "text_length": 0,
       "title": "사이언스캠퍼스 1학기 중간고사 내신특강-중등부(중23)"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
-      "link_count": 0,
-      "log_no": "224234770761",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234770761",
-      "published_at": "2026-03-30T19:55:43+09:00",
-      "text_length": 0,
-      "title": "[6년 전 오늘] [삼성 디스플레이Vlog]화학전공자는 어떤 일을 할까?"
     }
   ],
-  "updated_at": "2026-04-05T00:26:23.337354+09:00"
+  "updated_at": "2026-04-05T12:24:08.403923+09:00"
 }
