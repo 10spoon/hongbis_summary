@@ -1,6 +1,32 @@
 {
-  "post_count": 236,
+  "post_count": 238,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T08:26:43.892486+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T08:26:43.892486+09:00",
+      "link_count": 0,
+      "log_no": "224242168037",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242168037",
+      "published_at": "2026-04-06T08:25:16+09:00",
+      "text_length": 0,
+      "title": "엇그제 개학한 것 같은데 벌써?”…3주전부터 챙기는 중간고사 로드맵"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T08:26:43.892486+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T08:26:43.892486+09:00",
+      "link_count": 0,
+      "log_no": "224242166847",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242166847",
+      "published_at": "2026-04-06T08:23:34+09:00",
+      "text_length": 0,
+      "title": "자녀가 없는 ‘단톡방’은 괜찮을까?"
+    },
     {
       "category": "mom's diary",
       "first_seen_at": "2026-04-06T01:26:51.719166+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-31T23:25:17+09:00",
       "text_length": 0,
       "title": "타블로, 딸 하루 유창한 영어 실력 만든 비법…\"이중언어 되길 원한다면, 기다려라\""
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236242756",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236242756",
-      "published_at": "2026-03-31T22:42:30+09:00",
-      "text_length": 0,
-      "title": "황농문몰입아카데미 2026년 여름방학 몰입캠프"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236235367",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236235367",
-      "published_at": "2026-03-31T22:35:34+09:00",
-      "text_length": 0,
-      "title": "[2년 전 오늘] 전교1등이 공개하는 중간고사 학습비법"
     }
   ],
-  "updated_at": "2026-04-06T01:26:51.719166+09:00"
+  "updated_at": "2026-04-06T08:26:43.892486+09:00"
 }
