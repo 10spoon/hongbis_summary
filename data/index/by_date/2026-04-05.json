@@ -1,7 +1,20 @@
 {
   "key": "2026-04-05",
-  "post_count": 9,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-05T21:28:12.909376+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-05T21:28:12.909376+09:00",
+      "link_count": 0,
+      "log_no": "224241758424",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224241758424",
+      "published_at": "2026-04-05T20:32:40+09:00",
+      "text_length": 0,
+      "title": "3배 더 공부해도 고작 2점 차이”…대세 된 ‘확통런’"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-05T15:41:11.317577+09:00",
@@ -120,5 +133,5 @@
       "title": "날아보자 훨훨, 1년에 딱 열흘뿐이니까"
     }
   ],
-  "updated_at": "2026-04-05T15:41:11.317577+09:00"
+  "updated_at": "2026-04-05T21:28:12.909376+09:00"
 }
