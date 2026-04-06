@@ -1,6 +1,32 @@
 {
-  "post_count": 243,
+  "post_count": 245,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-06T17:47:35.332060+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T17:47:35.332060+09:00",
+      "link_count": 1,
+      "log_no": "224242815944",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242815944",
+      "published_at": "2026-04-06T17:15:57+09:00",
+      "text_length": 40,
+      "title": "제6회 스타벅스 그림공모전"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T17:47:35.332060+09:00",
+      "image_count": 19,
+      "last_changed_at": "2026-04-06T17:47:35.332060+09:00",
+      "link_count": 0,
+      "log_no": "224242796916",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224242796916",
+      "published_at": "2026-04-06T17:01:32+09:00",
+      "text_length": 378,
+      "title": "대치프랙탈학원 티처스, 이병훈TV출연 영재고 과학고 전문학원"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-06T16:54:17.468249+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-04-01T10:40:24+09:00",
       "text_length": 1110,
       "title": "햇살정원 의대관 \"가천대 입학관계자 초청\" 의학계열 입시 전략 설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
-      "link_count": 1,
-      "log_no": "224236628351",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236628351",
-      "published_at": "2026-04-01T09:22:49+09:00",
-      "text_length": 48,
-      "title": "우리동네 과학문화 장소"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
-      "image_count": 6,
-      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
-      "link_count": 0,
-      "log_no": "224236625445",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236625445",
-      "published_at": "2026-04-01T09:19:40+09:00",
-      "text_length": 0,
-      "title": "서울시융합과학교육원 가족과 함께하는 과학 나들이, 해봄"
     }
   ],
-  "updated_at": "2026-04-06T16:54:17.468249+09:00"
+  "updated_at": "2026-04-06T17:47:35.332060+09:00"
 }
