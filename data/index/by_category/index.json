@@ -2682,6 +2682,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-06T22:47:23.031994+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-06T22:47:23.031994+09:00",
+        "link_count": 0,
+        "log_no": "224243148111",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224243148111",
+        "published_at": "2026-04-06T22:31:08+09:00",
+        "text_length": 0,
+        "title": "내신 성적 오른 학생 88% “사교육보다 자습 시간 늘리니 점수 올라”"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
@@ -3283,5 +3296,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-06T21:35:26.893620+09:00"
+  "updated_at": "2026-04-06T22:47:23.031994+09:00"
 }

@@ -1,6 +1,19 @@
 {
-  "post_count": 251,
+  "post_count": 252,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T22:47:23.031994+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T22:47:23.031994+09:00",
+      "link_count": 0,
+      "log_no": "224243148111",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243148111",
+      "published_at": "2026-04-06T22:31:08+09:00",
+      "text_length": 0,
+      "title": "내신 성적 오른 학생 88% “사교육보다 자습 시간 늘리니 점수 올라”"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-01T18:05:40+09:00",
       "text_length": 1037,
       "title": "2026년 서울과학기술대학교 전국 고교생 문예백일장"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237270706",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237270706",
-      "published_at": "2026-04-01T18:01:35+09:00",
-      "text_length": 0,
-      "title": "서강대학교 입학설명회"
     }
   ],
-  "updated_at": "2026-04-06T21:35:26.893620+09:00"
+  "updated_at": "2026-04-06T22:47:23.031994+09:00"
 }
