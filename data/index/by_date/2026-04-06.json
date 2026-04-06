@@ -1,7 +1,33 @@
 {
   "key": "2026-04-06",
-  "post_count": 5,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T14:10:28.237743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T14:10:28.237743+09:00",
+      "link_count": 0,
+      "log_no": "224242504533",
+      "place_count": 4,
+      "post_url": "https://blog.naver.com/hongbis/224242504533",
+      "published_at": "2026-04-06T13:31:39+09:00",
+      "text_length": 296,
+      "title": "잠실케이비즈학원 중등부 과학 1학기 중간고사 대비 내신개강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-06T14:10:28.237743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T14:10:28.237743+09:00",
+      "link_count": 0,
+      "log_no": "224242487458",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242487458",
+      "published_at": "2026-04-06T13:17:22+09:00",
+      "text_length": 247,
+      "title": "2026년도 어린이(초등부) 외교관학교 2기"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-06T12:24:12.937943+09:00",
@@ -68,5 +94,5 @@
       "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
     }
   ],
-  "updated_at": "2026-04-06T12:24:12.937943+09:00"
+  "updated_at": "2026-04-06T14:10:28.237743+09:00"
 }

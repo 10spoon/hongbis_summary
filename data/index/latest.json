@@ -1,6 +1,32 @@
 {
-  "post_count": 240,
+  "post_count": 242,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T14:10:28.237743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T14:10:28.237743+09:00",
+      "link_count": 0,
+      "log_no": "224242504533",
+      "place_count": 4,
+      "post_url": "https://blog.naver.com/hongbis/224242504533",
+      "published_at": "2026-04-06T13:31:39+09:00",
+      "text_length": 296,
+      "title": "잠실케이비즈학원 중등부 과학 1학기 중간고사 대비 내신개강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-06T14:10:28.237743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T14:10:28.237743+09:00",
+      "link_count": 0,
+      "log_no": "224242487458",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242487458",
+      "published_at": "2026-04-06T13:17:22+09:00",
+      "text_length": 247,
+      "title": "2026년도 어린이(초등부) 외교관학교 2기"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-06T12:24:12.937943+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-04-01T09:14:06+09:00",
       "text_length": 0,
       "title": "대원국제중 2027학년도 입학전형기본계획"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
-      "link_count": 0,
-      "log_no": "224236616588",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236616588",
-      "published_at": "2026-04-01T09:10:09+09:00",
-      "text_length": 0,
-      "title": "고교 중간고사 대비 요령 학교 수업·교과서 중심 반복 학습… 3주 전 로드맵 짜야"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
-      "link_count": 0,
-      "log_no": "224236296523",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236296523",
-      "published_at": "2026-03-31T23:32:47+09:00",
-      "text_length": 0,
-      "title": "“동아리 떨어졌어요, 생기부 어쩌죠?”…대입 준비로 동아리 면접 보는 아이들"
     }
   ],
-  "updated_at": "2026-04-06T12:24:12.937943+09:00"
+  "updated_at": "2026-04-06T14:10:28.237743+09:00"
 }
