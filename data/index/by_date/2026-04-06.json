@@ -1,7 +1,59 @@
 {
   "key": "2026-04-06",
-  "post_count": 12,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243074698",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243074698",
+      "published_at": "2026-04-06T21:21:45+09:00",
+      "text_length": 0,
+      "title": "2027학년도 논술길잡이 '알려진 것' '증명 필요한 것' 나눠 학습해야"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243044052",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243044052",
+      "published_at": "2026-04-06T20:52:02+09:00",
+      "text_length": 0,
+      "title": "새움학원 고1 기말전 단기특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243040031",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243040031",
+      "published_at": "2026-04-06T20:48:07+09:00",
+      "text_length": 0,
+      "title": "대치시대인재 고3 4월특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243034339",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243034339",
+      "published_at": "2026-04-06T20:42:36+09:00",
+      "text_length": 0,
+      "title": "2026년 여대학원생 공학연구팀제 지원사업 일반과정 참여 여중생, 여고생 팀원 모집"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-06T20:33:52.810898+09:00",
@@ -159,5 +211,5 @@
       "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
     }
   ],
-  "updated_at": "2026-04-06T20:33:52.810898+09:00"
+  "updated_at": "2026-04-06T21:35:26.893620+09:00"
 }

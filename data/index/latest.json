@@ -1,6 +1,58 @@
 {
-  "post_count": 247,
+  "post_count": 251,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243074698",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243074698",
+      "published_at": "2026-04-06T21:21:45+09:00",
+      "text_length": 0,
+      "title": "2027학년도 논술길잡이 '알려진 것' '증명 필요한 것' 나눠 학습해야"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243044052",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243044052",
+      "published_at": "2026-04-06T20:52:02+09:00",
+      "text_length": 0,
+      "title": "새움학원 고1 기말전 단기특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243040031",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243040031",
+      "published_at": "2026-04-06T20:48:07+09:00",
+      "text_length": 0,
+      "title": "대치시대인재 고3 4월특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-06T21:35:26.893620+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T21:35:26.893620+09:00",
+      "link_count": 0,
+      "log_no": "224243034339",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243034339",
+      "published_at": "2026-04-06T20:42:36+09:00",
+      "text_length": 0,
+      "title": "2026년 여대학원생 공학연구팀제 지원사업 일반과정 참여 여중생, 여고생 팀원 모집"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-06T20:33:52.810898+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-04-01T18:01:35+09:00",
       "text_length": 0,
       "title": "서강대학교 입학설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237262016",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237262016",
-      "published_at": "2026-04-01T17:54:15+09:00",
-      "text_length": 0,
-      "title": "한생연 자연학교캠프"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237258198",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237258198",
-      "published_at": "2026-04-01T17:51:06+09:00",
-      "text_length": 507,
-      "title": "극지연구소 청소년 북극연구체험단(21C 다산주니어"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237253263",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237253263",
-      "published_at": "2026-04-01T17:46:59+09:00",
-      "text_length": 271,
-      "title": "2026년 경복궁 집옥재(팔우정 포함) 작은 도서관 개방"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T14:55:58.091084+09:00",
-      "link_count": 1,
-      "log_no": "224237005030",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237005030",
-      "published_at": "2026-04-01T14:35:22+09:00",
-      "text_length": 517,
-      "title": "예설라 대치 설명회"
     }
   ],
-  "updated_at": "2026-04-06T20:33:52.810898+09:00"
+  "updated_at": "2026-04-06T21:35:26.893620+09:00"
 }
