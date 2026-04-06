@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-06T20:33:52.810898+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-06T20:33:52.810898+09:00",
+        "link_count": 2,
+        "log_no": "224242982111",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224242982111",
+        "published_at": "2026-04-06T19:48:44+09:00",
+        "text_length": 741,
+        "title": "2026년 청소년 우주과학 경진대회 HIS Youth 참가자 모집"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-06T17:47:35.332060+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-06T17:47:35.332060+09:00",
@@ -3218,5 +3231,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-06T19:39:13.964846+09:00"
+  "updated_at": "2026-04-06T20:33:52.810898+09:00"
 }
