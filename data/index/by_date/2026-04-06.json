@@ -1,7 +1,46 @@
 {
   "key": "2026-04-06",
-  "post_count": 17,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T23:33:44.648443+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T23:33:44.648443+09:00",
+      "link_count": 0,
+      "log_no": "224243207823",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243207823",
+      "published_at": "2026-04-06T23:31:48+09:00",
+      "text_length": 0,
+      "title": "2028 대입, 현 고2가 맞닥뜨릴 새 입시 지형은?"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-06T23:33:44.648443+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T23:33:44.648443+09:00",
+      "link_count": 0,
+      "log_no": "224243205784",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243205784",
+      "published_at": "2026-04-06T23:29:30+09:00",
+      "text_length": 0,
+      "title": "4개 과학기술원 공동 입학설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-06T23:33:44.648443+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T23:33:44.648443+09:00",
+      "link_count": 0,
+      "log_no": "224243196668",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243196668",
+      "published_at": "2026-04-06T23:19:59+09:00",
+      "text_length": 435,
+      "title": "지성과감성국어 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-06T22:47:23.031994+09:00",
@@ -224,5 +263,5 @@
       "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
     }
   ],
-  "updated_at": "2026-04-06T22:47:23.031994+09:00"
+  "updated_at": "2026-04-06T23:33:44.648443+09:00"
 }
