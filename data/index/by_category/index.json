@@ -2238,6 +2238,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-07T08:27:04.415362+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T08:27:04.415362+09:00",
+        "link_count": 0,
+        "log_no": "224243472280",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224243472280",
+        "published_at": "2026-04-07T08:21:31+09:00",
+        "text_length": 0,
+        "title": "인생을 의미 있게 살기 위한, 하버드 행복 교수의 10가지 습관"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-06T12:24:12.937943+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-06T12:24:12.937943+09:00",
@@ -2706,6 +2719,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-07T08:27:04.415362+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T08:27:04.415362+09:00",
+        "link_count": 0,
+        "log_no": "224243474938",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224243474938",
+        "published_at": "2026-04-07T08:25:00+09:00",
+        "text_length": 0,
+        "title": "“의대 나와서 의사만 하란 법 있나요”...더 넓은 세상 향하는 의대생들"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-04-06T23:33:44.648443+09:00",
@@ -3335,5 +3361,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-06T23:33:44.648443+09:00"
+  "updated_at": "2026-04-07T08:27:04.415362+09:00"
 }
