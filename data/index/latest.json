@@ -1,6 +1,32 @@
 {
-  "post_count": 238,
+  "post_count": 240,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-06T12:24:12.937943+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-06T12:24:12.937943+09:00",
+      "link_count": 0,
+      "log_no": "224242359549",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242359549",
+      "published_at": "2026-04-06T11:27:31+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 말 가려 해야 하는 이유..말하는대로 살게 됩니다."
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-06T12:24:12.937943+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-06T12:24:12.937943+09:00",
+      "link_count": 0,
+      "log_no": "224242330592",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224242330592",
+      "published_at": "2026-04-06T11:05:26+09:00",
+      "text_length": 0,
+      "title": "초중고생 문해력 저하 심각”… 책 읽는 학교 3000곳 만들기로"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-06T08:26:43.892486+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-03-31T23:32:47+09:00",
       "text_length": 0,
       "title": "“동아리 떨어졌어요, 생기부 어쩌죠?”…대입 준비로 동아리 면접 보는 아이들"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
-      "link_count": 0,
-      "log_no": "224236292998",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236292998",
-      "published_at": "2026-03-31T23:29:30+09:00",
-      "text_length": 0,
-      "title": "선생님, 이번 생은 망했어요\"...벌점이 낳은 비극"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-31T23:44:35.296582+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-31T23:44:35.296582+09:00",
-      "link_count": 0,
-      "log_no": "224236288729",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236288729",
-      "published_at": "2026-03-31T23:25:17+09:00",
-      "text_length": 0,
-      "title": "타블로, 딸 하루 유창한 영어 실력 만든 비법…\"이중언어 되길 원한다면, 기다려라\""
     }
   ],
-  "updated_at": "2026-04-06T08:26:43.892486+09:00"
+  "updated_at": "2026-04-06T12:24:12.937943+09:00"
 }
