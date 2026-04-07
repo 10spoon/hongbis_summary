@@ -698,6 +698,45 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-07T22:53:31.660666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T22:53:31.660666+09:00",
+        "link_count": 2,
+        "log_no": "224244453737",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244453737",
+        "published_at": "2026-04-07T22:33:18+09:00",
+        "text_length": 522,
+        "title": "프로세스 대치(문과)추가논술설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-07T22:53:31.660666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T22:53:31.660666+09:00",
+        "link_count": 0,
+        "log_no": "224244451830",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244451830",
+        "published_at": "2026-04-07T22:31:21+09:00",
+        "text_length": 212,
+        "title": "겐트대학교 입학설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-07T22:53:31.660666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T22:53:31.660666+09:00",
+        "link_count": 0,
+        "log_no": "224244403691",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244403691",
+        "published_at": "2026-04-07T21:44:42+09:00",
+        "text_length": 0,
+        "title": "EMBER 영어학원 4월 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-07T20:35:17.253188+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-07T20:35:17.253188+09:00",
@@ -3530,5 +3569,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-07T20:35:17.253188+09:00"
+  "updated_at": "2026-04-07T22:53:31.660666+09:00"
 }
