@@ -1,7 +1,20 @@
 {
   "key": "2026-04-07",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T09:58:10.766000+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T09:58:10.766000+09:00",
+      "link_count": 0,
+      "log_no": "224243521807",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243521807",
+      "published_at": "2026-04-07T09:19:14+09:00",
+      "text_length": 275,
+      "title": "대한민국 청소년 광고대회(YOUNG KOSAC)"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-07T08:27:04.415362+09:00",
@@ -29,5 +42,5 @@
       "title": "인생을 의미 있게 살기 위한, 하버드 행복 교수의 10가지 습관"
     }
   ],
-  "updated_at": "2026-04-07T08:27:04.415362+09:00"
+  "updated_at": "2026-04-07T09:58:10.766000+09:00"
 }

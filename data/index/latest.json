@@ -1,6 +1,19 @@
 {
-  "post_count": 257,
+  "post_count": 258,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T09:58:10.766000+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T09:58:10.766000+09:00",
+      "link_count": 0,
+      "log_no": "224243521807",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243521807",
+      "published_at": "2026-04-07T09:19:14+09:00",
+      "text_length": 275,
+      "title": "대한민국 청소년 광고대회(YOUNG KOSAC)"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-07T08:27:04.415362+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-01T22:46:51+09:00",
       "text_length": 330,
       "title": "목동cms 고등과정 학습전략 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-01T22:54:37.209801+09:00",
-      "link_count": 0,
-      "log_no": "224237543324",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237543324",
-      "published_at": "2026-04-01T22:40:11+09:00",
-      "text_length": 0,
-      "title": "대치새움 5월 기말전 단기 특강"
     }
   ],
-  "updated_at": "2026-04-07T08:27:04.415362+09:00"
+  "updated_at": "2026-04-07T09:58:10.766000+09:00"
 }
