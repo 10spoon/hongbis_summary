@@ -1,7 +1,72 @@
 {
   "key": "2026-04-07",
-  "post_count": 3,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243611493",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243611493",
+      "published_at": "2026-04-07T10:37:31+09:00",
+      "text_length": 812,
+      "title": "세계 천식의 날 기념 천식 극복 수기 공모전 개최 안내"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243600949",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243600949",
+      "published_at": "2026-04-07T10:29:18+09:00",
+      "text_length": 0,
+      "title": "kbo와함께 야구로 통하는 티볼캠프"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243597258",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243597258",
+      "published_at": "2026-04-07T10:26:28+09:00",
+      "text_length": 331,
+      "title": "2026 강남미래교육센터 과학의날 페스티벌"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 1,
+      "log_no": "224243593791",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243593791",
+      "published_at": "2026-04-07T10:23:35+09:00",
+      "text_length": 39,
+      "title": "2026 학생 창업유망팀 300+ 공고 안내"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243577870",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243577870",
+      "published_at": "2026-04-07T10:10:38+09:00",
+      "text_length": 0,
+      "title": "2027 이화 입학콘서트"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-07T09:58:10.766000+09:00",
@@ -42,5 +107,5 @@
       "title": "인생을 의미 있게 살기 위한, 하버드 행복 교수의 10가지 습관"
     }
   ],
-  "updated_at": "2026-04-07T09:58:10.766000+09:00"
+  "updated_at": "2026-04-07T10:56:23.548582+09:00"
 }

@@ -1,6 +1,71 @@
 {
-  "post_count": 258,
+  "post_count": 263,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243611493",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243611493",
+      "published_at": "2026-04-07T10:37:31+09:00",
+      "text_length": 812,
+      "title": "세계 천식의 날 기념 천식 극복 수기 공모전 개최 안내"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243600949",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243600949",
+      "published_at": "2026-04-07T10:29:18+09:00",
+      "text_length": 0,
+      "title": "kbo와함께 야구로 통하는 티볼캠프"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243597258",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243597258",
+      "published_at": "2026-04-07T10:26:28+09:00",
+      "text_length": 331,
+      "title": "2026 강남미래교육센터 과학의날 페스티벌"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 1,
+      "log_no": "224243593791",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243593791",
+      "published_at": "2026-04-07T10:23:35+09:00",
+      "text_length": 39,
+      "title": "2026 학생 창업유망팀 300+ 공고 안내"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
+      "link_count": 0,
+      "log_no": "224243577870",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224243577870",
+      "published_at": "2026-04-07T10:10:38+09:00",
+      "text_length": 0,
+      "title": "2027 이화 입학콘서트"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-07T09:58:10.766000+09:00",
@@ -1235,72 +1300,7 @@
       "published_at": "2026-04-02T09:27:10+09:00",
       "text_length": 0,
       "title": "수능 성적 오른 재수생 이럴수가…미·적분, 과탐 버리고 사탐, 확률 택했다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
-      "link_count": 0,
-      "log_no": "224237622914",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237622914",
-      "published_at": "2026-04-02T00:03:15+09:00",
-      "text_length": 0,
-      "title": "테라과학 4월 개강"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
-      "link_count": 0,
-      "log_no": "224237620034",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237620034",
-      "published_at": "2026-04-02T00:00:09+09:00",
-      "text_length": 42,
-      "title": "아이에게 미안할 때 무너지는 엄마들"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
-      "link_count": 0,
-      "log_no": "224237614654",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237614654",
-      "published_at": "2026-04-01T23:54:49+09:00",
-      "text_length": 0,
-      "title": "불꽃수학 1학기 시간표"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-02T00:45:59.401687+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T00:45:59.401687+09:00",
-      "link_count": 0,
-      "log_no": "224237609420",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237609420",
-      "published_at": "2026-04-01T23:49:05+09:00",
-      "text_length": 0,
-      "title": "관상을 주관하는 부위는 연령대별로 다릅니다"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T22:54:37.209801+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T22:54:37.209801+09:00",
-      "link_count": 0,
-      "log_no": "224237549984",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237549984",
-      "published_at": "2026-04-01T22:46:51+09:00",
-      "text_length": 330,
-      "title": "목동cms 고등과정 학습전략 설명회"
     }
   ],
-  "updated_at": "2026-04-07T09:58:10.766000+09:00"
+  "updated_at": "2026-04-07T10:56:23.548582+09:00"
 }
