@@ -659,6 +659,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-07T18:24:53.513398+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T18:24:53.513398+09:00",
+        "link_count": 0,
+        "log_no": "224244176273",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244176273",
+        "published_at": "2026-04-07T17:54:37+09:00",
+        "text_length": 643,
+        "title": "KNS 외대부고 합격과 내신 1등급을 위한 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-07T18:24:53.513398+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-07T18:24:53.513398+09:00",
+        "link_count": 1,
+        "log_no": "224244173701",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244173701",
+        "published_at": "2026-04-07T17:52:38+09:00",
+        "text_length": 723,
+        "title": "픽스아카데미 2033 대입 개편안 분석 & 픽스 교과수업 노잉 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-07T10:56:23.548582+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-07T10:56:23.548582+09:00",
@@ -3439,5 +3465,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-07T10:56:23.548582+09:00"
+  "updated_at": "2026-04-07T18:24:53.513398+09:00"
 }
