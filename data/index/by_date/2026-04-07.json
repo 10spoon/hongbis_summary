@@ -1,7 +1,33 @@
 {
   "key": "2026-04-07",
-  "post_count": 18,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-07T23:49:16.554336+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-07T23:49:16.554336+09:00",
+      "link_count": 1,
+      "log_no": "224244512360",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224244512360",
+      "published_at": "2026-04-07T23:34:24+09:00",
+      "text_length": 84,
+      "title": "교내 청소년 SNS 강제 구조 개선에 관한 청원"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-07T23:49:16.554336+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-07T23:49:16.554336+09:00",
+      "link_count": 0,
+      "log_no": "224244478893",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224244478893",
+      "published_at": "2026-04-07T22:58:25+09:00",
+      "text_length": 0,
+      "title": "\"네 마음이 그럴 만하다\"…관계를 살리는 말 한마디의 힘"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-07T22:53:31.660666+09:00",
@@ -237,5 +263,5 @@
       "title": "인생을 의미 있게 살기 위한, 하버드 행복 교수의 10가지 습관"
     }
   ],
-  "updated_at": "2026-04-07T22:53:31.660666+09:00"
+  "updated_at": "2026-04-07T23:49:16.554336+09:00"
 }
