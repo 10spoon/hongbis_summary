@@ -1,6 +1,19 @@
 {
-  "post_count": 286,
+  "post_count": 287,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-08T20:35:55.527762+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T20:35:55.527762+09:00",
+      "link_count": 0,
+      "log_no": "224245627153",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245627153",
+      "published_at": "2026-04-08T20:27:45+09:00",
+      "text_length": 0,
+      "title": "메타그라운드수학 중3 고등준비반"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-08T19:38:05.060929+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-03T13:03:17+09:00",
       "text_length": 0,
       "title": "송암스페이스센터 영어우주과학캠프"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-03T09:57:28.407421+09:00",
-      "link_count": 0,
-      "log_no": "224239147357",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239147357",
-      "published_at": "2026-04-03T09:07:14+09:00",
-      "text_length": 0,
-      "title": "공부 안 하던 아이를 움직인 뜻밖의 방법"
     }
   ],
-  "updated_at": "2026-04-08T19:38:05.060929+09:00"
+  "updated_at": "2026-04-08T20:35:55.527762+09:00"
 }

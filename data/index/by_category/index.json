@@ -1638,6 +1638,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-08T20:35:55.527762+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-08T20:35:55.527762+09:00",
+        "link_count": 0,
+        "log_no": "224245627153",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224245627153",
+        "published_at": "2026-04-08T20:27:45+09:00",
+        "text_length": 0,
+        "title": "메타그라운드수학 중3 고등준비반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-08T16:51:04.045327+09:00",
@@ -3738,5 +3751,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-08T19:38:05.060929+09:00"
+  "updated_at": "2026-04-08T20:35:55.527762+09:00"
 }

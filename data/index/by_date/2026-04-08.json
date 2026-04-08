@@ -1,7 +1,20 @@
 {
   "key": "2026-04-08",
-  "post_count": 11,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-08T20:35:55.527762+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T20:35:55.527762+09:00",
+      "link_count": 0,
+      "log_no": "224245627153",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245627153",
+      "published_at": "2026-04-08T20:27:45+09:00",
+      "text_length": 0,
+      "title": "메타그라운드수학 중3 고등준비반"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-08T19:38:05.060929+09:00",
@@ -146,5 +159,5 @@
       "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
     }
   ],
-  "updated_at": "2026-04-08T19:38:05.060929+09:00"
+  "updated_at": "2026-04-08T20:35:55.527762+09:00"
 }
