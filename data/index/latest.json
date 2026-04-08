@@ -1,6 +1,45 @@
 {
-  "post_count": 283,
+  "post_count": 286,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-08T19:38:05.060929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T19:38:05.060929+09:00",
+      "link_count": 0,
+      "log_no": "224245576046",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245576046",
+      "published_at": "2026-04-08T19:30:06+09:00",
+      "text_length": 0,
+      "title": "인하대 의대, 수능최저 ‘2합 5등급’…서해5도 출신 문 열었다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-08T19:38:05.060929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T19:38:05.060929+09:00",
+      "link_count": 0,
+      "log_no": "224245545459",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245545459",
+      "published_at": "2026-04-08T19:00:30+09:00",
+      "text_length": 0,
+      "title": "고교학점제의 배신… ‘선택의 격차’가 ‘기회의 격차’되나"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-08T19:38:05.060929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T19:38:05.060929+09:00",
+      "link_count": 0,
+      "log_no": "224245542869",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245542869",
+      "published_at": "2026-04-08T18:57:54+09:00",
+      "text_length": 0,
+      "title": "이과 전문직 거센 여풍… 변리사 여성 합격자 12%p 급증"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T17:41:02.113010+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-04-03T09:07:14+09:00",
       "text_length": 0,
       "title": "공부 안 하던 아이를 움직인 뜻밖의 방법"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
-      "link_count": 0,
-      "log_no": "224238883959",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238883959",
-      "published_at": "2026-04-03T00:06:39+09:00",
-      "text_length": 0,
-      "title": "서울 시내 5개 대학 2028 입시 방향 분석해보니"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
-      "link_count": 0,
-      "log_no": "224238880595",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238880595",
-      "published_at": "2026-04-03T00:03:03+09:00",
-      "text_length": 0,
-      "title": "올해도 늘어나는 첨단학과…“서울 주요 대학 ‘AI·반도체 인재’ 선발 늘린다”"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
-      "link_count": 0,
-      "log_no": "224238877935",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238877935",
-      "published_at": "2026-04-03T00:00:31+09:00",
-      "text_length": 408,
-      "title": "대치명인 학부모 입시 전문가 과정"
     }
   ],
-  "updated_at": "2026-04-08T17:41:02.113010+09:00"
+  "updated_at": "2026-04-08T19:38:05.060929+09:00"
 }
