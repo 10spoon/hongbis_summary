@@ -1,6 +1,19 @@
 {
-  "post_count": 277,
+  "post_count": 278,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-04-08T15:49:30.366055+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T15:49:30.366055+09:00",
+      "link_count": 0,
+      "log_no": "224245225166",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245225166",
+      "published_at": "2026-04-08T14:54:15+09:00",
+      "text_length": 0,
+      "title": "한빛사인터뷰 박예원 연세대학교 의과대학"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T14:02:15.964737+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-02T23:23:39+09:00",
       "text_length": 0,
       "title": "솔개의선택국어 2026시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-02T23:39:46.197011+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T23:39:46.197011+09:00",
-      "link_count": 0,
-      "log_no": "224238829580",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238829580",
-      "published_at": "2026-04-02T23:06:10+09:00",
-      "text_length": 0,
-      "title": "러셀대치 4월단기특강"
     }
   ],
-  "updated_at": "2026-04-08T14:02:15.964737+09:00"
+  "updated_at": "2026-04-08T15:49:30.366055+09:00"
 }

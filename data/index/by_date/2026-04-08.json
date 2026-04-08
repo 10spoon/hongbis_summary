@@ -1,7 +1,20 @@
 {
   "key": "2026-04-08",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-04-08T15:49:30.366055+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T15:49:30.366055+09:00",
+      "link_count": 0,
+      "log_no": "224245225166",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245225166",
+      "published_at": "2026-04-08T14:54:15+09:00",
+      "text_length": 0,
+      "title": "한빛사인터뷰 박예원 연세대학교 의과대학"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T14:02:15.964737+09:00",
@@ -29,5 +42,5 @@
       "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
     }
   ],
-  "updated_at": "2026-04-08T14:02:15.964737+09:00"
+  "updated_at": "2026-04-08T15:49:30.366055+09:00"
 }
