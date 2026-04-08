@@ -1480,6 +1480,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-04-08T09:58:36.489342+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-08T09:58:36.489342+09:00",
+        "link_count": 0,
+        "log_no": "224244783559",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224244783559",
+        "published_at": "2026-04-08T08:41:59+09:00",
+        "text_length": 0,
+        "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
@@ -3595,5 +3608,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-07T23:49:16.554336+09:00"
+  "updated_at": "2026-04-08T09:58:36.489342+09:00"
 }
