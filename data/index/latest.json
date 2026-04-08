@@ -1,6 +1,19 @@
 {
-  "post_count": 282,
+  "post_count": 283,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T17:41:02.113010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T17:41:02.113010+09:00",
+      "link_count": 1,
+      "log_no": "224245452013",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245452013",
+      "published_at": "2026-04-08T17:36:03+09:00",
+      "text_length": 549,
+      "title": "세정입시관 송민정T 세특 주제잡기 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-03T00:00:31+09:00",
       "text_length": 408,
       "title": "대치명인 학부모 입시 전문가 과정"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-02T23:39:46.197011+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-02T23:39:46.197011+09:00",
-      "link_count": 0,
-      "log_no": "224238857377",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238857377",
-      "published_at": "2026-04-02T23:37:35+09:00",
-      "text_length": 0,
-      "title": "[2년 전 오늘] 내신버리고 정시?"
     }
   ],
-  "updated_at": "2026-04-08T16:51:04.045327+09:00"
+  "updated_at": "2026-04-08T17:41:02.113010+09:00"
 }

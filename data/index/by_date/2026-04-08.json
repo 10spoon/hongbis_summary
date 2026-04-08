@@ -1,7 +1,20 @@
 {
   "key": "2026-04-08",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T17:41:02.113010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T17:41:02.113010+09:00",
+      "link_count": 1,
+      "log_no": "224245452013",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245452013",
+      "published_at": "2026-04-08T17:36:03+09:00",
+      "text_length": 549,
+      "title": "세정입시관 송민정T 세특 주제잡기 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
@@ -94,5 +107,5 @@
       "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
     }
   ],
-  "updated_at": "2026-04-08T16:51:04.045327+09:00"
+  "updated_at": "2026-04-08T17:41:02.113010+09:00"
 }
