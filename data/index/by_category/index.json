@@ -698,6 +698,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-08T14:02:15.964737+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-08T14:02:15.964737+09:00",
+        "link_count": 0,
+        "log_no": "224245074122",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224245074122",
+        "published_at": "2026-04-08T12:53:49+09:00",
+        "text_length": 480,
+        "title": "목동미래탐구 의대입시 학부모 교실"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-07T22:53:31.660666+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-07T22:53:31.660666+09:00",
@@ -3608,5 +3621,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-08T09:58:36.489342+09:00"
+  "updated_at": "2026-04-08T14:02:15.964737+09:00"
 }

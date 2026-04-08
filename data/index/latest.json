@@ -1,6 +1,19 @@
 {
-  "post_count": 276,
+  "post_count": 277,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T14:02:15.964737+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T14:02:15.964737+09:00",
+      "link_count": 0,
+      "log_no": "224245074122",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245074122",
+      "published_at": "2026-04-08T12:53:49+09:00",
+      "text_length": 480,
+      "title": "목동미래탐구 의대입시 학부모 교실"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-04-08T09:58:36.489342+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-02T23:06:10+09:00",
       "text_length": 0,
       "title": "러셀대치 4월단기특강"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-02T20:32:49.344816+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T20:32:49.344816+09:00",
-      "link_count": 0,
-      "log_no": "224238653085",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238653085",
-      "published_at": "2026-04-02T19:52:57+09:00",
-      "text_length": 0,
-      "title": "서울대-사시 최연소-김앤장 8년'…92년생 워킹맘의 파격 변신"
     }
   ],
-  "updated_at": "2026-04-08T09:58:36.489342+09:00"
+  "updated_at": "2026-04-08T14:02:15.964737+09:00"
 }
