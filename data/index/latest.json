@@ -1,6 +1,32 @@
 {
-  "post_count": 287,
+  "post_count": 289,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T21:37:36.170907+09:00",
+      "link_count": 0,
+      "log_no": "224245644299",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245644299",
+      "published_at": "2026-04-08T20:46:53+09:00",
+      "text_length": 0,
+      "title": "가천대학교 찾아오는 입학설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-08T21:37:36.170907+09:00",
+      "link_count": 0,
+      "log_no": "224245636642",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245636642",
+      "published_at": "2026-04-08T20:38:25+09:00",
+      "text_length": 0,
+      "title": "BSM수학 2026년 4월,5월 수업"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-08T20:35:55.527762+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-04-03T15:14:31+09:00",
       "text_length": 752,
       "title": "시대인재 2027 고3 문과 입시전략 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 2,
-      "log_no": "224239462200",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239462200",
-      "published_at": "2026-04-03T13:40:13+09:00",
-      "text_length": 939,
-      "title": "대치독수리의대관 26 언어와매체 만점배출 류성훈T 언어와매체 5회특강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T13:57:48.967947+09:00",
-      "link_count": 0,
-      "log_no": "224239419261",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239419261",
-      "published_at": "2026-04-03T13:03:17+09:00",
-      "text_length": 0,
-      "title": "송암스페이스센터 영어우주과학캠프"
     }
   ],
-  "updated_at": "2026-04-08T20:35:55.527762+09:00"
+  "updated_at": "2026-04-08T21:37:36.170907+09:00"
 }

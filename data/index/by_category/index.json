@@ -698,6 +698,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-08T21:37:36.170907+09:00",
+        "link_count": 0,
+        "log_no": "224245644299",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224245644299",
+        "published_at": "2026-04-08T20:46:53+09:00",
+        "text_length": 0,
+        "title": "가천대학교 찾아오는 입학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-08T17:41:02.113010+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-08T17:41:02.113010+09:00",
@@ -1636,6 +1649,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-08T21:37:36.170907+09:00",
+        "link_count": 0,
+        "log_no": "224245636642",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224245636642",
+        "published_at": "2026-04-08T20:38:25+09:00",
+        "text_length": 0,
+        "title": "BSM수학 2026년 4월,5월 수업"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-08T20:35:55.527762+09:00",
@@ -3751,5 +3777,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-08T20:35:55.527762+09:00"
+  "updated_at": "2026-04-08T21:37:36.170907+09:00"
 }
