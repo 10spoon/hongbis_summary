@@ -1,7 +1,59 @@
 {
   "key": "2026-04-08",
-  "post_count": 3,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T16:51:04.045327+09:00",
+      "link_count": 1,
+      "log_no": "224245387256",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245387256",
+      "published_at": "2026-04-08T16:47:16+09:00",
+      "text_length": 259,
+      "title": "공감입시학원 고1 생기부 정리 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-08T16:51:04.045327+09:00",
+      "link_count": 0,
+      "log_no": "224245363463",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245363463",
+      "published_at": "2026-04-08T16:30:20+09:00",
+      "text_length": 0,
+      "title": "씨앤씨영재입시센터 5월대개강설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-08T16:51:04.045327+09:00",
+      "link_count": 0,
+      "log_no": "224245359619",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245359619",
+      "published_at": "2026-04-08T16:27:44+09:00",
+      "text_length": 0,
+      "title": "플라즈마 물리,화학 5월 시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-08T16:51:04.045327+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-08T16:51:04.045327+09:00",
+      "link_count": 0,
+      "log_no": "224245349822",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245349822",
+      "published_at": "2026-04-08T16:21:13+09:00",
+      "text_length": 0,
+      "title": "대치이강. 2026 고2,3 3월 학평 실채점 분석 및 입시전략 설명회"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-04-08T15:49:30.366055+09:00",
@@ -42,5 +94,5 @@
       "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
     }
   ],
-  "updated_at": "2026-04-08T15:49:30.366055+09:00"
+  "updated_at": "2026-04-08T16:51:04.045327+09:00"
 }
