@@ -1,6 +1,19 @@
 {
-  "post_count": 289,
+  "post_count": 290,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-09T00:47:20.950247+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T00:47:20.950247+09:00",
+      "link_count": 0,
+      "log_no": "224245817612",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224245817612",
+      "published_at": "2026-04-08T23:51:04+09:00",
+      "text_length": 0,
+      "title": "개념폴리아방배 초등설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-03T15:55:37+09:00",
       "text_length": 0,
       "title": "대한민국학생창의력챔피언대회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T15:42:14.053159+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T15:42:14.053159+09:00",
-      "link_count": 2,
-      "log_no": "224239579447",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239579447",
-      "published_at": "2026-04-03T15:14:31+09:00",
-      "text_length": 752,
-      "title": "시대인재 2027 고3 문과 입시전략 설명회"
     }
   ],
-  "updated_at": "2026-04-08T21:37:36.170907+09:00"
+  "updated_at": "2026-04-09T00:47:20.950247+09:00"
 }
