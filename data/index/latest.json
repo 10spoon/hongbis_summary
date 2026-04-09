@@ -1,6 +1,58 @@
 {
-  "post_count": 301,
+  "post_count": 305,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-09T21:41:05.256289+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-09T21:41:05.256289+09:00",
+      "link_count": 0,
+      "log_no": "224246977132",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246977132",
+      "published_at": "2026-04-09T21:40:58+09:00",
+      "text_length": 0,
+      "title": "DK수학 중등4월 시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-09T21:41:05.256289+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-09T21:41:05.256289+09:00",
+      "link_count": 0,
+      "log_no": "224246975070",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246975070",
+      "published_at": "2026-04-09T21:38:53+09:00",
+      "text_length": 1167,
+      "title": "햇살정원 의대관 5월 연휴 학생부 비교과 실험& 보고서& 구현 단기특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-09T21:41:05.256289+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T21:41:05.256289+09:00",
+      "link_count": 0,
+      "log_no": "224246965496",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246965496",
+      "published_at": "2026-04-09T21:29:13+09:00",
+      "text_length": 0,
+      "title": "새움학원 고3 5월특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-09T21:41:05.256289+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T21:41:05.256289+09:00",
+      "link_count": 0,
+      "log_no": "224246941144",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246941144",
+      "published_at": "2026-04-09T21:04:18+09:00",
+      "text_length": 0,
+      "title": "2027학년도 인서울 대학 수시 학생부교과전형 선발 방법"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-04-04T11:16:57+09:00",
       "text_length": 0,
       "title": "대치동초월수학 내신대비반개강"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-04-04T00:29:57.945680+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-04T00:29:57.945680+09:00",
-      "link_count": 0,
-      "log_no": "224240084305",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240084305",
-      "published_at": "2026-04-03T23:40:03+09:00",
-      "text_length": 0,
-      "title": "수능 연계 체감 높이는 3단계 공부법과 고득점 전략은"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T23:30:59.234351+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T23:30:59.234351+09:00",
-      "link_count": 0,
-      "log_no": "224240037854",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240037854",
-      "published_at": "2026-04-03T22:44:43+09:00",
-      "text_length": 8,
-      "title": "서울대안양수목원 방문예약"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
-      "link_count": 0,
-      "log_no": "224240032919",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240032919",
-      "published_at": "2026-04-03T22:38:53+09:00",
-      "text_length": 0,
-      "title": "이든수학 초등관 7월이후 정규반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
-      "link_count": 0,
-      "log_no": "224239981950",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239981950",
-      "published_at": "2026-04-03T21:39:52+09:00",
-      "text_length": 0,
-      "title": "콴다일로 중등수학내신프로그램"
     }
   ],
-  "updated_at": "2026-04-09T17:47:47.646136+09:00"
+  "updated_at": "2026-04-09T21:41:05.256289+09:00"
 }
