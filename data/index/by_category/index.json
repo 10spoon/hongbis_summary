@@ -698,6 +698,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-09T22:55:03.858065+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-09T22:55:03.858065+09:00",
+        "link_count": 1,
+        "log_no": "224247005553",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247005553",
+        "published_at": "2026-04-09T22:09:16+09:00",
+        "text_length": 37,
+        "title": "2025 인하 학부모 아카데미"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-09T17:47:47.646136+09:00",
@@ -1688,6 +1701,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-09T22:55:03.858065+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-09T22:55:03.858065+09:00",
+        "link_count": 0,
+        "log_no": "224247010937",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247010937",
+        "published_at": "2026-04-09T22:14:49+09:00",
+        "text_length": 0,
+        "title": "시리우스 2027학년도(5~6월) 영재학교 대비 과학 종합반 정규& 특강 프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-09T21:41:05.256289+09:00",
@@ -3985,5 +4011,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-09T21:41:05.256289+09:00"
+  "updated_at": "2026-04-09T22:55:03.858065+09:00"
 }
