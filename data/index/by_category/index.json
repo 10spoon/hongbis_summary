@@ -3150,6 +3150,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-09T12:22:21.728232+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-09T12:22:21.728232+09:00",
+        "link_count": 0,
+        "log_no": "224246310004",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224246310004",
+        "published_at": "2026-04-09T12:15:35+09:00",
+        "text_length": 0,
+        "title": "래퍼 김하온이 깨우친 진리들에 대하여"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-09T10:56:07.496927+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-09T10:56:07.496927+09:00",
@@ -3855,5 +3868,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-09T10:56:07.496927+09:00"
+  "updated_at": "2026-04-09T12:22:21.728232+09:00"
 }

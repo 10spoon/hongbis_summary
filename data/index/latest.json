@@ -1,6 +1,19 @@
 {
-  "post_count": 295,
+  "post_count": 296,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-09T12:22:21.728232+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T12:22:21.728232+09:00",
+      "link_count": 0,
+      "log_no": "224246310004",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246310004",
+      "published_at": "2026-04-09T12:15:35+09:00",
+      "text_length": 0,
+      "title": "래퍼 김하온이 깨우친 진리들에 대하여"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-09T10:56:07.496927+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-03T20:10:20+09:00",
       "text_length": 0,
       "title": "제7회. 전국문해력대상"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239861348",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239861348",
-      "published_at": "2026-04-03T19:12:57+09:00",
-      "text_length": 0,
-      "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
     }
   ],
-  "updated_at": "2026-04-09T10:56:07.496927+09:00"
+  "updated_at": "2026-04-09T12:22:21.728232+09:00"
 }
