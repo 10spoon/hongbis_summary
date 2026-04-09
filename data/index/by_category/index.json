@@ -3150,6 +3150,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-09T10:56:07.496927+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-09T10:56:07.496927+09:00",
+        "link_count": 0,
+        "log_no": "224246138442",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224246138442",
+        "published_at": "2026-04-09T10:01:23+09:00",
+        "text_length": 0,
+        "title": "앤스로픽 창업자도 영문학 전공…인문학이 혁신 좌우\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
@@ -3842,5 +3855,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-09T09:49:49.191719+09:00"
+  "updated_at": "2026-04-09T10:56:07.496927+09:00"
 }

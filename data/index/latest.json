@@ -1,6 +1,19 @@
 {
-  "post_count": 294,
+  "post_count": 295,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-09T10:56:07.496927+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T10:56:07.496927+09:00",
+      "link_count": 0,
+      "log_no": "224246138442",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246138442",
+      "published_at": "2026-04-09T10:01:23+09:00",
+      "text_length": 0,
+      "title": "앤스로픽 창업자도 영문학 전공…인문학이 혁신 좌우\""
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-03T19:12:57+09:00",
       "text_length": 0,
       "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239839050",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239839050",
-      "published_at": "2026-04-03T18:48:09+09:00",
-      "text_length": 0,
-      "title": "이대로는 못 버텨\" 남고·여고가 사라진다…무슨 일이"
     }
   ],
-  "updated_at": "2026-04-09T09:49:49.191719+09:00"
+  "updated_at": "2026-04-09T10:56:07.496927+09:00"
 }
