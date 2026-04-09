@@ -698,6 +698,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-09T14:53:54.306967+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-09T14:53:54.306967+09:00",
+        "link_count": 3,
+        "log_no": "224246435939",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224246435939",
+        "published_at": "2026-04-09T14:02:14+09:00",
+        "text_length": 932,
+        "title": "2응 X 콴다일로 특목자사 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-09T00:47:20.950247+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-09T00:47:20.950247+09:00",
@@ -3868,5 +3881,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-09T12:22:21.728232+09:00"
+  "updated_at": "2026-04-09T14:53:54.306967+09:00"
 }
