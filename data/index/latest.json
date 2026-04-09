@@ -1,6 +1,58 @@
 {
-  "post_count": 297,
+  "post_count": 301,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T17:47:47.646136+09:00",
+      "link_count": 0,
+      "log_no": "224246706361",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246706361",
+      "published_at": "2026-04-09T17:14:55+09:00",
+      "text_length": 0,
+      "title": "등급 낮아도 감점 없게\"... 2028 대입, 대학들이 꺼낸 파격 카드와 그 배경은"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T17:47:47.646136+09:00",
+      "link_count": 2,
+      "log_no": "224246700750",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246700750",
+      "published_at": "2026-04-09T17:11:08+09:00",
+      "text_length": 576,
+      "title": "대치파인만 자소서 \"\"오오특강\"\""
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T17:47:47.646136+09:00",
+      "link_count": 0,
+      "log_no": "224246698637",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246698637",
+      "published_at": "2026-04-09T17:09:47+09:00",
+      "text_length": 0,
+      "title": "대찬학원 중3 5월특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-09T17:47:47.646136+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-09T17:47:47.646136+09:00",
+      "link_count": 3,
+      "log_no": "224246692661",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246692661",
+      "published_at": "2026-04-09T17:05:38+09:00",
+      "text_length": 908,
+      "title": "KNS 前휘문고 교사와 함께하는 의대 입시 성공 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-09T14:53:54.306967+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-04-03T21:39:52+09:00",
       "text_length": 0,
       "title": "콴다일로 중등수학내신프로그램"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T22:41:39.013555+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T22:41:39.013555+09:00",
-      "link_count": 0,
-      "log_no": "224239977661",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239977661",
-      "published_at": "2026-04-03T21:34:43+09:00",
-      "text_length": 0,
-      "title": "목동시대인재 정이규 고3 이과 입시설명회 2부【영상-현장참석】"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
-      "link_count": 0,
-      "log_no": "224239964687",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239964687",
-      "published_at": "2026-04-03T21:18:53+09:00",
-      "text_length": 407,
-      "title": "한양대학교와 함께하는 2026 전국 청소년 SW·AI 경진대회"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-03T21:30:21.319123+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T21:30:21.319123+09:00",
-      "link_count": 0,
-      "log_no": "224239953951",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239953951",
-      "published_at": "2026-04-03T21:05:42+09:00",
-      "text_length": 0,
-      "title": "공부만 잘하는 아이”의 시대는 끝났다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T20:28:02.377975+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T20:28:02.377975+09:00",
-      "link_count": 0,
-      "log_no": "224239913002",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239913002",
-      "published_at": "2026-04-03T20:14:46+09:00",
-      "text_length": 0,
-      "title": "대치와이즈만 과학의달 주말특강"
     }
   ],
-  "updated_at": "2026-04-09T14:53:54.306967+09:00"
+  "updated_at": "2026-04-09T17:47:47.646136+09:00"
 }
