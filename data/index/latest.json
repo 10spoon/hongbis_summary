@@ -1,6 +1,58 @@
 {
-  "post_count": 290,
+  "post_count": 294,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
+      "link_count": 0,
+      "log_no": "224246122380",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246122380",
+      "published_at": "2026-04-09T09:46:53+09:00",
+      "text_length": 0,
+      "title": "무라카미 하루키부터 백남준까지, 덕후들의 마음을 저격할 4월 전시"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
+      "link_count": 0,
+      "log_no": "224246118684",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246118684",
+      "published_at": "2026-04-09T09:43:14+09:00",
+      "text_length": 0,
+      "title": "창의성이 중요하다는 착각'... 카네기멜런대 교수가 말하는 AI 시대 생존법"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
+      "link_count": 0,
+      "log_no": "224246105094",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246105094",
+      "published_at": "2026-04-09T09:29:31+09:00",
+      "text_length": 0,
+      "title": "논리적 비약의 위력"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
+      "link_count": 1,
+      "log_no": "224246099608",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224246099608",
+      "published_at": "2026-04-09T09:23:43+09:00",
+      "text_length": 80,
+      "title": "성적 상위권과 하위권, '주말 공부 시간'에서 갈렸다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-09T00:47:20.950247+09:00",
@@ -1248,59 +1300,7 @@
       "published_at": "2026-04-03T18:48:09+09:00",
       "text_length": 0,
       "title": "이대로는 못 버텨\" 남고·여고가 사라진다…무슨 일이"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239829926",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239829926",
-      "published_at": "2026-04-03T18:38:09+09:00",
-      "text_length": 0,
-      "title": "내신 1등급 학생의 비결…“학원보다 자습 우선, 오답 분석 철저히"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 0,
-      "log_no": "224239684540",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239684540",
-      "published_at": "2026-04-03T16:33:08+09:00",
-      "text_length": 0,
-      "title": "두각학원 대학에서 Pick 하는 생기부 만들기"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 6,
-      "log_no": "224239654936",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239654936",
-      "published_at": "2026-04-03T16:09:56+09:00",
-      "text_length": 1231,
-      "title": "유웨이 대치센터 4월 합격하는 생기부 설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 0,
-      "log_no": "224239634996",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239634996",
-      "published_at": "2026-04-03T15:55:37+09:00",
-      "text_length": 0,
-      "title": "대한민국학생창의력챔피언대회"
     }
   ],
-  "updated_at": "2026-04-09T00:47:20.950247+09:00"
+  "updated_at": "2026-04-09T09:49:49.191719+09:00"
 }
