@@ -724,6 +724,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-11T00:33:47.397241+09:00",
+        "link_count": 1,
+        "log_no": "224248290530",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224248290530",
+        "published_at": "2026-04-10T23:44:13+09:00",
+        "text_length": 217,
+        "title": "msc서초 변화하는 입시제도 개편안!"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-10T15:54:36.282016+09:00",
@@ -2849,6 +2862,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-11T00:33:47.397241+09:00",
+        "link_count": 0,
+        "log_no": "224248287341",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224248287341",
+        "published_at": "2026-04-10T23:39:57+09:00",
+        "text_length": 0,
+        "title": "내일 에버랜드 가야 하는데\"…소파에 쓰러진 가장들의 슬픈 '신체 부도'"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-10T12:24:15.024967+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-10T12:24:15.024967+09:00",
@@ -4232,5 +4258,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-10T22:48:57.317024+09:00"
+  "updated_at": "2026-04-11T00:33:47.397241+09:00"
 }

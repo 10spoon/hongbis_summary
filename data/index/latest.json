@@ -1,6 +1,32 @@
 {
-  "post_count": 324,
+  "post_count": 326,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-11T00:33:47.397241+09:00",
+      "link_count": 1,
+      "log_no": "224248290530",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248290530",
+      "published_at": "2026-04-10T23:44:13+09:00",
+      "text_length": 217,
+      "title": "msc서초 변화하는 입시제도 개편안!"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-11T00:33:47.397241+09:00",
+      "link_count": 0,
+      "log_no": "224248287341",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248287341",
+      "published_at": "2026-04-10T23:39:57+09:00",
+      "text_length": 0,
+      "title": "내일 에버랜드 가야 하는데\"…소파에 쓰러진 가장들의 슬픈 '신체 부도'"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-04-05T15:22:12+09:00",
       "text_length": 0,
       "title": "대치원수학 6월 공수1기본반"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-05T14:50:46.454924+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T14:50:46.454924+09:00",
-      "link_count": 0,
-      "log_no": "224241476936",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241476936",
-      "published_at": "2026-04-05T14:06:45+09:00",
-      "text_length": 0,
-      "title": "송일국 “사춘기 삼둥이, 화장실서 1시간”…극한 직업 ‘아빠’"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241465569",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241465569",
-      "published_at": "2026-04-05T13:51:01+09:00",
-      "text_length": 0,
-      "title": "언니 따라 영재고 도전, 실패 후 엉겁결에 간 과학고…나 괜찮을까?"
     }
   ],
-  "updated_at": "2026-04-10T22:48:57.317024+09:00"
+  "updated_at": "2026-04-11T00:33:47.397241+09:00"
 }
