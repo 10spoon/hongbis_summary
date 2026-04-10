@@ -1,6 +1,19 @@
 {
-  "post_count": 312,
+  "post_count": 313,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-10T12:24:15.024967+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T12:24:15.024967+09:00",
+      "link_count": 0,
+      "log_no": "224247501261",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224247501261",
+      "published_at": "2026-04-10T11:10:56+09:00",
+      "text_length": 0,
+      "title": "재물이 절대 모이지 않는 집에 꼭 있는 것, 눈에 띄는대로 버려라"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-09T23:58:39.388909+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-04T19:24:13+09:00",
       "text_length": 0,
       "title": "목동프로세스 2026 4, 5월 신규개강반 및 논술 수업"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-04T19:26:49.162261+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-04T19:26:49.162261+09:00",
-      "link_count": 0,
-      "log_no": "224240836158",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240836158",
-      "published_at": "2026-04-04T19:22:15+09:00",
-      "text_length": 0,
-      "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
     }
   ],
-  "updated_at": "2026-04-09T23:58:39.388909+09:00"
+  "updated_at": "2026-04-10T12:24:15.024967+09:00"
 }
