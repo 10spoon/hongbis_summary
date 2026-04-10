@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-10T15:54:36.282016+09:00",
+        "link_count": 0,
+        "log_no": "224247828162",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247828162",
+        "published_at": "2026-04-10T15:42:18+09:00",
+        "text_length": 0,
+        "title": "고려대경영대학 정기 캠퍼스 투어 및 청소년 만남의 날"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-07T20:35:17.253188+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-07T20:35:17.253188+09:00",
@@ -696,6 +709,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-10T15:54:36.282016+09:00",
+        "link_count": 3,
+        "log_no": "224247819274",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247819274",
+        "published_at": "2026-04-10T15:35:28+09:00",
+        "text_length": 579,
+        "title": "목동CMS 그랜드슬램관 4월 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-09T23:58:39.388909+09:00",
@@ -3332,6 +3358,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-10T15:54:36.282016+09:00",
+        "link_count": 0,
+        "log_no": "224247832613",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247832613",
+        "published_at": "2026-04-10T15:45:49+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 수험생이 4월에 해야 할 일"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-09T23:58:39.388909+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-09T23:58:39.388909+09:00",
@@ -4089,5 +4128,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-10T12:24:15.024967+09:00"
+  "updated_at": "2026-04-10T15:54:36.282016+09:00"
 }

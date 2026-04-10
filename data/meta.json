@@ -15,8 +15,8 @@
     {
       "date": "2026-04-10",
       "path": "data/index/by_date/2026-04-10.json",
-      "post_count": 1,
-      "updated_at": "2026-04-10T12:24:15.024967+09:00"
+      "post_count": 4,
+      "updated_at": "2026-04-10T15:54:36.282016+09:00"
     },
     {
       "date": "2026-04-09",
@@ -127,10 +127,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-04-10T05:58:22.579567+00:00",
+  "generated_at": "2026-04-10T06:55:14.896503+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 313,
-  "latest_updated_at": "2026-04-10T12:24:15.024967+09:00",
+  "latest_post_count": 316,
+  "latest_updated_at": "2026-04-10T15:54:36.282016+09:00",
   "notice": "Pages에는 index와 report JSON만 배포합니다. 글 전문 JSON은 저장소 내부에만 유지합니다.",
   "reports": [
     {
