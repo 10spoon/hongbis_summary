@@ -1,7 +1,20 @@
 {
   "key": "2026-04-10",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T20:33:07.267966+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T20:33:07.267966+09:00",
+      "link_count": 1,
+      "log_no": "224248134836",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248134836",
+      "published_at": "2026-04-10T20:32:33+09:00",
+      "text_length": 609,
+      "title": "아카로드 블루M 1학기중간 수학/과학 내신대비"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-10T17:47:56.524641+09:00",
@@ -81,5 +94,5 @@
       "title": "재물이 절대 모이지 않는 집에 꼭 있는 것, 눈에 띄는대로 버려라"
     }
   ],
-  "updated_at": "2026-04-10T17:47:56.524641+09:00"
+  "updated_at": "2026-04-10T20:33:07.267966+09:00"
 }
