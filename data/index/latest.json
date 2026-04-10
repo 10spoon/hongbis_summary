@@ -1,6 +1,19 @@
 {
-  "post_count": 317,
+  "post_count": 318,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T17:47:56.524641+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T17:47:56.524641+09:00",
+      "link_count": 1,
+      "log_no": "224247938134",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224247938134",
+      "published_at": "2026-04-10T17:08:00+09:00",
+      "text_length": 641,
+      "title": "세정입시관 세특 보고서 특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-10T16:54:01.392029+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-05T11:11:27+09:00",
       "text_length": 0,
       "title": "날아보자 훨훨, 1년에 딱 열흘뿐이니까"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T00:26:23.337354+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T00:26:23.337354+09:00",
-      "link_count": 0,
-      "log_no": "224241032612",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241032612",
-      "published_at": "2026-04-04T23:39:53+09:00",
-      "text_length": 0,
-      "title": "정도수학 초등부시간표"
     }
   ],
-  "updated_at": "2026-04-10T16:54:01.392029+09:00"
+  "updated_at": "2026-04-10T17:47:56.524641+09:00"
 }
