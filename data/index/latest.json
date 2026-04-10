@@ -1,6 +1,71 @@
 {
-  "post_count": 319,
+  "post_count": 324,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248223251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248223251",
+      "published_at": "2026-04-10T22:20:21+09:00",
+      "text_length": 0,
+      "title": "5등급제 생기부 관리, 다섯 가지 궁금증"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248195817",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248195817",
+      "published_at": "2026-04-10T21:47:03+09:00",
+      "text_length": 0,
+      "title": "대치cms 5월과학 단과반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248193077",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248193077",
+      "published_at": "2026-04-10T21:43:52+09:00",
+      "text_length": 0,
+      "title": "현상훈수학 중3 / 5월 놀면뭐하니 특강 및 레테 맞춤 클리닉 시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 1,
+      "log_no": "224248192016",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248192016",
+      "published_at": "2026-04-10T21:42:32+09:00",
+      "text_length": 32,
+      "title": "중앙대, 2028학년도 입학전형 시행계획 공개"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 10,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248190260",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248190260",
+      "published_at": "2026-04-10T21:40:23+09:00",
+      "text_length": 0,
+      "title": "다솔학원 중1,2 수능국어"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-10T20:33:07.267966+09:00",
@@ -1235,72 +1300,7 @@
       "published_at": "2026-04-05T13:51:01+09:00",
       "text_length": 0,
       "title": "언니 따라 영재고 도전, 실패 후 엉겁결에 간 과학고…나 괜찮을까?"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241431756",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241431756",
-      "published_at": "2026-04-05T13:03:46+09:00",
-      "text_length": 327,
-      "title": "기파랑 대치본원 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241427432",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241427432",
-      "published_at": "2026-04-05T12:57:24+09:00",
-      "text_length": 0,
-      "title": "이안어학원 초,중등프로그램"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241425853",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241425853",
-      "published_at": "2026-04-05T12:55:03+09:00",
-      "text_length": 451,
-      "title": "송림학원 제대로 알면 유리한 2022개정 교육과정, 무엇을 언제까지 준비해야 할까?"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241422288",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241422288",
-      "published_at": "2026-04-05T12:49:52+09:00",
-      "text_length": 0,
-      "title": "이공계 문턱 낮아졌다…전국 174개 대학 중 서울대만 '미적분·기하' 본다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241411680",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241411680",
-      "published_at": "2026-04-05T12:34:03+09:00",
-      "text_length": 0,
-      "title": "리얼수학 2026 미국수학 여름특강"
     }
   ],
-  "updated_at": "2026-04-10T20:33:07.267966+09:00"
+  "updated_at": "2026-04-10T22:48:57.317024+09:00"
 }

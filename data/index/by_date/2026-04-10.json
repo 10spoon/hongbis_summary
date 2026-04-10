@@ -1,7 +1,72 @@
 {
   "key": "2026-04-10",
-  "post_count": 7,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248223251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248223251",
+      "published_at": "2026-04-10T22:20:21+09:00",
+      "text_length": 0,
+      "title": "5등급제 생기부 관리, 다섯 가지 궁금증"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248195817",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248195817",
+      "published_at": "2026-04-10T21:47:03+09:00",
+      "text_length": 0,
+      "title": "대치cms 5월과학 단과반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248193077",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248193077",
+      "published_at": "2026-04-10T21:43:52+09:00",
+      "text_length": 0,
+      "title": "현상훈수학 중3 / 5월 놀면뭐하니 특강 및 레테 맞춤 클리닉 시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 1,
+      "log_no": "224248192016",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248192016",
+      "published_at": "2026-04-10T21:42:32+09:00",
+      "text_length": 32,
+      "title": "중앙대, 2028학년도 입학전형 시행계획 공개"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
+      "image_count": 10,
+      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
+      "link_count": 0,
+      "log_no": "224248190260",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248190260",
+      "published_at": "2026-04-10T21:40:23+09:00",
+      "text_length": 0,
+      "title": "다솔학원 중1,2 수능국어"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-10T20:33:07.267966+09:00",
@@ -94,5 +159,5 @@
       "title": "재물이 절대 모이지 않는 집에 꼭 있는 것, 눈에 띄는대로 버려라"
     }
   ],
-  "updated_at": "2026-04-10T20:33:07.267966+09:00"
+  "updated_at": "2026-04-10T22:48:57.317024+09:00"
 }
