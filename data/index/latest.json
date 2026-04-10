@@ -1,6 +1,19 @@
 {
-  "post_count": 316,
+  "post_count": 317,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-10T16:54:01.392029+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-10T16:54:01.392029+09:00",
+      "link_count": 0,
+      "log_no": "224247917656",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224247917656",
+      "published_at": "2026-04-10T16:51:17+09:00",
+      "text_length": 0,
+      "title": "Y교육박람회 2026 \"제2회 전국 수학구조물 경진대회\" 개최"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-04T23:39:53+09:00",
       "text_length": 0,
       "title": "정도수학 초등부시간표"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-04T21:27:34.138399+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-04T21:27:34.138399+09:00",
-      "link_count": 0,
-      "log_no": "224240891787",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240891787",
-      "published_at": "2026-04-04T20:39:09+09:00",
-      "text_length": 237,
-      "title": "서을시립과학관 4월 북토크: 야구x수학"
     }
   ],
-  "updated_at": "2026-04-10T15:54:36.282016+09:00"
+  "updated_at": "2026-04-10T16:54:01.392029+09:00"
 }

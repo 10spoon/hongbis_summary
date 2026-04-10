@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-10T16:54:01.392029+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-10T16:54:01.392029+09:00",
+        "link_count": 0,
+        "log_no": "224247917656",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224247917656",
+        "published_at": "2026-04-10T16:51:17+09:00",
+        "text_length": 0,
+        "title": "Y교육박람회 2026 \"제2회 전국 수학구조물 경진대회\" 개최"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-10T15:54:36.282016+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-10T15:54:36.282016+09:00",
@@ -4128,5 +4141,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-10T15:54:36.282016+09:00"
+  "updated_at": "2026-04-10T16:54:01.392029+09:00"
 }
