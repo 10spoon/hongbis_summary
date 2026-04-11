@@ -750,6 +750,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
+        "image_count": 5,
+        "last_changed_at": "2026-04-11T21:27:45.496483+09:00",
+        "link_count": 0,
+        "log_no": "224249039391",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249039391",
+        "published_at": "2026-04-11T21:00:56+09:00",
+        "text_length": 0,
+        "title": "에프엑스수학 예비중1,2 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-11T00:33:47.397241+09:00",
@@ -1805,6 +1818,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-11T21:27:45.496483+09:00",
+        "link_count": 0,
+        "log_no": "224249032564",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249032564",
+        "published_at": "2026-04-11T20:51:33+09:00",
+        "text_length": 0,
+        "title": "목동시대인재 중등국어프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
@@ -4375,5 +4401,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-11T20:26:04.789077+09:00"
+  "updated_at": "2026-04-11T21:27:45.496483+09:00"
 }

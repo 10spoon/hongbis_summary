@@ -1,6 +1,32 @@
 {
-  "post_count": 335,
+  "post_count": 337,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-11T21:27:45.496483+09:00",
+      "link_count": 0,
+      "log_no": "224249039391",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249039391",
+      "published_at": "2026-04-11T21:00:56+09:00",
+      "text_length": 0,
+      "title": "에프엑스수학 예비중1,2 간담회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-11T21:27:45.496483+09:00",
+      "link_count": 0,
+      "log_no": "224249032564",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249032564",
+      "published_at": "2026-04-11T20:51:33+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 중등국어프로그램"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
@@ -1274,33 +1300,7 @@
       "published_at": "2026-04-06T08:25:16+09:00",
       "text_length": 0,
       "title": "엇그제 개학한 것 같은데 벌써?”…3주전부터 챙기는 중간고사 로드맵"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-06T08:26:43.892486+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-06T08:26:43.892486+09:00",
-      "link_count": 0,
-      "log_no": "224242166847",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224242166847",
-      "published_at": "2026-04-06T08:23:34+09:00",
-      "text_length": 0,
-      "title": "자녀가 없는 ‘단톡방’은 괜찮을까?"
-    },
-    {
-      "category": "mom's diary",
-      "first_seen_at": "2026-04-06T01:26:51.719166+09:00",
-      "image_count": 23,
-      "last_changed_at": "2026-04-06T01:26:51.719166+09:00",
-      "link_count": 0,
-      "log_no": "224241991948",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241991948",
-      "published_at": "2026-04-06T00:57:40+09:00",
-      "text_length": 1049,
-      "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
     }
   ],
-  "updated_at": "2026-04-11T20:26:04.789077+09:00"
+  "updated_at": "2026-04-11T21:27:45.496483+09:00"
 }
