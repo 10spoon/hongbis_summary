@@ -1781,6 +1781,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-11T15:39:10.243549+09:00",
+        "image_count": 15,
+        "last_changed_at": "2026-04-11T15:39:10.243549+09:00",
+        "link_count": 0,
+        "log_no": "224248783373",
+        "place_count": 3,
+        "post_url": "https://blog.naver.com/hongbis/224248783373",
+        "published_at": "2026-04-11T15:03:15+09:00",
+        "text_length": 2173,
+        "title": "잠실관리형독서실 의대선배잠실점"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
         "image_count": 4,
         "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
@@ -4271,5 +4284,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-11T13:55:11.109072+09:00"
+  "updated_at": "2026-04-11T15:39:10.243549+09:00"
 }

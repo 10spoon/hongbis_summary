@@ -1,6 +1,19 @@
 {
-  "post_count": 327,
+  "post_count": 328,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-11T15:39:10.243549+09:00",
+      "image_count": 15,
+      "last_changed_at": "2026-04-11T15:39:10.243549+09:00",
+      "link_count": 0,
+      "log_no": "224248783373",
+      "place_count": 3,
+      "post_url": "https://blog.naver.com/hongbis/224248783373",
+      "published_at": "2026-04-11T15:03:15+09:00",
+      "text_length": 2173,
+      "title": "잠실관리형독서실 의대선배잠실점"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-04-11T13:55:11.109072+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-05T22:33:50+09:00",
       "text_length": 0,
       "title": "우리 애가 얌전하긴 한데, 자주 멍때리고 깜빡…뇌가 보내는 SOS 신호라는데"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-05T21:28:12.909376+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T21:28:12.909376+09:00",
-      "link_count": 0,
-      "log_no": "224241758424",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241758424",
-      "published_at": "2026-04-05T20:32:40+09:00",
-      "text_length": 0,
-      "title": "3배 더 공부해도 고작 2점 차이”…대세 된 ‘확통런’"
     }
   ],
-  "updated_at": "2026-04-11T13:55:11.109072+09:00"
+  "updated_at": "2026-04-11T15:39:10.243549+09:00"
 }
