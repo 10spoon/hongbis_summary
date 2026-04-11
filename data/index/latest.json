@@ -1,6 +1,19 @@
 {
-  "post_count": 326,
+  "post_count": 327,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-04-11T13:55:11.109072+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-11T13:55:11.109072+09:00",
+      "link_count": 0,
+      "log_no": "224248677046",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248677046",
+      "published_at": "2026-04-11T12:36:00+09:00",
+      "text_length": 0,
+      "title": "2026 필즈상 후보] ①'페르마의 마지막 정리' 연구서 싹튼 이론으로 현대 수학 이정표 쓴 잭 쏜"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-11T00:33:47.397241+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-05T20:32:40+09:00",
       "text_length": 0,
       "title": "3배 더 공부해도 고작 2점 차이”…대세 된 ‘확통런’"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T15:41:11.317577+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-05T15:41:11.317577+09:00",
-      "link_count": 0,
-      "log_no": "224241530643",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241530643",
-      "published_at": "2026-04-05T15:22:12+09:00",
-      "text_length": 0,
-      "title": "대치원수학 6월 공수1기본반"
     }
   ],
-  "updated_at": "2026-04-11T00:33:47.397241+09:00"
+  "updated_at": "2026-04-11T13:55:11.109072+09:00"
 }
