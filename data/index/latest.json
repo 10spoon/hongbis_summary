@@ -1,6 +1,45 @@
 {
-  "post_count": 332,
+  "post_count": 335,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+      "link_count": 0,
+      "log_no": "224249007608",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249007608",
+      "published_at": "2026-04-11T20:15:06+09:00",
+      "text_length": 0,
+      "title": "잇팀독서논술 월촌중, 양정중 국어내신 중간고사 대비특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+      "link_count": 0,
+      "log_no": "224249006175",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249006175",
+      "published_at": "2026-04-11T20:12:52+09:00",
+      "text_length": 1073,
+      "title": "대치올깨 시그니처! 유경아T 과학 정규 프로그램"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+      "link_count": 0,
+      "log_no": "224248977782",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224248977782",
+      "published_at": "2026-04-11T19:29:28+09:00",
+      "text_length": 0,
+      "title": "“서울대 컴공과 나와도 갈 데가 없다니”…개발자 60%가 경력직"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-11T19:26:35.454312+09:00",
@@ -1261,46 +1300,7 @@
       "published_at": "2026-04-06T00:57:40+09:00",
       "text_length": 1049,
       "title": "이사랑도 통역이 되나요? 우리 모두는 통역사"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-06T00:26:27.259350+09:00",
-      "image_count": 6,
-      "last_changed_at": "2026-04-06T00:26:27.259350+09:00",
-      "link_count": 0,
-      "log_no": "224241942214",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241942214",
-      "published_at": "2026-04-05T23:51:08+09:00",
-      "text_length": 203,
-      "title": "오투×궤도 과학의날 특집강연회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-06T00:26:27.259350+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-06T00:26:27.259350+09:00",
-      "link_count": 0,
-      "log_no": "224241933683",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241933683",
-      "published_at": "2026-04-05T23:41:12+09:00",
-      "text_length": 0,
-      "title": "수강원수학 고1 공통수학1"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
-      "link_count": 0,
-      "log_no": "224241921278",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241921278",
-      "published_at": "2026-04-05T23:27:07+09:00",
-      "text_length": 0,
-      "title": "[3년 전 오늘] 우리엄마는 말이 통해"
     }
   ],
-  "updated_at": "2026-04-11T19:26:35.454312+09:00"
+  "updated_at": "2026-04-11T20:26:04.789077+09:00"
 }

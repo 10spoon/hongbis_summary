@@ -1807,6 +1807,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+        "link_count": 0,
+        "log_no": "224249007608",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249007608",
+        "published_at": "2026-04-11T20:15:06+09:00",
+        "text_length": 0,
+        "title": "잇팀독서논술 월촌중, 양정중 국어내신 중간고사 대비특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+        "link_count": 0,
+        "log_no": "224249006175",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249006175",
+        "published_at": "2026-04-11T20:12:52+09:00",
+        "text_length": 1073,
+        "title": "대치올깨 시그니처! 유경아T 과학 정규 프로그램"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-11T19:26:35.454312+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-11T19:26:35.454312+09:00",
@@ -3540,6 +3566,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-11T20:26:04.789077+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-11T20:26:04.789077+09:00",
+        "link_count": 0,
+        "log_no": "224248977782",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224248977782",
+        "published_at": "2026-04-11T19:29:28+09:00",
+        "text_length": 0,
+        "title": "“서울대 컴공과 나와도 갈 데가 없다니”…개발자 60%가 경력직"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
@@ -4336,5 +4375,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-11T19:26:35.454312+09:00"
+  "updated_at": "2026-04-11T20:26:04.789077+09:00"
 }
