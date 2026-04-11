@@ -1,6 +1,19 @@
 {
-  "post_count": 337,
+  "post_count": 338,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-12T00:26:24.214415+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-12T00:26:24.214415+09:00",
+      "link_count": 0,
+      "log_no": "224249162882",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249162882",
+      "published_at": "2026-04-11T23:43:29+09:00",
+      "text_length": 0,
+      "title": "“여보세요? 그게 뭐야” 집전화 부활에 당황하는 아이들"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
@@ -1287,20 +1300,7 @@
       "published_at": "2026-04-06T11:05:26+09:00",
       "text_length": 0,
       "title": "초중고생 문해력 저하 심각”… 책 읽는 학교 3000곳 만들기로"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-06T08:26:43.892486+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-06T08:26:43.892486+09:00",
-      "link_count": 0,
-      "log_no": "224242168037",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224242168037",
-      "published_at": "2026-04-06T08:25:16+09:00",
-      "text_length": 0,
-      "title": "엇그제 개학한 것 같은데 벌써?”…3주전부터 챙기는 중간고사 로드맵"
     }
   ],
-  "updated_at": "2026-04-11T21:27:45.496483+09:00"
+  "updated_at": "2026-04-12T00:26:24.214415+09:00"
 }
