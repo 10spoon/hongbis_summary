@@ -1781,6 +1781,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-11T16:35:25.166988+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-11T16:35:25.166988+09:00",
+        "link_count": 1,
+        "log_no": "224248815131",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224248815131",
+        "published_at": "2026-04-11T15:45:58+09:00",
+        "text_length": 986,
+        "title": "시대인재 수학스쿨 고1 5월 단기특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-11T15:39:10.243549+09:00",
         "image_count": 15,
         "last_changed_at": "2026-04-11T15:39:10.243549+09:00",
@@ -4284,5 +4297,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-11T15:39:10.243549+09:00"
+  "updated_at": "2026-04-11T16:35:25.166988+09:00"
 }
