@@ -31,6 +31,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
+        "link_count": 0,
+        "log_no": "224249641150",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249641150",
+        "published_at": "2026-04-12T15:22:15+09:00",
+        "text_length": 0,
+        "title": "명덕외고 중학생진로탐색교실"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
+        "link_count": 0,
+        "log_no": "224249639631",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249639631",
+        "published_at": "2026-04-12T15:20:15+09:00",
+        "text_length": 0,
+        "title": "대일외고 중3을위한 온라인 만남"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
+        "link_count": 0,
+        "log_no": "224249637810",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249637810",
+        "published_at": "2026-04-12T15:17:47+09:00",
+        "text_length": 0,
+        "title": "서울역사편찬원 2026 시민을 위한 서울역사문화답사"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-11T19:26:35.454312+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-11T19:26:35.454312+09:00",
@@ -748,6 +787,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
+        "link_count": 0,
+        "log_no": "224249641928",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249641928",
+        "published_at": "2026-04-12T15:23:20+09:00",
+        "text_length": 0,
+        "title": "이화외고 입학설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
@@ -4440,5 +4492,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-12T10:56:34.626692+09:00"
+  "updated_at": "2026-04-12T15:48:19.229246+09:00"
 }
