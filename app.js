@@ -1,6 +1,5 @@
 const state = {
   meta: null,
-  latest: null,
   categories: null,
   currentPayload: null,
   currentPath: null,
@@ -11,6 +10,7 @@ const state = {
 
 const elements = {
   viewSelect: document.getElementById("view-select"),
+  targetControl: document.getElementById("target-control"),
   targetSelect: document.getElementById("target-select"),
   searchInput: document.getElementById("search-input"),
   reloadButton: document.getElementById("reload-button"),
@@ -21,7 +21,6 @@ const elements = {
   listCount: document.getElementById("list-count"),
   heroPostCount: document.getElementById("hero-post-count"),
   heroUpdatedAt: document.getElementById("hero-updated-at"),
-  heroNotice: document.getElementById("hero-notice"),
   categoryFilter: document.getElementById("category-filter"),
 };
 
@@ -184,13 +183,19 @@ function renderPosts(items) {
 
 function populateTargets() {
   const view = elements.viewSelect.value;
+  const hasTargetOptions = view !== "latest";
+  elements.targetControl.hidden = !hasTargetOptions;
+  elements.targetSelect.disabled = !hasTargetOptions;
+
   const select = elements.targetSelect;
   select.replaceChildren();
 
+  if (!hasTargetOptions) {
+    return;
+  }
+
   const options = [];
-  if (view === "latest") {
-    options.push({ label: "latest", value: state.meta.latest_path });
-  } else if (view === "date") {
+  if (view === "date") {
     for (const entry of state.meta.dates) {
       options.push({ label: `${entry.date} (${entry.post_count})`, value: entry.path });
     }
@@ -245,7 +250,7 @@ function extractItems(view, payload) {
 
 async function loadCurrentPayload() {
   const view = elements.viewSelect.value;
-  const path = elements.targetSelect.value;
+  const path = view === "latest" ? `./${state.meta.latest_path}` : elements.targetSelect.value;
   let payload;
 
   if (view === "category") {
@@ -284,12 +289,10 @@ async function loadCurrentPayload() {
 
 async function initialize() {
   state.meta = await fetchJson("./data/meta.json");
-  state.latest = await fetchJson(`./${state.meta.latest_path}`);
   state.categories = await fetchJson(`./${state.meta.category_index_path}`);
 
   elements.heroPostCount.textContent = String(state.meta.latest_post_count);
   elements.heroUpdatedAt.textContent = formatDateTime(state.meta.latest_updated_at);
-  elements.heroNotice.textContent = state.meta.notice;
 
   populateTargets();
   await loadCurrentPayload();
