@@ -349,6 +349,38 @@ input {
   text-align: center;
 }
 
+.pagination {
+  margin-top: 14px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+}
+
+.pagination-button {
+  min-height: 34px;
+  padding: 0 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(10, 92, 101, 0.16);
+  background: rgba(255, 255, 255, 0.85);
+  color: var(--accent-strong);
+  font: inherit;
+  font-size: 0.84rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pagination-button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.pagination-status {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
 .json-viewer {
   margin: 0;
   height: 36vh;
@@ -393,6 +425,11 @@ input {
 
   .post-side {
     justify-items: start;
+  }
+
+  .pagination {
+    justify-content: space-between;
+    gap: 8px;
   }
 
   .json-viewer {

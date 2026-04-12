@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260412082151" />
+    <link rel="stylesheet" href="./styles.css?v=20260412082543" />
   </head>
   <body>
     <div class="shell">
@@ -67,6 +67,11 @@
               <div id="category-filter" class="category-filter"></div>
             </div>
             <ul id="post-list" class="post-list"></ul>
+            <div id="pagination" class="pagination" hidden>
+              <button id="page-prev" class="pagination-button" type="button">이전</button>
+              <span id="page-status" class="pagination-status">1 / 1</span>
+              <button id="page-next" class="pagination-button" type="button">다음</button>
+            </div>
           </article>
 
           <article class="panel panel-json">
@@ -80,6 +85,6 @@
       </main>
     </div>
 
-    <script src="./app.js?v=20260412082151" defer></script>
+    <script src="./app.js?v=20260412082543" defer></script>
   </body>
 </html>

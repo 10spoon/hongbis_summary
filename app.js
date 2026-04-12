@@ -6,6 +6,8 @@ const state = {
   currentItems: [],
   currentListTitle: "목록",
   selectedCategory: "__all__",
+  currentPage: 1,
+  totalPages: 1,
 };
 
 const elements = {
@@ -20,9 +22,14 @@ const elements = {
   heroPostCount: document.getElementById("hero-post-count"),
   heroUpdatedAt: document.getElementById("hero-updated-at"),
   categoryFilter: document.getElementById("category-filter"),
+  pagination: document.getElementById("pagination"),
+  pagePrev: document.getElementById("page-prev"),
+  pageNext: document.getElementById("page-next"),
+  pageStatus: document.getElementById("page-status"),
 };
 
 const ALL_CATEGORY = "__all__";
+const PAGE_SIZE = 50;
 
 const formatDateTime = (value) => {
   if (!value) return "-";
@@ -102,6 +109,7 @@ function renderCategoryFilter(items) {
     element.addEventListener("click", () => {
       if (state.selectedCategory === button.value) return;
       state.selectedCategory = button.value;
+      state.currentPage = 1;
       renderCategoryFilter(state.currentItems);
       renderPosts(state.currentItems);
     });
@@ -120,17 +128,36 @@ function getFilteredItems(items) {
   });
 }
 
+function renderPagination(totalCount, pageStart, pageEnd) {
+  const hasMultiplePages = totalCount > PAGE_SIZE;
+
+  if (!hasMultiplePages) {
+    elements.pagination.hidden = true;
+    return;
+  }
+
+  elements.pagination.hidden = false;
+  elements.pagePrev.disabled = state.currentPage <= 1;
+  elements.pageNext.disabled = state.currentPage >= state.totalPages;
+  elements.pageStatus.textContent = `${pageStart}-${pageEnd} / ${totalCount} · ${state.currentPage}/${state.totalPages}`;
+}
+
 function renderPosts(items) {
   const filtered = getFilteredItems(items);
+  const totalCount = filtered.length;
+  const computedTotalPages = Math.max(1, Math.ceil(totalCount / PAGE_SIZE));
+  state.totalPages = computedTotalPages;
+  state.currentPage = Math.max(1, Math.min(state.currentPage, state.totalPages));
 
-  elements.listCount.textContent = String(filtered.length);
+  elements.listCount.textContent = String(totalCount);
   elements.listTitle.textContent =
     state.selectedCategory === ALL_CATEGORY
       ? state.currentListTitle
       : `${state.currentListTitle} · ${state.selectedCategory}`;
   elements.postList.replaceChildren();
 
-  if (!filtered.length) {
+  if (!totalCount) {
+    elements.pagination.hidden = true;
     const emptyItem = document.createElement("li");
     emptyItem.className = "post-list-empty";
     emptyItem.textContent = "조건에 맞는 글이 없습니다.";
@@ -138,7 +165,11 @@ function renderPosts(items) {
     return;
   }
 
-  for (const item of filtered) {
+  const start = (state.currentPage - 1) * PAGE_SIZE;
+  const end = Math.min(start + PAGE_SIZE, totalCount);
+  const currentItems = filtered.slice(start, end);
+
+  for (const item of currentItems) {
     const metaParts = [
       item.log_no ? `logNo ${item.log_no}` : "",
       item.image_count !== undefined ? `이미지 ${item.image_count}` : "",
@@ -177,6 +208,8 @@ function renderPosts(items) {
       : `<div class="post-item-content">${content}</div>`;
     elements.postList.append(li);
   }
+
+  renderPagination(totalCount, start + 1, end);
 }
 
 function extractItems(view, payload) {
@@ -255,6 +288,7 @@ async function loadCurrentPayload() {
   }
 
   state.currentItems = extractItems(view, payload);
+  state.currentPage = 1;
   renderCategoryFilter(state.currentItems);
   renderPosts(state.currentItems);
 }
@@ -273,7 +307,20 @@ elements.viewSelect.addEventListener("change", async () => {
   await loadCurrentPayload();
 });
 
+elements.pagePrev.addEventListener("click", () => {
+  if (state.currentPage <= 1) return;
+  state.currentPage -= 1;
+  renderPosts(state.currentItems);
+});
+
+elements.pageNext.addEventListener("click", () => {
+  if (state.currentPage >= state.totalPages) return;
+  state.currentPage += 1;
+  renderPosts(state.currentItems);
+});
+
 elements.searchInput.addEventListener("input", () => {
+  state.currentPage = 1;
   renderPosts(state.currentItems);
 });
 
