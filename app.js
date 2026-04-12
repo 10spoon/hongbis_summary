@@ -10,8 +10,6 @@ const state = {
 
 const elements = {
   viewSelect: document.getElementById("view-select"),
-  targetControl: document.getElementById("target-control"),
-  targetSelect: document.getElementById("target-select"),
   searchInput: document.getElementById("search-input"),
   reloadButton: document.getElementById("reload-button"),
   postList: document.getElementById("post-list"),
@@ -181,46 +179,6 @@ function renderPosts(items) {
   }
 }
 
-function populateTargets() {
-  const view = elements.viewSelect.value;
-  const hasTargetOptions = view !== "latest";
-  elements.targetControl.hidden = !hasTargetOptions;
-  elements.targetSelect.disabled = !hasTargetOptions;
-
-  const select = elements.targetSelect;
-  select.replaceChildren();
-
-  if (!hasTargetOptions) {
-    return;
-  }
-
-  const options = [];
-  if (view === "date") {
-    for (const entry of state.meta.dates) {
-      options.push({ label: `${entry.date} (${entry.post_count})`, value: entry.path });
-    }
-  } else if (view === "category") {
-    options.push({ label: "전체 카테고리", value: "__all_categories__" });
-    for (const category of state.meta.categories) {
-      options.push({ label: category, value: `category:${category}` });
-    }
-  } else if (view === "report") {
-    for (const entry of state.meta.reports) {
-      options.push({
-        label: `${entry.label} (신규 ${entry.new_count} / 수정 ${entry.updated_count})`,
-        value: entry.path,
-      });
-    }
-  }
-
-  for (const option of options) {
-    const element = document.createElement("option");
-    element.value = option.value;
-    element.textContent = option.label;
-    select.append(element);
-  }
-}
-
 function extractItems(view, payload) {
   if (view === "latest") {
     return payload.posts || [];
@@ -250,36 +208,50 @@ function extractItems(view, payload) {
 
 async function loadCurrentPayload() {
   const view = elements.viewSelect.value;
-  const path = view === "latest" ? `./${state.meta.latest_path}` : elements.targetSelect.value;
   let payload;
 
   if (view === "category") {
-    const allCategories = state.categories;
-    if (path === "__all_categories__") {
-      payload = allCategories;
-      state.currentListTitle = "카테고리 인덱스";
-      renderJson(payload, `./${state.meta.category_index_path}`);
-    } else {
-      const category = path.replace(/^category:/, "");
-      payload = {
-        key: category,
-        post_count: (allCategories.categories?.[category] || []).length,
-        posts: allCategories.categories?.[category] || [],
-      };
-      state.currentListTitle = `카테고리: ${category}`;
-      renderJson(payload, `./${state.meta.category_index_path}`);
-    }
+    payload = state.categories;
+    state.currentListTitle = "카테고리 인덱스";
+    renderJson(payload, `./${state.meta.category_index_path}`);
   } else {
-    payload = await fetchJson(path);
-
-    if (view === "latest") {
-      state.currentListTitle = "최신 글";
-    } else if (view === "date") {
-      state.currentListTitle = `날짜별: ${payload.key}`;
+    let path = `./${state.meta.latest_path}`;
+    if (view === "date") {
+      const latestDate = state.meta.dates?.[0];
+      if (!latestDate) {
+        payload = { key: "date", post_count: 0, updated_at: null, posts: [] };
+        state.currentListTitle = "날짜별";
+        renderJson(payload, "#");
+      } else {
+        path = `./${latestDate.path}`;
+        payload = await fetchJson(path);
+        state.currentListTitle = `날짜별: ${payload.key}`;
+        renderJson(payload, path);
+      }
+    } else if (view === "report") {
+      const latestReport = state.meta.reports?.[0];
+      if (!latestReport) {
+        payload = {
+          window_start: null,
+          window_end: null,
+          new_count: 0,
+          updated_count: 0,
+          new_posts: [],
+          updated_posts: [],
+        };
+        state.currentListTitle = "리포트";
+        renderJson(payload, "#");
+      } else {
+        path = `./${latestReport.path}`;
+        payload = await fetchJson(path);
+        state.currentListTitle = `리포트: ${latestReport.label}`;
+        renderJson(payload, path);
+      }
     } else {
-      state.currentListTitle = `리포트: ${path.split("/").pop().replace(".json", "")}`;
+      payload = await fetchJson(path);
+      state.currentListTitle = "최신 글";
+      renderJson(payload, path);
     }
-    renderJson(payload, path);
   }
 
   state.currentItems = extractItems(view, payload);
@@ -294,16 +266,10 @@ async function initialize() {
   elements.heroPostCount.textContent = String(state.meta.latest_post_count);
   elements.heroUpdatedAt.textContent = formatDateTime(state.meta.latest_updated_at);
 
-  populateTargets();
   await loadCurrentPayload();
 }
 
 elements.viewSelect.addEventListener("change", async () => {
-  populateTargets();
-  await loadCurrentPayload();
-});
-
-elements.targetSelect.addEventListener("change", async () => {
   await loadCurrentPayload();
 });
 
