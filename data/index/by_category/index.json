@@ -3109,6 +3109,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-13T00:27:11.749015+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-13T00:27:11.749015+09:00",
+        "link_count": 0,
+        "log_no": "224250061060",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224250061060",
+        "published_at": "2026-04-12T23:59:01+09:00",
+        "text_length": 0,
+        "title": "가족, 친구, 음식만 있으면 무너지지 않아\"… 아흔살 현자의 깨달음"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-12T19:27:29.464582+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-12T19:27:29.464582+09:00",
@@ -4596,5 +4609,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-12T22:39:58.287204+09:00"
+  "updated_at": "2026-04-13T00:27:11.749015+09:00"
 }
