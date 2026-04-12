@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-12T18:16:42.032530+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-12T18:16:42.032530+09:00",
+        "link_count": 0,
+        "log_no": "224249766415",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249766415",
+        "published_at": "2026-04-12T18:06:15+09:00",
+        "text_length": 0,
+        "title": "우리역사바로알기대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
@@ -3657,6 +3670,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-12T18:16:42.032530+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-12T18:16:42.032530+09:00",
+        "link_count": 0,
+        "log_no": "224249767166",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249767166",
+        "published_at": "2026-04-12T18:07:13+09:00",
+        "text_length": 0,
+        "title": "[2년 전 오늘] 의사 관심 없었다”…서울대 1년만에 뛰쳐나와 목수 된 청년"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-12T18:16:42.032530+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-12T18:16:42.032530+09:00",
+        "link_count": 0,
+        "log_no": "224249766920",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249766920",
+        "published_at": "2026-04-12T18:06:55+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 한국에 단 한명, 2만대 1 경쟁률 뚫고…커피 대사가 된 반도체 공학도"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-12T10:56:34.626692+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-12T10:56:34.626692+09:00",
@@ -4492,5 +4531,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-12T15:48:19.229246+09:00"
+  "updated_at": "2026-04-12T18:16:42.032530+09:00"
 }
