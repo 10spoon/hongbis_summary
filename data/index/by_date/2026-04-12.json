@@ -1,7 +1,20 @@
 {
   "key": "2026-04-12",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-12T21:28:54.666488+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-12T21:28:54.666488+09:00",
+      "link_count": 1,
+      "log_no": "224249902676",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249902676",
+      "published_at": "2026-04-12T21:01:53+09:00",
+      "text_length": 59,
+      "title": "SNT 고1,2 5월특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-12T19:27:29.464582+09:00",
@@ -133,5 +146,5 @@
       "title": "올해 지방 고2, 의대 ‘지역인재전형’ 문 좁아질 듯"
     }
   ],
-  "updated_at": "2026-04-12T19:27:29.464582+09:00"
+  "updated_at": "2026-04-12T21:28:54.666488+09:00"
 }

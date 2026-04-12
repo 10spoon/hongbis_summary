@@ -1,6 +1,19 @@
 {
-  "post_count": 348,
+  "post_count": 349,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-12T21:28:54.666488+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-12T21:28:54.666488+09:00",
+      "link_count": 1,
+      "log_no": "224249902676",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224249902676",
+      "published_at": "2026-04-12T21:01:53+09:00",
+      "text_length": 59,
+      "title": "SNT 고1,2 5월특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-12T19:27:29.464582+09:00",
@@ -262,10 +275,10 @@
       "title": "시대인재 수학스쿨 고1 5월 단기특강"
     },
     {
-      "category": "시간표",
+      "category": "설명회",
       "first_seen_at": "2026-04-11T15:39:10.243549+09:00",
       "image_count": 15,
-      "last_changed_at": "2026-04-11T15:39:10.243549+09:00",
+      "last_changed_at": "2026-04-12T21:28:54.666488+09:00",
       "link_count": 0,
       "log_no": "224248783373",
       "place_count": 3,
@@ -4526,5 +4539,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-12T19:27:29.464582+09:00"
+  "updated_at": "2026-04-12T21:28:54.666488+09:00"
 }
