@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-12T22:39:58.287204+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-12T22:39:58.287204+09:00",
+        "link_count": 0,
+        "log_no": "224249985322",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249985322",
+        "published_at": "2026-04-12T22:32:15+09:00",
+        "text_length": 0,
+        "title": "이대자연사박물관 가족과함께하는 식물산책"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-12T18:16:42.032530+09:00",
         "image_count": 3,
         "last_changed_at": "2026-04-12T18:16:42.032530+09:00",
@@ -800,6 +813,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-12T22:39:58.287204+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-12T22:39:58.287204+09:00",
+        "link_count": 0,
+        "log_no": "224249960542",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249960542",
+        "published_at": "2026-04-12T22:05:40+09:00",
+        "text_length": 0,
+        "title": "시리우스학원 27영재학교 입학전형요강 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-12T22:39:58.287204+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-12T22:39:58.287204+09:00",
+        "link_count": 0,
+        "log_no": "224249935496",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224249935496",
+        "published_at": "2026-04-12T21:38:30+09:00",
+        "text_length": 303,
+        "title": "대치미래탐구 중3 파이널 : 1타 합격 프로젝트 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
@@ -4557,5 +4596,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-12T21:28:54.666488+09:00"
+  "updated_at": "2026-04-12T22:39:58.287204+09:00"
 }
