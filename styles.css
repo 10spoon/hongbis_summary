@@ -27,7 +27,7 @@ body {
 }
 
 .shell {
-  width: calc(100vw - 24px);
+  width: min(1280px, calc(100% - 24px));
   margin: 0 auto;
   padding: 24px 0 40px;
 }
@@ -370,7 +370,7 @@ input {
 
 @media (max-width: 900px) {
   .shell {
-    width: calc(100vw - 16px);
+    width: calc(100% - 16px);
     padding-top: 16px;
   }
 
