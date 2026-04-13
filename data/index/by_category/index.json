@@ -3930,6 +3930,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
+        "link_count": 0,
+        "log_no": "224251548300",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251548300",
+        "published_at": "2026-04-14T07:59:38+09:00",
+        "text_length": 0,
+        "title": "적성' 고르랬더니 '등급' 골랐다… 겉도는 고교학점제 1년"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
+        "link_count": 1,
+        "log_no": "224251547531",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251547531",
+        "published_at": "2026-04-14T07:58:31+09:00",
+        "text_length": 38,
+        "title": "수시 같은 정시 온다…대학별 28 입시 윤곽 속속"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-13T19:53:02.264186+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-13T19:53:02.264186+09:00",
@@ -4830,5 +4856,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-14T00:47:06.202599+09:00"
+  "updated_at": "2026-04-14T08:19:08.499807+09:00"
 }
