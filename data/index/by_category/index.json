@@ -1937,6 +1937,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-13T19:53:02.264186+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-13T19:53:02.264186+09:00",
+        "link_count": 0,
+        "log_no": "224251054640",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251054640",
+        "published_at": "2026-04-13T19:07:46+09:00",
+        "text_length": 0,
+        "title": "MSG영재교육 서울시 과학토론 예선대회 주제 가이드 수업"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-13T18:55:26.728807+09:00",
         "image_count": 4,
         "last_changed_at": "2026-04-13T18:55:26.728807+09:00",
@@ -3800,6 +3813,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-13T19:53:02.264186+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-13T19:53:02.264186+09:00",
+        "link_count": 0,
+        "log_no": "224251045831",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251045831",
+        "published_at": "2026-04-13T18:58:26+09:00",
+        "text_length": 0,
+        "title": "계룡 한 고등학교서 고3 학생이 교사 흉기로 찔러"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-13T18:35:38.977661+09:00",
@@ -4687,5 +4713,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-13T18:55:26.728807+09:00"
+  "updated_at": "2026-04-13T19:53:02.264186+09:00"
 }
