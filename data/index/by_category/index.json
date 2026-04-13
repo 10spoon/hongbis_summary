@@ -1937,6 +1937,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-13T18:35:38.977661+09:00",
+        "link_count": 0,
+        "log_no": "224251004411",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251004411",
+        "published_at": "2026-04-13T18:18:55+09:00",
+        "text_length": 0,
+        "title": "김정준국어 중등시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-13T10:04:17.353379+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-13T10:04:17.353379+09:00",
@@ -3774,6 +3787,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-13T18:35:38.977661+09:00",
+        "link_count": 0,
+        "log_no": "224251009491",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251009491",
+        "published_at": "2026-04-13T18:23:46+09:00",
+        "text_length": 0,
+        "title": "사교육 컨설팅보다 낫다\" 호평…\"40분만에 500명, 조기 마감\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-13T10:04:17.353379+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-13T10:04:17.353379+09:00",
@@ -4648,5 +4674,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-13T10:04:17.353379+09:00"
+  "updated_at": "2026-04-13T18:35:38.977661+09:00"
 }
