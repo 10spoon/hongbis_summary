@@ -2002,6 +2002,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-14T08:30:37.560917+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-14T08:30:37.560917+09:00",
+        "link_count": 4,
+        "log_no": "224251563839",
+        "place_count": 1,
+        "post_url": "https://blog.naver.com/hongbis/224251563839",
+        "published_at": "2026-04-14T08:22:06+09:00",
+        "text_length": 439,
+        "title": "골든타임수학학원 5월 브릿지 특강(실력의 틈과 틈사이 메꾸기)"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-13T23:54:16.351272+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-13T23:54:16.351272+09:00",
@@ -4856,5 +4869,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-14T08:19:08.499807+09:00"
+  "updated_at": "2026-04-14T08:30:37.560917+09:00"
 }
