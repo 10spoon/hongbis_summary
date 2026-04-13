@@ -1937,6 +1937,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-13T20:44:44.066761+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-13T20:44:44.066761+09:00",
+        "link_count": 0,
+        "log_no": "224251134420",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251134420",
+        "published_at": "2026-04-13T20:30:47+09:00",
+        "text_length": 0,
+        "title": "고앤정학원 고3 모의고사 훈련반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-13T20:44:44.066761+09:00",
+        "image_count": 6,
+        "last_changed_at": "2026-04-13T20:44:44.066761+09:00",
+        "link_count": 0,
+        "log_no": "224251129624",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224251129624",
+        "published_at": "2026-04-13T20:25:30+09:00",
+        "text_length": 0,
+        "title": "오늘국어 5월개강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-13T19:53:02.264186+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-13T19:53:02.264186+09:00",
@@ -4713,5 +4739,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-13T19:53:02.264186+09:00"
+  "updated_at": "2026-04-13T20:44:44.066761+09:00"
 }
