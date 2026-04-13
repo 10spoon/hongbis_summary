@@ -1,7 +1,20 @@
 {
   "key": "2026-04-13",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-13T18:55:26.728807+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-13T18:55:26.728807+09:00",
+      "link_count": 1,
+      "log_no": "224251028349",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224251028349",
+      "published_at": "2026-04-13T18:41:13+09:00",
+      "text_length": 773,
+      "title": "2026 시대인재 고1 5월 과목별 특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
@@ -68,5 +81,5 @@
       "title": "중년 다이어트 힘들다는데…성시경·이재훈·조혜련, 뱃살 쏙 뺀 비결은"
     }
   ],
-  "updated_at": "2026-04-13T18:35:38.977661+09:00"
+  "updated_at": "2026-04-13T18:55:26.728807+09:00"
 }
