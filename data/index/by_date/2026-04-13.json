@@ -1,7 +1,20 @@
 {
   "key": "2026-04-13",
-  "post_count": 10,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-13T21:40:51.093811+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-13T21:40:51.093811+09:00",
+      "link_count": 0,
+      "log_no": "224251192574",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224251192574",
+      "published_at": "2026-04-13T21:29:37+09:00",
+      "text_length": 0,
+      "title": "고려대학교 야간 캠퍼스 투어"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-13T20:44:44.066761+09:00",
@@ -133,5 +146,5 @@
       "title": "중년 다이어트 힘들다는데…성시경·이재훈·조혜련, 뱃살 쏙 뺀 비결은"
     }
   ],
-  "updated_at": "2026-04-13T20:44:44.066761+09:00"
+  "updated_at": "2026-04-13T21:40:51.093811+09:00"
 }
