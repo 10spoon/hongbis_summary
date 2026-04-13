@@ -1,6 +1,32 @@
 {
-  "post_count": 368,
+  "post_count": 370,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-14T00:47:06.202599+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-14T00:47:06.202599+09:00",
+      "link_count": 0,
+      "log_no": "224251367130",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224251367130",
+      "published_at": "2026-04-14T00:38:04+09:00",
+      "text_length": 0,
+      "title": "성균관대 반도체시스템공학과 전공체험"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T00:47:06.202599+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T00:47:06.202599+09:00",
+      "link_count": 0,
+      "log_no": "224251336322",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224251336322",
+      "published_at": "2026-04-13T23:58:32+09:00",
+      "text_length": 0,
+      "title": "러셀목동 썸머스쿨 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-13T23:54:16.351272+09:00",
@@ -4786,5 +4812,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-13T23:54:16.351272+09:00"
+  "updated_at": "2026-04-14T00:47:06.202599+09:00"
 }

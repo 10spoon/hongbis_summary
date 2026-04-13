@@ -1,7 +1,20 @@
 {
   "key": "2026-04-13",
-  "post_count": 15,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T00:47:06.202599+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T00:47:06.202599+09:00",
+      "link_count": 0,
+      "log_no": "224251336322",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224251336322",
+      "published_at": "2026-04-13T23:58:32+09:00",
+      "text_length": 0,
+      "title": "러셀목동 썸머스쿨 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-13T23:54:16.351272+09:00",
@@ -198,5 +211,5 @@
       "title": "중년 다이어트 힘들다는데…성시경·이재훈·조혜련, 뱃살 쏙 뺀 비결은"
     }
   ],
-  "updated_at": "2026-04-13T23:54:16.351272+09:00"
+  "updated_at": "2026-04-14T00:47:06.202599+09:00"
 }
