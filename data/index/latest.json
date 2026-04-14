@@ -1,6 +1,97 @@
 {
-  "post_count": 378,
+  "post_count": 385,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252576719",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252576719",
+      "published_at": "2026-04-14T23:53:54+09:00",
+      "text_length": 0,
+      "title": "의대 합격선 최소 0.2~0.3 등급 이상 하락… 지역의사제로 요동치는 입시 판도"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252575249",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252575249",
+      "published_at": "2026-04-14T23:52:13+09:00",
+      "text_length": 0,
+      "title": "거산학원 중3-2 수학이 고등 수학을 결정합니다! 원장 직강 중 3-2 5/4 대개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252572979",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252572979",
+      "published_at": "2026-04-14T23:49:30+09:00",
+      "text_length": 0,
+      "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252562095",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252562095",
+      "published_at": "2026-04-14T23:36:30+09:00",
+      "text_length": 0,
+      "title": "대치개념폴리아 초등5월시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252560169",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252560169",
+      "published_at": "2026-04-14T23:34:15+09:00",
+      "text_length": 0,
+      "title": "인천하늘고등학교 입학설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252557690",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252557690",
+      "published_at": "2026-04-14T23:31:16+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 고2 아들, 컴퓨터 전원을 뽑다... 엄마 눈엔 '말 목 자른 김유신'"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
+      "link_count": 0,
+      "log_no": "224252557306",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252557306",
+      "published_at": "2026-04-14T23:30:52+09:00",
+      "text_length": 0,
+      "title": "포스코고등학교 입학설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-14T21:40:09.110456+09:00",
@@ -4916,5 +5007,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-14T21:40:09.110456+09:00"
+  "updated_at": "2026-04-14T23:54:30.275626+09:00"
 }
