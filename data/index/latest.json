@@ -1,6 +1,32 @@
 {
-  "post_count": 373,
+  "post_count": 375,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-14T18:49:00.980479+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-14T18:49:00.980479+09:00",
+      "link_count": 2,
+      "log_no": "224252290709",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252290709",
+      "published_at": "2026-04-14T18:40:27+09:00",
+      "text_length": 783,
+      "title": "KNS x 파인만 문/이과 최상위권을 위한 고교 선택 전략과 과목별 로드맵 ★현장설명회★"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-14T18:49:00.980479+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-14T18:49:00.980479+09:00",
+      "link_count": 1,
+      "log_no": "224252288739",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224252288739",
+      "published_at": "2026-04-14T18:38:50+09:00",
+      "text_length": 733,
+      "title": "세정입시관 세특 보고서 특강"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-14T08:30:37.560917+09:00",
@@ -4851,5 +4877,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-14T08:30:37.560917+09:00"
+  "updated_at": "2026-04-14T18:49:00.980479+09:00"
 }
