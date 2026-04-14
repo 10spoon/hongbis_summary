@@ -1,0 +1,36 @@
+{
+  "new_count": 3,
+  "new_posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-14T08:30:37.560917+09:00",
+      "last_changed_at": "2026-04-14T08:30:37.560917+09:00",
+      "log_no": "224251563839",
+      "post_url": "https://blog.naver.com/hongbis/224251563839",
+      "published_at": "2026-04-14T08:22:06+09:00",
+      "title": "골든타임수학학원 5월 브릿지 특강(실력의 틈과 틈사이 메꾸기)"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
+      "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
+      "log_no": "224251548300",
+      "post_url": "https://blog.naver.com/hongbis/224251548300",
+      "published_at": "2026-04-14T07:59:38+09:00",
+      "title": "적성' 고르랬더니 '등급' 골랐다… 겉도는 고교학점제 1년"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
+      "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
+      "log_no": "224251547531",
+      "post_url": "https://blog.naver.com/hongbis/224251547531",
+      "published_at": "2026-04-14T07:58:31+09:00",
+      "title": "수시 같은 정시 온다…대학별 28 입시 윤곽 속속"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-04-14T18:00:00+09:00",
+  "window_start": "2026-04-14T08:00:00+09:00"
+}
