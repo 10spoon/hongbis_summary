@@ -2158,6 +2158,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
+        "link_count": 2,
+        "log_no": "224253704793",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253704793",
+        "published_at": "2026-04-15T21:35:42+09:00",
+        "text_length": 774,
+        "title": "윤도영통합과학시스템 2027 수능 대비 윤도영 생명과학Ⅰ 2단계 실전반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
+        "link_count": 1,
+        "log_no": "224253701993",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253701993",
+        "published_at": "2026-04-15T21:32:40+09:00",
+        "text_length": 900,
+        "title": "2응입시팀 5월 연휴 자소서 뼈대 잡기 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
         "image_count": 3,
         "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
@@ -4190,6 +4216,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
+        "link_count": 0,
+        "log_no": "224253707117",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253707117",
+        "published_at": "2026-04-15T21:38:11+09:00",
+        "text_length": 0,
+        "title": "공부해도 제자리?” 1등급 75% ‘피드백’, 5등급은 ‘점수만 확인’"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
@@ -5220,5 +5259,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T20:36:28.280490+09:00"
+  "updated_at": "2026-04-15T21:39:50.670522+09:00"
 }
