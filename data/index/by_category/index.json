@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-15T19:41:44.541453+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-15T19:41:44.541453+09:00",
+        "link_count": 0,
+        "log_no": "224253590795",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253590795",
+        "published_at": "2026-04-15T19:25:25+09:00",
+        "text_length": 0,
+        "title": "제10회 춘계 연세 인문학 캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-15T12:24:25.611271+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-15T12:24:25.611271+09:00",
@@ -5168,5 +5181,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T18:32:28.028839+09:00"
+  "updated_at": "2026-04-15T19:41:44.541453+09:00"
 }

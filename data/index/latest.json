@@ -1,6 +1,19 @@
 {
-  "post_count": 396,
+  "post_count": 397,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-15T19:41:44.541453+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-15T19:41:44.541453+09:00",
+      "link_count": 0,
+      "log_no": "224253590795",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224253590795",
+      "published_at": "2026-04-15T19:25:25+09:00",
+      "text_length": 0,
+      "title": "제10회 춘계 연세 인문학 캠프"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-15T18:32:28.028839+09:00",
@@ -5150,5 +5163,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-15T18:32:28.028839+09:00"
+  "updated_at": "2026-04-15T19:41:44.541453+09:00"
 }
