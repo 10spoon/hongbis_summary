@@ -31,6 +31,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-15T12:24:25.611271+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T12:24:25.611271+09:00",
+        "link_count": 0,
+        "log_no": "224253075631",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253075631",
+        "published_at": "2026-04-15T12:13:48+09:00",
+        "text_length": 136,
+        "title": "교보손글씨대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-15T10:03:56.342747+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-15T10:03:56.342747+09:00",
@@ -865,6 +878,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-15T12:24:25.611271+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T12:24:25.611271+09:00",
+        "link_count": 3,
+        "log_no": "224253081835",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253081835",
+        "published_at": "2026-04-15T12:19:23+09:00",
+        "text_length": 667,
+        "title": "목동CMS 전략설명회 대학입시와 자사고 입시분석"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-15T00:44:57.184961+09:00",
@@ -5090,5 +5116,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T10:56:27.626972+09:00"
+  "updated_at": "2026-04-15T12:24:25.611271+09:00"
 }
