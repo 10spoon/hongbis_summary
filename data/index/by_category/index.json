@@ -893,6 +893,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-16T00:43:20.223112+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-16T00:43:20.223112+09:00",
+        "link_count": 0,
+        "log_no": "224253835474",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253835474",
+        "published_at": "2026-04-15T23:59:56+09:00",
+        "text_length": 308,
+        "title": "두각k수학 중3, 이종완T가 들려주는 고등수학 이야기, 딱 이렇게만 하면 성공한다"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
@@ -2156,6 +2169,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-16T00:43:20.223112+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-16T00:43:20.223112+09:00",
+        "link_count": 0,
+        "log_no": "224253842774",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253842774",
+        "published_at": "2026-04-16T00:08:59+09:00",
+        "text_length": 0,
+        "title": "클라디학원 초등수학 정밀진단테스트"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-15T22:54:31.915612+09:00",
@@ -5272,5 +5298,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T22:54:31.915612+09:00"
+  "updated_at": "2026-04-16T00:43:20.223112+09:00"
 }
