@@ -4112,6 +4112,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-15T10:56:27.626972+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T10:56:27.626972+09:00",
+        "link_count": 0,
+        "log_no": "224252962395",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224252962395",
+        "published_at": "2026-04-15T10:47:24+09:00",
+        "text_length": 0,
+        "title": "'성과급 7억 예상' SK 하이닉스 생산직 \"공고 졸업 후 입사…인생이 달다\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-15T01:40:29.497013+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-15T01:40:29.497013+09:00",
@@ -5077,5 +5090,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T10:03:56.342747+09:00"
+  "updated_at": "2026-04-15T10:56:27.626972+09:00"
 }
