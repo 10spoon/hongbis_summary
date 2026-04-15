@@ -2158,6 +2158,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-15T22:54:31.915612+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-15T22:54:31.915612+09:00",
+        "link_count": 0,
+        "log_no": "224253708879",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253708879",
+        "published_at": "2026-04-15T21:40:05+09:00",
+        "text_length": 0,
+        "title": "개념상상대치 5월단기특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
@@ -5259,5 +5272,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T21:39:50.670522+09:00"
+  "updated_at": "2026-04-15T22:54:31.915612+09:00"
 }

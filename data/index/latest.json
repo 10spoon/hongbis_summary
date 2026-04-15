@@ -1,6 +1,19 @@
 {
-  "post_count": 403,
+  "post_count": 404,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-15T22:54:31.915612+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-15T22:54:31.915612+09:00",
+      "link_count": 0,
+      "log_no": "224253708879",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224253708879",
+      "published_at": "2026-04-15T21:40:05+09:00",
+      "text_length": 0,
+      "title": "개념상상대치 5월단기특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
@@ -5241,5 +5254,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-15T21:39:50.670522+09:00"
+  "updated_at": "2026-04-15T22:54:31.915612+09:00"
 }
