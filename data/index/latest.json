@@ -1,6 +1,32 @@
 {
-  "post_count": 393,
+  "post_count": 395,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-15T17:51:38.372323+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-15T17:51:38.372323+09:00",
+      "link_count": 0,
+      "log_no": "224253498869",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224253498869",
+      "published_at": "2026-04-15T17:51:18+09:00",
+      "text_length": 0,
+      "title": "내신 5등급제 수험생과 부모, 어떻게 대입 준비할까"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-15T17:51:38.372323+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-15T17:51:38.372323+09:00",
+      "link_count": 0,
+      "log_no": "224253493925",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224253493925",
+      "published_at": "2026-04-15T17:47:25+09:00",
+      "text_length": 0,
+      "title": "진로진학 디자인 학생부종합전형, 독서가 답이다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-15T14:10:44.161069+09:00",
@@ -5111,5 +5137,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-15T14:10:44.161069+09:00"
+  "updated_at": "2026-04-15T17:51:38.372323+09:00"
 }
