@@ -4151,6 +4151,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-15T18:32:28.028839+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-15T18:32:28.028839+09:00",
+        "link_count": 0,
+        "log_no": "224253502738",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224253502738",
+        "published_at": "2026-04-15T17:54:21+09:00",
+        "text_length": 0,
+        "title": "폴리텍대학 바이오캠퍼스 ‘한국바이오마이스터고’ 전문 훈련기관 선정"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-15T17:51:38.372323+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-15T17:51:38.372323+09:00",
@@ -5155,5 +5168,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-15T17:51:38.372323+09:00"
+  "updated_at": "2026-04-15T18:32:28.028839+09:00"
 }
