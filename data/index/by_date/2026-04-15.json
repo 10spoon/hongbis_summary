@@ -1,7 +1,20 @@
 {
   "key": "2026-04-15",
-  "post_count": 6,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-15T14:10:44.161069+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-04-15T14:10:44.161069+09:00",
+      "link_count": 0,
+      "log_no": "224253129447",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224253129447",
+      "published_at": "2026-04-15T13:00:42+09:00",
+      "text_length": 0,
+      "title": "대찬학원 5월특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-15T12:24:25.611271+09:00",
@@ -81,5 +94,5 @@
       "title": "의대생의 ‘공감력’을 높여라…서울의대의 실험 ‘리빙랩 수업’"
     }
   ],
-  "updated_at": "2026-04-15T12:24:25.611271+09:00"
+  "updated_at": "2026-04-15T14:10:44.161069+09:00"
 }
