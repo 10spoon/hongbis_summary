@@ -1,7 +1,20 @@
 {
   "key": "2026-04-16",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-16T10:56:47.958408+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T10:56:47.958408+09:00",
+      "link_count": 0,
+      "log_no": "224254161318",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224254161318",
+      "published_at": "2026-04-16T10:13:00+09:00",
+      "text_length": 0,
+      "title": "엄마가 들어 줄게, 말이나 해보렴”"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-16T00:43:20.223112+09:00",
@@ -16,5 +29,5 @@
       "title": "클라디학원 초등수학 정밀진단테스트"
     }
   ],
-  "updated_at": "2026-04-16T00:43:20.223112+09:00"
+  "updated_at": "2026-04-16T10:56:47.958408+09:00"
 }
