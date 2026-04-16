@@ -1,7 +1,59 @@
 {
   "key": "2026-04-16",
-  "post_count": 17,
+  "post_count": 21,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T22:55:03.997587+09:00",
+      "link_count": 0,
+      "log_no": "224254989899",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224254989899",
+      "published_at": "2026-04-16T22:46:57+09:00",
+      "text_length": 0,
+      "title": "대학 입시의 나침반…고3 중간고사 \"이렇게 준비하세요\""
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T22:55:03.997587+09:00",
+      "link_count": 0,
+      "log_no": "224254987601",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224254987601",
+      "published_at": "2026-04-16T22:44:18+09:00",
+      "text_length": 0,
+      "title": "입시 뇌피셜 타파①_3월 학력평가 성적이 11월 대학수학능력시험까지 간다"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-16T22:55:03.997587+09:00",
+      "link_count": 0,
+      "log_no": "224254985610",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224254985610",
+      "published_at": "2026-04-16T22:42:04+09:00",
+      "text_length": 0,
+      "title": "국민생각함 청소년 정책패널모집"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T22:55:03.997587+09:00",
+      "link_count": 0,
+      "log_no": "224254978603",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224254978603",
+      "published_at": "2026-04-16T22:34:14+09:00",
+      "text_length": 0,
+      "title": "2026년 학생 및 학부모 대상 'HUFS 지원전략 설명회' 신청"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-16T21:41:07.380415+09:00",
@@ -224,5 +276,5 @@
       "title": "클라디학원 초등수학 정밀진단테스트"
     }
   ],
-  "updated_at": "2026-04-16T21:41:07.380415+09:00"
+  "updated_at": "2026-04-16T22:55:03.997587+09:00"
 }
