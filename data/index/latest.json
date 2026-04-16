@@ -1,6 +1,32 @@
 {
-  "post_count": 426,
+  "post_count": 428,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-16T23:55:35.692610+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T23:55:35.692610+09:00",
+      "link_count": 1,
+      "log_no": "224255044414",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224255044414",
+      "published_at": "2026-04-16T23:51:23+09:00",
+      "text_length": 668,
+      "title": "대치미래탐구 고1 [슬기로운 5월] 대비 학생부 & 내신 준비 전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-16T23:55:35.692610+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-16T23:55:35.692610+09:00",
+      "link_count": 0,
+      "log_no": "224255004000",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224255004000",
+      "published_at": "2026-04-16T23:02:33+09:00",
+      "text_length": 0,
+      "title": "다즐영재교육 중등 1-1 개강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
@@ -5540,5 +5566,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-16T22:55:03.997587+09:00"
+  "updated_at": "2026-04-16T23:55:35.692610+09:00"
 }
