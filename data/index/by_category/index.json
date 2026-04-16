@@ -3772,6 +3772,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-17T07:27:28.007601+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-17T07:27:28.007601+09:00",
+        "link_count": 0,
+        "log_no": "224255240670",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224255240670",
+        "published_at": "2026-04-17T07:14:23+09:00",
+        "text_length": 0,
+        "title": "도심속절캉스 반나절 템플스테이"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-16T20:39:06.073925+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-16T20:39:06.073925+09:00",
@@ -5584,5 +5597,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-16T23:55:35.692610+09:00"
+  "updated_at": "2026-04-17T07:27:28.007601+09:00"
 }
