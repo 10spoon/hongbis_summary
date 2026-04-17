@@ -2314,6 +2314,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-17T23:40:34.209608+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-17T23:40:34.209608+09:00",
+        "link_count": 0,
+        "log_no": "224256234243",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224256234243",
+        "published_at": "2026-04-17T22:57:34+09:00",
+        "text_length": 0,
+        "title": "대치동 와이지 과학 2026년 5월 화학 정규반 및 중학생화학대회 대비반 개강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-17T21:38:25.123742+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-17T21:38:25.123742+09:00",
@@ -5753,5 +5766,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-17T21:38:25.123742+09:00"
+  "updated_at": "2026-04-17T23:40:34.209608+09:00"
 }
