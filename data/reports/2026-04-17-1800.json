@@ -1,85 +1,45 @@
 {
-  "key": "2026-04-17",
-  "post_count": 6,
-  "posts": [
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-17T18:31:30.819164+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-17T18:31:30.819164+09:00",
-      "link_count": 0,
-      "log_no": "224255964954",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224255964954",
-      "published_at": "2026-04-17T17:51:37+09:00",
-      "text_length": 0,
-      "title": "준과학 5월 시간표"
-    },
+  "new_count": 4,
+  "new_posts": [
     {
       "category": "시간표",
       "first_seen_at": "2026-04-17T17:51:21.484992+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-17T17:51:21.484992+09:00",
-      "link_count": 4,
       "log_no": "224255960564",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224255960564",
       "published_at": "2026-04-17T17:47:55+09:00",
-      "text_length": 524,
       "title": "대치파인만 고1 내신대비 공수1 순열조합 5,6월 휴일특강 1탄"
     },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-17T17:51:21.484992+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-17T17:51:21.484992+09:00",
-      "link_count": 0,
       "log_no": "224255928177",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224255928177",
       "published_at": "2026-04-17T17:23:09+09:00",
-      "text_length": 35,
       "title": "두각학원 상산고1 간담회"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-17T10:56:38.167280+09:00",
-      "image_count": 3,
       "last_changed_at": "2026-04-17T15:00:45.967752+09:00",
-      "link_count": 0,
       "log_no": "224255410391",
-      "place_count": 2,
       "post_url": "https://blog.naver.com/hongbis/224255410391",
       "published_at": "2026-04-17T10:33:03+09:00",
-      "text_length": 0,
       "title": "대치피엘학원 중등부수학 심화문제풀이반"
     },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-17T10:56:38.167280+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-17T10:56:38.167280+09:00",
-      "link_count": 0,
       "log_no": "224255381933",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224255381933",
       "published_at": "2026-04-17T10:10:04+09:00",
-      "text_length": 0,
       "title": "한강공원이 거대 야외 도서관으로! 포토부스부터 보드게임까지"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-17T07:27:28.007601+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-17T07:27:28.007601+09:00",
-      "link_count": 0,
-      "log_no": "224255240670",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224255240670",
-      "published_at": "2026-04-17T07:14:23+09:00",
-      "text_length": 0,
-      "title": "도심속절캉스 반나절 템플스테이"
     }
   ],
-  "updated_at": "2026-04-17T18:31:30.819164+09:00"
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-04-17T18:00:00+09:00",
+  "window_start": "2026-04-17T08:00:00+09:00"
 }
