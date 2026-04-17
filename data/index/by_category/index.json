@@ -945,6 +945,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-17T17:51:21.484992+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-17T17:51:21.484992+09:00",
+        "link_count": 0,
+        "log_no": "224255928177",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224255928177",
+        "published_at": "2026-04-17T17:23:09+09:00",
+        "text_length": 35,
+        "title": "두각학원 상산고1 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-16T23:55:35.692610+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-16T23:55:35.692610+09:00",
@@ -2260,6 +2273,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-17T17:51:21.484992+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-17T17:51:21.484992+09:00",
+        "link_count": 4,
+        "log_no": "224255960564",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224255960564",
+        "published_at": "2026-04-17T17:47:55+09:00",
+        "text_length": 524,
+        "title": "대치파인만 고1 내신대비 공수1 순열조합 5,6월 휴일특강 1탄"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-17T10:56:38.167280+09:00",
@@ -5623,5 +5649,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-17T15:00:45.967752+09:00"
+  "updated_at": "2026-04-17T17:51:21.484992+09:00"
 }
