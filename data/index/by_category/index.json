@@ -2275,6 +2275,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-17T20:34:17.914615+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-17T20:34:17.914615+09:00",
+        "link_count": 1,
+        "log_no": "224256105255",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224256105255",
+        "published_at": "2026-04-17T20:18:24+09:00",
+        "text_length": 584,
+        "title": "반포세정 짧은 5월 연휴 고효율특강 중등부"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-17T20:34:17.914615+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-17T20:34:17.914615+09:00",
+        "link_count": 0,
+        "log_no": "224256099849",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224256099849",
+        "published_at": "2026-04-17T20:11:41+09:00",
+        "text_length": 735,
+        "title": "햇살정원 의대관 5월 연휴 인문보고서& 서류기반면접 “일번방 비밀 ”특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-17T18:31:30.819164+09:00",
         "image_count": 5,
         "last_changed_at": "2026-04-17T18:31:30.819164+09:00",
@@ -5662,5 +5688,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-17T18:31:30.819164+09:00"
+  "updated_at": "2026-04-17T20:34:17.914615+09:00"
 }
