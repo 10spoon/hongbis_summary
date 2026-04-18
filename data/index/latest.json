@@ -1,6 +1,19 @@
 {
-  "post_count": 447,
+  "post_count": 448,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-18T16:40:37.134641+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-18T16:40:37.134641+09:00",
+      "link_count": 1,
+      "log_no": "224256814897",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224256814897",
+      "published_at": "2026-04-18T15:49:17+09:00",
+      "text_length": 810,
+      "title": "씨앤씨 특목자사설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-18T15:42:12.205948+09:00",
@@ -5813,5 +5826,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-18T15:42:12.205948+09:00"
+  "updated_at": "2026-04-18T16:40:37.134641+09:00"
 }

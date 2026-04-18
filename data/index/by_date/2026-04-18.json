@@ -1,7 +1,20 @@
 {
   "key": "2026-04-18",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-18T16:40:37.134641+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-18T16:40:37.134641+09:00",
+      "link_count": 1,
+      "log_no": "224256814897",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224256814897",
+      "published_at": "2026-04-18T15:49:17+09:00",
+      "text_length": 810,
+      "title": "씨앤씨 특목자사설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-18T15:42:12.205948+09:00",
@@ -68,5 +81,5 @@
       "title": "나는 학생, 너는 도구\"…AI 시대에 지켜야 할 배우는 사람의 정체성"
     }
   ],
-  "updated_at": "2026-04-18T15:42:12.205948+09:00"
+  "updated_at": "2026-04-18T16:40:37.134641+09:00"
 }
