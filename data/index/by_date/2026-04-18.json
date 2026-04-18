@@ -1,7 +1,20 @@
 {
   "key": "2026-04-18",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-18T15:42:12.205948+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-18T15:42:12.205948+09:00",
+      "link_count": 0,
+      "log_no": "224256783562",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224256783562",
+      "published_at": "2026-04-18T15:09:53+09:00",
+      "text_length": 990,
+      "title": "예섬학원 고1 국어 / 수학 5월 단기특강 강좌"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-18T12:23:39.955198+09:00",
@@ -55,5 +68,5 @@
       "title": "나는 학생, 너는 도구\"…AI 시대에 지켜야 할 배우는 사람의 정체성"
     }
   ],
-  "updated_at": "2026-04-18T12:23:39.955198+09:00"
+  "updated_at": "2026-04-18T15:42:12.205948+09:00"
 }
