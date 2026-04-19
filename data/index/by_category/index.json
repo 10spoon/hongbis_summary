@@ -2340,6 +2340,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-19T18:17:01.375895+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-19T18:17:01.375895+09:00",
+        "link_count": 2,
+        "log_no": "224257771536",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224257771536",
+        "published_at": "2026-04-19T17:47:40+09:00",
+        "text_length": 412,
+        "title": "목동시대인재 고1. 5,6월특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
         "image_count": 4,
         "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
@@ -5896,5 +5909,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-19T14:13:29.993449+09:00"
+  "updated_at": "2026-04-19T18:17:01.375895+09:00"
 }
