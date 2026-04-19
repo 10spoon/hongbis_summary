@@ -1,6 +1,45 @@
 {
-  "post_count": 455,
+  "post_count": 458,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-19T23:29:30.770405+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-19T23:29:30.770405+09:00",
+      "link_count": 0,
+      "log_no": "224258034856",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224258034856",
+      "published_at": "2026-04-19T23:07:38+09:00",
+      "text_length": 0,
+      "title": "김현정수학 5월시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-19T23:29:30.770405+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-19T23:29:30.770405+09:00",
+      "link_count": 0,
+      "log_no": "224258026551",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224258026551",
+      "published_at": "2026-04-19T22:58:15+09:00",
+      "text_length": 0,
+      "title": "김진선수학 5월시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-19T23:29:30.770405+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-04-19T23:29:30.770405+09:00",
+      "link_count": 1,
+      "log_no": "224258023611",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224258023611",
+      "published_at": "2026-04-19T22:54:59+09:00",
+      "text_length": 1058,
+      "title": "시대인재 고1 과학탐구 5월 특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-19T22:39:54.553502+09:00",
@@ -5917,5 +5956,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-19T22:39:54.553502+09:00"
+  "updated_at": "2026-04-19T23:29:30.770405+09:00"
 }
