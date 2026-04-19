@@ -2340,6 +2340,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
+        "link_count": 0,
+        "log_no": "224257571825",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224257571825",
+        "published_at": "2026-04-19T13:30:09+09:00",
+        "text_length": 0,
+        "title": "천개의고원 5월 선정도서"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-18T19:27:43.978960+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-18T19:27:43.978960+09:00",
@@ -4749,6 +4762,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
+        "link_count": 0,
+        "log_no": "224257569689",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224257569689",
+        "published_at": "2026-04-19T13:27:17+09:00",
+        "text_length": 0,
+        "title": "의대 신입생 내신 합격선 평균 ‘1.22등급’…최상위권 쏠림 더 커졌다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-18T12:23:39.955198+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-18T12:23:39.955198+09:00",
@@ -5870,5 +5896,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-18T21:28:46.678641+09:00"
+  "updated_at": "2026-04-19T14:13:29.993449+09:00"
 }
