@@ -1,7 +1,20 @@
 {
   "key": "2026-04-19",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-19T21:28:23.106443+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-19T21:28:23.106443+09:00",
+      "link_count": 1,
+      "log_no": "224257925421",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224257925421",
+      "published_at": "2026-04-19T21:06:04+09:00",
+      "text_length": 632,
+      "title": "반포세정 중3(예비고1) 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-19T18:17:01.375895+09:00",
@@ -42,5 +55,5 @@
       "title": "의대 신입생 내신 합격선 평균 ‘1.22등급’…최상위권 쏠림 더 커졌다"
     }
   ],
-  "updated_at": "2026-04-19T18:17:01.375895+09:00"
+  "updated_at": "2026-04-19T21:28:23.106443+09:00"
 }
