@@ -971,6 +971,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-19T22:39:54.553502+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-19T22:39:54.553502+09:00",
+        "link_count": 1,
+        "log_no": "224258005816",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224258005816",
+        "published_at": "2026-04-19T22:34:55+09:00",
+        "text_length": 295,
+        "title": "한동대학교 서울입학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-19T21:28:23.106443+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-19T21:28:23.106443+09:00",
@@ -5922,5 +5935,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-19T21:28:23.106443+09:00"
+  "updated_at": "2026-04-19T22:39:54.553502+09:00"
 }
