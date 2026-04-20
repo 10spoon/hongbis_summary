@@ -971,6 +971,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-20T16:56:23.638401+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-20T16:56:23.638401+09:00",
+        "link_count": 0,
+        "log_no": "224258880931",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224258880931",
+        "published_at": "2026-04-20T16:29:14+09:00",
+        "text_length": 829,
+        "title": "두각학원 나오미 멘토 생기부 멘토링 Part1"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-19T22:39:54.553502+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-19T22:39:54.553502+09:00",
@@ -4840,6 +4853,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-20T16:56:23.638401+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-20T16:56:23.638401+09:00",
+        "link_count": 0,
+        "log_no": "224258867461",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224258867461",
+        "published_at": "2026-04-20T16:19:23+09:00",
+        "text_length": 0,
+        "title": "수능 ‘사탐런’ 효과 있었나…탐구 점수 올랐지만 국어·수학은 글쎄"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
@@ -5974,5 +6000,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-19T23:29:30.770405+09:00"
+  "updated_at": "2026-04-20T16:56:23.638401+09:00"
 }
