@@ -1,6 +1,32 @@
 {
-  "post_count": 462,
+  "post_count": 464,
   "posts": [
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-04-20T21:42:42.989732+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-20T21:42:42.989732+09:00",
+      "link_count": 0,
+      "log_no": "224259158066",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259158066",
+      "published_at": "2026-04-20T20:49:25+09:00",
+      "text_length": 0,
+      "title": "[3년 전 오늘] 2023년 고1 첫 내신 시험 후 멘탈관리 q&a"
+    },
+    {
+      "category": "화장실명언",
+      "first_seen_at": "2026-04-20T21:42:42.989732+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-20T21:42:42.989732+09:00",
+      "link_count": 0,
+      "log_no": "224259157303",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259157303",
+      "published_at": "2026-04-20T20:48:37+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] “전교 1등 비밀 풀었다”…코드쿤스트, 모교 강연서 후배들에 100만원 ‘플렉스’"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-20T19:54:12.744560+09:00",
@@ -6008,5 +6034,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-20T19:54:12.744560+09:00"
+  "updated_at": "2026-04-20T21:42:42.989732+09:00"
 }

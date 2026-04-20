@@ -8,15 +8,16 @@
     "시간표",
     "엄마공부",
     "입시뉴스",
-    "함께맘북클럽"
+    "함께맘북클럽",
+    "화장실명언"
   ],
   "category_index_path": "data/index/by_category/index.json",
   "dates": [
     {
       "date": "2026-04-20",
       "path": "data/index/by_date/2026-04-20.json",
-      "post_count": 4,
-      "updated_at": "2026-04-20T19:54:12.744560+09:00"
+      "post_count": 6,
+      "updated_at": "2026-04-20T21:42:42.989732+09:00"
     },
     {
       "date": "2026-04-19",
@@ -187,10 +188,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-04-20T11:45:57.989233+00:00",
+  "generated_at": "2026-04-20T12:43:17.888184+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 462,
-  "latest_updated_at": "2026-04-20T19:54:12.744560+09:00",
+  "latest_post_count": 464,
+  "latest_updated_at": "2026-04-20T21:42:42.989732+09:00",
   "reports": [
     {
       "label": "2026-04-20-1800",
