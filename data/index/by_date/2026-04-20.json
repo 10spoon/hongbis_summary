@@ -1,7 +1,20 @@
 {
   "key": "2026-04-20",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-20T18:02:02.086942+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-20T18:02:02.086942+09:00",
+      "link_count": 0,
+      "log_no": "224258930930",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224258930930",
+      "published_at": "2026-04-20T17:07:17+09:00",
+      "text_length": 0,
+      "title": "서울진로진학정보센터 상시 상담(방문, 화상) 안내"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-20T16:56:23.638401+09:00",
@@ -29,5 +42,5 @@
       "title": "수능 ‘사탐런’ 효과 있었나…탐구 점수 올랐지만 국어·수학은 글쎄"
     }
   ],
-  "updated_at": "2026-04-20T16:56:23.638401+09:00"
+  "updated_at": "2026-04-20T18:02:02.086942+09:00"
 }

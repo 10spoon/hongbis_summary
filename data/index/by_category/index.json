@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-20T18:02:02.086942+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-20T18:02:02.086942+09:00",
+        "link_count": 0,
+        "log_no": "224258930930",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224258930930",
+        "published_at": "2026-04-20T17:07:17+09:00",
+        "text_length": 0,
+        "title": "서울진로진학정보센터 상시 상담(방문, 화상) 안내"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-17T21:38:25.123742+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-17T21:38:25.123742+09:00",
@@ -6000,5 +6013,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-20T16:56:23.638401+09:00"
+  "updated_at": "2026-04-20T18:02:02.086942+09:00"
 }
