@@ -1,7 +1,59 @@
 {
   "key": "2026-04-20",
-  "post_count": 7,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
+      "link_count": 1,
+      "log_no": "224259328363",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259328363",
+      "published_at": "2026-04-20T23:48:23+09:00",
+      "text_length": 76,
+      "title": "강남영재사관학원 자사고 특목고 입시 프로그램 5월 신규반 개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
+      "link_count": 3,
+      "log_no": "224259325473",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259325473",
+      "published_at": "2026-04-20T23:44:45+09:00",
+      "text_length": 461,
+      "title": "준과학 중3 역사/사회 기말고사"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
+      "link_count": 1,
+      "log_no": "224259321838",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259321838",
+      "published_at": "2026-04-20T23:40:17+09:00",
+      "text_length": 541,
+      "title": "목동다원 대입 개편&고교학점제, 수학 전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
+      "link_count": 0,
+      "log_no": "224259319219",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259319219",
+      "published_at": "2026-04-20T23:37:07+09:00",
+      "text_length": 0,
+      "title": "보람과학 5월시간표"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-20T22:54:39.328000+09:00",
@@ -94,5 +146,5 @@
       "title": "수능 ‘사탐런’ 효과 있었나…탐구 점수 올랐지만 국어·수학은 글쎄"
     }
   ],
-  "updated_at": "2026-04-20T22:54:39.328000+09:00"
+  "updated_at": "2026-04-20T23:57:28.249793+09:00"
 }
