@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-20T19:54:12.744560+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-20T19:54:12.744560+09:00",
+        "link_count": 0,
+        "log_no": "224259094500",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259094500",
+        "published_at": "2026-04-20T19:38:52+09:00",
+        "text_length": 0,
+        "title": "백제철아카데미 교육프로그램"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-20T18:02:02.086942+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-20T18:02:02.086942+09:00",
@@ -6013,5 +6026,5 @@
     ]
   },
   "category_count": 9,
-  "updated_at": "2026-04-20T18:02:02.086942+09:00"
+  "updated_at": "2026-04-20T19:54:12.744560+09:00"
 }
