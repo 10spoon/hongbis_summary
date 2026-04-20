@@ -2444,6 +2444,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-21T00:49:02.430481+09:00",
+        "link_count": 0,
+        "log_no": "224259336136",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259336136",
+        "published_at": "2026-04-20T23:57:51+09:00",
+        "text_length": 0,
+        "title": "공감학원 고3 5월 실전모의고사 4회"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
@@ -4957,6 +4970,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-21T00:49:02.430481+09:00",
+        "link_count": 0,
+        "log_no": "224259338173",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259338173",
+        "published_at": "2026-04-20T23:59:54+09:00",
+        "text_length": 0,
+        "title": "이기는 최고의 학습법"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-20T16:56:23.638401+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-20T16:56:23.638401+09:00",
@@ -6119,5 +6145,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-20T23:57:28.249793+09:00"
+  "updated_at": "2026-04-21T00:49:02.430481+09:00"
 }
