@@ -4279,6 +4279,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-21T20:39:40.259455+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-21T20:39:40.259455+09:00",
+        "link_count": 0,
+        "log_no": "224260394576",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224260394576",
+        "published_at": "2026-04-21T20:24:45+09:00",
+        "text_length": 0,
+        "title": "하루 1만 보 안 채워도 된다…새로운 걷기의 기준 ‘7000보"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-21T19:46:21.086341+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-21T19:46:21.086341+09:00",
@@ -6262,5 +6275,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-21T19:46:21.086341+09:00"
+  "updated_at": "2026-04-21T20:39:40.259455+09:00"
 }
