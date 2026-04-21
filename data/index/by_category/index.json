@@ -4279,6 +4279,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-21T19:46:21.086341+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-21T19:46:21.086341+09:00",
+        "link_count": 0,
+        "log_no": "224260342017",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224260342017",
+        "published_at": "2026-04-21T19:27:50+09:00",
+        "text_length": 0,
+        "title": "의사랑 결혼하고 싶니?” SNS 달군 ‘의사 남편’ 콘텐츠…강의까지 나왔다는데"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-21T15:56:21.652695+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-21T15:56:21.652695+09:00",
@@ -6249,5 +6262,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-21T18:32:45.950125+09:00"
+  "updated_at": "2026-04-21T19:46:21.086341+09:00"
 }
