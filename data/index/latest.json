@@ -1,6 +1,32 @@
 {
-  "post_count": 481,
+  "post_count": 483,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-21T21:41:04.479525+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-21T21:41:04.479525+09:00",
+      "link_count": 3,
+      "log_no": "224260436770",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224260436770",
+      "published_at": "2026-04-21T21:08:43+09:00",
+      "text_length": 730,
+      "title": "파인만학원 고교 수학 기출 등급예측 모의고사 & 해제 5,6월 휴일특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-21T21:41:04.479525+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-21T21:41:04.479525+09:00",
+      "link_count": 0,
+      "log_no": "224260434170",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224260434170",
+      "published_at": "2026-04-21T21:05:56+09:00",
+      "text_length": 1239,
+      "title": "목동다원 나오미선생님 학부모 설명회(4/22수, 6/24수)"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-21T20:39:40.259455+09:00",
@@ -6255,5 +6281,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-21T20:39:40.259455+09:00"
+  "updated_at": "2026-04-21T21:41:04.479525+09:00"
 }
