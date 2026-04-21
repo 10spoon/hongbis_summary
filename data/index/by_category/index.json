@@ -1036,6 +1036,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
+        "link_count": 0,
+        "log_no": "224260268132",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224260268132",
+        "published_at": "2026-04-21T18:11:24+09:00",
+        "text_length": 0,
+        "title": "건국대학교 입학전형설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
@@ -5048,6 +5061,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
+        "link_count": 0,
+        "log_no": "224260256593",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224260256593",
+        "published_at": "2026-04-21T18:01:22+09:00",
+        "text_length": 0,
+        "title": "우리 아들 의대 보내기 참 힘드네요”…올해 의대 신입생 내신 합격선 ‘3년새 최고’"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-21T00:49:02.430481+09:00",
@@ -6223,5 +6249,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-21T15:56:21.652695+09:00"
+  "updated_at": "2026-04-21T18:32:45.950125+09:00"
 }

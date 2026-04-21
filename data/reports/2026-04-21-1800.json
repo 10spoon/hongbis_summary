@@ -1,111 +1,63 @@
 {
-  "key": "2026-04-21",
-  "post_count": 8,
-  "posts": [
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
-      "link_count": 0,
-      "log_no": "224260268132",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260268132",
-      "published_at": "2026-04-21T18:11:24+09:00",
-      "text_length": 0,
-      "title": "건국대학교 입학전형설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
-      "link_count": 0,
-      "log_no": "224260256593",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260256593",
-      "published_at": "2026-04-21T18:01:22+09:00",
-      "text_length": 0,
-      "title": "우리 아들 의대 보내기 참 힘드네요”…올해 의대 신입생 내신 합격선 ‘3년새 최고’"
-    },
+  "new_count": 6,
+  "new_posts": [
     {
       "category": "시간표",
       "first_seen_at": "2026-04-21T15:56:21.652695+09:00",
-      "image_count": 4,
       "last_changed_at": "2026-04-21T15:56:21.652695+09:00",
-      "link_count": 0,
       "log_no": "224260083925",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224260083925",
       "published_at": "2026-04-21T15:45:51+09:00",
-      "text_length": 425,
       "title": "로뎀과학 고등기말내신반 & 중등 정규반"
     },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-21T15:56:21.652695+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-21T15:56:21.652695+09:00",
-      "link_count": 0,
       "log_no": "224260079862",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224260079862",
       "published_at": "2026-04-21T15:42:55+09:00",
-      "text_length": 0,
       "title": "23살 결혼' 한가인, 11년 만에 2세 갖은 이유 \"서른살에 사춘기 와, 내 앞가림도 못했다\""
     },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-21T14:59:11.354258+09:00",
-      "image_count": 3,
       "last_changed_at": "2026-04-21T14:59:11.354258+09:00",
-      "link_count": 0,
       "log_no": "224259974827",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224259974827",
       "published_at": "2026-04-21T14:25:50+09:00",
-      "text_length": 0,
       "title": "제3회 우주항공청 스페이스 캠프 참가 안내"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 4,
       "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 0,
       "log_no": "224259858237",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224259858237",
       "published_at": "2026-04-21T12:48:24+09:00",
-      "text_length": 0,
       "title": "수학의힘 5월시간표"
     },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 0,
       "log_no": "224259845785",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224259845785",
       "published_at": "2026-04-21T12:36:51+09:00",
-      "text_length": 0,
       "title": "교보교육재단 2026년 5월 가족소통캠프"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 3,
       "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 1,
       "log_no": "224259843077",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224259843077",
       "published_at": "2026-04-21T12:34:20+09:00",
-      "text_length": 991,
       "title": "시대인재 수학스쿨 고1 5월 단기특강"
     }
   ],
-  "updated_at": "2026-04-21T18:32:45.950125+09:00"
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-04-21T18:00:00+09:00",
+  "window_start": "2026-04-21T08:00:00+09:00"
 }
