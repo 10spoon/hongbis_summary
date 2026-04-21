@@ -1,7 +1,20 @@
 {
   "key": "2026-04-21",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-21T23:52:15.983907+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-21T23:52:15.983907+09:00",
+      "link_count": 2,
+      "log_no": "224260580781",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224260580781",
+      "published_at": "2026-04-21T23:41:51+09:00",
+      "text_length": 925,
+      "title": "김정준국어 26년 고1 정규반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-21T21:41:04.479525+09:00",
@@ -159,5 +172,5 @@
       "title": "시대인재 수학스쿨 고1 5월 단기특강"
     }
   ],
-  "updated_at": "2026-04-21T21:41:04.479525+09:00"
+  "updated_at": "2026-04-21T23:52:15.983907+09:00"
 }
