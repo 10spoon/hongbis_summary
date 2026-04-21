@@ -1,6 +1,19 @@
 {
-  "post_count": 474,
+  "post_count": 475,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-21T14:59:11.354258+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-21T14:59:11.354258+09:00",
+      "link_count": 0,
+      "log_no": "224259974827",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224259974827",
+      "published_at": "2026-04-21T14:25:50+09:00",
+      "text_length": 0,
+      "title": "제3회 우주항공청 스페이스 캠프 참가 안내"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
@@ -6164,5 +6177,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-21T14:12:09.680090+09:00"
+  "updated_at": "2026-04-21T14:59:11.354258+09:00"
 }
