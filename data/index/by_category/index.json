@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
+        "link_count": 0,
+        "log_no": "224259845785",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259845785",
+        "published_at": "2026-04-21T12:36:51+09:00",
+        "text_length": 0,
+        "title": "교보교육재단 2026년 5월 가족소통캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-20T19:54:12.744560+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-20T19:54:12.744560+09:00",
@@ -2442,6 +2455,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
+        "link_count": 0,
+        "log_no": "224259858237",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259858237",
+        "published_at": "2026-04-21T12:48:24+09:00",
+        "text_length": 0,
+        "title": "수학의힘 5월시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
+        "link_count": 1,
+        "log_no": "224259843077",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224259843077",
+        "published_at": "2026-04-21T12:34:20+09:00",
+        "text_length": 991,
+        "title": "시대인재 수학스쿨 고1 5월 단기특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
@@ -6145,5 +6184,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-21T00:49:02.430481+09:00"
+  "updated_at": "2026-04-21T14:12:09.680090+09:00"
 }
