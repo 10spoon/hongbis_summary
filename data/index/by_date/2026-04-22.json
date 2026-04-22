@@ -1,7 +1,20 @@
 {
   "key": "2026-04-22",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-22T19:44:03.069062+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-22T19:44:03.069062+09:00",
+      "link_count": 0,
+      "log_no": "224261590994",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224261590994",
+      "published_at": "2026-04-22T19:34:52+09:00",
+      "text_length": 0,
+      "title": "보람과학 학부모설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
@@ -159,5 +172,5 @@
       "title": "PMG학원 중등과학 5월시간표"
     }
   ],
-  "updated_at": "2026-04-22T15:55:58.264388+09:00"
+  "updated_at": "2026-04-22T19:44:03.069062+09:00"
 }
