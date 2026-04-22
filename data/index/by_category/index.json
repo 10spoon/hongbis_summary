@@ -44,6 +44,32 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261814616",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261814616",
+        "published_at": "2026-04-22T23:41:19+09:00",
+        "text_length": 0,
+        "title": "한양대학교 정책학과 <제2회 멘토링 & 한양 캠퍼스 투어>"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261806487",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261806487",
+        "published_at": "2026-04-22T23:31:15+09:00",
+        "text_length": 0,
+        "title": "2026학년도 발명교육센터 (기초, 특허 과정)"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-22T10:00:18.776955+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T10:00:18.776955+09:00",
@@ -1060,6 +1086,45 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261821905",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261821905",
+        "published_at": "2026-04-22T23:50:37+09:00",
+        "text_length": 0,
+        "title": "아토즈논술 논술전형 단독집담회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261803402",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261803402",
+        "published_at": "2026-04-22T23:27:29+09:00",
+        "text_length": 0,
+        "title": "이화외고 입학설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261796293",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261796293",
+        "published_at": "2026-04-22T23:18:50+09:00",
+        "text_length": 390,
+        "title": "반포세정 고1설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
@@ -4461,6 +4526,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
+        "link_count": 0,
+        "log_no": "224261822623",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261822623",
+        "published_at": "2026-04-22T23:51:32+09:00",
+        "text_length": 0,
+        "title": "[2년 전 오늘] 다키워 놨더니 엄마 무시하는 자식들… 외롭고 쓸쓸해요"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T15:55:58.264388+09:00",
@@ -6548,5 +6626,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-22T20:39:23.045509+09:00"
+  "updated_at": "2026-04-22T23:52:38.244139+09:00"
 }
