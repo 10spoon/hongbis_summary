@@ -1,6 +1,19 @@
 {
-  "post_count": 509,
+  "post_count": 510,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-23T01:39:00.426023+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T01:39:00.426023+09:00",
+      "link_count": 1,
+      "log_no": "224261863918",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224261863918",
+      "published_at": "2026-04-23T00:46:41+09:00",
+      "text_length": 47,
+      "title": "2026 영재키움 프로젝트 선발 안내"
+    },
     {
       "category": "선배들의공부방법모음",
       "first_seen_at": "2026-04-23T00:44:31.095163+09:00",
@@ -6619,5 +6632,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-23T00:44:31.095163+09:00"
+  "updated_at": "2026-04-23T01:39:00.426023+09:00"
 }

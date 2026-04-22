@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-23T01:39:00.426023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-23T01:39:00.426023+09:00",
+        "link_count": 1,
+        "log_no": "224261863918",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261863918",
+        "published_at": "2026-04-23T00:46:41+09:00",
+        "text_length": 47,
+        "title": "2026 영재키움 프로젝트 선발 안내"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
@@ -6639,5 +6652,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-23T00:44:31.095163+09:00"
+  "updated_at": "2026-04-23T01:39:00.426023+09:00"
 }
