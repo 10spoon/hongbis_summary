@@ -1062,6 +1062,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
+        "link_count": 1,
+        "log_no": "224261614318",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261614318",
+        "published_at": "2026-04-22T20:01:02+09:00",
+        "text_length": 812,
+        "title": "씨앤씨 특목자사고 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-22T19:44:03.069062+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T19:44:03.069062+09:00",
@@ -2572,6 +2585,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
+        "link_count": 2,
+        "log_no": "224261621353",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261621353",
+        "published_at": "2026-04-22T20:08:43+09:00",
+        "text_length": 440,
+        "title": "대치 깊은생각 2026학년도 중3 정규 입학테스트"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
+        "link_count": 1,
+        "log_no": "224261616231",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224261616231",
+        "published_at": "2026-04-22T20:03:08+09:00",
+        "text_length": 359,
+        "title": "픽스아카데미 경시관 중2 대상 경시입문(PG), 경시문풀(EG), 창의수학(TG)반 시험"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-22T10:00:18.776955+09:00",
@@ -6509,5 +6548,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-22T19:44:03.069062+09:00"
+  "updated_at": "2026-04-22T20:39:23.045509+09:00"
 }
