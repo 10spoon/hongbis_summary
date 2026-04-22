@@ -5243,6 +5243,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-22T12:24:05.556984+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-22T12:24:05.556984+09:00",
+        "link_count": 0,
+        "log_no": "224260994778",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224260994778",
+        "published_at": "2026-04-22T11:07:42+09:00",
+        "text_length": 0,
+        "title": "수능 道수석 배출한 '꼴찌학교'"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-22T10:00:18.776955+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T10:00:18.776955+09:00",
@@ -6444,5 +6457,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-22T10:00:18.776955+09:00"
+  "updated_at": "2026-04-22T12:24:05.556984+09:00"
 }
