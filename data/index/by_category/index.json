@@ -2678,6 +2678,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-23T12:24:23.156012+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-23T12:24:23.156012+09:00",
+        "link_count": 0,
+        "log_no": "224262312202",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224262312202",
+        "published_at": "2026-04-23T12:13:43+09:00",
+        "text_length": 0,
+        "title": "국립어린이과학관 창경궁 과학 나들이 5월 교육 프로그램"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
@@ -6665,5 +6678,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-23T10:05:24.873968+09:00"
+  "updated_at": "2026-04-23T12:24:23.156012+09:00"
 }
