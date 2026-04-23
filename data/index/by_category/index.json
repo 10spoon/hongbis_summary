@@ -1153,6 +1153,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-24T00:00:37.651024+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T00:00:37.651024+09:00",
+        "link_count": 1,
+        "log_no": "224263065215",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263065215",
+        "published_at": "2026-04-23T23:56:11+09:00",
+        "text_length": 1171,
+        "title": "아폴론교육 유튜브 LIVE 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
         "image_count": 3,
         "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
@@ -2715,6 +2728,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-24T00:00:37.651024+09:00",
+        "image_count": 6,
+        "last_changed_at": "2026-04-24T00:00:37.651024+09:00",
+        "link_count": 0,
+        "log_no": "224263063725",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263063725",
+        "published_at": "2026-04-23T23:54:22+09:00",
+        "text_length": 0,
+        "title": "큐사이언스 초중등과학 5월개강프로그램"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-24T00:00:37.651024+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-24T00:00:37.651024+09:00",
+        "link_count": 0,
+        "log_no": "224263061901",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263061901",
+        "published_at": "2026-04-23T23:51:58+09:00",
+        "text_length": 0,
+        "title": "다빈치학원 2026 특목고(외고·국제고·자사고) 자소서·면접 대비 5월 특강 시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-23T21:39:56.324396+09:00",
@@ -6849,5 +6888,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-23T21:39:56.324396+09:00"
+  "updated_at": "2026-04-24T00:00:37.651024+09:00"
 }
