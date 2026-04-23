@@ -5412,6 +5412,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-23T10:05:24.873968+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-23T10:05:24.873968+09:00",
+        "link_count": 0,
+        "log_no": "224262118711",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224262118711",
+        "published_at": "2026-04-23T09:38:26+09:00",
+        "text_length": 0,
+        "title": "“우리 딸, 대치동 가야겠다”…어느 학교 다니냐가 수능 성적 갈랐다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-22T15:55:58.264388+09:00",
@@ -6652,5 +6665,5 @@
     ]
   },
   "category_count": 10,
-  "updated_at": "2026-04-23T01:39:00.426023+09:00"
+  "updated_at": "2026-04-23T10:05:24.873968+09:00"
 }
