@@ -1,6 +1,45 @@
 {
-  "post_count": 520,
+  "post_count": 523,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-23T20:39:54.699608+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T20:39:54.699608+09:00",
+      "link_count": 0,
+      "log_no": "224262874655",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262874655",
+      "published_at": "2026-04-23T20:20:44+09:00",
+      "text_length": 0,
+      "title": "민쌤과학 기말고사 대비반 개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-23T20:39:54.699608+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T20:39:54.699608+09:00",
+      "link_count": 0,
+      "log_no": "224262871468",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262871468",
+      "published_at": "2026-04-23T20:17:05+09:00",
+      "text_length": 223,
+      "title": "러셀대치 6모 대비 언매 5주 완성"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-23T20:39:54.699608+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T20:39:54.699608+09:00",
+      "link_count": 0,
+      "log_no": "224262847701",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262847701",
+      "published_at": "2026-04-23T19:49:34+09:00",
+      "text_length": 0,
+      "title": "대학별 입학전형, 복잡해보이나요? 지금 신경쓸 건 ‘딱 하나’"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
@@ -6762,5 +6801,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-23T19:47:35.130950+09:00"
+  "updated_at": "2026-04-23T20:39:54.699608+09:00"
 }
