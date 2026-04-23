@@ -1,7 +1,72 @@
 {
   "key": "2026-04-23",
-  "post_count": 6,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
+      "link_count": 0,
+      "log_no": "224262843812",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262843812",
+      "published_at": "2026-04-23T19:44:59+09:00",
+      "text_length": 0,
+      "title": "현상훈수학 중3 5월특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
+      "link_count": 0,
+      "log_no": "224262841849",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262841849",
+      "published_at": "2026-04-23T19:42:48+09:00",
+      "text_length": 430,
+      "title": "픽스아카데미 5월 연휴특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
+      "link_count": 0,
+      "log_no": "224262821694",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262821694",
+      "published_at": "2026-04-23T19:20:30+09:00",
+      "text_length": 0,
+      "title": "상산고등학교 학교개방주간"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
+      "link_count": 0,
+      "log_no": "224262803383",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262803383",
+      "published_at": "2026-04-23T18:59:50+09:00",
+      "text_length": 0,
+      "title": "외대부고 2026 학교투어일정"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
+      "link_count": 0,
+      "log_no": "224262797532",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262797532",
+      "published_at": "2026-04-23T18:53:29+09:00",
+      "text_length": 0,
+      "title": "시험 잘 보려 마셨다가 망쳤네요”…고등학생 10명 중 3명 ‘카페인 과다’"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
@@ -81,5 +146,5 @@
       "title": "2026 영재키움 프로젝트 선발 안내"
     }
   ],
-  "updated_at": "2026-04-23T14:13:51.645488+09:00"
+  "updated_at": "2026-04-23T19:47:35.130950+09:00"
 }
