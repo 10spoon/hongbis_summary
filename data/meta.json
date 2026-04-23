@@ -9,6 +9,7 @@
     "엄마공부",
     "입시뉴스",
     "함께맘북클럽",
+    "함께읽은책",
     "화장실명언"
   ],
   "category_index_path": "data/index/by_category/index.json",
@@ -16,8 +17,8 @@
     {
       "date": "2026-04-23",
       "path": "data/index/by_date/2026-04-23.json",
-      "post_count": 3,
-      "updated_at": "2026-04-23T12:24:23.156012+09:00"
+      "post_count": 6,
+      "updated_at": "2026-04-23T14:13:51.645488+09:00"
     },
     {
       "date": "2026-04-22",
@@ -206,10 +207,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-04-23T03:24:56.103202+00:00",
+  "generated_at": "2026-04-23T05:14:27.955716+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 512,
-  "latest_updated_at": "2026-04-23T12:24:23.156012+09:00",
+  "latest_post_count": 515,
+  "latest_updated_at": "2026-04-23T14:13:51.645488+09:00",
   "reports": [
     {
       "label": "2026-04-23-0800",

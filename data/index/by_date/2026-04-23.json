@@ -1,7 +1,46 @@
 {
   "key": "2026-04-23",
-  "post_count": 3,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
+      "link_count": 0,
+      "log_no": "224262375863",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262375863",
+      "published_at": "2026-04-23T13:15:07+09:00",
+      "text_length": 0,
+      "title": "내신 5등급제 첫 적용…고2 선택과목, 어떻게 준비하나?"
+    },
+    {
+      "category": "함께읽은책",
+      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
+      "link_count": 0,
+      "log_no": "224262331303",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262331303",
+      "published_at": "2026-04-23T12:32:12+09:00",
+      "text_length": 0,
+      "title": "[3년 전 오늘] 중간고사 이후 과학 도서로 세특 풍성하게 채워볼까?"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
+      "link_count": 0,
+      "log_no": "224262330999",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224262330999",
+      "published_at": "2026-04-23T12:31:54+09:00",
+      "text_length": 0,
+      "title": "[2년 전 오늘] 학생 주도 독서활동 지원한다… 교육부, 독서교육통합플랫폼 ‘독서로’ 개통"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-23T12:24:23.156012+09:00",
@@ -42,5 +81,5 @@
       "title": "2026 영재키움 프로젝트 선발 안내"
     }
   ],
-  "updated_at": "2026-04-23T12:24:23.156012+09:00"
+  "updated_at": "2026-04-23T14:13:51.645488+09:00"
 }
