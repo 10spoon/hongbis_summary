@@ -2743,6 +2743,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-24T12:24:26.195767+09:00",
+        "link_count": 0,
+        "log_no": "224263442758",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263442758",
+        "published_at": "2026-04-24T11:07:25+09:00",
+        "text_length": 0,
+        "title": "서울대언어교육원 영리더스클럽(zoom)"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-24T00:00:37.651024+09:00",
         "image_count": 6,
         "last_changed_at": "2026-04-24T00:00:37.651024+09:00",
@@ -4732,6 +4745,19 @@
       }
     ],
     "엄마공부": [
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T12:24:26.195767+09:00",
+        "link_count": 0,
+        "log_no": "224263451194",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263451194",
+        "published_at": "2026-04-24T11:14:11+09:00",
+        "text_length": 0,
+        "title": "'나'라는 님"
+      },
       {
         "category": "엄마공부",
         "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
@@ -6927,5 +6953,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-24T10:56:45.162308+09:00"
+  "updated_at": "2026-04-24T12:24:26.195767+09:00"
 }

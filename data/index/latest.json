@@ -1,6 +1,32 @@
 {
-  "post_count": 531,
+  "post_count": 533,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-24T12:24:26.195767+09:00",
+      "link_count": 0,
+      "log_no": "224263451194",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263451194",
+      "published_at": "2026-04-24T11:14:11+09:00",
+      "text_length": 0,
+      "title": "'나'라는 님"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-24T12:24:26.195767+09:00",
+      "link_count": 0,
+      "log_no": "224263442758",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263442758",
+      "published_at": "2026-04-24T11:07:25+09:00",
+      "text_length": 0,
+      "title": "서울대언어교육원 영리더스클럽(zoom)"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-24T10:56:45.162308+09:00",
@@ -6905,5 +6931,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-24T10:56:45.162308+09:00"
+  "updated_at": "2026-04-24T12:24:26.195767+09:00"
 }
