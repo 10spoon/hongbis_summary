@@ -1,7 +1,20 @@
 {
   "key": "2026-04-24",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-24T10:56:45.162308+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-24T10:56:45.162308+09:00",
+      "link_count": 0,
+      "log_no": "224263424502",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263424502",
+      "published_at": "2026-04-24T10:52:33+09:00",
+      "text_length": 0,
+      "title": "아주대학교 입학전형컨퍼런스"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-24T10:06:09.822674+09:00",
@@ -29,5 +42,5 @@
       "title": "[3년 전 오늘] 시험불안증"
     }
   ],
-  "updated_at": "2026-04-24T10:06:09.822674+09:00"
+  "updated_at": "2026-04-24T10:56:45.162308+09:00"
 }

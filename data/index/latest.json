@@ -1,6 +1,19 @@
 {
-  "post_count": 530,
+  "post_count": 531,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-24T10:56:45.162308+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-24T10:56:45.162308+09:00",
+      "link_count": 0,
+      "log_no": "224263424502",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263424502",
+      "published_at": "2026-04-24T10:52:33+09:00",
+      "text_length": 0,
+      "title": "아주대학교 입학전형컨퍼런스"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-24T10:06:09.822674+09:00",
@@ -6892,5 +6905,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-24T10:06:09.822674+09:00"
+  "updated_at": "2026-04-24T10:56:45.162308+09:00"
 }
