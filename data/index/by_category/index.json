@@ -5633,6 +5633,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-24T17:56:37.680890+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T17:56:37.680890+09:00",
+        "link_count": 0,
+        "log_no": "224263938936",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224263938936",
+        "published_at": "2026-04-24T17:51:21+09:00",
+        "text_length": 0,
+        "title": "한국형’ 청소년 SNS 중독 방지법, 등장 임박…‘연령 제한’ 등 부상"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-24T16:56:13.877319+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-24T16:56:13.877319+09:00",
@@ -6979,5 +6992,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-24T16:56:13.877319+09:00"
+  "updated_at": "2026-04-24T17:56:37.680890+09:00"
 }
