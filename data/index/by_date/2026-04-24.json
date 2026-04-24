@@ -1,7 +1,20 @@
 {
   "key": "2026-04-24",
-  "post_count": 17,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-25T00:42:46.653605+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-25T00:42:46.653605+09:00",
+      "link_count": 0,
+      "log_no": "224264257812",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264257812",
+      "published_at": "2026-04-24T23:57:14+09:00",
+      "text_length": 0,
+      "title": "목동미래탐구 6월 대형설명회 <<2028 대입개편안 완전분석"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-24T22:54:17.401660+09:00",
@@ -224,5 +237,5 @@
       "title": "[3년 전 오늘] 시험불안증"
     }
   ],
-  "updated_at": "2026-04-24T22:54:17.401660+09:00"
+  "updated_at": "2026-04-25T00:42:46.653605+09:00"
 }
