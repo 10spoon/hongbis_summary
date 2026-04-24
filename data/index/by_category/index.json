@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-24T20:40:12.680425+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T20:40:12.680425+09:00",
+        "link_count": 0,
+        "log_no": "224264065301",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264065301",
+        "published_at": "2026-04-24T20:07:33+09:00",
+        "text_length": 0,
+        "title": "2026년 상반기(6월 20일) KUT수학/국어 학력평가시험"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-23T21:39:56.324396+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-23T21:39:56.324396+09:00",
@@ -2769,6 +2782,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-24T20:40:12.680425+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-24T20:40:12.680425+09:00",
+        "link_count": 0,
+        "log_no": "224264062148",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264062148",
+        "published_at": "2026-04-24T20:03:48+09:00",
+        "text_length": 0,
+        "title": "플라즈마 중등물리 화학 5월 시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-24T20:40:12.680425+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T20:40:12.680425+09:00",
+        "link_count": 2,
+        "log_no": "224264056388",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264056388",
+        "published_at": "2026-04-24T19:56:50+09:00",
+        "text_length": 951,
+        "title": "2응입시팀 5월 연휴 자소서 뼈대 잡기 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-24T19:46:10.615938+09:00",
         "image_count": 3,
         "last_changed_at": "2026-04-24T19:46:10.615938+09:00",
@@ -4784,6 +4823,19 @@
       }
     ],
     "엄마공부": [
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-24T20:40:12.680425+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-24T20:40:12.680425+09:00",
+        "link_count": 0,
+        "log_no": "224264053239",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264053239",
+        "published_at": "2026-04-24T19:53:02+09:00",
+        "text_length": 254,
+        "title": "사랑의열매 복권기금 토크콘서트: 통(通)하는 시간"
+      },
       {
         "category": "엄마공부",
         "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
@@ -7018,5 +7070,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-24T19:46:10.615938+09:00"
+  "updated_at": "2026-04-24T20:40:12.680425+09:00"
 }
