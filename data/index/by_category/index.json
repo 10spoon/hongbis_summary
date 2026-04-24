@@ -1153,6 +1153,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-24T19:46:10.615938+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-24T19:46:10.615938+09:00",
+        "link_count": 0,
+        "log_no": "224264042915",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264042915",
+        "published_at": "2026-04-24T19:40:12+09:00",
+        "text_length": 0,
+        "title": "숙명여대 진학콘서트"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-24T16:56:13.877319+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-24T16:56:13.877319+09:00",
@@ -2754,6 +2767,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-24T19:46:10.615938+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-24T19:46:10.615938+09:00",
+        "link_count": 0,
+        "log_no": "224264037102",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264037102",
+        "published_at": "2026-04-24T19:33:05+09:00",
+        "text_length": 0,
+        "title": "시리우스학원 2027학년도(5~6월) 영재학교 대비 과학 종합반 정규& 특강 프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
@@ -6992,5 +7018,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-24T17:56:37.680890+09:00"
+  "updated_at": "2026-04-24T19:46:10.615938+09:00"
 }

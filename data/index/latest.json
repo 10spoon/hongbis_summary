@@ -1,6 +1,32 @@
 {
-  "post_count": 536,
+  "post_count": 538,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-24T19:46:10.615938+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-24T19:46:10.615938+09:00",
+      "link_count": 0,
+      "log_no": "224264042915",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264042915",
+      "published_at": "2026-04-24T19:40:12+09:00",
+      "text_length": 0,
+      "title": "숙명여대 진학콘서트"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-24T19:46:10.615938+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-24T19:46:10.615938+09:00",
+      "link_count": 0,
+      "log_no": "224264037102",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264037102",
+      "published_at": "2026-04-24T19:33:05+09:00",
+      "text_length": 0,
+      "title": "시리우스학원 2027학년도(5~6월) 영재학교 대비 과학 종합반 정규& 특강 프로그램"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-24T17:56:37.680890+09:00",
@@ -6970,5 +6996,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-24T17:56:37.680890+09:00"
+  "updated_at": "2026-04-24T19:46:10.615938+09:00"
 }
