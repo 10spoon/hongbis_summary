@@ -1,6 +1,32 @@
 {
-  "post_count": 528,
+  "post_count": 530,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-24T10:06:09.822674+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-24T10:06:09.822674+09:00",
+      "link_count": 0,
+      "log_no": "224263361503",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263361503",
+      "published_at": "2026-04-24T09:56:43+09:00",
+      "text_length": 0,
+      "title": "인서울 대학 2027학년도 수시 모집 학생부종합 전형 학생 선발 방법"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-24T10:06:09.822674+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-24T10:06:09.822674+09:00",
+      "link_count": 0,
+      "log_no": "224263316547",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224263316547",
+      "published_at": "2026-04-24T09:10:42+09:00",
+      "text_length": 0,
+      "title": "[3년 전 오늘] 시험불안증"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-24T00:00:37.651024+09:00",
@@ -6866,5 +6892,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-24T00:00:37.651024+09:00"
+  "updated_at": "2026-04-24T10:06:09.822674+09:00"
 }
