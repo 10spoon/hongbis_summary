@@ -1,6 +1,45 @@
 {
-  "post_count": 542,
+  "post_count": 545,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-24T22:54:17.401660+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-24T22:54:17.401660+09:00",
+      "link_count": 0,
+      "log_no": "224264187197",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264187197",
+      "published_at": "2026-04-24T22:31:36+09:00",
+      "text_length": 0,
+      "title": "영훈국제중 2027학년도 국제중학교 입학전형 기본계획N"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-24T22:54:17.401660+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-24T22:54:17.401660+09:00",
+      "link_count": 1,
+      "log_no": "224264176755",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264176755",
+      "published_at": "2026-04-24T22:19:03+09:00",
+      "text_length": 819,
+      "title": "KNS 5월 자기주도 탐구반 OPEN"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-24T22:54:17.401660+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-24T22:54:17.401660+09:00",
+      "link_count": 0,
+      "log_no": "224264161788",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264161788",
+      "published_at": "2026-04-24T22:01:28+09:00",
+      "text_length": 0,
+      "title": "서울대 의대, ‘예과’ 없앤다… ‘통합 6년제’ 도입"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-24T20:40:12.680425+09:00",
@@ -7048,5 +7087,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-24T20:40:12.680425+09:00"
+  "updated_at": "2026-04-24T22:54:17.401660+09:00"
 }
