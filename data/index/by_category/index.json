@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-25T15:46:49.712037+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-25T15:46:49.712037+09:00",
+        "link_count": 0,
+        "log_no": "224264759654",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264759654",
+        "published_at": "2026-04-25T15:02:04+09:00",
+        "text_length": 304,
+        "title": "제 4회 SNU STEM 스쿨"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-25T02:34:56.010667+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-25T02:34:56.010667+09:00",
@@ -1190,6 +1203,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-25T15:46:49.712037+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-25T15:46:49.712037+09:00",
+        "link_count": 1,
+        "log_no": "224264754929",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264754929",
+        "published_at": "2026-04-25T14:55:55+09:00",
+        "text_length": 838,
+        "title": "파란국어 & 수학의답 현)중3을 위한 Summer <Nine To Nine> Festival 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-25T09:59:49.298668+09:00",
@@ -2832,6 +2858,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-25T15:46:49.712037+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-04-25T15:46:49.712037+09:00",
+        "link_count": 0,
+        "log_no": "224264775606",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264775606",
+        "published_at": "2026-04-25T15:22:46+09:00",
+        "text_length": 0,
+        "title": "개념상상sm kmo프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-24T22:54:17.401660+09:00",
@@ -7161,5 +7200,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-25T10:56:17.034465+09:00"
+  "updated_at": "2026-04-25T15:46:49.712037+09:00"
 }
