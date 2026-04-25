@@ -1,6 +1,19 @@
 {
-  "post_count": 548,
+  "post_count": 549,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-25T10:56:17.034465+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-25T10:56:17.034465+09:00",
+      "link_count": 0,
+      "log_no": "224264555405",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264555405",
+      "published_at": "2026-04-25T10:21:55+09:00",
+      "text_length": 0,
+      "title": "의대에 내신 1등급 89% 몰려… 최상위권 의대 쏠림 강해져"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-25T09:59:49.298668+09:00",
@@ -7126,5 +7139,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-25T09:59:49.298668+09:00"
+  "updated_at": "2026-04-25T10:56:17.034465+09:00"
 }
