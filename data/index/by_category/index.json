@@ -2860,6 +2860,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-25T21:30:09.348892+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-25T21:30:09.348892+09:00",
+        "link_count": 1,
+        "log_no": "224265032651",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265032651",
+        "published_at": "2026-04-25T21:13:36+09:00",
+        "text_length": 950,
+        "title": "예섬SS입시센터 도서×교과 전공별 심화 보고서 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-25T17:33:53.664706+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-25T17:33:53.664706+09:00",
@@ -7213,5 +7226,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-25T17:33:53.664706+09:00"
+  "updated_at": "2026-04-25T21:30:09.348892+09:00"
 }
