@@ -1218,6 +1218,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-26T00:28:23.172325+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-26T00:28:23.172325+09:00",
+        "link_count": 1,
+        "log_no": "224265157271",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265157271",
+        "published_at": "2026-04-25T23:52:26+09:00",
+        "text_length": 47,
+        "title": "SNT 전략간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-25T23:30:53.755275+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-25T23:30:53.755275+09:00",
@@ -2884,6 +2897,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-26T00:28:23.172325+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-26T00:28:23.172325+09:00",
+        "link_count": 0,
+        "log_no": "224265154893",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265154893",
+        "published_at": "2026-04-25T23:49:12+09:00",
+        "text_length": 0,
+        "title": "김현구국어 5월 시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-26T00:28:23.172325+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-26T00:28:23.172325+09:00",
+        "link_count": 1,
+        "log_no": "224265149925",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265149925",
+        "published_at": "2026-04-25T23:42:31+09:00",
+        "text_length": 735,
+        "title": "세정학원 김강용T 확률과 통계 개념특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-25T23:30:53.755275+09:00",
@@ -7304,5 +7343,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-25T23:30:53.755275+09:00"
+  "updated_at": "2026-04-26T00:28:23.172325+09:00"
 }
