@@ -1192,6 +1192,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-25T09:59:49.298668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-25T09:59:49.298668+09:00",
+        "link_count": 1,
+        "log_no": "224264539513",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224264539513",
+        "published_at": "2026-04-25T09:58:45+09:00",
+        "text_length": 720,
+        "title": "KNS&수미사 의대 합격 전략 ★현장설명회★"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-25T00:42:46.653605+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-25T00:42:46.653605+09:00",
@@ -7135,5 +7148,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-25T02:34:56.010667+09:00"
+  "updated_at": "2026-04-25T09:59:49.298668+09:00"
 }

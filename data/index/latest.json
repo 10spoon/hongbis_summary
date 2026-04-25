@@ -1,6 +1,19 @@
 {
-  "post_count": 547,
+  "post_count": 548,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-25T09:59:49.298668+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-25T09:59:49.298668+09:00",
+      "link_count": 1,
+      "log_no": "224264539513",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224264539513",
+      "published_at": "2026-04-25T09:58:45+09:00",
+      "text_length": 720,
+      "title": "KNS&수미사 의대 합격 전략 ★현장설명회★"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-25T02:34:56.010667+09:00",
@@ -7113,5 +7126,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-25T02:34:56.010667+09:00"
+  "updated_at": "2026-04-25T09:59:49.298668+09:00"
 }
