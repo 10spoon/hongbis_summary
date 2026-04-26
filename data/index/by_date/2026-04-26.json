@@ -1,7 +1,59 @@
 {
   "key": "2026-04-26",
-  "post_count": 16,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
+      "link_count": 0,
+      "log_no": "224266061909",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266061909",
+      "published_at": "2026-04-26T23:53:46+09:00",
+      "text_length": 65,
+      "title": "강남하이퍼목동 2027 의치한약수·반도체 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
+      "link_count": 0,
+      "log_no": "224266058679",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266058679",
+      "published_at": "2026-04-26T23:49:57+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 고3 6평대비특강시간표"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
+      "link_count": 0,
+      "log_no": "224266054230",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266054230",
+      "published_at": "2026-04-26T23:44:46+09:00",
+      "text_length": 0,
+      "title": "몰입아카데미 2026 여름방학캠프"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
+      "link_count": 0,
+      "log_no": "224266050719",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266050719",
+      "published_at": "2026-04-26T23:40:41+09:00",
+      "text_length": 0,
+      "title": "상아학원 1학기 기말고사시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-26T23:30:57.601126+09:00",
@@ -211,5 +263,5 @@
       "title": "해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈"
     }
   ],
-  "updated_at": "2026-04-26T23:30:57.601126+09:00"
+  "updated_at": "2026-04-27T00:29:55.552536+09:00"
 }
