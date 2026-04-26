@@ -1099,6 +1099,19 @@
     "선배들의공부방법모음": [
       {
         "category": "선배들의공부방법모음",
+        "first_seen_at": "2026-04-26T19:31:18.970912+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-26T19:31:18.970912+09:00",
+        "link_count": 0,
+        "log_no": "224265825617",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265825617",
+        "published_at": "2026-04-26T19:29:56+09:00",
+        "text_length": 0,
+        "title": "2026학년도 강남서초 수시 합격생 인터뷰 _ 서울대 의예과 1학년 민동현(세화고 졸업)"
+      },
+      {
+        "category": "선배들의공부방법모음",
         "first_seen_at": "2026-04-23T00:44:31.095163+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-23T00:44:31.095163+09:00",
@@ -2949,6 +2962,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-26T19:31:18.970912+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-26T19:31:18.970912+09:00",
+        "link_count": 0,
+        "log_no": "224265806936",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224265806936",
+        "published_at": "2026-04-26T19:04:57+09:00",
+        "text_length": 0,
+        "title": "돌파수학 중1 대수반 개강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-26T17:41:42.375722+09:00",
@@ -7447,5 +7473,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-26T17:41:42.375722+09:00"
+  "updated_at": "2026-04-26T19:31:18.970912+09:00"
 }
