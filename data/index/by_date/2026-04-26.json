@@ -1,7 +1,33 @@
 {
   "key": "2026-04-26",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-26T17:41:42.375722+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T17:41:42.375722+09:00",
+      "link_count": 0,
+      "log_no": "224265732718",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224265732718",
+      "published_at": "2026-04-26T17:28:40+09:00",
+      "text_length": 0,
+      "title": "예설라목동 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-26T17:41:42.375722+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T17:41:42.375722+09:00",
+      "link_count": 0,
+      "log_no": "224265731366",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224265731366",
+      "published_at": "2026-04-26T17:26:45+09:00",
+      "text_length": 484,
+      "title": "예섬상산관 임대순T 오픈 실험반"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-26T15:56:29.938245+09:00",
@@ -81,5 +107,5 @@
       "title": "해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈"
     }
   ],
-  "updated_at": "2026-04-26T15:56:29.938245+09:00"
+  "updated_at": "2026-04-26T17:41:42.375722+09:00"
 }
