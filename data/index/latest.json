@@ -1,6 +1,32 @@
 {
-  "post_count": 567,
+  "post_count": 569,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-26T15:56:29.938245+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T15:56:29.938245+09:00",
+      "link_count": 0,
+      "log_no": "224265644094",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224265644094",
+      "published_at": "2026-04-26T15:33:24+09:00",
+      "text_length": 0,
+      "title": "서울외고 입학설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-26T15:56:29.938245+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T15:56:29.938245+09:00",
+      "link_count": 0,
+      "log_no": "224265628614",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224265628614",
+      "published_at": "2026-04-26T15:13:29+09:00",
+      "text_length": 0,
+      "title": "30년 전 마지막 학력고사 수석 신동, 요즘 핫한 ‘이 기업’ 합류했다는데"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-04-26T12:24:41.844682+09:00",
@@ -7373,5 +7399,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-26T12:24:41.844682+09:00"
+  "updated_at": "2026-04-26T15:56:29.938245+09:00"
 }
