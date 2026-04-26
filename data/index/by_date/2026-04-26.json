@@ -1,7 +1,20 @@
 {
   "key": "2026-04-26",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-26T10:56:44.077324+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T10:56:44.077324+09:00",
+      "link_count": 0,
+      "log_no": "224265430711",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224265430711",
+      "published_at": "2026-04-26T10:27:41+09:00",
+      "text_length": 0,
+      "title": "한영외고 입학설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-26T10:07:31.862661+09:00",
@@ -29,5 +42,5 @@
       "title": "해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈"
     }
   ],
-  "updated_at": "2026-04-26T10:07:31.862661+09:00"
+  "updated_at": "2026-04-26T10:56:44.077324+09:00"
 }
