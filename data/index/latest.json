@@ -1,6 +1,32 @@
 {
-  "post_count": 577,
+  "post_count": 579,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-26T23:30:57.601126+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T23:30:57.601126+09:00",
+      "link_count": 0,
+      "log_no": "224266041358",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266041358",
+      "published_at": "2026-04-26T23:29:20+09:00",
+      "text_length": 0,
+      "title": "러셀목동 고1 썸머 몰입캠프"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-26T23:30:57.601126+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-26T23:30:57.601126+09:00",
+      "link_count": 0,
+      "log_no": "224266031800",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266031800",
+      "published_at": "2026-04-26T23:18:10+09:00",
+      "text_length": 0,
+      "title": "수험생이라면 지금 당장, ‘우선순위 학습법’부터 정하라"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-26T21:32:01.134339+09:00",
@@ -7503,5 +7529,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-26T21:32:01.134339+09:00"
+  "updated_at": "2026-04-26T23:30:57.601126+09:00"
 }
