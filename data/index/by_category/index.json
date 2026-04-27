@@ -3016,6 +3016,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
+        "link_count": 0,
+        "log_no": "224267071677",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224267071677",
+        "published_at": "2026-04-27T19:19:48+09:00",
+        "text_length": 0,
+        "title": "불꽃수학 예비고1 7월개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
+        "link_count": 0,
+        "log_no": "224267070030",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224267070030",
+        "published_at": "2026-04-27T19:17:58+09:00",
+        "text_length": 536,
+        "title": "픽스아카데미 5월 연휴특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-27T18:09:39.845690+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-27T18:09:39.845690+09:00",
@@ -6257,6 +6283,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
+        "link_count": 0,
+        "log_no": "224267068872",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224267068872",
+        "published_at": "2026-04-27T19:16:43+09:00",
+        "text_length": 0,
+        "title": "2028 의대 입시, 어떤 고교를 선택할 것인가"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-27T18:09:39.845690+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-27T18:09:39.845690+09:00",
@@ -7694,5 +7733,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-27T18:09:39.845690+09:00"
+  "updated_at": "2026-04-27T19:56:41.695534+09:00"
 }
