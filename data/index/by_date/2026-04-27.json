@@ -1,7 +1,33 @@
 {
   "key": "2026-04-27",
-  "post_count": 3,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T16:11:48.233886+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T16:11:48.233886+09:00",
+      "link_count": 9,
+      "log_no": "224266832483",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266832483",
+      "published_at": "2026-04-27T16:01:33+09:00",
+      "text_length": 944,
+      "title": "목동 CMS 입시센터 <CMS 의치한반> 5월 개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T16:11:48.233886+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T16:11:48.233886+09:00",
+      "link_count": 3,
+      "log_no": "224266767017",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266767017",
+      "published_at": "2026-04-27T15:12:55+09:00",
+      "text_length": 693,
+      "title": "준과학 중학생을 위한 5월 프로그램"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-27T14:25:07.309877+09:00",
@@ -42,5 +68,5 @@
       "title": "걸어서 출퇴근·끼니는 도시락…'무지출 챌린지'가 뭐길래"
     }
   ],
-  "updated_at": "2026-04-27T14:25:07.309877+09:00"
+  "updated_at": "2026-04-27T16:11:48.233886+09:00"
 }
