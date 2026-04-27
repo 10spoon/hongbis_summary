@@ -1,7 +1,33 @@
 {
   "key": "2026-04-27",
-  "post_count": 14,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T22:55:31.624526+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-27T22:55:31.624526+09:00",
+      "link_count": 0,
+      "log_no": "224267275703",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224267275703",
+      "published_at": "2026-04-27T22:51:57+09:00",
+      "text_length": 0,
+      "title": "역사화랑 수행과수능 생기부형 글쓰기 공모전"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T22:55:31.624526+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-04-27T22:55:31.624526+09:00",
+      "link_count": 0,
+      "log_no": "224267256689",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224267256689",
+      "published_at": "2026-04-27T22:32:06+09:00",
+      "text_length": 0,
+      "title": "아드폰테스하이페리온 5월수학프로그램"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-27T21:51:32.264767+09:00",
@@ -185,5 +211,5 @@
       "title": "걸어서 출퇴근·끼니는 도시락…'무지출 챌린지'가 뭐길래"
     }
   ],
-  "updated_at": "2026-04-27T21:51:32.264767+09:00"
+  "updated_at": "2026-04-27T22:55:31.624526+09:00"
 }
