@@ -1,7 +1,33 @@
 {
   "key": "2026-04-27",
-  "post_count": 16,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-27T23:57:24.670795+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T23:57:24.670795+09:00",
+      "link_count": 1,
+      "log_no": "224267306260",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224267306260",
+      "published_at": "2026-04-27T23:25:27+09:00",
+      "text_length": 553,
+      "title": "대치미래탐구 기말대비 성공전략]설명회★ 첫 시험이후 전략: 중간고사 이후 직면하는 것!!"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-27T23:57:24.670795+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T23:57:24.670795+09:00",
+      "link_count": 0,
+      "log_no": "224267299729",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224267299729",
+      "published_at": "2026-04-27T23:18:07+09:00",
+      "text_length": 18,
+      "title": "성적은 결과이고 태도는 미래입니다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-27T22:55:31.624526+09:00",
@@ -211,5 +237,5 @@
       "title": "걸어서 출퇴근·끼니는 도시락…'무지출 챌린지'가 뭐길래"
     }
   ],
-  "updated_at": "2026-04-27T22:55:31.624526+09:00"
+  "updated_at": "2026-04-27T23:57:24.670795+09:00"
 }
