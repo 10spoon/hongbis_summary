@@ -1257,6 +1257,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-27T14:25:07.309877+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T14:25:07.309877+09:00",
+        "link_count": 7,
+        "log_no": "224266609100",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224266609100",
+        "published_at": "2026-04-27T13:13:45+09:00",
+        "text_length": 1231,
+        "title": "두각학원 중3필독” 2028 대입, 전형계획 완벽 해부"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
@@ -7629,5 +7642,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-27T10:07:47.869830+09:00"
+  "updated_at": "2026-04-27T14:25:07.309877+09:00"
 }
