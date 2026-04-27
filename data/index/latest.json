@@ -1,6 +1,32 @@
 {
-  "post_count": 588,
+  "post_count": 590,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-27T18:09:39.845690+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-27T18:09:39.845690+09:00",
+      "link_count": 0,
+      "log_no": "224267000844",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224267000844",
+      "published_at": "2026-04-27T18:09:09+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 자퇴→농사→42세 유학→수석 졸업 \"쓸모 묻지 말고 공부하라"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-27T18:09:39.845690+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-27T18:09:39.845690+09:00",
+      "link_count": 2,
+      "log_no": "224266999685",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224266999685",
+      "published_at": "2026-04-27T18:08:08+09:00",
+      "text_length": 831,
+      "title": "윤도영통합과학시스템 2027 수능 대비 윤도영 생명과학Ⅰ 2단계 실전반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-27T16:11:48.233886+09:00",
@@ -7646,5 +7672,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-27T16:11:48.233886+09:00"
+  "updated_at": "2026-04-27T18:09:39.845690+09:00"
 }
