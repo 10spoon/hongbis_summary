@@ -1257,6 +1257,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-27T21:51:32.264767+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T21:51:32.264767+09:00",
+        "link_count": 0,
+        "log_no": "224267200244",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224267200244",
+        "published_at": "2026-04-27T21:35:00+09:00",
+        "text_length": 352,
+        "title": "대치명인 숙명여고1] 1학기 중간고사 내신분석 & 생기부 작성법 실습 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-27T20:53:34.997896+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-27T20:53:34.997896+09:00",
@@ -6309,6 +6322,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-27T21:51:32.264767+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-27T21:51:32.264767+09:00",
+        "link_count": 0,
+        "log_no": "224267195063",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224267195063",
+        "published_at": "2026-04-27T21:29:49+09:00",
+        "text_length": 0,
+        "title": "월 30만원 생활비 준다…삼전·하닉 계약학과 합격선 역대 최고"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
@@ -7759,5 +7785,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-27T20:53:34.997896+09:00"
+  "updated_at": "2026-04-27T21:51:32.264767+09:00"
 }
