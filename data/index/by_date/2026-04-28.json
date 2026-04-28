@@ -1,7 +1,46 @@
 {
   "key": "2026-04-28",
-  "post_count": 7,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-28T19:56:58.925967+09:00",
+      "link_count": 0,
+      "log_no": "224268325461",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268325461",
+      "published_at": "2026-04-28T19:31:12+09:00",
+      "text_length": 0,
+      "title": "헌산중학교 입학설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-28T19:56:58.925967+09:00",
+      "link_count": 0,
+      "log_no": "224268323313",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268323313",
+      "published_at": "2026-04-28T19:28:52+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 중간고사 시험 못 봤다는 딸의 문자에 엄마가 보낸 답장"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-28T19:56:58.925967+09:00",
+      "link_count": 2,
+      "log_no": "224268322316",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268322316",
+      "published_at": "2026-04-28T19:27:45+09:00",
+      "text_length": 790,
+      "title": "두각k관 고2 기말고사 대비반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
@@ -94,5 +133,5 @@
       "title": "아이에 대한 걱정, 사랑에서 출발했음을 기억하세요"
     }
   ],
-  "updated_at": "2026-04-28T17:00:26.047671+09:00"
+  "updated_at": "2026-04-28T19:56:58.925967+09:00"
 }
