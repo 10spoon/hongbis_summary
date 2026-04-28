@@ -1270,6 +1270,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-28T17:00:26.047671+09:00",
+        "link_count": 2,
+        "log_no": "224268113376",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268113376",
+        "published_at": "2026-04-28T16:24:06+09:00",
+        "text_length": 700,
+        "title": "수학원리탐구 초등 저학년(7세~3학년) 수학공부와 영재원 로드맵"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-27T23:57:24.670795+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-27T23:57:24.670795+09:00",
@@ -3066,6 +3079,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-28T17:00:26.047671+09:00",
+        "link_count": 0,
+        "log_no": "224268122958",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268122958",
+        "published_at": "2026-04-28T16:31:27+09:00",
+        "text_length": 0,
+        "title": "개념상상 5월연휴특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-28T16:12:00.078970+09:00",
@@ -6413,6 +6439,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-28T17:00:26.047671+09:00",
+        "link_count": 0,
+        "log_no": "224268119385",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268119385",
+        "published_at": "2026-04-28T16:28:49+09:00",
+        "text_length": 0,
+        "title": "아들 책 날마다 베껴주며 “외우거라”···550년 전 ‘성재일기’ 속 조선의 교육 일상"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-28T10:09:16.649759+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-28T10:09:16.649759+09:00",
@@ -7889,5 +7928,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-28T16:12:00.078970+09:00"
+  "updated_at": "2026-04-28T17:00:26.047671+09:00"
 }
