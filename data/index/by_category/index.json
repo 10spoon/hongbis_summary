@@ -6595,6 +6595,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-29T08:21:10.882850+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-29T08:21:10.882850+09:00",
+        "link_count": 0,
+        "log_no": "224268780032",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268780032",
+        "published_at": "2026-04-29T08:04:32+09:00",
+        "text_length": 0,
+        "title": "2027년 의대 정원 '3548명 최종 확정'… 지역의사제는 내년부터 도입"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-29T00:07:54.283646+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-29T00:07:54.283646+09:00",
@@ -8110,5 +8123,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-29T01:54:57.920474+09:00"
+  "updated_at": "2026-04-29T08:21:10.882850+09:00"
 }
