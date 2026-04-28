@@ -1270,6 +1270,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
+        "link_count": 0,
+        "log_no": "224268450881",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268450881",
+        "published_at": "2026-04-28T21:48:09+09:00",
+        "text_length": 356,
+        "title": "미래영재,GT [초5~중 3대상] 2028 대입개편설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-28T19:56:58.925967+09:00",
@@ -3092,6 +3105,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
+        "link_count": 0,
+        "log_no": "224268415356",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268415356",
+        "published_at": "2026-04-28T21:10:06+09:00",
+        "text_length": 0,
+        "title": "pmg학원 중등과학프로그램"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
+        "link_count": 0,
+        "log_no": "224268412595",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268412595",
+        "published_at": "2026-04-28T21:07:07+09:00",
+        "text_length": 842,
+        "title": "반포세정 중3 〔2027 고1〕 여름 조기 개강 사전예약"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
+        "link_count": 0,
+        "log_no": "224268400995",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268400995",
+        "published_at": "2026-04-28T20:54:36+09:00",
+        "text_length": 0,
+        "title": "올가국어 중등5-7월도서"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-28T20:54:04.515116+09:00",
@@ -7980,5 +8032,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-28T20:54:04.515116+09:00"
+  "updated_at": "2026-04-28T21:55:35.977023+09:00"
 }
