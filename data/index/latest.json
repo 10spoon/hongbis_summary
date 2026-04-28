@@ -1,6 +1,19 @@
 {
-  "post_count": 611,
+  "post_count": 612,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-28T20:54:04.515116+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-28T20:54:04.515116+09:00",
+      "link_count": 0,
+      "log_no": "224268363437",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268363437",
+      "published_at": "2026-04-28T20:12:28+09:00",
+      "text_length": 0,
+      "title": "대치와이즈만 왓슨특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
@@ -7945,5 +7958,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-28T19:56:58.925967+09:00"
+  "updated_at": "2026-04-28T20:54:04.515116+09:00"
 }
