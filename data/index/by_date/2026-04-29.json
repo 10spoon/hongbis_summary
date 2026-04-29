@@ -1,7 +1,46 @@
 {
   "key": "2026-04-29",
-  "post_count": 19,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-29T23:59:09.923795+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-29T23:59:09.923795+09:00",
+      "link_count": 0,
+      "log_no": "224269782579",
+      "place_count": 2,
+      "post_url": "https://blog.naver.com/hongbis/224269782579",
+      "published_at": "2026-04-29T23:32:21+09:00",
+      "text_length": 242,
+      "title": "대치피엘학원 대원외고 1학년 수학시험리뷰"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-29T23:59:09.923795+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T23:59:09.923795+09:00",
+      "link_count": 3,
+      "log_no": "224269765684",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269765684",
+      "published_at": "2026-04-29T23:12:28+09:00",
+      "text_length": 734,
+      "title": "대치파인만 고교 수학 기출 등급예측 모의고사 & 해제 5,6월 휴일특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-29T23:59:09.923795+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T23:59:09.923795+09:00",
+      "link_count": 0,
+      "log_no": "224269760195",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269760195",
+      "published_at": "2026-04-29T23:06:21+09:00",
+      "text_length": 0,
+      "title": "클라디학원 수업시간표"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-29T22:55:49.160792+09:00",
@@ -250,5 +289,5 @@
       "title": "2026년 청소년 해양올림피아드 대회 공고"
     }
   ],
-  "updated_at": "2026-04-29T22:55:49.160792+09:00"
+  "updated_at": "2026-04-29T23:59:09.923795+09:00"
 }
