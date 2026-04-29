@@ -3224,6 +3224,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-29T16:57:27.833839+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-29T16:57:27.833839+09:00",
+        "link_count": 1,
+        "log_no": "224269351280",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224269351280",
+        "published_at": "2026-04-29T16:18:27+09:00",
+        "text_length": 1143,
+        "title": "시대인재중등관 수학 정규반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
@@ -8253,5 +8266,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-29T16:06:50.059842+09:00"
+  "updated_at": "2026-04-29T16:57:27.833839+09:00"
 }
