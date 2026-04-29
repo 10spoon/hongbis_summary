@@ -1,7 +1,33 @@
 {
   "key": "2026-04-29",
-  "post_count": 17,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-29T22:55:49.160792+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-29T22:55:49.160792+09:00",
+      "link_count": 0,
+      "log_no": "224269749407",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269749407",
+      "published_at": "2026-04-29T22:54:10+09:00",
+      "text_length": 0,
+      "title": "대치중심학원 이성수t 국어 간담회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-29T22:55:49.160792+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-04-29T22:55:49.160792+09:00",
+      "link_count": 0,
+      "log_no": "224269745498",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269745498",
+      "published_at": "2026-04-29T22:49:48+09:00",
+      "text_length": 0,
+      "title": "목동마녀수학 중등부시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-29T19:55:17.208008+09:00",
@@ -224,5 +250,5 @@
       "title": "2026년 청소년 해양올림피아드 대회 공고"
     }
   ],
-  "updated_at": "2026-04-29T19:55:17.208008+09:00"
+  "updated_at": "2026-04-29T22:55:49.160792+09:00"
 }
