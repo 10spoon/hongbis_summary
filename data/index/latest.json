@@ -1,6 +1,32 @@
 {
-  "post_count": 631,
+  "post_count": 633,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-29T16:06:50.059842+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T16:06:50.059842+09:00",
+      "link_count": 0,
+      "log_no": "224269285126",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269285126",
+      "published_at": "2026-04-29T15:31:19+09:00",
+      "text_length": 0,
+      "title": "학생들도 자비 없다...'태형' 싱가포르, 학교폭력에 칼 뽑았다"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-29T16:06:50.059842+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T16:06:50.059842+09:00",
+      "link_count": 2,
+      "log_no": "224269281414",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269281414",
+      "published_at": "2026-04-29T15:28:37+09:00",
+      "text_length": 678,
+      "title": "유웨이 대치센터 고2 중간고사 이후 대비전략 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-29T14:25:37.932144+09:00",
@@ -8205,5 +8231,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-29T14:25:37.932144+09:00"
+  "updated_at": "2026-04-29T16:06:50.059842+09:00"
 }
