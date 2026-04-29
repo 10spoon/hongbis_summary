@@ -1,6 +1,45 @@
 {
-  "post_count": 635,
+  "post_count": 638,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-29T19:55:17.208008+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T19:55:17.208008+09:00",
+      "link_count": 1,
+      "log_no": "224269564180",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269564180",
+      "published_at": "2026-04-29T19:25:01+09:00",
+      "text_length": 504,
+      "title": "세정입시관 세특 보고서 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-29T19:55:17.208008+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T19:55:17.208008+09:00",
+      "link_count": 2,
+      "log_no": "224269554177",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269554177",
+      "published_at": "2026-04-29T19:13:35+09:00",
+      "text_length": 414,
+      "title": "아이티씨하이 고등내신설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-04-29T19:55:17.208008+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-04-29T19:55:17.208008+09:00",
+      "link_count": 0,
+      "log_no": "224269550182",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269550182",
+      "published_at": "2026-04-29T19:09:13+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 인생에서 가장 중요한 건…” 교황, 젊은이들에게 남긴 생전 메시지"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-29T18:57:11.134015+09:00",
@@ -8257,5 +8296,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-29T18:57:11.134015+09:00"
+  "updated_at": "2026-04-29T19:55:17.208008+09:00"
 }
