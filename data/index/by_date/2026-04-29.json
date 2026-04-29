@@ -1,7 +1,46 @@
 {
   "key": "2026-04-29",
-  "post_count": 7,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-29T14:25:37.932144+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T14:25:37.932144+09:00",
+      "link_count": 0,
+      "log_no": "224269105305",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269105305",
+      "published_at": "2026-04-29T13:10:20+09:00",
+      "text_length": 0,
+      "title": "제주에 미국 명문 '풀턴 사이언스 아카데미' 캠퍼스 착공"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-29T14:25:37.932144+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T14:25:37.932144+09:00",
+      "link_count": 0,
+      "log_no": "224269079080",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269079080",
+      "published_at": "2026-04-29T12:47:21+09:00",
+      "text_length": 0,
+      "title": "인터넷 강의를 스스로 완강할 수 있는지가 자기주도학습 출발점"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-04-29T14:25:37.932144+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-04-29T14:25:37.932144+09:00",
+      "link_count": 0,
+      "log_no": "224269074968",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224269074968",
+      "published_at": "2026-04-29T12:43:33+09:00",
+      "text_length": 0,
+      "title": "대치와이즈만 중등학부모 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-29T10:57:08.610021+09:00",
@@ -94,5 +133,5 @@
       "title": "2026년 청소년 해양올림피아드 대회 공고"
     }
   ],
-  "updated_at": "2026-04-29T10:57:08.610021+09:00"
+  "updated_at": "2026-04-29T14:25:37.932144+09:00"
 }
