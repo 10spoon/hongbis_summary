@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-29T10:10:04.401039+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-29T10:10:04.401039+09:00",
+        "link_count": 0,
+        "log_no": "224268806201",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268806201",
+        "published_at": "2026-04-29T08:42:18+09:00",
+        "text_length": 1398,
+        "title": "의약외품 바로 알기 슬로건 공모전"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-29T01:54:57.920474+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-29T01:54:57.920474+09:00",
@@ -6595,6 +6608,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-29T10:10:04.401039+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-29T10:10:04.401039+09:00",
+        "link_count": 0,
+        "log_no": "224268803456",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224268803456",
+        "published_at": "2026-04-29T08:38:33+09:00",
+        "text_length": 0,
+        "title": "수능 잘 볼 걱정 말고 지원하세요”"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-29T08:21:10.882850+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-29T08:21:10.882850+09:00",
@@ -8123,5 +8149,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-29T08:21:10.882850+09:00"
+  "updated_at": "2026-04-29T10:10:04.401039+09:00"
 }
