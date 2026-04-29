@@ -1,6 +1,45 @@
 {
-  "post_count": 625,
+  "post_count": 628,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-29T10:57:08.610021+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T10:57:08.610021+09:00",
+      "link_count": 0,
+      "log_no": "224268939312",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268939312",
+      "published_at": "2026-04-29T10:49:24+09:00",
+      "text_length": 0,
+      "title": "고교학점제, ‘내신등급’ 앞에서 ‘선택’은 불가능했다"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-29T10:57:08.610021+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T10:57:08.610021+09:00",
+      "link_count": 0,
+      "log_no": "224268907406",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268907406",
+      "published_at": "2026-04-29T10:23:40+09:00",
+      "text_length": 0,
+      "title": "서울과학고와 함께하는 과학나눔캠프"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-04-29T10:57:08.610021+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-29T10:57:08.610021+09:00",
+      "link_count": 0,
+      "log_no": "224268904305",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224268904305",
+      "published_at": "2026-04-29T10:21:05+09:00",
+      "text_length": 0,
+      "title": "해리 포터·셜록 홈스 못잖은 경험, 화학 알면 가능하죠"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-29T10:10:04.401039+09:00",
@@ -8127,5 +8166,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-29T10:10:04.401039+09:00"
+  "updated_at": "2026-04-29T10:57:08.610021+09:00"
 }
