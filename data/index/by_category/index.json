@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270796232",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270796232",
+        "published_at": "2026-04-30T19:39:08+09:00",
+        "text_length": 351,
+        "title": "2026학년도 1학기 성균관대 글로벌리더학부 전공체험 행사 개최 안내"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-30T16:09:47.441078+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-30T16:09:47.441078+09:00",
@@ -1346,6 +1359,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270780334",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270780334",
+        "published_at": "2026-04-30T19:21:19+09:00",
+        "text_length": 0,
+        "title": "대치프로세스논술 5월 논술 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-04-30T18:41:26.185569+09:00",
@@ -3287,6 +3313,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270782403",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270782403",
+        "published_at": "2026-04-30T19:23:42+09:00",
+        "text_length": 0,
+        "title": "큐사이언스 고등기말내신개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270767241",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270767241",
+        "published_at": "2026-04-30T19:06:27+09:00",
+        "text_length": 0,
+        "title": "문과생, 고졸 출신도 대기업 개발자로… \"SSAFY 만나 제 인생은 럭키비키죠\""
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270764010",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270764010",
+        "published_at": "2026-04-30T19:02:57+09:00",
+        "text_length": 374,
+        "title": "천개의고원 고2 기말대비반 개강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-30T18:57:19.592296+09:00",
@@ -5850,6 +5915,32 @@
       }
     ],
     "엄마공부": [
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270774058",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270774058",
+        "published_at": "2026-04-30T19:14:03+09:00",
+        "text_length": 0,
+        "title": "[5년 전 오늘] [40대의 단역이 없었다면 70대의 아카데미도 없었을거예요^^]"
+      },
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
+        "link_count": 0,
+        "log_no": "224270773544",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270773544",
+        "published_at": "2026-04-30T19:13:27+09:00",
+        "text_length": 0,
+        "title": "[3년 전 오늘] 자기열등화전략"
+      },
       {
         "category": "엄마공부",
         "first_seen_at": "2026-04-29T19:55:17.208008+09:00",
@@ -8487,5 +8578,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-30T18:57:19.592296+09:00"
+  "updated_at": "2026-04-30T19:55:25.999795+09:00"
 }
