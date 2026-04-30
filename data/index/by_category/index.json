@@ -6803,6 +6803,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-30T14:26:20.871187+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T14:26:20.871187+09:00",
+        "link_count": 0,
+        "log_no": "224270405717",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270405717",
+        "published_at": "2026-04-30T14:11:15+09:00",
+        "text_length": 0,
+        "title": "점수만으론 대학 못 간다'… 2028 대입, 정시까지 '학생부'가 가른다"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-04-30T14:26:20.871187+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T14:26:20.871187+09:00",
+        "link_count": 0,
+        "log_no": "224270311850",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270311850",
+        "published_at": "2026-04-30T12:48:45+09:00",
+        "text_length": 0,
+        "title": "2028학년도 서울대·연세대 정시모집 대폭 줄어…\"내신 관리 필수\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-29T16:06:50.059842+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-29T16:06:50.059842+09:00",
@@ -8396,5 +8422,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-30T10:57:14.519087+09:00"
+  "updated_at": "2026-04-30T14:26:20.871187+09:00"
 }
