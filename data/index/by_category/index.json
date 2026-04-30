@@ -1361,6 +1361,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-30T21:50:35.152179+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-30T21:50:35.152179+09:00",
+        "link_count": 0,
+        "log_no": "224270877246",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270877246",
+        "published_at": "2026-04-30T21:06:57+09:00",
+        "text_length": 0,
+        "title": "씨앤씨 5월 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
@@ -3313,6 +3326,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T21:50:35.152179+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-04-30T21:50:35.152179+09:00",
+        "link_count": 0,
+        "log_no": "224270892287",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270892287",
+        "published_at": "2026-04-30T21:24:07+09:00",
+        "text_length": 0,
+        "title": "일등급플러스과학 5월 시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
@@ -6933,6 +6959,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-04-30T21:50:35.152179+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T21:50:35.152179+09:00",
+        "link_count": 0,
+        "log_no": "224270882288",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270882288",
+        "published_at": "2026-04-30T21:12:44+09:00",
+        "text_length": 0,
+        "title": "내신 부담 더 커진다…2028 대입 ‘수시 80%’ 돌파, SKY 정시모집 확 준다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-04-30T18:41:26.185569+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-30T18:41:26.185569+09:00",
@@ -8578,5 +8617,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-30T19:55:25.999795+09:00"
+  "updated_at": "2026-04-30T21:50:35.152179+09:00"
 }
