@@ -1,6 +1,19 @@
 {
-  "post_count": 650,
+  "post_count": 651,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-04-30T18:57:19.592296+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-04-30T18:57:19.592296+09:00",
+      "link_count": 2,
+      "log_no": "224270745419",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224270745419",
+      "published_at": "2026-04-30T18:43:46+09:00",
+      "text_length": 591,
+      "title": "픽스아카데미 사고력 고등과정 교과수학 6월 개강반"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-04-30T18:41:26.185569+09:00",
@@ -8452,5 +8465,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-30T18:41:26.185569+09:00"
+  "updated_at": "2026-04-30T18:57:19.592296+09:00"
 }

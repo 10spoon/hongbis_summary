@@ -3289,6 +3289,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-04-30T18:57:19.592296+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-04-30T18:57:19.592296+09:00",
+        "link_count": 2,
+        "log_no": "224270745419",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270745419",
+        "published_at": "2026-04-30T18:43:46+09:00",
+        "text_length": 591,
+        "title": "픽스아카데미 사고력 고등과정 교과수학 6월 개강반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-04-30T10:57:14.519087+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-30T10:57:14.519087+09:00",
@@ -8474,5 +8487,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-30T18:41:26.185569+09:00"
+  "updated_at": "2026-04-30T18:57:19.592296+09:00"
 }
