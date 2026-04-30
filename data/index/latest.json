@@ -1,6 +1,32 @@
 {
-  "post_count": 646,
+  "post_count": 648,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-04-30T16:09:47.441078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-30T16:09:47.441078+09:00",
+      "link_count": 0,
+      "log_no": "224270449404",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224270449404",
+      "published_at": "2026-04-30T14:45:47+09:00",
+      "text_length": 0,
+      "title": "드라마 PD로 20년, 쉰에 초보 변호사 됐어요"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-04-30T16:09:47.441078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-04-30T16:09:47.441078+09:00",
+      "link_count": 0,
+      "log_no": "224270446061",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224270446061",
+      "published_at": "2026-04-30T14:43:11+09:00",
+      "text_length": 0,
+      "title": "[제 5회] 학교도서관 지원을 위한 2026년 전국 어린이 독후감대회 모집"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-30T14:26:20.871187+09:00",
@@ -8400,5 +8426,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-04-30T14:26:20.871187+09:00"
+  "updated_at": "2026-04-30T16:09:47.441078+09:00"
 }
