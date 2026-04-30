@@ -1361,6 +1361,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-04-30T23:57:44.320667+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T23:57:44.320667+09:00",
+        "link_count": 0,
+        "log_no": "224271026708",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271026708",
+        "published_at": "2026-04-30T23:48:03+09:00",
+        "text_length": 0,
+        "title": "러셀대치 고3/N수 2027 반수반 설명회 (5/9,16,23)"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-30T22:55:37.918089+09:00",
         "image_count": 2,
         "last_changed_at": "2026-04-30T22:55:37.918089+09:00",
@@ -3339,6 +3352,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T23:57:44.320667+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T23:57:44.320667+09:00",
+        "link_count": 0,
+        "log_no": "224271009974",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271009974",
+        "published_at": "2026-04-30T23:29:27+09:00",
+        "text_length": 0,
+        "title": "목동셀테카에듀 특목자사고 실전대비반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-04-30T23:57:44.320667+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-04-30T23:57:44.320667+09:00",
+        "link_count": 0,
+        "log_no": "224270980955",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224270980955",
+        "published_at": "2026-04-30T22:57:42+09:00",
+        "text_length": 0,
+        "title": "대치에이펙스 대수기본 5월개강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-04-30T22:55:37.918089+09:00",
@@ -8643,5 +8682,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-04-30T22:55:37.918089+09:00"
+  "updated_at": "2026-04-30T23:57:44.320667+09:00"
 }
