@@ -1,98 +1,54 @@
 {
-  "key": "2026-04-30",
-  "post_count": 7,
-  "posts": [
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-30T18:41:26.185569+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-30T18:41:26.185569+09:00",
-      "link_count": 0,
-      "log_no": "224270742652",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224270742652",
-      "published_at": "2026-04-30T18:40:58+09:00",
-      "text_length": 0,
-      "title": "보람과학 5월 학부모설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-30T18:41:26.185569+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-30T18:41:26.185569+09:00",
-      "link_count": 0,
-      "log_no": "224270733944",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224270733944",
-      "published_at": "2026-04-30T18:32:05+09:00",
-      "text_length": 0,
-      "title": "강원 화천군 시골학교서 세계적 명문대 진학한 박채원양"
-    },
+  "new_count": 5,
+  "new_posts": [
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-30T16:09:47.441078+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-30T16:09:47.441078+09:00",
-      "link_count": 0,
       "log_no": "224270449404",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224270449404",
       "published_at": "2026-04-30T14:45:47+09:00",
-      "text_length": 0,
       "title": "드라마 PD로 20년, 쉰에 초보 변호사 됐어요"
     },
     {
       "category": "비교과",
       "first_seen_at": "2026-04-30T16:09:47.441078+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-30T16:09:47.441078+09:00",
-      "link_count": 0,
       "log_no": "224270446061",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224270446061",
       "published_at": "2026-04-30T14:43:11+09:00",
-      "text_length": 0,
       "title": "[제 5회] 학교도서관 지원을 위한 2026년 전국 어린이 독후감대회 모집"
     },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-30T14:26:20.871187+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-30T14:26:20.871187+09:00",
-      "link_count": 0,
       "log_no": "224270405717",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224270405717",
       "published_at": "2026-04-30T14:11:15+09:00",
-      "text_length": 0,
       "title": "점수만으론 대학 못 간다'… 2028 대입, 정시까지 '학생부'가 가른다"
     },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-04-30T14:26:20.871187+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-30T14:26:20.871187+09:00",
-      "link_count": 0,
       "log_no": "224270311850",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224270311850",
       "published_at": "2026-04-30T12:48:45+09:00",
-      "text_length": 0,
       "title": "2028학년도 서울대·연세대 정시모집 대폭 줄어…\"내신 관리 필수\""
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-04-30T10:57:14.519087+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-04-30T10:57:14.519087+09:00",
-      "link_count": 3,
       "log_no": "224270163726",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224270163726",
       "published_at": "2026-04-30T10:42:51+09:00",
-      "text_length": 1410,
       "title": "목동루브릭아카데미 5월 모집목동 현강 정규반/온라인 정규반/탐구보고서·수행평가관리반"
     }
   ],
-  "updated_at": "2026-04-30T18:41:26.185569+09:00"
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-04-30T18:00:00+09:00",
+  "window_start": "2026-04-30T08:00:00+09:00"
 }
