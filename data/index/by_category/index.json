@@ -1361,6 +1361,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-01T16:11:49.967227+09:00",
+        "link_count": 2,
+        "log_no": "224271579969",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271579969",
+        "published_at": "2026-05-01T15:17:44+09:00",
+        "text_length": 660,
+        "title": "Live : 현민논술 약술형논술 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-04-30T23:57:44.320667+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-30T23:57:44.320667+09:00",
@@ -7076,6 +7089,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-01T16:11:49.967227+09:00",
+        "link_count": 0,
+        "log_no": "224271577907",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271577907",
+        "published_at": "2026-05-01T15:15:11+09:00",
+        "text_length": 0,
+        "title": "공부해도 성적 안 오르는 이유…‘시간’ 아닌 ‘습관’이 문제"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
@@ -8747,5 +8773,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-05-01T12:25:19.942357+09:00"
+  "updated_at": "2026-05-01T16:11:49.967227+09:00"
 }
