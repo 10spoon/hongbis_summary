@@ -44,6 +44,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-01T23:38:15.142784+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-01T23:38:15.142784+09:00",
+        "link_count": 0,
+        "log_no": "224271955209",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271955209",
+        "published_at": "2026-05-01T23:15:43+09:00",
+        "text_length": 0,
+        "title": "성균관대 반도체시스템공학과 전공체험"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
         "image_count": 1,
         "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
@@ -1359,6 +1372,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-01T23:38:15.142784+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-01T23:38:15.142784+09:00",
+        "link_count": 0,
+        "log_no": "224271937391",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271937391",
+        "published_at": "2026-05-01T22:53:54+09:00",
+        "text_length": 0,
+        "title": "우리영어학원 28학년도 주요대학전형계획 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
@@ -6099,6 +6125,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-01T23:38:15.142784+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-01T23:38:15.142784+09:00",
+        "link_count": 0,
+        "log_no": "224271951644",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271951644",
+        "published_at": "2026-05-01T23:11:32+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 공장에서 일한다'는 아들 친구 엄마, 나도 자극 받았다"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
@@ -8879,5 +8918,5 @@
     ]
   },
   "category_count": 12,
-  "updated_at": "2026-05-01T21:38:10.810714+09:00"
+  "updated_at": "2026-05-01T23:38:15.142784+09:00"
 }
