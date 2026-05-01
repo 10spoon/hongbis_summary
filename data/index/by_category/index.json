@@ -3380,6 +3380,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-01T19:45:37.097392+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-01T19:45:37.097392+09:00",
+        "link_count": 1,
+        "log_no": "224271770906",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224271770906",
+        "published_at": "2026-05-01T19:21:38+09:00",
+        "text_length": 480,
+        "title": "아카로드 블루M 과고프리패스과학반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
@@ -8786,5 +8799,5 @@
     ]
   },
   "category_count": 11,
-  "updated_at": "2026-05-01T17:56:14.665282+09:00"
+  "updated_at": "2026-05-01T19:45:37.097392+09:00"
 }
