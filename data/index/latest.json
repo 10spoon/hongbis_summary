@@ -1,6 +1,58 @@
 {
-  "post_count": 677,
+  "post_count": 681,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
+      "link_count": 0,
+      "log_no": "224271871774",
+      "place_count": 2,
+      "post_url": "https://blog.naver.com/hongbis/224271871774",
+      "published_at": "2026-05-01T21:34:17+09:00",
+      "text_length": 200,
+      "title": "대치피엘학원 2025 2 학기 중간고사 전원 A등급 중학교영어내신반"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
+      "link_count": 0,
+      "log_no": "224271851454",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224271851454",
+      "published_at": "2026-05-01T21:08:31+09:00",
+      "text_length": 0,
+      "title": "인공지능 기계학습 딥러닝 수학, 인공지능, 그리고 형식화 [1]: 수학을 위한 인공지능"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
+      "link_count": 0,
+      "log_no": "224271844982",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224271844982",
+      "published_at": "2026-05-01T21:00:01+09:00",
+      "text_length": 0,
+      "title": "서울대학교 2028학년도 대학 신입학생 입학전형 시행계획"
+    },
+    {
+      "category": "워너비",
+      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
+      "link_count": 0,
+      "log_no": "224271835388",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224271835388",
+      "published_at": "2026-05-01T20:47:46+09:00",
+      "text_length": 0,
+      "title": "변호사시험수석, 큰 구멍없는 공부가 만든 1279.21점"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-01T20:39:25.331372+09:00",
@@ -8803,5 +8855,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-01T20:39:25.331372+09:00"
+  "updated_at": "2026-05-01T21:38:10.810714+09:00"
 }
