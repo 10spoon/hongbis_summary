@@ -1,7 +1,20 @@
 {
   "key": "2026-05-01",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "함께읽은책",
+      "first_seen_at": "2026-05-01T17:56:14.665282+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-01T17:56:14.665282+09:00",
+      "link_count": 0,
+      "log_no": "224271680305",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224271680305",
+      "published_at": "2026-05-01T17:20:59+09:00",
+      "text_length": 0,
+      "title": "예비 포스테키안에게 추천하고 싶은 도서"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
@@ -94,5 +107,5 @@
       "title": "5월의 시, 이해인"
     }
   ],
-  "updated_at": "2026-05-01T16:11:49.967227+09:00"
+  "updated_at": "2026-05-01T17:56:14.665282+09:00"
 }
