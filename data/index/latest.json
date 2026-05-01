@@ -1,6 +1,32 @@
 {
-  "post_count": 675,
+  "post_count": 677,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-01T20:39:25.331372+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-01T20:39:25.331372+09:00",
+      "link_count": 1,
+      "log_no": "224271825429",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224271825429",
+      "published_at": "2026-05-01T20:34:52+09:00",
+      "text_length": 493,
+      "title": "완벽한수학 5월 새 진도 시작반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-01T20:39:25.331372+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-01T20:39:25.331372+09:00",
+      "link_count": 0,
+      "log_no": "224271791926",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224271791926",
+      "published_at": "2026-05-01T19:50:22+09:00",
+      "text_length": 884,
+      "title": "박지원큰틀국어학원 5월정규, 기말내신시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-01T19:45:37.097392+09:00",
@@ -8777,5 +8803,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-01T19:45:37.097392+09:00"
+  "updated_at": "2026-05-01T20:39:25.331372+09:00"
 }
