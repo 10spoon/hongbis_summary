@@ -1,6 +1,19 @@
 {
-  "post_count": 686,
+  "post_count": 687,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-02T04:44:33.329082+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-02T04:44:33.329082+09:00",
+      "link_count": 0,
+      "log_no": "224272120063",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224272120063",
+      "published_at": "2026-05-02T04:44:05+09:00",
+      "text_length": 0,
+      "title": "AI 과학자'에 꽂힌 01년생 수재들 … \"AI가 완전히 새로운 과학 지식 만들것\""
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-02T02:36:55.088172+09:00",
@@ -8920,5 +8933,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-02T02:36:55.088172+09:00"
+  "updated_at": "2026-05-02T04:44:33.329082+09:00"
 }
