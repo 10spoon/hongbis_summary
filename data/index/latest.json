@@ -1,6 +1,19 @@
 {
-  "post_count": 698,
+  "post_count": 699,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-02T23:33:00.250608+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-02T23:33:00.250608+09:00",
+      "link_count": 0,
+      "log_no": "224272815815",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224272815815",
+      "published_at": "2026-05-02T22:56:04+09:00",
+      "text_length": 374,
+      "title": "CMS 경시관 고등 KMO 2차 설명회"
+    },
     {
       "category": "선배들의공부방법모음",
       "first_seen_at": "2026-05-02T22:47:54.422961+09:00",
@@ -9076,5 +9089,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-02T22:47:54.422961+09:00"
+  "updated_at": "2026-05-02T23:33:00.250608+09:00"
 }
