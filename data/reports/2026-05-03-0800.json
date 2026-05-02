@@ -1,0 +1,45 @@
+{
+  "new_count": 4,
+  "new_posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-02T23:33:00.250608+09:00",
+      "last_changed_at": "2026-05-02T23:33:00.250608+09:00",
+      "log_no": "224272815815",
+      "post_url": "https://blog.naver.com/hongbis/224272815815",
+      "published_at": "2026-05-02T22:56:04+09:00",
+      "title": "CMS 경시관 고등 KMO 2차 설명회"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-05-02T22:47:54.422961+09:00",
+      "last_changed_at": "2026-05-02T22:47:54.422961+09:00",
+      "log_no": "224272808229",
+      "post_url": "https://blog.naver.com/hongbis/224272808229",
+      "published_at": "2026-05-02T22:46:40+09:00",
+      "title": "[4년 전 오늘] 박선 선생님의 수요 상담소 5회 (LIVE) (with 강기원 선생님) - 학습상담편(유교ver)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-02T22:47:54.422961+09:00",
+      "last_changed_at": "2026-05-02T22:47:54.422961+09:00",
+      "log_no": "224272803680",
+      "post_url": "https://blog.naver.com/hongbis/224272803680",
+      "published_at": "2026-05-02T22:41:07+09:00",
+      "title": "대치퍼스트학원 중고등 5,6월 과학국어비교과"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-02T22:47:54.422961+09:00",
+      "last_changed_at": "2026-05-02T22:47:54.422961+09:00",
+      "log_no": "224272801883",
+      "post_url": "https://blog.naver.com/hongbis/224272801883",
+      "published_at": "2026-05-02T22:39:02+09:00",
+      "title": "2028 대입서 내신 5등급제 첫 적용…수시 비율 '80.8%'"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-05-03T08:00:00+09:00",
+  "window_start": "2026-05-02T18:00:00+09:00"
+}
