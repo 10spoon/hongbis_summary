@@ -1,6 +1,19 @@
 {
-  "post_count": 704,
+  "post_count": 705,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-03T16:56:08.957534+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-03T16:56:08.957534+09:00",
+      "link_count": 0,
+      "log_no": "224273397299",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224273397299",
+      "published_at": "2026-05-03T16:28:43+09:00",
+      "text_length": 0,
+      "title": "포도밭학원 2026학년도 중1 국어 시즌Ⅳ 프로그램"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
@@ -9154,5 +9167,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-03T14:26:25.733027+09:00"
+  "updated_at": "2026-05-03T16:56:08.957534+09:00"
 }
