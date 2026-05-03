@@ -1413,6 +1413,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-03T23:33:25.032297+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-03T23:33:25.032297+09:00",
+        "link_count": 0,
+        "log_no": "224273704688",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224273704688",
+        "published_at": "2026-05-03T22:53:17+09:00",
+        "text_length": 0,
+        "title": "백인대장 고1 학교별간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-03T22:48:25.645518+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-03T22:48:25.645518+09:00",
@@ -3534,6 +3547,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-03T23:33:25.032297+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-03T23:33:25.032297+09:00",
+        "link_count": 0,
+        "log_no": "224273712325",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224273712325",
+        "published_at": "2026-05-03T23:01:52+09:00",
+        "text_length": 0,
+        "title": "아레네스수학 5월개강시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-03T16:56:08.957534+09:00",
@@ -9217,5 +9243,5 @@
     ]
   },
   "category_count": 12,
-  "updated_at": "2026-05-03T22:48:25.645518+09:00"
+  "updated_at": "2026-05-03T23:33:25.032297+09:00"
 }
