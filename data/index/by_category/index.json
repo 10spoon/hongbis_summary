@@ -3523,6 +3523,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
+        "link_count": 0,
+        "log_no": "224273282206",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224273282206",
+        "published_at": "2026-05-03T13:59:03+09:00",
+        "text_length": 599,
+        "title": "전회경영어 고등부 1학기 내신 일정"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
+        "link_count": 0,
+        "log_no": "224273222936",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224273222936",
+        "published_at": "2026-05-03T12:35:20+09:00",
+        "text_length": 623,
+        "title": "예섬 학원 중등 수학 1+1 몰입반 1기 모집"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-03T12:25:08.141924+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-03T12:25:08.141924+09:00",
@@ -7377,6 +7403,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
+        "link_count": 0,
+        "log_no": "224273223985",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224273223985",
+        "published_at": "2026-05-03T12:36:48+09:00",
+        "text_length": 0,
+        "title": "중요성 커지는 내신 평가, 학교알리미로 대비한다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-02T22:47:54.422961+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-02T22:47:54.422961+09:00",
@@ -9139,5 +9178,5 @@
     ]
   },
   "category_count": 12,
-  "updated_at": "2026-05-03T12:25:08.141924+09:00"
+  "updated_at": "2026-05-03T14:26:25.733027+09:00"
 }
