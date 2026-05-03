@@ -1,7 +1,20 @@
 {
   "key": "2026-05-03",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-03T12:25:08.141924+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-03T12:25:08.141924+09:00",
+      "link_count": 1,
+      "log_no": "224273181844",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224273181844",
+      "published_at": "2026-05-03T11:37:15+09:00",
+      "text_length": 613,
+      "title": "세정 수학_홍승재T 5월 중등특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-03T10:13:31.331783+09:00",
@@ -16,5 +29,5 @@
       "title": "국립국어연구원 잘 쓴 우리말 함께 칭찬해요!"
     }
   ],
-  "updated_at": "2026-05-03T10:13:31.331783+09:00"
+  "updated_at": "2026-05-03T12:25:08.141924+09:00"
 }
