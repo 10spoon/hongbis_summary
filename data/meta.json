@@ -268,11 +268,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-05-03T08:53:40.593302+00:00",
+  "generated_at": "2026-05-03T09:31:10.585199+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 705,
   "latest_updated_at": "2026-05-03T16:56:08.957534+09:00",
   "reports": [
+    {
+      "label": "2026-05-03-1800",
+      "new_count": 6,
+      "path": "data/reports/2026-05-03-1800.json",
+      "updated_count": 0,
+      "window_end": "2026-05-03T18:00:00+09:00",
+      "window_start": "2026-05-03T08:00:00+09:00"
+    },
     {
       "label": "2026-05-03-0800",
       "new_count": 4,
