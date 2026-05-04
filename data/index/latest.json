@@ -1,6 +1,32 @@
 {
-  "post_count": 715,
+  "post_count": 717,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-04T18:05:30.049623+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-04T18:05:30.049623+09:00",
+      "link_count": 0,
+      "log_no": "224274612574",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224274612574",
+      "published_at": "2026-05-04T18:01:24+09:00",
+      "text_length": 0,
+      "title": "2026년 사막화와 가뭄방지의 날 기념 <영어발표대회>"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-04T18:05:30.049623+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-04T18:05:30.049623+09:00",
+      "link_count": 0,
+      "log_no": "224274487626",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224274487626",
+      "published_at": "2026-05-04T16:23:15+09:00",
+      "text_length": 0,
+      "title": "넥스트M 중등과학개강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-04T16:20:41.447412+09:00",
@@ -9297,5 +9323,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-04T16:20:41.447412+09:00"
+  "updated_at": "2026-05-04T18:05:30.049623+09:00"
 }
