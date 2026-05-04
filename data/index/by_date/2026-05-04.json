@@ -1,7 +1,33 @@
 {
   "key": "2026-05-04",
-  "post_count": 3,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-04T16:20:41.447412+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-04T16:20:41.447412+09:00",
+      "link_count": 9,
+      "log_no": "224274462476",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224274462476",
+      "published_at": "2026-05-04T16:03:21+09:00",
+      "text_length": 1053,
+      "title": "kns 고교별 내신분석설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-04T16:20:41.447412+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-04T16:20:41.447412+09:00",
+      "link_count": 6,
+      "log_no": "224274450434",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224274450434",
+      "published_at": "2026-05-04T15:54:09+09:00",
+      "text_length": 1231,
+      "title": "유웨이 대치센터 4월 합격하는 생기부 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-04T14:26:55.937115+09:00",
@@ -42,5 +68,5 @@
       "title": "대한민국손편지쓰기공모전"
     }
   ],
-  "updated_at": "2026-05-04T14:26:55.937115+09:00"
+  "updated_at": "2026-05-04T16:20:41.447412+09:00"
 }
