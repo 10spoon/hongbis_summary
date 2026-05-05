@@ -280,11 +280,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-05-05T09:02:21.428930+00:00",
+  "generated_at": "2026-05-05T09:37:29.056206+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 737,
   "latest_updated_at": "2026-05-05T16:56:57.119692+09:00",
   "reports": [
+    {
+      "label": "2026-05-05-1800",
+      "new_count": 9,
+      "path": "data/reports/2026-05-05-1800.json",
+      "updated_count": 0,
+      "window_end": "2026-05-05T18:00:00+09:00",
+      "window_start": "2026-05-05T08:00:00+09:00"
+    },
     {
       "label": "2026-05-05-0800",
       "new_count": 13,
