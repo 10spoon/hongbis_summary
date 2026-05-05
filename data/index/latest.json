@@ -1,6 +1,162 @@
 {
-  "post_count": 737,
+  "post_count": 749,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275914101",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275914101",
+      "published_at": "2026-05-06T00:52:53+09:00",
+      "text_length": 164,
+      "title": "아이티씨하이 내신 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275875615",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275875615",
+      "published_at": "2026-05-05T23:59:19+09:00",
+      "text_length": 0,
+      "title": "재학생에 힘 실어준 2028 대입…정시모집도 학생부 반영 확대"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275873369",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275873369",
+      "published_at": "2026-05-05T23:56:59+09:00",
+      "text_length": 0,
+      "title": "자습시간부터 늘려야\"…재수생들이 말하는 공부비결은"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275872289",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275872289",
+      "published_at": "2026-05-05T23:55:49+09:00",
+      "text_length": 0,
+      "title": "러셀대치 2027반수반설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275869479",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275869479",
+      "published_at": "2026-05-05T23:52:37+09:00",
+      "text_length": 0,
+      "title": "목동아거수학 5월 시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275866820",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275866820",
+      "published_at": "2026-05-05T23:49:25+09:00",
+      "text_length": 0,
+      "title": "대치에이펙스 5월 공수1기본개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275816834",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275816834",
+      "published_at": "2026-05-05T22:51:38+09:00",
+      "text_length": 0,
+      "title": "리얼아카데미x써튼영어 Hands-On Speaking Class 1기 모집"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275813557",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275813557",
+      "published_at": "2026-05-05T22:47:57+09:00",
+      "text_length": 0,
+      "title": "목동미래영재/GT[초5~중3] 2028 대입개편 입시설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275806935",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275806935",
+      "published_at": "2026-05-05T22:40:28+09:00",
+      "text_length": 0,
+      "title": "김진선수학 5월정규시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275784290",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275784290",
+      "published_at": "2026-05-05T22:15:10+09:00",
+      "text_length": 0,
+      "title": "강남하이퍼목동관 학부모 입시교실 안내 (대상 : 중3~고2)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275782480",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275782480",
+      "published_at": "2026-05-05T22:13:12+09:00",
+      "text_length": 0,
+      "title": "목동종로학원 썸머스쿨"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
+      "link_count": 0,
+      "log_no": "224275779863",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275779863",
+      "published_at": "2026-05-05T22:10:26+09:00",
+      "text_length": 0,
+      "title": "대찬학원 고등수학내신시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-05T16:56:57.119692+09:00",
@@ -9583,5 +9739,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-05T16:56:57.119692+09:00"
+  "updated_at": "2026-05-06T01:51:21.934105+09:00"
 }
