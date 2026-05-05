@@ -1,6 +1,19 @@
 {
-  "post_count": 736,
+  "post_count": 737,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-05T16:56:57.119692+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-05T16:56:57.119692+09:00",
+      "link_count": 0,
+      "log_no": "224275499976",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275499976",
+      "published_at": "2026-05-05T16:21:18+09:00",
+      "text_length": 0,
+      "title": "Rx수학 5월편입시험"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-05T16:04:15.978904+09:00",
@@ -9570,5 +9583,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-05T16:04:15.978904+09:00"
+  "updated_at": "2026-05-05T16:56:57.119692+09:00"
 }
