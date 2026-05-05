@@ -1,7 +1,46 @@
 {
   "key": "2026-05-05",
-  "post_count": 1,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
+      "link_count": 0,
+      "log_no": "224275372201",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275372201",
+      "published_at": "2026-05-05T13:45:14+09:00",
+      "text_length": 0,
+      "title": "유타대학교 진로체험 및 야외부스행사"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
+      "image_count": 11,
+      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
+      "link_count": 0,
+      "log_no": "224275345290",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275345290",
+      "published_at": "2026-05-05T13:09:09+09:00",
+      "text_length": 0,
+      "title": "두각학원 중3 썸머스쿨"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
+      "link_count": 0,
+      "log_no": "224275340484",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224275340484",
+      "published_at": "2026-05-05T13:02:37+09:00",
+      "text_length": 0,
+      "title": "막 오르는 영재고 입시…AI·반도체 강세에 경쟁률 반등할까"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-05T10:04:55.700552+09:00",
@@ -16,5 +55,5 @@
       "title": "2026-1학기 성균관대학교 약학과 전공체험"
     }
   ],
-  "updated_at": "2026-05-05T10:04:55.700552+09:00"
+  "updated_at": "2026-05-05T14:21:58.777786+09:00"
 }
