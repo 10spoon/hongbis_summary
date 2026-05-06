@@ -1,7 +1,33 @@
 {
   "key": "2026-05-06",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-06T20:54:31.948739+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T20:54:31.948739+09:00",
+      "link_count": 0,
+      "log_no": "224276904798",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224276904798",
+      "published_at": "2026-05-06T20:21:18+09:00",
+      "text_length": 0,
+      "title": "중간고사 끝, 이제는 수행평가를 챙겨야 할 때"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T20:54:31.948739+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T20:54:31.948739+09:00",
+      "link_count": 0,
+      "log_no": "224276892459",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224276892459",
+      "published_at": "2026-05-06T20:07:44+09:00",
+      "text_length": 0,
+      "title": "김천고등학교 입학설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-06T19:57:09.623116+09:00",
@@ -133,5 +159,5 @@
       "title": "아이티씨하이 내신 설명회"
     }
   ],
-  "updated_at": "2026-05-06T19:57:09.623116+09:00"
+  "updated_at": "2026-05-06T20:54:31.948739+09:00"
 }
