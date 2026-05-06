@@ -1,7 +1,124 @@
 {
   "key": "2026-05-06",
-  "post_count": 12,
+  "post_count": 21,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277101707",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277101707",
+      "published_at": "2026-05-06T23:53:39+09:00",
+      "text_length": 0,
+      "title": "cms목동w관 6월개강설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277088897",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277088897",
+      "published_at": "2026-05-06T23:38:07+09:00",
+      "text_length": 301,
+      "title": "선제영어학원 5월 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277086864",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277086864",
+      "published_at": "2026-05-06T23:35:40+09:00",
+      "text_length": 0,
+      "title": "대치이강 2028 고1 대입전형 확정 계획안에 따른 입시전략 설명회 <5/10, 13:30 >"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 3,
+      "log_no": "224277083933",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277083933",
+      "published_at": "2026-05-06T23:32:08+09:00",
+      "text_length": 677,
+      "title": "두각 K수학 강호길 원장&이종완T 하나고&민사고1 수학 간담회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 2,
+      "log_no": "224277082510",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277082510",
+      "published_at": "2026-05-06T23:30:29+09:00",
+      "text_length": 684,
+      "title": "개념상상 SM관 5,6월프로그램"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277080952",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277080952",
+      "published_at": "2026-05-06T23:28:35+09:00",
+      "text_length": 0,
+      "title": "[6년 전 오늘] [명언화가님]무럭무럭 자라나길......"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277080121",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277080121",
+      "published_at": "2026-05-06T23:27:39+09:00",
+      "text_length": 0,
+      "title": "[5년 전 오늘] [박완서 한말씀만 하소서-고 박완서작가가 아들을 잃고 쓴 에세이]"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277067017",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277067017",
+      "published_at": "2026-05-06T23:13:09+09:00",
+      "text_length": 0,
+      "title": "대치이데아학원 상산고설명회"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
+      "link_count": 0,
+      "log_no": "224277065224",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277065224",
+      "published_at": "2026-05-06T23:11:10+09:00",
+      "text_length": 0,
+      "title": "[2년 전 오늘] “70→80점 올린 경험 한 번이 대학 바꾼다” 서울대 쌍둥이의 자기주도학습법"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-06T20:54:31.948739+09:00",
@@ -159,5 +276,5 @@
       "title": "아이티씨하이 내신 설명회"
     }
   ],
-  "updated_at": "2026-05-06T20:54:31.948739+09:00"
+  "updated_at": "2026-05-07T00:10:58.599949+09:00"
 }
