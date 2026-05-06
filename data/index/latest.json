@@ -1,6 +1,32 @@
 {
-  "post_count": 756,
+  "post_count": 758,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-06T19:57:09.623116+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T19:57:09.623116+09:00",
+      "link_count": 0,
+      "log_no": "224276863702",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224276863702",
+      "published_at": "2026-05-06T19:35:06+09:00",
+      "text_length": 409,
+      "title": "2026 APCTP X 국립중앙과학관 올해의 과학도서 독후감 대회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-06T19:57:09.623116+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-06T19:57:09.623116+09:00",
+      "link_count": 1,
+      "log_no": "224276862279",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224276862279",
+      "published_at": "2026-05-06T19:33:27+09:00",
+      "text_length": 463,
+      "title": "픽스 KMO 1차 분석 및 2차 대비 전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-06T18:12:30.725082+09:00",
@@ -9830,5 +9856,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-06T18:12:30.725082+09:00"
+  "updated_at": "2026-05-06T19:57:09.623116+09:00"
 }
