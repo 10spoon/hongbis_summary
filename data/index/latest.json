@@ -1,6 +1,32 @@
 {
-  "post_count": 770,
+  "post_count": 772,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-07T16:18:03.043841+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T16:18:03.043841+09:00",
+      "link_count": 0,
+      "log_no": "224277829804",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277829804",
+      "published_at": "2026-05-07T15:54:02+09:00",
+      "text_length": 0,
+      "title": "“지역의사제 대비” 학기중에 ‘반수’학원행"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-07T16:18:03.043841+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T16:18:03.043841+09:00",
+      "link_count": 0,
+      "log_no": "224277788856",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224277788856",
+      "published_at": "2026-05-07T15:22:27+09:00",
+      "text_length": 220,
+      "title": "2026년도 어린이(초등부) 외교관학교 4기 안내"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-07T01:51:36.445816+09:00",
@@ -10012,5 +10038,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-07T01:51:36.445816+09:00"
+  "updated_at": "2026-05-07T16:18:03.043841+09:00"
 }
