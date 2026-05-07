@@ -1,6 +1,32 @@
 {
-  "post_count": 781,
+  "post_count": 783,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-07T21:56:47.546505+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T21:56:47.546505+09:00",
+      "link_count": 1,
+      "log_no": "224278173706",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278173706",
+      "published_at": "2026-05-07T21:42:55+09:00",
+      "text_length": 450,
+      "title": "아카로드 정보 STEM 파이널 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T21:56:47.546505+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T21:56:47.546505+09:00",
+      "link_count": 1,
+      "log_no": "224278172212",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278172212",
+      "published_at": "2026-05-07T21:41:16+09:00",
+      "text_length": 376,
+      "title": "시대인재 수학스쿨 예비고1 공형준T & 박영석T 단독 설명회"
+    },
     {
       "category": "게시판",
       "first_seen_at": "2026-05-07T20:54:03.066761+09:00",
@@ -10155,5 +10181,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-07T20:54:03.066761+09:00"
+  "updated_at": "2026-05-07T21:56:47.546505+09:00"
 }
