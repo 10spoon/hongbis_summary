@@ -1,7 +1,20 @@
 {
   "key": "2026-05-07",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-07T19:05:55.274124+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T19:05:55.274124+09:00",
+      "link_count": 0,
+      "log_no": "224278043638",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278043638",
+      "published_at": "2026-05-07T19:05:24+09:00",
+      "text_length": 0,
+      "title": "내신만으론 변별 어려워”…2028학년도 대입서 수도권 대학들 학종·논술 확대"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-07T18:10:42.715168+09:00",
@@ -55,5 +68,5 @@
       "title": "내년도 지역의사전형 490명선발"
     }
   ],
-  "updated_at": "2026-05-07T18:10:42.715168+09:00"
+  "updated_at": "2026-05-07T19:05:55.274124+09:00"
 }
