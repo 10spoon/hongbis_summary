@@ -1,6 +1,32 @@
 {
-  "post_count": 783,
+  "post_count": 785,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-07T22:56:28.533245+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-05-07T22:56:28.533245+09:00",
+      "link_count": 0,
+      "log_no": "224278214779",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278214779",
+      "published_at": "2026-05-07T22:29:10+09:00",
+      "text_length": 0,
+      "title": "서초돌파수학 6월개강시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-07T22:56:28.533245+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-07T22:56:28.533245+09:00",
+      "link_count": 0,
+      "log_no": "224278210438",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278210438",
+      "published_at": "2026-05-07T22:24:13+09:00",
+      "text_length": 0,
+      "title": "스터디코드 1학년내신 망쳤으면 이방법밖에 없습니다."
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-07T21:56:47.546505+09:00",
@@ -10181,5 +10207,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-07T21:56:47.546505+09:00"
+  "updated_at": "2026-05-07T22:56:28.533245+09:00"
 }
