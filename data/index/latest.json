@@ -1,6 +1,58 @@
 {
-  "post_count": 793,
+  "post_count": 797,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-08T18:32:21.499502+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-08T18:32:21.499502+09:00",
+      "link_count": 0,
+      "log_no": "224279193414",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279193414",
+      "published_at": "2026-05-08T18:31:22+09:00",
+      "text_length": 0,
+      "title": "JSH과학 5,6월 시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-08T18:32:21.499502+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T18:32:21.499502+09:00",
+      "link_count": 0,
+      "log_no": "224279191451",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279191451",
+      "published_at": "2026-05-08T18:29:16+09:00",
+      "text_length": 216,
+      "title": "YNS 열정과신념 전문가 초청 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-08T18:32:21.499502+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T18:32:21.499502+09:00",
+      "link_count": 0,
+      "log_no": "224279169542",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279169542",
+      "published_at": "2026-05-08T18:06:02+09:00",
+      "text_length": 610,
+      "title": "콴다일로 신지현T 중3 생명 (Perfect Aim) 유전 심화 5회 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-08T18:32:21.499502+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-08T18:32:21.499502+09:00",
+      "link_count": 1,
+      "log_no": "224279152793",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279152793",
+      "published_at": "2026-05-08T17:50:46+09:00",
+      "text_length": 421,
+      "title": "아이티씨하이 사.새.노.라설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-08T17:48:19.398161+09:00",
@@ -10311,5 +10363,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-08T17:48:19.398161+09:00"
+  "updated_at": "2026-05-08T18:32:21.499502+09:00"
 }
