@@ -1,6 +1,45 @@
 {
-  "post_count": 789,
+  "post_count": 792,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-08T14:59:32.458205+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T14:59:32.458205+09:00",
+      "link_count": 1,
+      "log_no": "224278936816",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278936816",
+      "published_at": "2026-05-08T14:53:35+09:00",
+      "text_length": 1131,
+      "title": "목동시대인재 중3 과학 정규 프로그램 개강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-08T14:59:32.458205+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-08T14:59:32.458205+09:00",
+      "link_count": 0,
+      "log_no": "224278922504",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278922504",
+      "published_at": "2026-05-08T14:42:44+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 입시의 중심, 5월을 허투루 보내지 마라"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-08T14:59:32.458205+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T14:59:32.458205+09:00",
+      "link_count": 0,
+      "log_no": "224278921886",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224278921886",
+      "published_at": "2026-05-08T14:42:20+09:00",
+      "text_length": 0,
+      "title": "제7회 시험‧연구용 유전자변형생물체 안전 콘텐츠 대국민 공모전 공고"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-08T14:13:36.584811+09:00",
@@ -10259,5 +10298,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-08T14:13:36.584811+09:00"
+  "updated_at": "2026-05-08T14:59:32.458205+09:00"
 }
