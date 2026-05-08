@@ -1,6 +1,32 @@
 {
-  "post_count": 799,
+  "post_count": 801,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-08T22:55:23.785685+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T22:55:23.785685+09:00",
+      "link_count": 0,
+      "log_no": "224279382135",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279382135",
+      "published_at": "2026-05-08T22:42:13+09:00",
+      "text_length": 0,
+      "title": "관악구 서울대학교입학설명회"
+    },
+    {
+      "category": "함께읽은책",
+      "first_seen_at": "2026-05-08T22:55:23.785685+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T22:55:23.785685+09:00",
+      "link_count": 0,
+      "log_no": "224279370556",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279370556",
+      "published_at": "2026-05-08T22:27:13+09:00",
+      "text_length": 0,
+      "title": "안보라학원 중2 26년 6월-26년 8월 독서리스트"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-08T21:47:51.722092+09:00",
@@ -10389,5 +10415,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-08T21:47:51.722092+09:00"
+  "updated_at": "2026-05-08T22:55:23.785685+09:00"
 }
