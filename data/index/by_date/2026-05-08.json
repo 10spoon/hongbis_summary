@@ -1,7 +1,20 @@
 {
   "key": "2026-05-08",
-  "post_count": 14,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-09T00:50:17.041644+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T00:50:17.041644+09:00",
+      "link_count": 0,
+      "log_no": "224279439890",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279439890",
+      "published_at": "2026-05-08T23:58:43+09:00",
+      "text_length": 0,
+      "title": "리로스쿨 학종은 ‘스펙’ 늘리기가 아닌 나만의 ‘스토리’ 만들기"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-08T22:55:23.785685+09:00",
@@ -185,5 +198,5 @@
       "title": "어버이날에 부치는 시"
     }
   ],
-  "updated_at": "2026-05-08T22:55:23.785685+09:00"
+  "updated_at": "2026-05-09T00:50:17.041644+09:00"
 }
