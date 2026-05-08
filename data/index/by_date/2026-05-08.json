@@ -1,7 +1,33 @@
 {
   "key": "2026-05-08",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-08T21:47:51.722092+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T21:47:51.722092+09:00",
+      "link_count": 0,
+      "log_no": "224279325618",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279325618",
+      "published_at": "2026-05-08T21:29:21+09:00",
+      "text_length": 0,
+      "title": "선배에게 듣는 진학상담〈76〉국민대 자동차모빌리티대학, “AI·UAM·자율주행까지…미래 이동 설계하는 융합 인재 양성”"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-08T21:47:51.722092+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-08T21:47:51.722092+09:00",
+      "link_count": 1,
+      "log_no": "224279313405",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279313405",
+      "published_at": "2026-05-08T21:12:51+09:00",
+      "text_length": 360,
+      "title": "예설라 목동직영원 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-08T18:32:21.499502+09:00",
@@ -133,5 +159,5 @@
       "title": "어버이날에 부치는 시"
     }
   ],
-  "updated_at": "2026-05-08T18:32:21.499502+09:00"
+  "updated_at": "2026-05-08T21:47:51.722092+09:00"
 }
