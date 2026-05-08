@@ -19,8 +19,8 @@
     {
       "date": "2026-05-08",
       "path": "data/index/by_date/2026-05-08.json",
-      "post_count": 5,
-      "updated_at": "2026-05-08T14:59:32.458205+09:00"
+      "post_count": 6,
+      "updated_at": "2026-05-08T17:48:19.398161+09:00"
     },
     {
       "date": "2026-05-07",
@@ -299,10 +299,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-05-08T07:53:46.731551+00:00",
+  "generated_at": "2026-05-08T08:49:03.505309+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 792,
-  "latest_updated_at": "2026-05-08T14:59:32.458205+09:00",
+  "latest_post_count": 793,
+  "latest_updated_at": "2026-05-08T17:48:19.398161+09:00",
   "reports": [
     {
       "label": "2026-05-08-0800",

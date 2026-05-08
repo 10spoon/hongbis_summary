@@ -4032,6 +4032,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-08T17:48:19.398161+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-08T17:48:19.398161+09:00",
+        "link_count": 0,
+        "log_no": "224279110349",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224279110349",
+        "published_at": "2026-05-08T17:12:25+09:00",
+        "text_length": 0,
+        "title": "김창호과학 1학기 기말고사시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-08T14:59:32.458205+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-08T14:59:32.458205+09:00",
@@ -10324,5 +10337,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-08T14:59:32.458205+09:00"
+  "updated_at": "2026-05-08T17:48:19.398161+09:00"
 }
