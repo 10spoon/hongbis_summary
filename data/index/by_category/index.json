@@ -4019,6 +4019,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-08T14:13:36.584811+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-08T14:13:36.584811+09:00",
+        "link_count": 0,
+        "log_no": "224278817678",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224278817678",
+        "published_at": "2026-05-08T13:19:35+09:00",
+        "text_length": 0,
+        "title": "이든수학 중2 원장직강반개설"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-07T22:56:28.533245+09:00",
         "image_count": 6,
         "last_changed_at": "2026-05-08T00:11:08.186266+09:00",
@@ -10272,5 +10285,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-08T12:24:55.534011+09:00"
+  "updated_at": "2026-05-08T14:13:36.584811+09:00"
 }
