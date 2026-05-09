@@ -1,6 +1,19 @@
 {
-  "post_count": 803,
+  "post_count": 804,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-09T15:59:41.872418+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T15:59:41.872418+09:00",
+      "link_count": 0,
+      "log_no": "224279949694",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224279949694",
+      "published_at": "2026-05-09T15:41:57+09:00",
+      "text_length": 0,
+      "title": "대치이데아학원 상산고면접대비설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-09T00:50:17.041644+09:00",
@@ -10441,5 +10454,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-09T00:50:17.041644+09:00"
+  "updated_at": "2026-05-09T15:59:41.872418+09:00"
 }
