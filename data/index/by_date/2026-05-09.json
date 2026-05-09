@@ -1,7 +1,33 @@
 {
   "key": "2026-05-09",
-  "post_count": 8,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-09T21:36:47.570357+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T21:36:47.570357+09:00",
+      "link_count": 0,
+      "log_no": "224280169214",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224280169214",
+      "published_at": "2026-05-09T21:04:30+09:00",
+      "text_length": 0,
+      "title": "과학고 생긴대” 맹모 바빠졌다… 경기 과학고 신설에 매매·청약시장 후끈"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-09T21:36:47.570357+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-09T21:36:47.570357+09:00",
+      "link_count": 2,
+      "log_no": "224280165968",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224280165968",
+      "published_at": "2026-05-09T20:59:50+09:00",
+      "text_length": 594,
+      "title": "두각 K, 기말 내신 대비 및 수학 간담회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-09T20:33:22.057423+09:00",
@@ -107,5 +133,5 @@
       "title": "스카이멘사 일반/진로선택과목 단기특강"
     }
   ],
-  "updated_at": "2026-05-09T20:33:22.057423+09:00"
+  "updated_at": "2026-05-09T21:36:47.570357+09:00"
 }
