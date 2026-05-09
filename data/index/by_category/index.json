@@ -7310,6 +7310,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-09T17:49:38.675003+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-09T17:49:38.675003+09:00",
+        "link_count": 0,
+        "log_no": "224280004934",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280004934",
+        "published_at": "2026-05-09T16:56:25+09:00",
+        "text_length": 0,
+        "title": "외국어능력 활용 문화해설… 은퇴 후 자부심↑ 건강은 덤"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-08T12:24:55.534011+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-08T12:24:55.534011+09:00",
@@ -10506,5 +10519,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-09T16:55:24.319719+09:00"
+  "updated_at": "2026-05-09T17:49:38.675003+09:00"
 }
