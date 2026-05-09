@@ -1,6 +1,45 @@
 {
-  "post_count": 807,
+  "post_count": 810,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-09T20:33:22.057423+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T20:33:22.057423+09:00",
+      "link_count": 0,
+      "log_no": "224280135903",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224280135903",
+      "published_at": "2026-05-09T20:14:28+09:00",
+      "text_length": 0,
+      "title": "대전진로융합교육원 서울대학교 대입전형설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-09T20:33:22.057423+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T20:33:22.057423+09:00",
+      "link_count": 0,
+      "log_no": "224280133782",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224280133782",
+      "published_at": "2026-05-09T20:10:59+09:00",
+      "text_length": 0,
+      "title": "목동미래영재 1학기 기말 과학내신반개강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-09T20:33:22.057423+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-09T20:33:22.057423+09:00",
+      "link_count": 0,
+      "log_no": "224280133026",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224280133026",
+      "published_at": "2026-05-09T20:09:51+09:00",
+      "text_length": 0,
+      "title": "미래의 노벨상 키운다”… 대학 K과학인재 ‘톱10’"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-09T17:49:38.675003+09:00",
@@ -10493,5 +10532,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-09T17:49:38.675003+09:00"
+  "updated_at": "2026-05-09T20:33:22.057423+09:00"
 }
