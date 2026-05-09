@@ -1623,6 +1623,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-09T16:55:24.319719+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-09T16:55:24.319719+09:00",
+        "link_count": 0,
+        "log_no": "224279998593",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224279998593",
+        "published_at": "2026-05-09T16:47:47+09:00",
+        "text_length": 548,
+        "title": "반포세정 중3 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-09T15:59:41.872418+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-09T15:59:41.872418+09:00",
@@ -4095,6 +4108,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-09T16:55:24.319719+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-09T16:55:24.319719+09:00",
+        "link_count": 0,
+        "log_no": "224280000427",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280000427",
+        "published_at": "2026-05-09T16:50:25+09:00",
+        "text_length": 0,
+        "title": "해빛나인어학원 예비고1 고단수개강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-09T00:50:17.041644+09:00",
@@ -10480,5 +10506,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-09T15:59:41.872418+09:00"
+  "updated_at": "2026-05-09T16:55:24.319719+09:00"
 }
