@@ -1636,6 +1636,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-10T00:34:24.031500+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-10T00:34:24.031500+09:00",
+        "link_count": 0,
+        "log_no": "224280280704",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280280704",
+        "published_at": "2026-05-09T23:41:14+09:00",
+        "text_length": 361,
+        "title": "대치명인학원 대청중 2 기말내신 및 고교 진학 전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-09T21:36:47.570357+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-09T21:36:47.570357+09:00",
@@ -4147,6 +4160,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-10T00:34:24.031500+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-10T00:34:24.031500+09:00",
+        "link_count": 0,
+        "log_no": "224280290680",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280290680",
+        "published_at": "2026-05-09T23:55:44+09:00",
+        "text_length": 0,
+        "title": "김현구국어 1학기 기말시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-10T00:34:24.031500+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-10T00:34:24.031500+09:00",
+        "link_count": 0,
+        "log_no": "224280288987",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280288987",
+        "published_at": "2026-05-09T23:53:21+09:00",
+        "text_length": 0,
+        "title": "DK수학 중등5월 정규시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-09T20:33:22.057423+09:00",
@@ -10597,5 +10636,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-09T23:36:06.312951+09:00"
+  "updated_at": "2026-05-10T00:34:24.031500+09:00"
 }
