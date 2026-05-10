@@ -1,7 +1,33 @@
 {
   "key": "2026-05-10",
-  "post_count": 14,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-11T00:35:08.188304+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-05-11T00:35:08.188304+09:00",
+      "link_count": 0,
+      "log_no": "224281139455",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281139455",
+      "published_at": "2026-05-10T23:52:00+09:00",
+      "text_length": 0,
+      "title": "너만을위한국어 1학기 기말 내신개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-11T00:35:08.188304+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-05-11T00:35:08.188304+09:00",
+      "link_count": 0,
+      "log_no": "224281135497",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281135497",
+      "published_at": "2026-05-10T23:46:55+09:00",
+      "text_length": 0,
+      "title": "반트과학 기말대비 내신반 개강"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-10T23:37:25.605982+09:00",
@@ -185,5 +211,5 @@
       "title": "주니어프랑스축제"
     }
   ],
-  "updated_at": "2026-05-10T23:37:25.605982+09:00"
+  "updated_at": "2026-05-11T00:35:08.188304+09:00"
 }
