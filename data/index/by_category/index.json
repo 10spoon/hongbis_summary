@@ -1491,6 +1491,19 @@
     "선배들의공부방법모음": [
       {
         "category": "선배들의공부방법모음",
+        "first_seen_at": "2026-05-11T08:20:34.408346+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T08:20:34.408346+09:00",
+        "link_count": 0,
+        "log_no": "224281351001",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281351001",
+        "published_at": "2026-05-11T08:12:16+09:00",
+        "text_length": 0,
+        "title": "파워j 서울대의대 신입생 공부계획표"
+      },
+      {
+        "category": "선배들의공부방법모음",
         "first_seen_at": "2026-05-10T12:25:00.462639+09:00",
         "image_count": 0,
         "last_changed_at": "2026-05-10T12:25:00.462639+09:00",
@@ -8757,6 +8770,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-11T08:20:34.408346+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T08:20:34.408346+09:00",
+        "link_count": 0,
+        "log_no": "224281349957",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281349957",
+        "published_at": "2026-05-11T08:10:36+09:00",
+        "text_length": 0,
+        "title": "2028학년도 SKY 수시, 수능보다 학생부가 더 중요해진다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-10T20:32:52.582956+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-10T20:32:52.582956+09:00",
@@ -10844,5 +10870,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-11T00:35:08.188304+09:00"
+  "updated_at": "2026-05-11T08:20:34.408346+09:00"
 }
