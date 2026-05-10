@@ -8666,6 +8666,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-10T20:32:52.582956+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-10T20:32:52.582956+09:00",
+        "link_count": 0,
+        "log_no": "224280967481",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280967481",
+        "published_at": "2026-05-10T20:25:44+09:00",
+        "text_length": 0,
+        "title": "2028 서울대 전형 - 요약"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-10T20:32:52.582956+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-10T20:32:52.582956+09:00",
+        "link_count": 0,
+        "log_no": "224280965364",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224280965364",
+        "published_at": "2026-05-10T20:22:54+09:00",
+        "text_length": 0,
+        "title": "AI 시대, 뭘 배워야 살아남나요”…교육 전문가에게 물었다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-10T12:25:00.462639+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-10T12:25:00.462639+09:00",
@@ -10727,5 +10753,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-10T17:54:55.670203+09:00"
+  "updated_at": "2026-05-10T20:32:52.582956+09:00"
 }
