@@ -1,7 +1,46 @@
 {
   "key": "2026-05-10",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-10T22:51:04.954487+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-10T22:51:04.954487+09:00",
+      "link_count": 0,
+      "log_no": "224281051923",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281051923",
+      "published_at": "2026-05-10T22:07:17+09:00",
+      "text_length": 0,
+      "title": "서율학원 중3 2030 입시 전략 설명회｜고교학점제·5등급제 완전 정리”"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-10T22:51:04.954487+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-10T22:51:04.954487+09:00",
+      "link_count": 0,
+      "log_no": "224281044154",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281044154",
+      "published_at": "2026-05-10T21:58:38+09:00",
+      "text_length": 467,
+      "title": "PMG학원 중3 수학 프리메디(Pre-Med) 신설 개강 콘서트"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-10T22:51:04.954487+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-10T22:51:04.954487+09:00",
+      "link_count": 0,
+      "log_no": "224281028994",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281028994",
+      "published_at": "2026-05-10T21:41:20+09:00",
+      "text_length": 522,
+      "title": "픽스아카데미 화학1 (토요반) 개강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-10T20:32:52.582956+09:00",
@@ -120,5 +159,5 @@
       "title": "주니어프랑스축제"
     }
   ],
-  "updated_at": "2026-05-10T20:32:52.582956+09:00"
+  "updated_at": "2026-05-10T22:51:04.954487+09:00"
 }
