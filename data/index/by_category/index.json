@@ -4056,6 +4056,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-05-10T23:37:25.605982+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-10T23:37:25.605982+09:00",
+        "link_count": 0,
+        "log_no": "224281092237",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281092237",
+        "published_at": "2026-05-10T22:53:29+09:00",
+        "text_length": 0,
+        "title": "대학은 세특에서 무엇을 읽나… ‘사고력 키워드’ 40선"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
@@ -4225,6 +4238,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-10T23:37:25.605982+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-10T23:37:25.605982+09:00",
+        "link_count": 0,
+        "log_no": "224281098093",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281098093",
+        "published_at": "2026-05-10T23:00:17+09:00",
+        "text_length": 0,
+        "title": "상아학원 고1,2 기말고사 프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-10T22:51:04.954487+09:00",
@@ -10792,5 +10818,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-10T22:51:04.954487+09:00"
+  "updated_at": "2026-05-10T23:37:25.605982+09:00"
 }
