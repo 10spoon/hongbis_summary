@@ -1,7 +1,33 @@
 {
   "key": "2026-05-11",
-  "post_count": 8,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-11T18:26:48.649524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-11T18:26:48.649524+09:00",
+      "link_count": 0,
+      "log_no": "224281981288",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281981288",
+      "published_at": "2026-05-11T17:24:43+09:00",
+      "text_length": 576,
+      "title": "메가스터디 MEXX학원 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-11T18:26:48.649524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-11T18:26:48.649524+09:00",
+      "link_count": 0,
+      "log_no": "224281920804",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224281920804",
+      "published_at": "2026-05-11T16:36:48+09:00",
+      "text_length": 0,
+      "title": "민족사관고등학교 입학설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
@@ -107,5 +133,5 @@
       "title": "2028학년도 SKY 수시, 수능보다 학생부가 더 중요해진다"
     }
   ],
-  "updated_at": "2026-05-11T16:33:41.863932+09:00"
+  "updated_at": "2026-05-11T18:26:48.649524+09:00"
 }
