@@ -1701,6 +1701,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
+        "link_count": 0,
+        "log_no": "224281846054",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281846054",
+        "published_at": "2026-05-11T15:39:44+09:00",
+        "text_length": 0,
+        "title": "보람과학 학부모설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-10T22:51:04.954487+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-10T22:51:04.954487+09:00",
@@ -4264,6 +4277,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
+        "link_count": 0,
+        "log_no": "224281775666",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281775666",
+        "published_at": "2026-05-11T14:45:36+09:00",
+        "text_length": 0,
+        "title": "새샘과학 중등부 과학선행시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-11T00:35:08.188304+09:00",
@@ -7583,6 +7609,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
+        "link_count": 0,
+        "log_no": "224281790065",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281790065",
+        "published_at": "2026-05-11T14:56:49+09:00",
+        "text_length": 0,
+        "title": "\"인생은 짧고 불가능은 없다\"…40년 美간호사, 72세에 의대 졸업"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-10T17:54:55.670203+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-10T17:54:55.670203+09:00",
@@ -8781,6 +8820,32 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
+        "link_count": 0,
+        "log_no": "224281789042",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281789042",
+        "published_at": "2026-05-11T14:56:00+09:00",
+        "text_length": 0,
+        "title": "고2 치를 SKY 대입 핵심 평가 요소는 학생부…수능은 힘 빠진다"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
+        "link_count": 0,
+        "log_no": "224281768018",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281768018",
+        "published_at": "2026-05-11T14:39:42+09:00",
+        "text_length": 0,
+        "title": "수습’할 방법이 없다, 미 대졸청년 덮친 ‘AI 쇼크’"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-05-11T08:20:34.408346+09:00",
@@ -10883,5 +10948,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-11T14:38:47.350129+09:00"
+  "updated_at": "2026-05-11T16:33:41.863932+09:00"
 }
