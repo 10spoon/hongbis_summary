@@ -59,6 +59,32 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-12T08:22:08.222624+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T08:22:08.222624+09:00",
+        "link_count": 0,
+        "log_no": "224282544352",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282544352",
+        "published_at": "2026-05-12T07:56:31+09:00",
+        "text_length": 0,
+        "title": "별을 기억한다는 것은 ㅡ과학방탈출"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-05-12T08:22:08.222624+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T08:22:08.222624+09:00",
+        "link_count": 0,
+        "log_no": "224282538107",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282538107",
+        "published_at": "2026-05-12T07:45:09+09:00",
+        "text_length": 105,
+        "title": "포마주니어 아카데미 2026"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-11T14:38:47.350129+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-11T14:38:47.350129+09:00",
@@ -7700,6 +7726,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-12T08:22:08.222624+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T08:22:08.222624+09:00",
+        "link_count": 0,
+        "log_no": "224282543592",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282543592",
+        "published_at": "2026-05-12T07:55:14+09:00",
+        "text_length": 0,
+        "title": "우리 애가 대표 선수가 아니라니' '축구 잘 못해서 소외감 느낀다'... 학부모 민원에 초등학교 운동회 취소한대요"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
@@ -11065,5 +11104,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-12T07:35:48.218056+09:00"
+  "updated_at": "2026-05-12T08:22:08.222624+09:00"
 }
