@@ -59,6 +59,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-11T14:38:47.350129+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-11T14:38:47.350129+09:00",
+        "link_count": 0,
+        "log_no": "224281763361",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224281763361",
+        "published_at": "2026-05-11T14:35:53+09:00",
+        "text_length": 0,
+        "title": "2026년 KPS 여고생 물리캠프 개최"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-10T12:25:00.462639+09:00",
         "image_count": 4,
         "last_changed_at": "2026-05-10T12:25:00.462639+09:00",
@@ -10870,5 +10883,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-11T08:20:34.408346+09:00"
+  "updated_at": "2026-05-11T14:38:47.350129+09:00"
 }
