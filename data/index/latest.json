@@ -1,6 +1,19 @@
 {
-  "post_count": 848,
+  "post_count": 849,
   "posts": [
+    {
+      "category": "화장실명언",
+      "first_seen_at": "2026-05-12T07:35:48.218056+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T07:35:48.218056+09:00",
+      "link_count": 0,
+      "log_no": "224282530660",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224282530660",
+      "published_at": "2026-05-12T07:31:16+09:00",
+      "text_length": 0,
+      "title": "행복은 대단한 사건보다 반복을 견디는 태도에서 온다”"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-12T00:24:51.576160+09:00",
@@ -11026,5 +11039,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-12T00:24:51.576160+09:00"
+  "updated_at": "2026-05-12T07:35:48.218056+09:00"
 }

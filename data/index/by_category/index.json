@@ -11038,6 +11038,19 @@
     "화장실명언": [
       {
         "category": "화장실명언",
+        "first_seen_at": "2026-05-12T07:35:48.218056+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T07:35:48.218056+09:00",
+        "link_count": 0,
+        "log_no": "224282530660",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282530660",
+        "published_at": "2026-05-12T07:31:16+09:00",
+        "text_length": 0,
+        "title": "행복은 대단한 사건보다 반복을 견디는 태도에서 온다”"
+      },
+      {
+        "category": "화장실명언",
         "first_seen_at": "2026-04-20T21:42:42.989732+09:00",
         "image_count": 0,
         "last_changed_at": "2026-04-20T21:42:42.989732+09:00",
@@ -11052,5 +11065,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-12T00:24:51.576160+09:00"
+  "updated_at": "2026-05-12T07:35:48.218056+09:00"
 }
