@@ -59,6 +59,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T12:24:58.925316+09:00",
+        "link_count": 0,
+        "log_no": "224282797711",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282797711",
+        "published_at": "2026-05-12T12:10:16+09:00",
+        "text_length": 0,
+        "title": "항공우주연구원 특별개방프로그램"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-12T08:22:08.222624+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-12T08:22:08.222624+09:00",
@@ -8965,6 +8978,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-12T12:24:58.925316+09:00",
+        "link_count": 0,
+        "log_no": "224282784513",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224282784513",
+        "published_at": "2026-05-12T11:58:51+09:00",
+        "text_length": 0,
+        "title": "공부법, 40살 넘어보니 알겠다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-11T16:33:41.863932+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-11T16:33:41.863932+09:00",
@@ -11117,5 +11143,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-12T10:57:23.425171+09:00"
+  "updated_at": "2026-05-12T12:24:58.925316+09:00"
 }

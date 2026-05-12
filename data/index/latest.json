@@ -1,6 +1,32 @@
 {
-  "post_count": 853,
+  "post_count": 855,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T12:24:58.925316+09:00",
+      "link_count": 0,
+      "log_no": "224282797711",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224282797711",
+      "published_at": "2026-05-12T12:10:16+09:00",
+      "text_length": 0,
+      "title": "항공우주연구원 특별개방프로그램"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T12:24:58.925316+09:00",
+      "link_count": 0,
+      "log_no": "224282784513",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224282784513",
+      "published_at": "2026-05-12T11:58:51+09:00",
+      "text_length": 0,
+      "title": "공부법, 40살 넘어보니 알겠다"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-12T10:57:23.425171+09:00",
@@ -11091,5 +11117,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-12T10:57:23.425171+09:00"
+  "updated_at": "2026-05-12T12:24:58.925316+09:00"
 }
