@@ -1,7 +1,46 @@
 {
   "key": "2026-05-12",
-  "post_count": 7,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-12T16:16:45.854233+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T16:16:45.854233+09:00",
+      "link_count": 0,
+      "log_no": "224283087056",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283087056",
+      "published_at": "2026-05-12T16:13:24+09:00",
+      "text_length": 0,
+      "title": "엑스포스학원 kmo단과특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-12T16:16:45.854233+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T16:16:45.854233+09:00",
+      "link_count": 0,
+      "log_no": "224283074598",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283074598",
+      "published_at": "2026-05-12T16:03:59+09:00",
+      "text_length": 0,
+      "title": "AI가 아니라 ‘AI 잘 쓰는 사람’이 일자리 대체"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-12T16:16:45.854233+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T16:16:45.854233+09:00",
+      "link_count": 0,
+      "log_no": "224283002516",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283002516",
+      "published_at": "2026-05-12T15:07:32+09:00",
+      "text_length": 946,
+      "title": "세정학원 예비고1 여름방학 과목별 학습법 + 입시전략 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
@@ -94,5 +133,5 @@
       "title": "행복은 대단한 사건보다 반복을 견디는 태도에서 온다”"
     }
   ],
-  "updated_at": "2026-05-12T12:24:58.925316+09:00"
+  "updated_at": "2026-05-12T16:16:45.854233+09:00"
 }
