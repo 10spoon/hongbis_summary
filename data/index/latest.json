@@ -1,6 +1,19 @@
 {
-  "post_count": 852,
+  "post_count": 853,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-12T10:57:23.425171+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T10:57:23.425171+09:00",
+      "link_count": 0,
+      "log_no": "224282655970",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224282655970",
+      "published_at": "2026-05-12T10:11:05+09:00",
+      "text_length": 0,
+      "title": "한국식 암기교육, AI 시대엔 무용지물…\"틀리는 연습이 필요\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-12T08:22:08.222624+09:00",
@@ -11078,5 +11091,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-12T08:22:08.222624+09:00"
+  "updated_at": "2026-05-12T10:57:23.425171+09:00"
 }
