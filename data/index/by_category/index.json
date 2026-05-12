@@ -59,6 +59,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-13T01:59:16.586469+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-05-13T01:59:16.586469+09:00",
+        "link_count": 0,
+        "log_no": "224283589808",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224283589808",
+        "published_at": "2026-05-13T01:56:47+09:00",
+        "text_length": 0,
+        "title": "카카오 ai 루키캠프 사전설명회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-12T12:24:58.925316+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-12T12:24:58.925316+09:00",
@@ -11260,5 +11273,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T00:13:45.289265+09:00"
+  "updated_at": "2026-05-13T01:59:16.586469+09:00"
 }
