@@ -1,7 +1,33 @@
 {
   "key": "2026-05-12",
-  "post_count": 14,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-13T00:13:45.289265+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-13T00:13:45.289265+09:00",
+      "link_count": 1,
+      "log_no": "224283499630",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224283499630",
+      "published_at": "2026-05-12T23:30:57+09:00",
+      "text_length": 324,
+      "title": "솔빛창의과학영재학원 미래를 바꾸는 과학.발명 교육 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-13T00:13:45.289265+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-13T00:13:45.289265+09:00",
+      "link_count": 1,
+      "log_no": "224283488838",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283488838",
+      "published_at": "2026-05-12T23:17:43+09:00",
+      "text_length": 1067,
+      "title": "Groton Emilton 26년 미국교과서 입문 단과반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-12T22:57:16.537893+09:00",
@@ -185,5 +211,5 @@
       "title": "행복은 대단한 사건보다 반복을 견디는 태도에서 온다”"
     }
   ],
-  "updated_at": "2026-05-12T22:57:16.537893+09:00"
+  "updated_at": "2026-05-13T00:13:45.289265+09:00"
 }
