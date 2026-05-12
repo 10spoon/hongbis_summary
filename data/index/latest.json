@@ -1,6 +1,32 @@
 {
-  "post_count": 860,
+  "post_count": 862,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-12T22:57:16.537893+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-12T22:57:16.537893+09:00",
+      "link_count": 0,
+      "log_no": "224283438621",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283438621",
+      "published_at": "2026-05-12T22:20:30+09:00",
+      "text_length": 0,
+      "title": "프라이머리수학 여름학기개강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-12T22:57:16.537893+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-12T22:57:16.537893+09:00",
+      "link_count": 0,
+      "log_no": "224283425628",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224283425628",
+      "published_at": "2026-05-12T22:06:04+09:00",
+      "text_length": 0,
+      "title": "수능 올인’ 위험... 2028년도 SKY 대입, ‘교과·면접’ 영향력 커졌다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-12T18:15:05.630199+09:00",
@@ -11182,5 +11208,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-12T18:15:05.630199+09:00"
+  "updated_at": "2026-05-12T22:57:16.537893+09:00"
 }
