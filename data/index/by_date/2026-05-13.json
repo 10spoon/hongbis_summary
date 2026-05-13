@@ -1,7 +1,20 @@
 {
   "key": "2026-05-13",
-  "post_count": 17,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-13T22:58:31.399643+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-13T22:58:31.399643+09:00",
+      "link_count": 0,
+      "log_no": "224284610230",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284610230",
+      "published_at": "2026-05-13T22:03:02+09:00",
+      "text_length": 0,
+      "title": "삼보어학원1학기 중간고사시간표"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
@@ -224,5 +237,5 @@
       "title": "카카오 ai 루키캠프 사전설명회"
     }
   ],
-  "updated_at": "2026-05-13T22:02:30.530490+09:00"
+  "updated_at": "2026-05-13T22:58:31.399643+09:00"
 }
