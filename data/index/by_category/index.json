@@ -4238,6 +4238,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-05-13T11:03:10.739633+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T11:03:10.739633+09:00",
+        "link_count": 0,
+        "log_no": "224283875306",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224283875306",
+        "published_at": "2026-05-13T10:43:14+09:00",
+        "text_length": 0,
+        "title": "“아무도 안 간 길 택했다”…70년 물리 난제 깬 박제근 교수"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-05-10T23:37:25.605982+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-10T23:37:25.605982+09:00",
@@ -11286,5 +11299,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T10:14:17.359717+09:00"
+  "updated_at": "2026-05-13T11:03:10.739633+09:00"
 }
