@@ -7869,6 +7869,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-13T18:54:11.535844+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T18:54:11.535844+09:00",
+        "link_count": 1,
+        "log_no": "224284443609",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284443609",
+        "published_at": "2026-05-13T18:46:13+09:00",
+        "text_length": 619,
+        "title": "위더스학원 엄마의 인문학교실 5월무료강좌"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-13T10:14:17.359717+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-13T10:14:17.359717+09:00",
@@ -11390,5 +11403,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T16:22:47.296095+09:00"
+  "updated_at": "2026-05-13T18:54:11.535844+09:00"
 }
