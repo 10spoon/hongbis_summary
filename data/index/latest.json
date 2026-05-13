@@ -1,6 +1,71 @@
 {
-  "post_count": 876,
+  "post_count": 881,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
+      "link_count": 3,
+      "log_no": "224284587524",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284587524",
+      "published_at": "2026-05-13T21:37:36+09:00",
+      "text_length": 1227,
+      "title": "대치파인만 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
+      "link_count": 0,
+      "log_no": "224284586582",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284586582",
+      "published_at": "2026-05-13T21:36:30+09:00",
+      "text_length": 0,
+      "title": "5월의 유혹을 기회로"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
+      "link_count": 0,
+      "log_no": "224284578080",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284578080",
+      "published_at": "2026-05-13T21:26:38+09:00",
+      "text_length": 0,
+      "title": "現 고2, 고교학점제-통합형 수능… ‘선택 과목’이 당락 가른다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
+      "link_count": 0,
+      "log_no": "224284566220",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284566220",
+      "published_at": "2026-05-13T21:13:09+09:00",
+      "text_length": 0,
+      "title": "김상욱 \"'AI학과'로 성공한 사람 안나와…수학·물리학부터 튼튼히\""
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
+      "image_count": 10,
+      "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
+      "link_count": 0,
+      "log_no": "224284563873",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284563873",
+      "published_at": "2026-05-13T21:10:32+09:00",
+      "text_length": 0,
+      "title": "위너스T 2027 kmo&영재고 정규반개강"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-13T20:56:55.127263+09:00",
@@ -11390,5 +11455,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-13T20:56:55.127263+09:00"
+  "updated_at": "2026-05-13T22:02:30.530490+09:00"
 }
