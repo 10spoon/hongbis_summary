@@ -7830,6 +7830,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-13T10:14:17.359717+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T10:14:17.359717+09:00",
+        "link_count": 0,
+        "log_no": "224283800483",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224283800483",
+        "published_at": "2026-05-13T09:33:07+09:00",
+        "text_length": 0,
+        "title": "첫째가 성취 더 높다?… 출생 순서 효과의 비밀"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-12T10:57:23.425171+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-12T10:57:23.425171+09:00",
@@ -11273,5 +11286,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T01:59:16.586469+09:00"
+  "updated_at": "2026-05-13T10:14:17.359717+09:00"
 }
