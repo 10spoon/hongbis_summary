@@ -1754,14 +1754,14 @@
       {
         "category": "설명회",
         "first_seen_at": "2026-05-13T00:13:45.289265+09:00",
-        "image_count": 1,
-        "last_changed_at": "2026-05-13T00:13:45.289265+09:00",
+        "image_count": 7,
+        "last_changed_at": "2026-05-13T20:56:55.127263+09:00",
         "link_count": 1,
         "log_no": "224283499630",
         "place_count": 1,
         "post_url": "https://blog.naver.com/hongbis/224283499630",
         "published_at": "2026-05-12T23:30:57+09:00",
-        "text_length": 324,
+        "text_length": 968,
         "title": "솔빛창의과학영재학원 미래를 바꾸는 과학.발명 교육 설명회"
       },
       {
@@ -4433,6 +4433,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-13T20:56:55.127263+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-13T20:56:55.127263+09:00",
+        "link_count": 0,
+        "log_no": "224284548001",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284548001",
+        "published_at": "2026-05-13T20:52:10+09:00",
+        "text_length": 0,
+        "title": "목동에이프릴어학원 여름방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-13T16:22:47.296095+09:00",
@@ -11403,5 +11416,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T18:54:11.535844+09:00"
+  "updated_at": "2026-05-13T20:56:55.127263+09:00"
 }

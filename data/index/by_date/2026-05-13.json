@@ -1,7 +1,20 @@
 {
   "key": "2026-05-13",
-  "post_count": 11,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-13T20:56:55.127263+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-13T20:56:55.127263+09:00",
+      "link_count": 0,
+      "log_no": "224284548001",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224284548001",
+      "published_at": "2026-05-13T20:52:10+09:00",
+      "text_length": 0,
+      "title": "목동에이프릴어학원 여름방학특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-13T18:54:11.535844+09:00",
@@ -146,5 +159,5 @@
       "title": "카카오 ai 루키캠프 사전설명회"
     }
   ],
-  "updated_at": "2026-05-13T18:54:11.535844+09:00"
+  "updated_at": "2026-05-13T20:56:55.127263+09:00"
 }
