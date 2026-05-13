@@ -335,11 +335,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-05-13T22:43:27.129771+00:00",
+  "generated_at": "2026-05-13T23:27:56.410760+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 888,
   "latest_updated_at": "2026-05-14T02:03:28.273537+09:00",
   "reports": [
+    {
+      "label": "2026-05-14-0800",
+      "new_count": 14,
+      "path": "data/reports/2026-05-14-0800.json",
+      "updated_count": 1,
+      "window_end": "2026-05-14T08:00:00+09:00",
+      "window_start": "2026-05-13T18:00:00+09:00"
+    },
     {
       "label": "2026-05-13-1800",
       "new_count": 9,
