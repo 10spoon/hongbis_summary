@@ -4435,6 +4435,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-13T16:22:47.296095+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-13T16:22:47.296095+09:00",
+        "link_count": 1,
+        "log_no": "224284185300",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284185300",
+        "published_at": "2026-05-13T15:08:56+09:00",
+        "text_length": 457,
+        "title": "아카로드 정보 STEM 파이널 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-13T14:33:53.294186+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-13T14:33:53.294186+09:00",
@@ -9108,6 +9121,45 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-13T16:22:47.296095+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T16:22:47.296095+09:00",
+        "link_count": 0,
+        "log_no": "224284177841",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284177841",
+        "published_at": "2026-05-13T15:03:13+09:00",
+        "text_length": 0,
+        "title": "2027학년도 6월 모의평가 대비 공부법"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-13T16:22:47.296095+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T16:22:47.296095+09:00",
+        "link_count": 0,
+        "log_no": "224284176043",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284176043",
+        "published_at": "2026-05-13T15:01:52+09:00",
+        "text_length": 0,
+        "title": "중3부터 반수생까지… 입시 학원가 설명회 잇따라"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-13T16:22:47.296095+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-13T16:22:47.296095+09:00",
+        "link_count": 0,
+        "log_no": "224284171589",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224284171589",
+        "published_at": "2026-05-13T14:58:26+09:00",
+        "text_length": 0,
+        "title": "수시 6회·정시 3회와 별개…‘특수목적대학’ 지원 전략은?"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-13T14:33:53.294186+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-13T14:33:53.294186+09:00",
@@ -11338,5 +11390,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-13T14:33:53.294186+09:00"
+  "updated_at": "2026-05-13T16:22:47.296095+09:00"
 }
