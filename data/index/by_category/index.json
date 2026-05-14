@@ -1753,6 +1753,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-14T18:12:03.343195+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-14T18:12:03.343195+09:00",
+        "link_count": 0,
+        "log_no": "224285465808",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224285465808",
+        "published_at": "2026-05-14T16:22:52+09:00",
+        "text_length": 299,
+        "title": "완벽한수학 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-13T22:02:30.530490+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-13T22:02:30.530490+09:00",
@@ -11598,5 +11611,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-14T16:19:06.426530+09:00"
+  "updated_at": "2026-05-14T18:12:03.343195+09:00"
 }
