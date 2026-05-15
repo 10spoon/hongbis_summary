@@ -9498,6 +9498,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-15T10:12:53.451100+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-15T10:12:53.451100+09:00",
+        "link_count": 0,
+        "log_no": "224286104020",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224286104020",
+        "published_at": "2026-05-15T09:26:55+09:00",
+        "text_length": 0,
+        "title": "서울대 ‘학부대학’ 시대로… 질문하는 융합인재 키운다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-14T22:56:40.752614+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-14T22:56:40.752614+09:00",
@@ -11845,5 +11858,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-15T01:00:20.428473+09:00"
+  "updated_at": "2026-05-15T10:12:53.451100+09:00"
 }
