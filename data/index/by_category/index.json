@@ -72,6 +72,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-15T18:54:40.027757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-15T18:54:40.027757+09:00",
+        "link_count": 0,
+        "log_no": "224286675043",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224286675043",
+        "published_at": "2026-05-15T18:30:35+09:00",
+        "text_length": 0,
+        "title": "2026년 초등학생 물리페스티벌"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-15T18:22:21.154078+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-15T18:22:21.154078+09:00",
@@ -8233,6 +8246,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-15T18:54:40.027757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-15T18:54:40.027757+09:00",
+        "link_count": 0,
+        "log_no": "224286679208",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224286679208",
+        "published_at": "2026-05-15T18:35:53+09:00",
+        "text_length": 0,
+        "title": "요리-청소도 선행학습… 가장 중요한 공부 환경은 부모”"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-15T00:07:53.076873+09:00",
         "image_count": 0,
         "last_changed_at": "2026-05-15T00:07:53.076873+09:00",
@@ -11910,5 +11936,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-15T18:22:21.154078+09:00"
+  "updated_at": "2026-05-15T18:54:40.027757+09:00"
 }
