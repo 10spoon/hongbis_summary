@@ -72,6 +72,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-16T00:56:50.790395+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-16T00:56:50.790395+09:00",
+        "link_count": 0,
+        "log_no": "224286938667",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224286938667",
+        "published_at": "2026-05-16T00:52:21+09:00",
+        "text_length": 1298,
+        "title": "민사고 여름방학리더쉽캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-15T18:54:40.027757+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-15T18:54:40.027757+09:00",
@@ -12014,5 +12027,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-16T00:05:01.611850+09:00"
+  "updated_at": "2026-05-16T00:56:50.790395+09:00"
 }
