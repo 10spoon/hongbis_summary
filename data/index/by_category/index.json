@@ -4682,6 +4682,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-16T00:05:01.611850+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-16T00:05:01.611850+09:00",
+        "link_count": 1,
+        "log_no": "224286864554",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224286864554",
+        "published_at": "2026-05-15T23:01:51+09:00",
+        "text_length": 977,
+        "title": "목동시대인재 중3 과학 정규 프로그램 개강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-15T21:54:52.681652+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-15T21:54:52.681652+09:00",
@@ -12001,5 +12014,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-15T21:54:52.681652+09:00"
+  "updated_at": "2026-05-16T00:05:01.611850+09:00"
 }
