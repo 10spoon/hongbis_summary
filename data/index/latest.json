@@ -1,6 +1,58 @@
 {
-  "post_count": 910,
+  "post_count": 914,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-15T18:22:21.154078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-15T18:22:21.154078+09:00",
+      "link_count": 0,
+      "log_no": "224286652267",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224286652267",
+      "published_at": "2026-05-15T18:03:33+09:00",
+      "text_length": 383,
+      "title": "씨앤씨학원 pre영재과학대개강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-15T18:22:21.154078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-15T18:22:21.154078+09:00",
+      "link_count": 0,
+      "log_no": "224286641301",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224286641301",
+      "published_at": "2026-05-15T17:52:25+09:00",
+      "text_length": 0,
+      "title": "서울대학교 건축학과 2026 여름건축학교 개최 안내"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-15T18:22:21.154078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-15T18:22:21.154078+09:00",
+      "link_count": 2,
+      "log_no": "224286552825",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224286552825",
+      "published_at": "2026-05-15T16:32:57+09:00",
+      "text_length": 122,
+      "title": "로드맵수학전문학원 1학기 기말대비"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-15T18:22:21.154078+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-15T18:22:21.154078+09:00",
+      "link_count": 2,
+      "log_no": "224286549352",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224286549352",
+      "published_at": "2026-05-15T16:29:51+09:00",
+      "text_length": 394,
+      "title": "MEXX 중3 국어 손용문T 단독 간담회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-15T10:12:53.451100+09:00",
@@ -11832,5 +11884,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-15T10:12:53.451100+09:00"
+  "updated_at": "2026-05-15T18:22:21.154078+09:00"
 }
