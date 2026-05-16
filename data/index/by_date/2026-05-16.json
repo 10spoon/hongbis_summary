@@ -1,7 +1,33 @@
 {
   "key": "2026-05-16",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-16T19:41:56.948982+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-16T19:41:56.948982+09:00",
+      "link_count": 0,
+      "log_no": "224287515174",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287515174",
+      "published_at": "2026-05-16T18:56:34+09:00",
+      "text_length": 0,
+      "title": "바룸국어 예비고1 설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-16T19:41:56.948982+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T19:41:56.948982+09:00",
+      "link_count": 0,
+      "log_no": "224287513235",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287513235",
+      "published_at": "2026-05-16T18:53:20+09:00",
+      "text_length": 0,
+      "title": "내 아이용으로 원서자료 정리하기"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-16T18:32:12.412689+09:00",
@@ -81,5 +107,5 @@
       "title": "민사고 여름방학리더쉽캠프"
     }
   ],
-  "updated_at": "2026-05-16T18:32:12.412689+09:00"
+  "updated_at": "2026-05-16T19:41:56.948982+09:00"
 }

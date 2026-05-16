@@ -1870,6 +1870,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-16T19:41:56.948982+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-16T19:41:56.948982+09:00",
+        "link_count": 0,
+        "log_no": "224287515174",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224287515174",
+        "published_at": "2026-05-16T18:56:34+09:00",
+        "text_length": 0,
+        "title": "바룸국어 예비고1 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-16T16:03:01.108743+09:00",
@@ -8376,6 +8389,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-16T19:41:56.948982+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-16T19:41:56.948982+09:00",
+        "link_count": 0,
+        "log_no": "224287513235",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224287513235",
+        "published_at": "2026-05-16T18:53:20+09:00",
+        "text_length": 0,
+        "title": "내 아이용으로 원서자료 정리하기"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-15T18:54:40.027757+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-15T18:54:40.027757+09:00",
@@ -12092,5 +12118,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-16T18:32:12.412689+09:00"
+  "updated_at": "2026-05-16T19:41:56.948982+09:00"
 }
