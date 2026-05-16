@@ -1,6 +1,32 @@
 {
-  "post_count": 924,
+  "post_count": 926,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T16:03:01.108743+09:00",
+      "link_count": 0,
+      "log_no": "224287404295",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287404295",
+      "published_at": "2026-05-16T16:00:35+09:00",
+      "text_length": 0,
+      "title": "모퉁이돌영재수학 개강안내"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T16:03:01.108743+09:00",
+      "link_count": 0,
+      "log_no": "224287363981",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287363981",
+      "published_at": "2026-05-16T15:02:07+09:00",
+      "text_length": 1351,
+      "title": "케이투아이 2026 중등부 KMO 2차 대비 수업 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-16T14:25:43.192772+09:00",
@@ -12014,5 +12040,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-16T14:25:43.192772+09:00"
+  "updated_at": "2026-05-16T16:03:01.108743+09:00"
 }
