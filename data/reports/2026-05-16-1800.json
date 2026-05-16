@@ -1,85 +1,45 @@
 {
-  "key": "2026-05-16",
-  "post_count": 6,
-  "posts": [
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-16T18:32:12.412689+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-16T18:32:12.412689+09:00",
-      "link_count": 1,
-      "log_no": "224287485395",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224287485395",
-      "published_at": "2026-05-16T18:07:32+09:00",
-      "text_length": 934,
-      "title": "시대인재중등관 5월 연휴특강 & 수학 정규프로그램"
-    },
+  "new_count": 4,
+  "new_posts": [
     {
       "category": "비교과",
       "first_seen_at": "2026-05-16T17:53:34.443268+09:00",
-      "image_count": 3,
       "last_changed_at": "2026-05-16T17:53:34.443268+09:00",
-      "link_count": 0,
       "log_no": "224287444773",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224287444773",
       "published_at": "2026-05-16T17:01:50+09:00",
-      "text_length": 0,
       "title": "포스텍 이공계학과대탐험"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-05-16T16:03:01.108743+09:00",
-      "link_count": 0,
       "log_no": "224287404295",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224287404295",
       "published_at": "2026-05-16T16:00:35+09:00",
-      "text_length": 0,
       "title": "모퉁이돌영재수학 개강안내"
     },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-05-16T16:03:01.108743+09:00",
-      "link_count": 0,
       "log_no": "224287363981",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224287363981",
       "published_at": "2026-05-16T15:02:07+09:00",
-      "text_length": 1351,
       "title": "케이투아이 2026 중등부 KMO 2차 대비 수업 설명회"
     },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-16T14:25:43.192772+09:00",
-      "image_count": 2,
       "last_changed_at": "2026-05-16T14:25:43.192772+09:00",
-      "link_count": 0,
       "log_no": "224287279777",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224287279777",
       "published_at": "2026-05-16T12:53:51+09:00",
-      "text_length": 0,
       "title": "자녀가 방에서 나오지 않아요\" 고립·은둔 청년 부모교육 신청"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-16T00:56:50.790395+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-16T00:56:50.790395+09:00",
-      "link_count": 0,
-      "log_no": "224286938667",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224286938667",
-      "published_at": "2026-05-16T00:52:21+09:00",
-      "text_length": 1298,
-      "title": "민사고 여름방학리더쉽캠프"
     }
   ],
-  "updated_at": "2026-05-16T18:32:12.412689+09:00"
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-05-16T18:00:00+09:00",
+  "window_start": "2026-05-16T08:00:00+09:00"
 }

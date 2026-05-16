@@ -1,6 +1,19 @@
 {
-  "post_count": 927,
+  "post_count": 928,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-16T18:32:12.412689+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T18:32:12.412689+09:00",
+      "link_count": 1,
+      "log_no": "224287485395",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287485395",
+      "published_at": "2026-05-16T18:07:32+09:00",
+      "text_length": 934,
+      "title": "시대인재중등관 5월 연휴특강 & 수학 정규프로그램"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-16T17:53:34.443268+09:00",
@@ -12053,5 +12066,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-16T17:53:34.443268+09:00"
+  "updated_at": "2026-05-16T18:32:12.412689+09:00"
 }
