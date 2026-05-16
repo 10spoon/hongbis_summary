@@ -1,7 +1,20 @@
 {
   "key": "2026-05-16",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-16T23:39:39.609598+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T23:39:39.609598+09:00",
+      "link_count": 0,
+      "log_no": "224287685192",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287685192",
+      "published_at": "2026-05-16T23:32:52+09:00",
+      "text_length": 0,
+      "title": "2028 의대 지역의사전형, 수시 93.6% 선발… 학생부 관건"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-16T22:52:34.480431+09:00",
@@ -159,5 +172,5 @@
       "title": "민사고 여름방학리더쉽캠프"
     }
   ],
-  "updated_at": "2026-05-16T22:52:34.480431+09:00"
+  "updated_at": "2026-05-16T23:39:39.609598+09:00"
 }
