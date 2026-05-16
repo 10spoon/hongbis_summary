@@ -1,6 +1,19 @@
 {
-  "post_count": 930,
+  "post_count": 931,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-16T21:39:03.629356+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T21:39:03.629356+09:00",
+      "link_count": 2,
+      "log_no": "224287604086",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287604086",
+      "published_at": "2026-05-16T21:27:53+09:00",
+      "text_length": 565,
+      "title": "목동 시대인재 2026 현 중3 입시설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-16T19:41:56.948982+09:00",
@@ -12092,5 +12105,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-16T19:41:56.948982+09:00"
+  "updated_at": "2026-05-16T21:39:03.629356+09:00"
 }
