@@ -1,7 +1,20 @@
 {
   "key": "2026-05-16",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-16T14:25:43.192772+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-16T14:25:43.192772+09:00",
+      "link_count": 0,
+      "log_no": "224287279777",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287279777",
+      "published_at": "2026-05-16T12:53:51+09:00",
+      "text_length": 0,
+      "title": "자녀가 방에서 나오지 않아요\" 고립·은둔 청년 부모교육 신청"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-16T00:56:50.790395+09:00",
@@ -16,5 +29,5 @@
       "title": "민사고 여름방학리더쉽캠프"
     }
   ],
-  "updated_at": "2026-05-16T00:56:50.790395+09:00"
+  "updated_at": "2026-05-16T14:25:43.192772+09:00"
 }
