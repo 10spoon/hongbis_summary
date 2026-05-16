@@ -1,7 +1,46 @@
 {
   "key": "2026-05-16",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-16T22:52:34.480431+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T22:52:34.480431+09:00",
+      "link_count": 0,
+      "log_no": "224287643499",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287643499",
+      "published_at": "2026-05-16T22:27:51+09:00",
+      "text_length": 0,
+      "title": "러셀대치 반수반설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-16T22:52:34.480431+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T22:52:34.480431+09:00",
+      "link_count": 0,
+      "log_no": "224287642526",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287642526",
+      "published_at": "2026-05-16T22:26:27+09:00",
+      "text_length": 0,
+      "title": "남선생과학 1학기시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-16T22:52:34.480431+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-16T22:52:34.480431+09:00",
+      "link_count": 2,
+      "log_no": "224287638327",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287638327",
+      "published_at": "2026-05-16T22:20:03+09:00",
+      "text_length": 382,
+      "title": "강남하이퍼목동관 2027 프리반수반 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-16T21:39:03.629356+09:00",
@@ -120,5 +159,5 @@
       "title": "민사고 여름방학리더쉽캠프"
     }
   ],
-  "updated_at": "2026-05-16T21:39:03.629356+09:00"
+  "updated_at": "2026-05-16T22:52:34.480431+09:00"
 }
