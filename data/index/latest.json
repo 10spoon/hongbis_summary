@@ -1,6 +1,19 @@
 {
-  "post_count": 926,
+  "post_count": 927,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-16T17:53:34.443268+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-16T17:53:34.443268+09:00",
+      "link_count": 0,
+      "log_no": "224287444773",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224287444773",
+      "published_at": "2026-05-16T17:01:50+09:00",
+      "text_length": 0,
+      "title": "포스텍 이공계학과대탐험"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-16T16:03:01.108743+09:00",
@@ -12040,5 +12053,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-16T16:03:01.108743+09:00"
+  "updated_at": "2026-05-16T17:53:34.443268+09:00"
 }
