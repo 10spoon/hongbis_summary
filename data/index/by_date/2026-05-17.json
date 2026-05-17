@@ -1,7 +1,33 @@
 {
   "key": "2026-05-17",
-  "post_count": 1,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-17T14:33:51.561254+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-05-17T14:33:51.561254+09:00",
+      "link_count": 2,
+      "log_no": "224288031798",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224288031798",
+      "published_at": "2026-05-17T12:46:40+09:00",
+      "text_length": 890,
+      "title": "목동다원 중3 목동 썸머 스쿨"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-17T14:33:51.561254+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-17T14:33:51.561254+09:00",
+      "link_count": 0,
+      "log_no": "224288030348",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224288030348",
+      "published_at": "2026-05-17T12:44:21+09:00",
+      "text_length": 0,
+      "title": "지역의사제도 결국 수능”… 의대 수시 97.5% 최저학력기준 적용"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-17T12:25:10.788341+09:00",
@@ -16,5 +42,5 @@
       "title": "20대가 돌아본 학창시절 행복도 ‘최저’는 고1…“입시·학교 적응 때문”"
     }
   ],
-  "updated_at": "2026-05-17T12:25:10.788341+09:00"
+  "updated_at": "2026-05-17T14:33:51.561254+09:00"
 }
