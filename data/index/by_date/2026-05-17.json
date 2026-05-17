@@ -1,7 +1,33 @@
 {
   "key": "2026-05-17",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-17T21:37:06.512445+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-17T21:37:06.512445+09:00",
+      "link_count": 1,
+      "log_no": "224288368402",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224288368402",
+      "published_at": "2026-05-17T20:58:05+09:00",
+      "text_length": 47,
+      "title": "SNT 중3 썸머 수학 캠프 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-17T21:37:06.512445+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-17T21:37:06.512445+09:00",
+      "link_count": 0,
+      "log_no": "224288365302",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224288365302",
+      "published_at": "2026-05-17T20:53:50+09:00",
+      "text_length": 415,
+      "title": "미래영재목동 고등물리 / 고등화학 개강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-17T17:56:53.899788+09:00",
@@ -133,5 +159,5 @@
       "title": "20대가 돌아본 학창시절 행복도 ‘최저’는 고1…“입시·학교 적응 때문”"
     }
   ],
-  "updated_at": "2026-05-17T17:56:53.899788+09:00"
+  "updated_at": "2026-05-17T21:37:06.512445+09:00"
 }
