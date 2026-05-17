@@ -1,0 +1,45 @@
+{
+  "new_count": 4,
+  "new_posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-18T00:39:08.437816+09:00",
+      "last_changed_at": "2026-05-18T00:39:08.437816+09:00",
+      "log_no": "224288501590",
+      "post_url": "https://blog.naver.com/hongbis/224288501590",
+      "published_at": "2026-05-17T23:43:57+09:00",
+      "title": "판테온영어 원장직강중등반"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-17T23:41:23.298264+09:00",
+      "last_changed_at": "2026-05-17T23:41:23.298264+09:00",
+      "log_no": "224288485077",
+      "post_url": "https://blog.naver.com/hongbis/224288485077",
+      "published_at": "2026-05-17T23:22:13+09:00",
+      "title": "리딩스타목동 학원커리큘럼설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-17T21:37:06.512445+09:00",
+      "last_changed_at": "2026-05-17T21:37:06.512445+09:00",
+      "log_no": "224288368402",
+      "post_url": "https://blog.naver.com/hongbis/224288368402",
+      "published_at": "2026-05-17T20:58:05+09:00",
+      "title": "SNT 중3 썸머 수학 캠프 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-17T21:37:06.512445+09:00",
+      "last_changed_at": "2026-05-17T21:37:06.512445+09:00",
+      "log_no": "224288365302",
+      "post_url": "https://blog.naver.com/hongbis/224288365302",
+      "published_at": "2026-05-17T20:53:50+09:00",
+      "title": "미래영재목동 고등물리 / 고등화학 개강"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-05-18T08:00:00+09:00",
+  "window_start": "2026-05-17T18:00:00+09:00"
+}
