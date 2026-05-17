@@ -1,7 +1,20 @@
 {
   "key": "2026-05-17",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-17T23:41:23.298264+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-17T23:41:23.298264+09:00",
+      "link_count": 1,
+      "log_no": "224288485077",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224288485077",
+      "published_at": "2026-05-17T23:22:13+09:00",
+      "text_length": 231,
+      "title": "리딩스타목동 학원커리큘럼설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-17T21:37:06.512445+09:00",
@@ -159,5 +172,5 @@
       "title": "20대가 돌아본 학창시절 행복도 ‘최저’는 고1…“입시·학교 적응 때문”"
     }
   ],
-  "updated_at": "2026-05-17T21:37:06.512445+09:00"
+  "updated_at": "2026-05-17T23:41:23.298264+09:00"
 }
