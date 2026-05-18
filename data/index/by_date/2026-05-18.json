@@ -1,7 +1,46 @@
 {
   "key": "2026-05-18",
-  "post_count": 15,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-19T00:26:21.426870+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-19T00:26:21.426870+09:00",
+      "link_count": 1,
+      "log_no": "224289581093",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224289581093",
+      "published_at": "2026-05-18T22:46:40+09:00",
+      "text_length": 582,
+      "title": "크레마 수학 반포관 개원설명회 4탄"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-19T00:26:21.426870+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-19T00:26:21.426870+09:00",
+      "link_count": 0,
+      "log_no": "224289579123",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224289579123",
+      "published_at": "2026-05-18T22:44:22+09:00",
+      "text_length": 218,
+      "title": "대치명인서초 고교선택을 위한 고교유불리 설명회 중등 설명회 2차"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-19T00:26:21.426870+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-19T00:26:21.426870+09:00",
+      "link_count": 0,
+      "log_no": "224289576975",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224289576975",
+      "published_at": "2026-05-18T22:41:51+09:00",
+      "text_length": 429,
+      "title": "아레테 초중 & 예비고1 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-18T22:35:44.993016+09:00",
@@ -198,5 +237,5 @@
       "title": "서울 사는 20대에 ‘학창시절 어땠냐’ 물었더니…“중학생때부터 행복감 낮아져”"
     }
   ],
-  "updated_at": "2026-05-18T22:35:44.993016+09:00"
+  "updated_at": "2026-05-19T00:26:21.426870+09:00"
 }
