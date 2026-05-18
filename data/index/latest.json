@@ -1,6 +1,19 @@
 {
-  "post_count": 958,
+  "post_count": 959,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-18T18:30:52.801074+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-18T18:30:52.801074+09:00",
+      "link_count": 3,
+      "log_no": "224289301954",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224289301954",
+      "published_at": "2026-05-18T17:25:50+09:00",
+      "text_length": 1228,
+      "title": "대치파인만 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-18T16:44:47.098014+09:00",
@@ -12456,5 +12469,5 @@
       "title": "스타강사' 강윤구 \"'무지성 양치기'론 수능 점수 못 올려\""
     }
   ],
-  "updated_at": "2026-05-18T16:44:47.098014+09:00"
+  "updated_at": "2026-05-18T18:30:52.801074+09:00"
 }
