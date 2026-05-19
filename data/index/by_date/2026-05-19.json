@@ -1,7 +1,46 @@
 {
   "key": "2026-05-19",
-  "post_count": 19,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-20T00:25:32.088725+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-20T00:25:32.088725+09:00",
+      "link_count": 0,
+      "log_no": "224290734086",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290734086",
+      "published_at": "2026-05-19T23:51:52+09:00",
+      "text_length": 0,
+      "title": "엄마 품 아이'도 옛말 되나"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-20T00:25:32.088725+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-20T00:25:32.088725+09:00",
+      "link_count": 3,
+      "log_no": "224290722572",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290722572",
+      "published_at": "2026-05-19T23:36:07+09:00",
+      "text_length": 666,
+      "title": "대치파인만 고교 수학 기출 등급예측 모의고사 & 해제 5,6월 휴일특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-20T00:25:32.088725+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-20T00:25:32.088725+09:00",
+      "link_count": 0,
+      "log_no": "224290708765",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290708765",
+      "published_at": "2026-05-19T23:17:37+09:00",
+      "text_length": 0,
+      "title": "2027학년도 과학영재학교 입시, SW·AI 역량 평가 확대"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
@@ -250,5 +289,5 @@
       "title": "양육은 엄해야” vs “온화한 부모 최고”… 아이들 ‘이 능력’ 달라졌다"
     }
   ],
-  "updated_at": "2026-05-19T22:27:14.905668+09:00"
+  "updated_at": "2026-05-20T00:25:32.088725+09:00"
 }
