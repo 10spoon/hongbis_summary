@@ -365,11 +365,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-05-19T09:28:25.291384+00:00",
+  "generated_at": "2026-05-19T10:17:38.538737+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 980,
   "latest_updated_at": "2026-05-19T16:31:37.943779+09:00",
   "reports": [
+    {
+      "label": "2026-05-19-1800",
+      "new_count": 12,
+      "path": "data/reports/2026-05-19-1800.json",
+      "updated_count": 0,
+      "window_end": "2026-05-19T18:00:00+09:00",
+      "window_start": "2026-05-19T08:00:00+09:00"
+    },
     {
       "label": "2026-05-19-0800",
       "new_count": 10,
