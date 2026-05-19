@@ -1,7 +1,72 @@
 {
   "key": "2026-05-19",
-  "post_count": 7,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
+      "link_count": 0,
+      "log_no": "224290332310",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290332310",
+      "published_at": "2026-05-19T16:13:22+09:00",
+      "text_length": 0,
+      "title": "서울융합과학교육원 오픈랩이용안내"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
+      "link_count": 0,
+      "log_no": "224290327332",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290327332",
+      "published_at": "2026-05-19T16:09:13+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 수도권과학관리스트"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
+      "link_count": 0,
+      "log_no": "224290299532",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290299532",
+      "published_at": "2026-05-19T15:45:16+09:00",
+      "text_length": 563,
+      "title": "로뎀과학 중등설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
+      "link_count": 0,
+      "log_no": "224290266518",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290266518",
+      "published_at": "2026-05-19T15:17:16+09:00",
+      "text_length": 888,
+      "title": "씨앤씨 프리미엄관 수학 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
+      "link_count": 0,
+      "log_no": "224290242340",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224290242340",
+      "published_at": "2026-05-19T14:56:41+09:00",
+      "text_length": 0,
+      "title": "시리우스 물리대회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-19T14:39:55.108942+09:00",
@@ -94,5 +159,5 @@
       "title": "양육은 엄해야” vs “온화한 부모 최고”… 아이들 ‘이 능력’ 달라졌다"
     }
   ],
-  "updated_at": "2026-05-19T14:39:55.108942+09:00"
+  "updated_at": "2026-05-19T16:31:37.943779+09:00"
 }
