@@ -1961,6 +1961,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 3,
+        "log_no": "224290629505",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290629505",
+        "published_at": "2026-05-19T21:42:17+09:00",
+        "text_length": 1206,
+        "title": "2응X콴다일로 <최적의 고교 선택> 입시 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290628027",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290628027",
+        "published_at": "2026-05-19T21:40:38+09:00",
+        "text_length": 0,
+        "title": "갈무리국어 2028 대입개편 입시설명회!"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-19T16:31:37.943779+09:00",
@@ -5057,6 +5083,71 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290648647",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290648647",
+        "published_at": "2026-05-19T22:04:16+09:00",
+        "text_length": 0,
+        "title": "메타그라운드수학 중3 고등준비반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290645474",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290645474",
+        "published_at": "2026-05-19T22:00:42+09:00",
+        "text_length": 0,
+        "title": "BSM수학 6,7월 시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290634043",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290634043",
+        "published_at": "2026-05-19T21:47:37+09:00",
+        "text_length": 0,
+        "title": "준과학 통합사회,한국사프로그램"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290632256",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290632256",
+        "published_at": "2026-05-19T21:45:32+09:00",
+        "text_length": 0,
+        "title": "MID학원 원장님직강 집중력강화프로그램"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
+        "link_count": 0,
+        "log_no": "224290630973",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224290630973",
+        "published_at": "2026-05-19T21:43:58+09:00",
+        "text_length": 0,
+        "title": "잠룡승천수학 여름방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-19T16:31:37.943779+09:00",
@@ -12768,5 +12859,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-19T16:31:37.943779+09:00"
+  "updated_at": "2026-05-19T22:27:14.905668+09:00"
 }
