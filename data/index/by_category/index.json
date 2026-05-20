@@ -1987,6 +1987,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 0,
+        "log_no": "224291849543",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291849543",
+        "published_at": "2026-05-21T00:08:11+09:00",
+        "text_length": 351,
+        "title": "엄마들의 불안한 콘서트(대전편)"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
@@ -5161,6 +5174,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 2,
+        "log_no": "224291799996",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291799996",
+        "published_at": "2026-05-20T23:02:50+09:00",
+        "text_length": 706,
+        "title": "씨앤씨영재입시센터 중등과학 총 정리 `Pre 영재과학` 대개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 1,
+        "log_no": "224291797732",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291797732",
+        "published_at": "2026-05-20T23:00:01+09:00",
+        "text_length": 613,
+        "title": "위더스학원 엄마의 인문학교실 5월무료강좌"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 0,
+        "log_no": "224291796362",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291796362",
+        "published_at": "2026-05-20T22:58:19+09:00",
+        "text_length": 471,
+        "title": "픽스 교과사고력관 노잉 중등 조합+기하 4주 방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
@@ -9130,6 +9182,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 0,
+        "log_no": "224291794288",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291794288",
+        "published_at": "2026-05-20T22:55:45+09:00",
+        "text_length": 0,
+        "title": "스티브 잡스 스탠퍼드 연설 20주년, 미공개 메모 공개"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-20T10:19:37.556743+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-20T10:19:37.556743+09:00",
@@ -10523,6 +10588,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T00:25:11.722997+09:00",
+        "link_count": 0,
+        "log_no": "224291769984",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291769984",
+        "published_at": "2026-05-20T22:26:49+09:00",
+        "text_length": 0,
+        "title": "세계 과학무대 흔든 한국 청소년들…AI·로봇 성과 주목"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
@@ -13028,5 +13106,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-20T22:17:12.498339+09:00"
+  "updated_at": "2026-05-21T00:25:11.722997+09:00"
 }
