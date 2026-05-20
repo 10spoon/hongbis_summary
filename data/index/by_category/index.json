@@ -1974,6 +1974,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-20T16:31:33.873591+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-20T16:31:33.873591+09:00",
+        "link_count": 1,
+        "log_no": "224291439457",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291439457",
+        "published_at": "2026-05-20T16:26:07+09:00",
+        "text_length": 64,
+        "title": "서율학원 중3 김창식소장의 고교선택과 2030 성공 입시 전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-19T22:27:14.905668+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-19T22:27:14.905668+09:00",
@@ -12924,5 +12937,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-20T10:19:37.556743+09:00"
+  "updated_at": "2026-05-20T16:31:33.873591+09:00"
 }
