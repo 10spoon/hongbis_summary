@@ -1987,6 +1987,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
+        "link_count": 2,
+        "log_no": "224291698723",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291698723",
+        "published_at": "2026-05-20T21:01:45+09:00",
+        "text_length": 648,
+        "title": "대치파인만 학생대상 입시 설명회 \"\"오이오특강"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
+        "link_count": 1,
+        "log_no": "224291687926",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291687926",
+        "published_at": "2026-05-20T20:48:30+09:00",
+        "text_length": 37,
+        "title": "2026 인하 학부모아카데미"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-20T16:31:33.873591+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-20T16:31:33.873591+09:00",
@@ -4927,6 +4953,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
+        "link_count": 0,
+        "log_no": "224291742977",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291742977",
+        "published_at": "2026-05-20T21:55:29+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 성균관대약학과 약리미추천 동아리실험활동주제"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-05-13T11:03:10.739633+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-13T11:03:10.739633+09:00",
@@ -5122,6 +5161,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
+        "link_count": 0,
+        "log_no": "224291751168",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291751168",
+        "published_at": "2026-05-20T22:05:02+09:00",
+        "text_length": 0,
+        "title": "완벽한수학 중3-1시작반"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-20T00:25:32.088725+09:00",
@@ -10473,6 +10525,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-20T22:17:12.498339+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-20T22:17:12.498339+09:00",
+        "link_count": 0,
+        "log_no": "224291746766",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224291746766",
+        "published_at": "2026-05-20T21:59:51+09:00",
+        "text_length": 0,
+        "title": "[4년 전 오늘] 결국 해내는 사람들의 비밀"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-20T18:25:57.488220+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-20T18:25:57.488220+09:00",
@@ -12963,5 +13028,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-20T18:25:57.488220+09:00"
+  "updated_at": "2026-05-20T22:17:12.498339+09:00"
 }
