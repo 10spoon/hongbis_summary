@@ -1,7 +1,33 @@
 {
   "key": "2026-05-21",
-  "post_count": 1,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-21T10:19:51.850421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T10:19:51.850421+09:00",
+      "link_count": 0,
+      "log_no": "224292081695",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292081695",
+      "published_at": "2026-05-21T09:38:56+09:00",
+      "text_length": 0,
+      "title": "올림픽金→하버드 의대’…네이선 첸, 현실판 엄친아 끝판왕"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-21T10:19:51.850421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T10:19:51.850421+09:00",
+      "link_count": 0,
+      "log_no": "224292064730",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292064730",
+      "published_at": "2026-05-21T09:19:40+09:00",
+      "text_length": 0,
+      "title": "사람을 대하는 방식, 실전 영어 실력 본다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
@@ -16,5 +42,5 @@
       "title": "엄마들의 불안한 콘서트(대전편)"
     }
   ],
-  "updated_at": "2026-05-21T00:25:11.722997+09:00"
+  "updated_at": "2026-05-21T10:19:51.850421+09:00"
 }

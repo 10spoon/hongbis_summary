@@ -1,6 +1,32 @@
 {
-  "post_count": 1006,
+  "post_count": 1008,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-21T10:19:51.850421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T10:19:51.850421+09:00",
+      "link_count": 0,
+      "log_no": "224292081695",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292081695",
+      "published_at": "2026-05-21T09:38:56+09:00",
+      "text_length": 0,
+      "title": "올림픽金→하버드 의대’…네이선 첸, 현실판 엄친아 끝판왕"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-21T10:19:51.850421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T10:19:51.850421+09:00",
+      "link_count": 0,
+      "log_no": "224292064730",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292064730",
+      "published_at": "2026-05-21T09:19:40+09:00",
+      "text_length": 0,
+      "title": "사람을 대하는 방식, 실전 영어 실력 본다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-21T00:25:11.722997+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-03-23T18:55:51+09:00",
       "text_length": 879,
       "title": "대치파인만 중3과학 1학기 중간고사 대비"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224226847783",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224226847783",
-      "published_at": "2026-03-23T18:14:09+09:00",
-      "text_length": 4,
-      "title": "생각의탄생 오픈 클래스"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224226480684",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224226480684",
-      "published_at": "2026-03-23T13:26:14+09:00",
-      "text_length": 4,
-      "title": "2027학년도 대입 3월 첫 모의고사 결과와 분석을 통한 대입 전략의 입시(대입)컨설팅"
     }
   ],
-  "updated_at": "2026-05-21T00:25:11.722997+09:00"
+  "updated_at": "2026-05-21T10:19:51.850421+09:00"
 }
