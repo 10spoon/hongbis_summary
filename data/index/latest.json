@@ -1,6 +1,45 @@
 {
-  "post_count": 1016,
+  "post_count": 1019,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-21T18:26:29.988544+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T18:26:29.988544+09:00",
+      "link_count": 5,
+      "log_no": "224292545612",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292545612",
+      "published_at": "2026-05-21T16:46:14+09:00",
+      "text_length": 628,
+      "title": "아카로드 블루M(중등관) [수학.과학] 기말 내신 대비 개강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-21T18:26:29.988544+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-21T18:26:29.988544+09:00",
+      "link_count": 0,
+      "log_no": "224292540097",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292540097",
+      "published_at": "2026-05-21T16:41:19+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 공부는 왜 해야 하나요?: 지식의 무게보다, 삶을 살아내는 힘으로서의 공부"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-21T18:26:29.988544+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T18:26:29.988544+09:00",
+      "link_count": 1,
+      "log_no": "224292537571",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292537571",
+      "published_at": "2026-05-21T16:39:03+09:00",
+      "text_length": 380,
+      "title": "시대인재 중2 수학스쿨 1학기 기말고사 내신 문제풀이 특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-21T16:35:43.149900+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-03-24T10:12:13+09:00",
       "text_length": 0,
       "title": "서울대학교의학박물관 100년전 의학도를 만나다"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227520271",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227520271",
-      "published_at": "2026-03-24T10:05:26+09:00",
-      "text_length": 4,
-      "title": "3월 학평, 고1부터 고3까지 모두 중요… 출발선을 점검하라"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227518206",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227518206",
-      "published_at": "2026-03-24T10:03:34+09:00",
-      "text_length": 4,
-      "title": "지역의사제 덕분에…\"호남 일반고, 학교당 4명씩 의약학계열 진학 가능\""
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227194623",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227194623",
-      "published_at": "2026-03-24T00:20:43+09:00",
-      "text_length": 0,
-      "title": "한일고등학교 입학설명회"
     }
   ],
-  "updated_at": "2026-05-21T16:35:43.149900+09:00"
+  "updated_at": "2026-05-21T18:26:29.988544+09:00"
 }
