@@ -1,6 +1,19 @@
 {
-  "post_count": 1015,
+  "post_count": 1016,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-21T16:35:43.149900+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-21T16:35:43.149900+09:00",
+      "link_count": 1,
+      "log_no": "224292414762",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224292414762",
+      "published_at": "2026-05-21T14:55:36+09:00",
+      "text_length": 1119,
+      "title": "반포엘브라운 6월 모평 이후 수시 지원전략 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-21T12:25:41.892542+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-24T00:20:43+09:00",
       "text_length": 0,
       "title": "한일고등학교 입학설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224227179422",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224227179422",
-      "published_at": "2026-03-24T00:02:30+09:00",
-      "text_length": 0,
-      "title": "반포세정 3월학평 분석과 6평대비 설명회] ★서울대 의대 선배에게 듣는 '슬기로운 고3생활'"
     }
   ],
-  "updated_at": "2026-05-21T12:25:41.892542+09:00"
+  "updated_at": "2026-05-21T16:35:43.149900+09:00"
 }
