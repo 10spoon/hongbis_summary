@@ -10785,6 +10785,45 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-22T07:44:57.338784+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T07:44:57.338784+09:00",
+        "link_count": 0,
+        "log_no": "224293069615",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293069615",
+        "published_at": "2026-05-22T07:29:49+09:00",
+        "text_length": 0,
+        "title": "내년 수능서 '심화 수학·과학' 퇴출…\"삼전닉스 이끌 인재 못키운다\""
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-22T07:44:57.338784+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T07:44:57.338784+09:00",
+        "link_count": 0,
+        "log_no": "224293069142",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293069142",
+        "published_at": "2026-05-22T07:28:46+09:00",
+        "text_length": 0,
+        "title": "수학계 노벨상' 수상자가 상금까지 건 30년 기하학 난제 해결"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-22T07:44:57.338784+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T07:44:57.338784+09:00",
+        "link_count": 0,
+        "log_no": "224293068641",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293068641",
+        "published_at": "2026-05-22T07:27:38+09:00",
+        "text_length": 0,
+        "title": "과학동아'로 가속기 접한 28세 연구자, 교과서 바꿀 '물의 비밀' 밝혔다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-21T18:26:29.988544+09:00",
         "image_count": 0,
         "last_changed_at": "2026-05-21T18:26:29.988544+09:00",
@@ -13353,5 +13392,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-22T02:11:00.138419+09:00"
+  "updated_at": "2026-05-22T07:44:57.338784+09:00"
 }
