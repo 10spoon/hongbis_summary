@@ -5254,6 +5254,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-21T20:25:30.780853+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T20:25:30.780853+09:00",
+        "link_count": 3,
+        "log_no": "224292730305",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224292730305",
+        "published_at": "2026-05-21T20:06:32+09:00",
+        "text_length": 686,
+        "title": "중등더다원수학목동 【 중등기하 】 여름특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-21T20:25:30.780853+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-21T20:25:30.780853+09:00",
+        "link_count": 0,
+        "log_no": "224292696766",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224292696766",
+        "published_at": "2026-05-21T19:23:10+09:00",
+        "text_length": 0,
+        "title": "올인아카데미 세특특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-21T18:26:29.988544+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-21T18:26:29.988544+09:00",
@@ -13275,5 +13301,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-21T18:26:29.988544+09:00"
+  "updated_at": "2026-05-21T20:25:30.780853+09:00"
 }
