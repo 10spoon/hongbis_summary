@@ -1,6 +1,19 @@
 {
-  "post_count": 1030,
+  "post_count": 1031,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-22T12:25:41.473438+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-22T12:25:41.473438+09:00",
+      "link_count": 0,
+      "log_no": "224293312834",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293312834",
+      "published_at": "2026-05-22T12:12:16+09:00",
+      "text_length": 0,
+      "title": "아이에게 “안 돼”라는 말 못하면 벌어지는 일"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-22T10:18:18.913289+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-24T23:49:38+09:00",
       "text_length": 0,
       "title": "다즐영재교육 중간입반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228421822",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228421822",
-      "published_at": "2026-03-24T23:42:27+09:00",
-      "text_length": 0,
-      "title": "수학의힘대치 초등부4월 시간표"
     }
   ],
-  "updated_at": "2026-05-22T10:18:18.913289+09:00"
+  "updated_at": "2026-05-22T12:25:41.473438+09:00"
 }
