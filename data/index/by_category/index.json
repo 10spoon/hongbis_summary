@@ -2013,6 +2013,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-22T10:18:18.913289+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-22T10:18:18.913289+09:00",
+        "link_count": 4,
+        "log_no": "224293169063",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293169063",
+        "published_at": "2026-05-22T09:57:01+09:00",
+        "text_length": 1233,
+        "title": "2응입시팀 공다경소장님 최적의 고교 선택 입시 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-21T16:35:43.149900+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-21T16:35:43.149900+09:00",
@@ -10785,6 +10798,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-22T10:18:18.913289+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T10:18:18.913289+09:00",
+        "link_count": 0,
+        "log_no": "224293158584",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293158584",
+        "published_at": "2026-05-22T09:45:10+09:00",
+        "text_length": 0,
+        "title": "치열한 입시의 목동 학원가 풍경"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-22T07:44:57.338784+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T07:44:57.338784+09:00",
@@ -13392,5 +13418,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-22T07:44:57.338784+09:00"
+  "updated_at": "2026-05-22T10:18:18.913289+09:00"
 }
