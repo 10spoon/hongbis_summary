@@ -1,6 +1,32 @@
 {
-  "post_count": 1032,
+  "post_count": 1034,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-22T18:25:49.786330+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-22T18:25:49.786330+09:00",
+      "link_count": 1,
+      "log_no": "224293695335",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293695335",
+      "published_at": "2026-05-22T18:09:30+09:00",
+      "text_length": 245,
+      "title": "대치다원교육 김지은T 내신대비반"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-22T18:25:49.786330+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-22T18:25:49.786330+09:00",
+      "link_count": 0,
+      "log_no": "224293624121",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293624121",
+      "published_at": "2026-05-22T17:00:06+09:00",
+      "text_length": 181,
+      "title": "토리역사사회 기말고사특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-22T14:39:54.669003+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-03-25T00:03:18+09:00",
       "text_length": 0,
       "title": "우리 애가 왜 이럴까?” 사춘기 짜증, ‘중2병’ 아닌 ‘영양 부족’ 때문일 수도"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228434731",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228434731",
-      "published_at": "2026-03-24T23:58:00+09:00",
-      "text_length": 0,
-      "title": "공주사대부고 신입생입학설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228429371",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228429371",
-      "published_at": "2026-03-24T23:51:42+09:00",
-      "text_length": 4,
-      "title": "대치넥서스수학 3,4월시간표"
     }
   ],
-  "updated_at": "2026-05-22T14:39:54.669003+09:00"
+  "updated_at": "2026-05-22T18:25:49.786330+09:00"
 }

@@ -5306,6 +5306,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-22T18:25:49.786330+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-22T18:25:49.786330+09:00",
+        "link_count": 1,
+        "log_no": "224293695335",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293695335",
+        "published_at": "2026-05-22T18:09:30+09:00",
+        "text_length": 245,
+        "title": "대치다원교육 김지은T 내신대비반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-22T18:25:49.786330+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T18:25:49.786330+09:00",
+        "link_count": 0,
+        "log_no": "224293624121",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293624121",
+        "published_at": "2026-05-22T17:00:06+09:00",
+        "text_length": 181,
+        "title": "토리역사사회 기말고사특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-21T20:25:30.780853+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-21T20:25:30.780853+09:00",
@@ -13444,5 +13470,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-22T14:39:54.669003+09:00"
+  "updated_at": "2026-05-22T18:25:49.786330+09:00"
 }
