@@ -1,6 +1,19 @@
 {
-  "post_count": 1043,
+  "post_count": 1044,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-22T23:03:03.685579+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-22T23:03:03.685579+09:00",
+      "link_count": 0,
+      "log_no": "224293899921",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293899921",
+      "published_at": "2026-05-22T23:00:19+09:00",
+      "text_length": 0,
+      "title": "2026 고1,2 진로진학설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-22T22:11:57.160620+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-25T22:04:53+09:00",
       "text_length": 0,
       "title": "[6년 전 오늘] [ 이해인- 3월의 바람 속에...]"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224229496119",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224229496119",
-      "published_at": "2026-03-25T20:54:39+09:00",
-      "text_length": 586,
-      "title": "수학프런티어 고3 확률과 통계 수업"
     }
   ],
-  "updated_at": "2026-05-22T22:11:57.160620+09:00"
+  "updated_at": "2026-05-22T23:03:03.685579+09:00"
 }

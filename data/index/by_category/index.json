@@ -2026,6 +2026,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-22T23:03:03.685579+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-22T23:03:03.685579+09:00",
+        "link_count": 0,
+        "log_no": "224293899921",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224293899921",
+        "published_at": "2026-05-22T23:00:19+09:00",
+        "text_length": 0,
+        "title": "2026 고1,2 진로진학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-22T20:17:38.359908+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T20:17:38.359908+09:00",
@@ -13587,5 +13600,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-22T22:11:57.160620+09:00"
+  "updated_at": "2026-05-22T23:03:03.685579+09:00"
 }
