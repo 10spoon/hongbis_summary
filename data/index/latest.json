@@ -1,6 +1,19 @@
 {
-  "post_count": 1031,
+  "post_count": 1032,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-22T14:39:54.669003+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-22T14:39:54.669003+09:00",
+      "link_count": 3,
+      "log_no": "224293335217",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293335217",
+      "published_at": "2026-05-22T12:35:45+09:00",
+      "text_length": 1189,
+      "title": "김정준국어 고1 수능국어 여름 설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-22T12:25:41.473438+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-24T23:51:42+09:00",
       "text_length": 4,
       "title": "대치넥서스수학 3,4월시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228427651",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228427651",
-      "published_at": "2026-03-24T23:49:38+09:00",
-      "text_length": 0,
-      "title": "다즐영재교육 중간입반"
     }
   ],
-  "updated_at": "2026-05-22T12:25:41.473438+09:00"
+  "updated_at": "2026-05-22T14:39:54.669003+09:00"
 }
