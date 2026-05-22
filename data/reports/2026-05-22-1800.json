@@ -1,0 +1,45 @@
+{
+  "new_count": 4,
+  "new_posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-22T14:39:54.669003+09:00",
+      "last_changed_at": "2026-05-22T14:39:54.669003+09:00",
+      "log_no": "224293335217",
+      "post_url": "https://blog.naver.com/hongbis/224293335217",
+      "published_at": "2026-05-22T12:35:45+09:00",
+      "title": "김정준국어 고1 수능국어 여름 설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-22T12:25:41.473438+09:00",
+      "last_changed_at": "2026-05-22T12:25:41.473438+09:00",
+      "log_no": "224293312834",
+      "post_url": "https://blog.naver.com/hongbis/224293312834",
+      "published_at": "2026-05-22T12:12:16+09:00",
+      "title": "아이에게 “안 돼”라는 말 못하면 벌어지는 일"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-22T10:18:18.913289+09:00",
+      "last_changed_at": "2026-05-22T10:18:18.913289+09:00",
+      "log_no": "224293169063",
+      "post_url": "https://blog.naver.com/hongbis/224293169063",
+      "published_at": "2026-05-22T09:57:01+09:00",
+      "title": "2응입시팀 공다경소장님 최적의 고교 선택 입시 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-22T10:18:18.913289+09:00",
+      "last_changed_at": "2026-05-22T10:18:18.913289+09:00",
+      "log_no": "224293158584",
+      "post_url": "https://blog.naver.com/hongbis/224293158584",
+      "published_at": "2026-05-22T09:45:10+09:00",
+      "title": "치열한 입시의 목동 학원가 풍경"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-05-22T18:00:00+09:00",
+  "window_start": "2026-05-22T08:00:00+09:00"
+}

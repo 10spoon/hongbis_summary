@@ -1,6 +1,19 @@
 {
-  "post_count": 1034,
+  "post_count": 1035,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-22T19:05:16.935805+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-22T19:05:16.935805+09:00",
+      "link_count": 0,
+      "log_no": "224293739088",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224293739088",
+      "published_at": "2026-05-22T19:02:56+09:00",
+      "text_length": 216,
+      "title": "정이조목동1관 2026 여름방학 영어 캠프 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-22T18:25:49.786330+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-25T00:10:46+09:00",
       "text_length": 54,
       "title": "첫 만남은 너무 어려워... '가통'도 몰랐던 노산 엄마의 총회"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-26T17:42:29.911849+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-26T17:42:29.911849+09:00",
-      "link_count": 0,
-      "log_no": "224228439500",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224228439500",
-      "published_at": "2026-03-25T00:03:18+09:00",
-      "text_length": 0,
-      "title": "우리 애가 왜 이럴까?” 사춘기 짜증, ‘중2병’ 아닌 ‘영양 부족’ 때문일 수도"
     }
   ],
-  "updated_at": "2026-05-22T18:25:49.786330+09:00"
+  "updated_at": "2026-05-22T19:05:16.935805+09:00"
 }
