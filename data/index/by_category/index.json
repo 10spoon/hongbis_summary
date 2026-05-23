@@ -5462,6 +5462,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-24T08:21:44.209541+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-24T08:21:44.209541+09:00",
+        "link_count": 0,
+        "log_no": "224294861814",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294861814",
+        "published_at": "2026-05-24T08:15:04+09:00",
+        "text_length": 0,
+        "title": "택학원 6월개강반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-23T22:53:43.559862+09:00",
@@ -11227,6 +11240,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-24T08:21:44.209541+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-24T08:21:44.209541+09:00",
+        "link_count": 0,
+        "log_no": "224294859648",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294859648",
+        "published_at": "2026-05-24T08:09:38+09:00",
+        "text_length": 0,
+        "title": "경희대 의대, 하택집 하버드 의대 교수 초청 특강"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-23T17:00:28.476895+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-23T17:00:28.476895+09:00",
@@ -13792,6 +13818,19 @@
     "함께읽은책": [
       {
         "category": "함께읽은책",
+        "first_seen_at": "2026-05-24T08:21:44.209541+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-24T08:21:44.209541+09:00",
+        "link_count": 0,
+        "log_no": "224294860898",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294860898",
+        "published_at": "2026-05-24T08:12:45+09:00",
+        "text_length": 0,
+        "title": "북웨이브챌린지 추천도서목록"
+      },
+      {
+        "category": "함께읽은책",
         "first_seen_at": "2026-05-23T00:19:41.623408+09:00",
         "image_count": 0,
         "last_changed_at": "2026-05-23T00:19:41.623408+09:00",
@@ -13886,5 +13925,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-24T00:40:22.606098+09:00"
+  "updated_at": "2026-05-24T08:21:44.209541+09:00"
 }
