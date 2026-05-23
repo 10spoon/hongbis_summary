@@ -1,12 +1,51 @@
 {
   "key": "2026-05-23",
-  "post_count": 4,
+  "post_count": 7,
   "posts": [
     {
       "category": "설명회",
+      "first_seen_at": "2026-05-23T14:27:32.001073+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T14:27:32.001073+09:00",
+      "link_count": 1,
+      "log_no": "224294309179",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294309179",
+      "published_at": "2026-05-23T13:39:08+09:00",
+      "text_length": 710,
+      "title": "아드폰테스 예비고1설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-23T14:27:32.001073+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-23T14:27:32.001073+09:00",
+      "link_count": 1,
+      "log_no": "224294305202",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294305202",
+      "published_at": "2026-05-23T13:33:11+09:00",
+      "text_length": 61,
+      "title": "소르본역사논술 양천지사 내신프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T14:27:32.001073+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-23T14:27:32.001073+09:00",
+      "link_count": 0,
+      "log_no": "224294264945",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294264945",
+      "published_at": "2026-05-23T12:30:53+09:00",
+      "text_length": 0,
+      "title": "목동토마토스쿨 5월설명회"
+    },
+    {
+      "category": "설명회",
       "first_seen_at": "2026-05-23T12:24:53.999000+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-05-23T12:24:53.999000+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T14:27:32.001073+09:00",
       "link_count": 3,
       "log_no": "224294206523",
       "place_count": 0,
@@ -55,5 +94,5 @@
       "title": "목동논술학원,독특관점의발견 초중등 논술 설명회"
     }
   ],
-  "updated_at": "2026-05-23T12:24:53.999000+09:00"
+  "updated_at": "2026-05-23T14:27:32.001073+09:00"
 }
