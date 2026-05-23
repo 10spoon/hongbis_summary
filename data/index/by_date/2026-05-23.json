@@ -1,7 +1,20 @@
 {
   "key": "2026-05-23",
-  "post_count": 14,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T23:44:19.137347+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T23:44:19.137347+09:00",
+      "link_count": 1,
+      "log_no": "224294674074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294674074",
+      "published_at": "2026-05-23T23:22:15+09:00",
+      "text_length": 128,
+      "title": "대치미래탐구 의대과학 간담회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
@@ -185,5 +198,5 @@
       "title": "목동논술학원,독특관점의발견 초중등 논술 설명회"
     }
   ],
-  "updated_at": "2026-05-23T22:53:43.559862+09:00"
+  "updated_at": "2026-05-23T23:44:19.137347+09:00"
 }

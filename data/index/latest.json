@@ -1,6 +1,19 @@
 {
-  "post_count": 1064,
+  "post_count": 1065,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T23:44:19.137347+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T23:44:19.137347+09:00",
+      "link_count": 1,
+      "log_no": "224294674074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294674074",
+      "published_at": "2026-05-23T23:22:15+09:00",
+      "text_length": 128,
+      "title": "대치미래탐구 의대과학 간담회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-27T16:17:06+09:00",
       "text_length": 474,
       "title": "예섬학원 <최상위권으로 가는 ‘공부 근육’ 키우기> 실전편 - 수학 선행 제대로 하는 법 (중간고사 대비)"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231391800",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231391800",
-      "published_at": "2026-03-27T13:41:26+09:00",
-      "text_length": 0,
-      "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
     }
   ],
-  "updated_at": "2026-05-23T22:53:43.559862+09:00"
+  "updated_at": "2026-05-23T23:44:19.137347+09:00"
 }
