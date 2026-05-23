@@ -1,6 +1,19 @@
 {
-  "post_count": 1065,
+  "post_count": 1066,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-24T00:40:22.606098+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-24T00:40:22.606098+09:00",
+      "link_count": 0,
+      "log_no": "224294701882",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294701882",
+      "published_at": "2026-05-24T00:03:01+09:00",
+      "text_length": 0,
+      "title": "엄마의 말"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-23T23:44:19.137347+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-27T16:42:24+09:00",
       "text_length": 444,
       "title": "강남영재사관학원 중3 자사고 특목고 입시전략 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T16:40:50.504448+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T16:40:50.504448+09:00",
-      "link_count": 0,
-      "log_no": "224231581757",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231581757",
-      "published_at": "2026-03-27T16:17:06+09:00",
-      "text_length": 474,
-      "title": "예섬학원 <최상위권으로 가는 ‘공부 근육’ 키우기> 실전편 - 수학 선행 제대로 하는 법 (중간고사 대비)"
     }
   ],
-  "updated_at": "2026-05-23T23:44:19.137347+09:00"
+  "updated_at": "2026-05-24T00:40:22.606098+09:00"
 }

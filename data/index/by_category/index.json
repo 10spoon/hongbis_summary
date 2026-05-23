@@ -9741,6 +9741,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-24T00:40:22.606098+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-24T00:40:22.606098+09:00",
+        "link_count": 0,
+        "log_no": "224294701882",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294701882",
+        "published_at": "2026-05-24T00:03:01+09:00",
+        "text_length": 0,
+        "title": "엄마의 말"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-23T10:14:07.913591+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-23T10:14:07.913591+09:00",
@@ -13873,5 +13886,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-23T23:44:19.137347+09:00"
+  "updated_at": "2026-05-24T00:40:22.606098+09:00"
 }
