@@ -1,6 +1,19 @@
 {
-  "post_count": 1059,
+  "post_count": 1060,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-23T18:54:57.379006+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T18:54:57.379006+09:00",
+      "link_count": 0,
+      "log_no": "224294498044",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294498044",
+      "published_at": "2026-05-23T18:36:56+09:00",
+      "text_length": 0,
+      "title": "류지혜국어 1학기 기말시간표"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-23T17:00:28.476895+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-27T01:29:08+09:00",
       "text_length": 531,
       "title": "리뉴어학원 특목영어 IVY설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230822434",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230822434",
-      "published_at": "2026-03-26T23:19:20+09:00",
-      "text_length": 0,
-      "title": "지니엠국어 1학기 중간고사 시간표"
     }
   ],
-  "updated_at": "2026-05-23T17:00:28.476895+09:00"
+  "updated_at": "2026-05-23T18:54:57.379006+09:00"
 }

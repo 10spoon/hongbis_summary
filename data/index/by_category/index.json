@@ -5423,6 +5423,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-23T18:54:57.379006+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-23T18:54:57.379006+09:00",
+        "link_count": 0,
+        "log_no": "224294498044",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294498044",
+        "published_at": "2026-05-23T18:36:56+09:00",
+        "text_length": 0,
+        "title": "류지혜국어 1학기 기말시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-23T16:12:16.006146+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-23T16:12:16.006146+09:00",
@@ -13795,5 +13808,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-23T17:00:28.476895+09:00"
+  "updated_at": "2026-05-23T18:54:57.379006+09:00"
 }
