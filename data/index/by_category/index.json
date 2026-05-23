@@ -11136,6 +11136,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-23T17:00:28.476895+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-23T17:00:28.476895+09:00",
+        "link_count": 0,
+        "log_no": "224294413410",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294413410",
+        "published_at": "2026-05-23T16:20:49+09:00",
+        "text_length": 0,
+        "title": "미·적분 못하는 이과생 쏟아진다…고3 너도나도 ‘문과 과목’ 선택"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-22T20:17:38.359908+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T20:17:38.359908+09:00",
@@ -13782,5 +13795,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-23T16:12:16.006146+09:00"
+  "updated_at": "2026-05-23T17:00:28.476895+09:00"
 }
