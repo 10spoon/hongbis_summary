@@ -1,6 +1,58 @@
 {
-  "post_count": 1060,
+  "post_count": 1064,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-23T22:53:43.559862+09:00",
+      "link_count": 0,
+      "log_no": "224294618703",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294618703",
+      "published_at": "2026-05-23T21:59:46+09:00",
+      "text_length": 0,
+      "title": "반포제이원수학 6월 초등프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T22:53:43.559862+09:00",
+      "link_count": 0,
+      "log_no": "224294613143",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294613143",
+      "published_at": "2026-05-23T21:51:36+09:00",
+      "text_length": 0,
+      "title": "시리우스학원 7-9월 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-23T22:53:43.559862+09:00",
+      "link_count": 0,
+      "log_no": "224294610620",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294610620",
+      "published_at": "2026-05-23T21:47:46+09:00",
+      "text_length": 0,
+      "title": "모든국어 예비고1 반배정테스트"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T22:53:43.559862+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T22:53:43.559862+09:00",
+      "link_count": 0,
+      "log_no": "224294609512",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294609512",
+      "published_at": "2026-05-23T21:46:06+09:00",
+      "text_length": 758,
+      "title": "김영준국어 예비고1(현 중3) 고등내신 & 수능국어 여름방학 개강 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-23T18:54:57.379006+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-03-27T13:41:26+09:00",
       "text_length": 0,
       "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231389706",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231389706",
-      "published_at": "2026-03-27T13:39:47+09:00",
-      "text_length": 0,
-      "title": "로고스논술학원 논술설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-27T13:59:31.219892+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T13:59:31.219892+09:00",
-      "link_count": 0,
-      "log_no": "224231386744",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231386744",
-      "published_at": "2026-03-27T13:37:05+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] 서울 대학부설영재교육원지도"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224231065631",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231065631",
-      "published_at": "2026-03-27T08:31:14+09:00",
-      "text_length": 0,
-      "title": "KAIST 교수가 쓴 ‘10미터 한지 논문’ 英 박물관 영구 소장"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230911072",
-      "place_count": 5,
-      "post_url": "https://blog.naver.com/hongbis/224230911072",
-      "published_at": "2026-03-27T01:29:08+09:00",
-      "text_length": 531,
-      "title": "리뉴어학원 특목영어 IVY설명회"
     }
   ],
-  "updated_at": "2026-05-23T18:54:57.379006+09:00"
+  "updated_at": "2026-05-23T22:53:43.559862+09:00"
 }
