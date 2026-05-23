@@ -9585,6 +9585,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-23T10:14:07.913591+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-23T10:14:07.913591+09:00",
+        "link_count": 0,
+        "log_no": "224294168626",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294168626",
+        "published_at": "2026-05-23T10:08:39+09:00",
+        "text_length": 0,
+        "title": "진정한 듣기는 자신의 기억, 욕망, 판단을 내려놓는 것"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-22T20:17:38.359908+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T20:17:38.359908+09:00",
@@ -13691,5 +13704,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-23T00:19:41.623408+09:00"
+  "updated_at": "2026-05-23T10:14:07.913591+09:00"
 }
