@@ -1,6 +1,32 @@
 {
-  "post_count": 1052,
+  "post_count": 1054,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T12:24:53.999000+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-23T12:24:53.999000+09:00",
+      "link_count": 3,
+      "log_no": "224294206523",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294206523",
+      "published_at": "2026-05-23T11:06:39+09:00",
+      "text_length": 1100,
+      "title": "2응X콴다일로 <최적의 고교 선택> 입시 설명회 (5/23, 27, 6/7, 14 총 4회)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T12:24:53.999000+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T12:24:53.999000+09:00",
+      "link_count": 0,
+      "log_no": "224294204879",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294204879",
+      "published_at": "2026-05-23T11:04:22+09:00",
+      "text_length": 572,
+      "title": "세정학원 수학관 예비고1 수학단독 + 입시전략"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-23T10:14:07.913591+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-03-26T20:33:38+09:00",
       "text_length": 0,
       "title": "문학책 읽고 에세이 쓰는 미국 학생"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230639354",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230639354",
-      "published_at": "2026-03-26T19:48:11+09:00",
-      "text_length": 0,
-      "title": "서울대 자연계열 신입생 4명 중 1명, 미적분 다시 배운다"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-03-27T09:22:34.291411+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-27T09:22:34.291411+09:00",
-      "link_count": 0,
-      "log_no": "224230542240",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224230542240",
-      "published_at": "2026-03-26T17:59:46+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] 수험생도 아닌데... 수능 필적확인 문구 따라 써봤더니"
     }
   ],
-  "updated_at": "2026-05-23T10:14:07.913591+09:00"
+  "updated_at": "2026-05-23T12:24:53.999000+09:00"
 }

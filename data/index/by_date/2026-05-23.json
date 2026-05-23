@@ -1,7 +1,33 @@
 {
   "key": "2026-05-23",
-  "post_count": 2,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T12:24:53.999000+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-23T12:24:53.999000+09:00",
+      "link_count": 3,
+      "log_no": "224294206523",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294206523",
+      "published_at": "2026-05-23T11:06:39+09:00",
+      "text_length": 1100,
+      "title": "2응X콴다일로 <최적의 고교 선택> 입시 설명회 (5/23, 27, 6/7, 14 총 4회)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-23T12:24:53.999000+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-23T12:24:53.999000+09:00",
+      "link_count": 0,
+      "log_no": "224294204879",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294204879",
+      "published_at": "2026-05-23T11:04:22+09:00",
+      "text_length": 572,
+      "title": "세정학원 수학관 예비고1 수학단독 + 입시전략"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-23T10:14:07.913591+09:00",
@@ -29,5 +55,5 @@
       "title": "목동논술학원,독특관점의발견 초중등 논술 설명회"
     }
   ],
-  "updated_at": "2026-05-23T10:14:07.913591+09:00"
+  "updated_at": "2026-05-23T12:24:53.999000+09:00"
 }
