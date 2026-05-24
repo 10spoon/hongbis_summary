@@ -1,7 +1,20 @@
 {
   "key": "2026-05-24",
-  "post_count": 12,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-24T18:54:51.748225+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-24T18:54:51.748225+09:00",
+      "link_count": 5,
+      "log_no": "224295228893",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224295228893",
+      "published_at": "2026-05-24T18:45:02+09:00",
+      "text_length": 867,
+      "title": "KNS 진학 고교별 독해 학습전략 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-24T18:07:00.512940+09:00",
@@ -159,5 +172,5 @@
       "title": "엄마의 말"
     }
   ],
-  "updated_at": "2026-05-24T18:07:00.512940+09:00"
+  "updated_at": "2026-05-24T18:54:51.748225+09:00"
 }

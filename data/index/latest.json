@@ -1,6 +1,19 @@
 {
-  "post_count": 1077,
+  "post_count": 1078,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-24T18:54:51.748225+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-24T18:54:51.748225+09:00",
+      "link_count": 5,
+      "log_no": "224295228893",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224295228893",
+      "published_at": "2026-05-24T18:45:02+09:00",
+      "text_length": 867,
+      "title": "KNS 진학 고교별 독해 학습전략 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-24T18:07:00.512940+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-28T09:10:19+09:00",
       "text_length": 0,
       "title": "전국민 AI경진대회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-28T09:52:32.197675+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-28T09:52:32.197675+09:00",
-      "link_count": 0,
-      "log_no": "224232184901",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232184901",
-      "published_at": "2026-03-28T08:47:36+09:00",
-      "text_length": 594,
-      "title": "온라인강좌 하정문 박사님의 새소리 강의_4월"
     }
   ],
-  "updated_at": "2026-05-24T18:07:00.512940+09:00"
+  "updated_at": "2026-05-24T18:54:51.748225+09:00"
 }
