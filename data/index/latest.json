@@ -1,6 +1,45 @@
 {
-  "post_count": 1069,
+  "post_count": 1072,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+      "link_count": 0,
+      "log_no": "224294953391",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294953391",
+      "published_at": "2026-05-24T11:07:41+09:00",
+      "text_length": 725,
+      "title": "2026 청소년 로보틱스 챌린지 참가 신청(서울 초등/중등)"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+      "link_count": 0,
+      "log_no": "224294942628",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294942628",
+      "published_at": "2026-05-24T10:49:14+09:00",
+      "text_length": 0,
+      "title": "대덕특구연구기관 주말개방"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+      "link_count": 0,
+      "log_no": "224294940379",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224294940379",
+      "published_at": "2026-05-24T10:45:11+09:00",
+      "text_length": 0,
+      "title": "진로연계독서멘토링 멘티학생모집"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-24T08:21:44.209541+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-03-27T22:58:14+09:00",
       "text_length": 0,
       "title": "큐사이언스 중등1학기 중간고사개강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T20:31:02.200657+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T20:31:02.200657+09:00",
-      "link_count": 0,
-      "log_no": "224231803459",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231803459",
-      "published_at": "2026-03-27T20:02:20+09:00",
-      "text_length": 0,
-      "title": "대치세정 논술설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-27T20:31:02.200657+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-27T20:31:02.200657+09:00",
-      "link_count": 0,
-      "log_no": "224231801596",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231801596",
-      "published_at": "2026-03-27T19:59:53+09:00",
-      "text_length": 639,
-      "title": "두각학원 생기부 멘토링 Part1 (나오미멘토) 서울대 의대 학부모 특별 초청"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-27T19:32:40.602488+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-27T19:32:40.602488+09:00",
-      "link_count": 0,
-      "log_no": "224231779067",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224231779067",
-      "published_at": "2026-03-27T19:30:21+09:00",
-      "text_length": 0,
-      "title": "2026 양천구 청소년참여위원회 제6기 위원 모집"
     }
   ],
-  "updated_at": "2026-05-24T08:21:44.209541+09:00"
+  "updated_at": "2026-05-24T12:25:29.223647+09:00"
 }

@@ -85,6 +85,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+        "link_count": 0,
+        "log_no": "224294953391",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294953391",
+        "published_at": "2026-05-24T11:07:41+09:00",
+        "text_length": 725,
+        "title": "2026 청소년 로보틱스 챌린지 참가 신청(서울 초등/중등)"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+        "link_count": 0,
+        "log_no": "224294942628",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294942628",
+        "published_at": "2026-05-24T10:49:14+09:00",
+        "text_length": 0,
+        "title": "대덕특구연구기관 주말개방"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
+        "link_count": 0,
+        "log_no": "224294940379",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224294940379",
+        "published_at": "2026-05-24T10:45:11+09:00",
+        "text_length": 0,
+        "title": "진로연계독서멘토링 멘티학생모집"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-22T22:11:57.160620+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T22:11:57.160620+09:00",
@@ -13925,5 +13964,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-24T08:21:44.209541+09:00"
+  "updated_at": "2026-05-24T12:25:29.223647+09:00"
 }
