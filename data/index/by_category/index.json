@@ -5566,6 +5566,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-25T00:41:25.649499+09:00",
+        "image_count": 15,
+        "last_changed_at": "2026-05-25T00:41:25.649499+09:00",
+        "link_count": 1,
+        "log_no": "224295447957",
+        "place_count": 1,
+        "post_url": "https://blog.naver.com/hongbis/224295447957",
+        "published_at": "2026-05-25T00:23:03+09:00",
+        "text_length": 668,
+        "title": "대치동 유일수학 유아수학, 계산만 시키고 있진 않나요?"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-25T00:41:25.649499+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-05-25T00:41:25.649499+09:00",
+        "link_count": 0,
+        "log_no": "224295438382",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295438382",
+        "published_at": "2026-05-25T00:07:59+09:00",
+        "text_length": 0,
+        "title": "대치생각이크는수학 6월 중등수학 개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-25T00:41:25.649499+09:00",
+        "image_count": 6,
+        "last_changed_at": "2026-05-25T00:41:25.649499+09:00",
+        "link_count": 0,
+        "log_no": "224295431844",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295431844",
+        "published_at": "2026-05-24T23:59:11+09:00",
+        "text_length": 0,
+        "title": "돌파수학 예비중1 입반테스트"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-24T23:44:08.198877+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-24T23:44:08.198877+09:00",
@@ -14120,5 +14159,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-24T23:44:08.198877+09:00"
+  "updated_at": "2026-05-25T00:41:25.649499+09:00"
 }

@@ -1,7 +1,20 @@
 {
   "key": "2026-05-24",
-  "post_count": 19,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-25T00:41:25.649499+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-05-25T00:41:25.649499+09:00",
+      "link_count": 0,
+      "log_no": "224295431844",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224295431844",
+      "published_at": "2026-05-24T23:59:11+09:00",
+      "text_length": 0,
+      "title": "돌파수학 예비중1 입반테스트"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-24T23:44:08.198877+09:00",
@@ -250,5 +263,5 @@
       "title": "엄마의 말"
     }
   ],
-  "updated_at": "2026-05-24T23:44:08.198877+09:00"
+  "updated_at": "2026-05-25T00:41:25.649499+09:00"
 }
