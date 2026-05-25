@@ -1,6 +1,19 @@
 {
-  "post_count": 1107,
+  "post_count": 1108,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-25T22:26:47.044950+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-25T22:26:47.044950+09:00",
+      "link_count": 1,
+      "log_no": "224296140199",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296140199",
+      "published_at": "2026-05-25T21:03:21+09:00",
+      "text_length": 1332,
+      "title": "두각k수학 이영아 소장 입시의 토탈 해부, 학부모교실 (3회)"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-25T20:36:30.405342+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-30T09:04:27+09:00",
       "text_length": 0,
       "title": "\"찍고 자는 애들이 내 등급 받쳐줘요\"... 인문계고 교실의 민낯"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-30T00:26:17.425925+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T00:26:17.425925+09:00",
-      "link_count": 0,
-      "log_no": "224233727690",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233727690",
-      "published_at": "2026-03-29T23:57:24+09:00",
-      "text_length": 0,
-      "title": "스카이멘사 초중등부 신규개설반"
     }
   ],
-  "updated_at": "2026-05-25T20:36:30.405342+09:00"
+  "updated_at": "2026-05-25T22:26:47.044950+09:00"
 }
