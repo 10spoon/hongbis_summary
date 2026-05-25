@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224295991270",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295991270",
+        "published_at": "2026-05-25T17:30:41+09:00",
+        "text_length": 0,
+        "title": "충남삼성고등학교 디플로마체험캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-24T12:25:29.223647+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-24T12:25:29.223647+09:00",
@@ -2063,6 +2076,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224295989433",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295989433",
+        "published_at": "2026-05-25T17:28:18+09:00",
+        "text_length": 0,
+        "title": "김천고등학교 입학설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224295985745",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295985745",
+        "published_at": "2026-05-25T17:23:18+09:00",
+        "text_length": 0,
+        "title": "정영어학원 오프라인설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-05-25T16:54:51.483458+09:00",
@@ -5603,6 +5642,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224296010320",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296010320",
+        "published_at": "2026-05-25T17:56:36+09:00",
+        "text_length": 0,
+        "title": "리얼수학학원 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224296007429",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296007429",
+        "published_at": "2026-05-25T17:52:41+09:00",
+        "text_length": 0,
+        "title": "M.I 어학원 목동캠퍼스 2026 여름 특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-25T16:54:51.483458+09:00",
@@ -10053,6 +10118,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
+        "link_count": 0,
+        "log_no": "224296005011",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296005011",
+        "published_at": "2026-05-25T17:49:22+09:00",
+        "text_length": 64,
+        "title": "송일국, 사춘기 삼둥이 근황 공개 “내가 알던 애들이 아냐”"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-24T22:53:17.756463+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-24T22:53:17.756463+09:00",
@@ -14237,5 +14315,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-25T16:54:51.483458+09:00"
+  "updated_at": "2026-05-25T18:37:59.931002+09:00"
 }
