@@ -1,6 +1,19 @@
 {
-  "post_count": 1087,
+  "post_count": 1088,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-25T12:25:53.509322+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-25T12:25:53.509322+09:00",
+      "link_count": 2,
+      "log_no": "224295715713",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224295715713",
+      "published_at": "2026-05-25T11:31:13+09:00",
+      "text_length": 1815,
+      "title": "2응X콴다일로 1차 설명회(5/23) 요약"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-25T00:41:25.649499+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-28T21:01:36+09:00",
       "text_length": 0,
       "title": "시리우스 2026년 5월~6월 개강 올림물리,올림물리 문제풀이, 일반물리 문제풀이, 올림화학, STEP화학 Genius 프로그램"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-03-28T19:26:25.101335+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-28T19:26:25.101335+09:00",
-      "link_count": 0,
-      "log_no": "224232617728",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224232617728",
-      "published_at": "2026-03-28T19:12:27+09:00",
-      "text_length": 0,
-      "title": "창문이 모은 햇빛의 양 계산될까? 서울대 공대생 '실패할 연구' 도전"
     }
   ],
-  "updated_at": "2026-05-25T00:41:25.649499+09:00"
+  "updated_at": "2026-05-25T12:25:53.509322+09:00"
 }

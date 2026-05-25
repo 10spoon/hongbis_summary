@@ -2065,6 +2065,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-25T12:25:53.509322+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-25T12:25:53.509322+09:00",
+        "link_count": 2,
+        "log_no": "224295715713",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224295715713",
+        "published_at": "2026-05-25T11:31:13+09:00",
+        "text_length": 1815,
+        "title": "2응X콴다일로 1차 설명회(5/23) 요약"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-24T22:53:17.756463+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-24T22:53:17.756463+09:00",
@@ -14159,5 +14172,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-25T00:41:25.649499+09:00"
+  "updated_at": "2026-05-25T12:25:53.509322+09:00"
 }
