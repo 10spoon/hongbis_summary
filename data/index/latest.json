@@ -1,6 +1,45 @@
 {
-  "post_count": 1108,
+  "post_count": 1111,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T00:23:46.289517+09:00",
+      "link_count": 1,
+      "log_no": "224296271304",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296271304",
+      "published_at": "2026-05-25T23:45:34+09:00",
+      "text_length": 623,
+      "title": "파란국어 고등 & 대입 성공전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T00:23:46.289517+09:00",
+      "link_count": 0,
+      "log_no": "224296269789",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296269789",
+      "published_at": "2026-05-25T23:43:36+09:00",
+      "text_length": 338,
+      "title": "대치미래탐구 현고1 2029 대입의 NEW 입시 제도 개편의 이해"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-26T00:23:46.289517+09:00",
+      "link_count": 0,
+      "log_no": "224296256444",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296256444",
+      "published_at": "2026-05-25T23:26:19+09:00",
+      "text_length": 0,
+      "title": "대치 김진선수학_6월 정규반 및 기말고사 내신대비"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-25T22:26:47.044950+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-03-30T12:47:01+09:00",
       "text_length": 0,
       "title": "국어의고수 단대부중2 국어내신"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-30T14:10:51.422632+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T14:10:51.422632+09:00",
-      "link_count": 0,
-      "log_no": "224234230178",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234230178",
-      "published_at": "2026-03-30T12:43:11+09:00",
-      "text_length": 767,
-      "title": "화학·생명과학 전시 아이디어 공모전"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-30T10:56:30.974650+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T10:56:30.974650+09:00",
-      "link_count": 0,
-      "log_no": "224234060641",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234060641",
-      "published_at": "2026-03-30T10:28:02+09:00",
-      "text_length": 4,
-      "title": "절대 단톡방 들어가지 마라\"…학폭으로 대입 불합격도"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-03-30T09:59:58.356292+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T09:59:58.356292+09:00",
-      "link_count": 0,
-      "log_no": "224233971772",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224233971772",
-      "published_at": "2026-03-30T09:04:27+09:00",
-      "text_length": 0,
-      "title": "\"찍고 자는 애들이 내 등급 받쳐줘요\"... 인문계고 교실의 민낯"
     }
   ],
-  "updated_at": "2026-05-25T22:26:47.044950+09:00"
+  "updated_at": "2026-05-26T00:23:46.289517+09:00"
 }
