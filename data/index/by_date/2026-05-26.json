@@ -1,7 +1,20 @@
 {
   "key": "2026-05-26",
-  "post_count": 9,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-26T18:28:29.956335+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T18:28:29.956335+09:00",
+      "link_count": 1,
+      "log_no": "224297081761",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224297081761",
+      "published_at": "2026-05-26T18:15:52+09:00",
+      "text_length": 439,
+      "title": "영재사관학원 중3 자사고 특목고 파이널 입시전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-26T16:30:56.576731+09:00",
@@ -120,5 +133,5 @@
       "title": "목동cms 6월개강프로그램"
     }
   ],
-  "updated_at": "2026-05-26T16:30:56.576731+09:00"
+  "updated_at": "2026-05-26T18:28:29.956335+09:00"
 }

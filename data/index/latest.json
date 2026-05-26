@@ -1,6 +1,19 @@
 {
-  "post_count": 1120,
+  "post_count": 1121,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-26T18:28:29.956335+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T18:28:29.956335+09:00",
+      "link_count": 1,
+      "log_no": "224297081761",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224297081761",
+      "published_at": "2026-05-26T18:15:52+09:00",
+      "text_length": 439,
+      "title": "영재사관학원 중3 자사고 특목고 파이널 입시전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-26T16:30:56.576731+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-30T21:19:22+09:00",
       "text_length": 0,
       "title": "3주 전부터 무게중심 바꿔라\"… 중간고사 성패 가를 '4단계 로드맵'"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-30T20:37:14.790434+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-03-30T20:37:14.790434+09:00",
-      "link_count": 0,
-      "log_no": "224234776921",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234776921",
-      "published_at": "2026-03-30T20:01:24+09:00",
-      "text_length": 0,
-      "title": "수준영재수학 4월 18일, 중·고등수학 2차 간담회"
     }
   ],
-  "updated_at": "2026-05-26T16:30:56.576731+09:00"
+  "updated_at": "2026-05-26T18:28:29.956335+09:00"
 }
