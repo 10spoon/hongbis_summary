@@ -2091,6 +2091,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-26T16:30:56.576731+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-26T16:30:56.576731+09:00",
+        "link_count": 1,
+        "log_no": "224296847019",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296847019",
+        "published_at": "2026-05-26T14:49:36+09:00",
+        "text_length": 53,
+        "title": "대치이강*KT&G 고2 입시설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-26T14:39:51.897538+09:00",
@@ -5707,6 +5720,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-26T16:30:56.576731+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-05-26T16:30:56.576731+09:00",
+        "link_count": 0,
+        "log_no": "224296838121",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296838121",
+        "published_at": "2026-05-26T14:42:41+09:00",
+        "text_length": 0,
+        "title": "선제영어 중1정규반"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
@@ -14562,5 +14588,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-26T14:39:51.897538+09:00"
+  "updated_at": "2026-05-26T16:30:56.576731+09:00"
 }
