@@ -1,6 +1,19 @@
 {
-  "post_count": 1113,
+  "post_count": 1114,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-26T12:25:27.832464+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T12:25:27.832464+09:00",
+      "link_count": 4,
+      "log_no": "224296618731",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296618731",
+      "published_at": "2026-05-26T11:12:03+09:00",
+      "text_length": 449,
+      "title": "수행과 수능 26 여름방학 특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-30T17:42:51+09:00",
       "text_length": 218,
       "title": "한화생명과 함께하는 예술의전당 11시 콘서트"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-30T17:48:24.911504+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-03-30T17:48:24.911504+09:00",
-      "link_count": 1,
-      "log_no": "224234624452",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234624452",
-      "published_at": "2026-03-30T17:35:22+09:00",
-      "text_length": 462,
-      "title": "목동시대인재 중3 과학 내신집중반 개강"
     }
   ],
-  "updated_at": "2026-05-26T10:16:20.287116+09:00"
+  "updated_at": "2026-05-26T12:25:27.832464+09:00"
 }

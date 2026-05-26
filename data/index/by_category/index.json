@@ -5696,6 +5696,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-26T12:25:27.832464+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-26T12:25:27.832464+09:00",
+        "link_count": 4,
+        "log_no": "224296618731",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296618731",
+        "published_at": "2026-05-26T11:12:03+09:00",
+        "text_length": 449,
+        "title": "수행과 수능 26 여름방학 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-26T10:16:20.287116+09:00",
@@ -14497,5 +14510,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-26T10:16:20.287116+09:00"
+  "updated_at": "2026-05-26T12:25:27.832464+09:00"
 }
