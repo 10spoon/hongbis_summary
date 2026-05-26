@@ -1,7 +1,20 @@
 {
   "key": "2026-05-26",
-  "post_count": 18,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-27T00:25:52.254665+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-27T00:25:52.254665+09:00",
+      "link_count": 0,
+      "log_no": "224297345296",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224297345296",
+      "published_at": "2026-05-26T23:31:29+09:00",
+      "text_length": 0,
+      "title": "수놀음수능교육센터 무료특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-26T22:22:15.076997+09:00",
@@ -237,5 +250,5 @@
       "title": "목동cms 6월개강프로그램"
     }
   ],
-  "updated_at": "2026-05-26T22:22:15.076997+09:00"
+  "updated_at": "2026-05-27T00:25:52.254665+09:00"
 }
