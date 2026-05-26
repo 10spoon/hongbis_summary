@@ -2091,6 +2091,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-26T14:39:51.897538+09:00",
+        "link_count": 2,
+        "log_no": "224296784889",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296784889",
+        "published_at": "2026-05-26T13:55:27+09:00",
+        "text_length": 720,
+        "title": "원리탐구학원 (초3~중1) 대학영재원·KJMO 대비 프로그램과 로드맵"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-26T00:23:46.289517+09:00",
@@ -5694,6 +5707,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-26T14:39:51.897538+09:00",
+        "link_count": 9,
+        "log_no": "224296820381",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296820381",
+        "published_at": "2026-05-26T14:27:09+09:00",
+        "text_length": 1252,
+        "title": "다원교육 고등관 [중3] 다원교육 최우수 강사진이 진행하는 썸머캠프 <대치스쿨>"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-26T12:25:27.832464+09:00",
@@ -11812,6 +11838,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-26T14:39:51.897538+09:00",
+        "link_count": 0,
+        "log_no": "224296814490",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296814490",
+        "published_at": "2026-05-26T14:22:05+09:00",
+        "text_length": 0,
+        "title": "자연계도 사탐·확통 허용…고3 과탐·미적분 선택 급감했다"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-26T14:39:51.897538+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-26T14:39:51.897538+09:00",
+        "link_count": 0,
+        "log_no": "224296803885",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296803885",
+        "published_at": "2026-05-26T14:12:54+09:00",
+        "text_length": 0,
+        "title": "“AI가 대체 못하는 ‘이것’ 갖춰야”…MIT 최순원 교수가 본 미래 인재상은?"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-25T20:36:30.405342+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-25T20:36:30.405342+09:00",
@@ -14510,5 +14562,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-26T12:25:27.832464+09:00"
+  "updated_at": "2026-05-26T14:39:51.897538+09:00"
 }
