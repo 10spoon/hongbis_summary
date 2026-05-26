@@ -1,6 +1,19 @@
 {
-  "post_count": 1130,
+  "post_count": 1131,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-27T08:27:39.354487+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T08:27:39.354487+09:00",
+      "link_count": 0,
+      "log_no": "224297546355",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224297546355",
+      "published_at": "2026-05-27T07:58:15+09:00",
+      "text_length": 0,
+      "title": "수학 미적분·기하 2027 대입 중요 변수 될까"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-27T00:25:52.254665+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-31T19:17:58+09:00",
       "text_length": 0,
       "title": "서초구 1:1 진로진학 컨설팅"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-31T19:36:21.143508+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-31T19:36:21.143508+09:00",
-      "link_count": 0,
-      "log_no": "224236032746",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236032746",
-      "published_at": "2026-03-31T19:10:48+09:00",
-      "text_length": 0,
-      "title": "중앙대학교 고1,2대상 입학설명회"
     }
   ],
-  "updated_at": "2026-05-27T00:25:52.254665+09:00"
+  "updated_at": "2026-05-27T08:27:39.354487+09:00"
 }
