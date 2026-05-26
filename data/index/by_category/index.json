@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-26T10:16:20.287116+09:00",
+        "link_count": 0,
+        "log_no": "224296530757",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296530757",
+        "published_at": "2026-05-26T09:47:32+09:00",
+        "text_length": 0,
+        "title": "발명의날기념 숏폼콘텐츠공모전"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-25T18:37:59.931002+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-25T18:37:59.931002+09:00",
@@ -5681,6 +5694,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-26T10:16:20.287116+09:00",
+        "link_count": 0,
+        "log_no": "224296517860",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224296517860",
+        "published_at": "2026-05-26T09:32:17+09:00",
+        "text_length": 0,
+        "title": "목동cms 6월개강프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
@@ -14471,5 +14497,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-26T00:23:46.289517+09:00"
+  "updated_at": "2026-05-26T10:16:20.287116+09:00"
 }

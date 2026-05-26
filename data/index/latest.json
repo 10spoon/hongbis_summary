@@ -1,6 +1,32 @@
 {
-  "post_count": 1111,
+  "post_count": 1113,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-26T10:16:20.287116+09:00",
+      "link_count": 0,
+      "log_no": "224296530757",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296530757",
+      "published_at": "2026-05-26T09:47:32+09:00",
+      "text_length": 0,
+      "title": "발명의날기념 숏폼콘텐츠공모전"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-26T10:16:20.287116+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-26T10:16:20.287116+09:00",
+      "link_count": 0,
+      "log_no": "224296517860",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224296517860",
+      "published_at": "2026-05-26T09:32:17+09:00",
+      "text_length": 0,
+      "title": "목동cms 6월개강프로그램"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-26T00:23:46.289517+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-03-30T17:35:22+09:00",
       "text_length": 462,
       "title": "목동시대인재 중3 과학 내신집중반 개강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-03-30T16:54:16.948956+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-30T17:48:24.911504+09:00",
-      "link_count": 1,
-      "log_no": "224234550963",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234550963",
-      "published_at": "2026-03-30T16:39:09+09:00",
-      "text_length": 251,
-      "title": "목동 독특;관점의발견 비문학 구조독해 기반 서논술형 전문수업"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-30T14:10:51.422632+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-03-30T14:10:51.422632+09:00",
-      "link_count": 0,
-      "log_no": "224234234764",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224234234764",
-      "published_at": "2026-03-30T12:47:01+09:00",
-      "text_length": 0,
-      "title": "국어의고수 단대부중2 국어내신"
     }
   ],
-  "updated_at": "2026-05-26T00:23:46.289517+09:00"
+  "updated_at": "2026-05-26T10:16:20.287116+09:00"
 }
