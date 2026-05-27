@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
+        "link_count": 0,
+        "log_no": "224297730517",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224297730517",
+        "published_at": "2026-05-27T11:21:30+09:00",
+        "text_length": 267,
+        "title": "2026년 제24회 한국지구과학올림피아드"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-26T22:22:15.076997+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-26T22:22:15.076997+09:00",
@@ -2128,6 +2141,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
+        "link_count": 0,
+        "log_no": "224297743628",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224297743628",
+        "published_at": "2026-05-27T11:32:53+09:00",
+        "text_length": 0,
+        "title": "대치세정 고1 여름방학 과목별 학습법 + 릴레이 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
+        "link_count": 0,
+        "log_no": "224297734234",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224297734234",
+        "published_at": "2026-05-27T11:24:39+09:00",
+        "text_length": 469,
+        "title": "PMG학원 중3 수학 프리메디(Pre-Med) 신설 개강 콘서트"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-05-26T22:22:15.076997+09:00",
@@ -11981,6 +12020,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
+        "link_count": 0,
+        "log_no": "224297681496",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224297681496",
+        "published_at": "2026-05-27T10:39:02+09:00",
+        "text_length": 0,
+        "title": "5등급제 첫 적용, 고1 내신 평균 3.5점 올랐다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-27T08:27:39.354487+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-27T08:27:39.354487+09:00",
@@ -14731,5 +14783,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-27T08:27:39.354487+09:00"
+  "updated_at": "2026-05-27T12:25:55.194106+09:00"
 }
