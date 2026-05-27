@@ -1,7 +1,72 @@
 {
   "key": "2026-05-27",
-  "post_count": 8,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-27T19:24:08.435134+09:00",
+      "link_count": 0,
+      "log_no": "224298218345",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298218345",
+      "published_at": "2026-05-27T19:04:37+09:00",
+      "text_length": 0,
+      "title": "[3년 전 오늘] KAIST, 서울대 동시 합격 비결은"
+    },
+    {
+      "category": "화장실명언",
+      "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-27T19:24:08.435134+09:00",
+      "link_count": 0,
+      "log_no": "224298217955",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298217955",
+      "published_at": "2026-05-27T19:04:10+09:00",
+      "text_length": 0,
+      "title": "[3년 전 오늘] 웬수 같은 자식들, 세상 날것들의 사춘기"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T19:24:08.435134+09:00",
+      "link_count": 0,
+      "log_no": "224298217119",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298217119",
+      "published_at": "2026-05-27T19:03:02+09:00",
+      "text_length": 0,
+      "title": "과기특성화대…AI단과대 신설로 400명 늘린다"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T19:24:08.435134+09:00",
+      "link_count": 0,
+      "log_no": "224298209362",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298209362",
+      "published_at": "2026-05-27T18:53:35+09:00",
+      "text_length": 641,
+      "title": "피오르에듀 고입 온라인 설명회 06.01"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T19:24:08.435134+09:00",
+      "link_count": 0,
+      "log_no": "224298206001",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298206001",
+      "published_at": "2026-05-27T18:49:24+09:00",
+      "text_length": 41,
+      "title": "어쩌다 그런 연구를?…‘괴짜 노벨상’ 이그노벨상 수상자 국내서 첫 대중강연"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-27T18:27:42.434864+09:00",
@@ -107,5 +172,5 @@
       "title": "수학 미적분·기하 2027 대입 중요 변수 될까"
     }
   ],
-  "updated_at": "2026-05-27T18:27:42.434864+09:00"
+  "updated_at": "2026-05-27T19:24:08.435134+09:00"
 }
