@@ -1,6 +1,19 @@
 {
-  "post_count": 1135,
+  "post_count": 1136,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-27T14:43:07.955480+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T14:43:07.955480+09:00",
+      "link_count": 0,
+      "log_no": "224297843031",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224297843031",
+      "published_at": "2026-05-27T13:12:36+09:00",
+      "text_length": 0,
+      "title": "입학하자마자 정장 입고 면접\"… 대학가 '학술 동아리' 열풍"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-31T22:35:34+09:00",
       "text_length": 0,
       "title": "[2년 전 오늘] 전교1등이 공개하는 중간고사 학습비법"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236233842",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236233842",
-      "published_at": "2026-03-31T22:34:08+09:00",
-      "text_length": 0,
-      "title": "대치mil어학원 레벨매칭무료초청수업"
     }
   ],
-  "updated_at": "2026-05-27T12:25:55.194106+09:00"
+  "updated_at": "2026-05-27T14:43:07.955480+09:00"
 }

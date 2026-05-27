@@ -12020,6 +12020,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-27T14:43:07.955480+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T14:43:07.955480+09:00",
+        "link_count": 0,
+        "log_no": "224297843031",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224297843031",
+        "published_at": "2026-05-27T13:12:36+09:00",
+        "text_length": 0,
+        "title": "입학하자마자 정장 입고 면접\"… 대학가 '학술 동아리' 열풍"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
@@ -14783,5 +14796,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-27T12:25:55.194106+09:00"
+  "updated_at": "2026-05-27T14:43:07.955480+09:00"
 }
