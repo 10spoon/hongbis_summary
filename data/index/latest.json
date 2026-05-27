@@ -1,6 +1,19 @@
 {
-  "post_count": 1149,
+  "post_count": 1150,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-28T02:24:09.353253+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T02:24:09.353253+09:00",
+      "link_count": 0,
+      "log_no": "224298481069",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298481069",
+      "published_at": "2026-05-28T00:39:29+09:00",
+      "text_length": 0,
+      "title": "고3 때 배울 과목까지 확정해야... 고교학점제 수강신청 내달 시작"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T17:54:15+09:00",
       "text_length": 0,
       "title": "한생연 자연학교캠프"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237258198",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237258198",
-      "published_at": "2026-04-01T17:51:06+09:00",
-      "text_length": 507,
-      "title": "극지연구소 청소년 북극연구체험단(21C 다산주니어"
     }
   ],
-  "updated_at": "2026-05-28T00:27:02.541827+09:00"
+  "updated_at": "2026-05-28T02:24:09.353253+09:00"
 }
