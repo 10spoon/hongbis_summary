@@ -1,7 +1,33 @@
 {
   "key": "2026-05-27",
-  "post_count": 14,
+  "post_count": 16,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-27T22:34:04.232085+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-27T22:34:04.232085+09:00",
+      "link_count": 0,
+      "log_no": "224298317956",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298317956",
+      "published_at": "2026-05-27T21:13:58+09:00",
+      "text_length": 0,
+      "title": "안보라학원 26년 6월~ 26년 8월 독서리스트"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-27T22:34:04.232085+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T22:34:04.232085+09:00",
+      "link_count": 0,
+      "log_no": "224298316620",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298316620",
+      "published_at": "2026-05-27T21:12:18+09:00",
+      "text_length": 499,
+      "title": "김영준국어 2028 대학입시 시행 계획 안내 및 예비 고1(現중3) 여름방학 커리큘럼 설명회"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-05-27T20:27:29.597593+09:00",
@@ -185,5 +211,5 @@
       "title": "수학 미적분·기하 2027 대입 중요 변수 될까"
     }
   ],
-  "updated_at": "2026-05-27T20:27:29.597593+09:00"
+  "updated_at": "2026-05-27T22:34:04.232085+09:00"
 }
