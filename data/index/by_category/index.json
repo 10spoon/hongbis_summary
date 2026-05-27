@@ -2143,6 +2143,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-27T16:44:35.935667+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T16:44:35.935667+09:00",
+        "link_count": 3,
+        "log_no": "224298067401",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298067401",
+        "published_at": "2026-05-27T16:33:25+09:00",
+        "text_length": 563,
+        "title": "두각K, 이종완T 민사고1 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
@@ -14796,5 +14809,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-27T14:43:07.955480+09:00"
+  "updated_at": "2026-05-27T16:44:35.935667+09:00"
 }

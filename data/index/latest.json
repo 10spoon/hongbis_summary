@@ -1,6 +1,19 @@
 {
-  "post_count": 1136,
+  "post_count": 1137,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-27T16:44:35.935667+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T16:44:35.935667+09:00",
+      "link_count": 3,
+      "log_no": "224298067401",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298067401",
+      "published_at": "2026-05-27T16:33:25+09:00",
+      "text_length": 563,
+      "title": "두각K, 이종완T 민사고1 간담회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-27T14:43:07.955480+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-31T22:42:30+09:00",
       "text_length": 0,
       "title": "황농문몰입아카데미 2026년 여름방학 몰입캠프"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236235367",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236235367",
-      "published_at": "2026-03-31T22:35:34+09:00",
-      "text_length": 0,
-      "title": "[2년 전 오늘] 전교1등이 공개하는 중간고사 학습비법"
     }
   ],
-  "updated_at": "2026-05-27T14:43:07.955480+09:00"
+  "updated_at": "2026-05-27T16:44:35.935667+09:00"
 }
