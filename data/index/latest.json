@@ -1,6 +1,45 @@
 {
-  "post_count": 1146,
+  "post_count": 1149,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+      "link_count": 0,
+      "log_no": "224298446470",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298446470",
+      "published_at": "2026-05-27T23:49:49+09:00",
+      "text_length": 0,
+      "title": "대치퍼스트 중등기말고사 과학시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+      "link_count": 0,
+      "log_no": "224298444099",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298444099",
+      "published_at": "2026-05-27T23:46:44+09:00",
+      "text_length": 0,
+      "title": "대치시대인재 고1 6월 단기특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+      "link_count": 0,
+      "log_no": "224298439674",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298439674",
+      "published_at": "2026-05-27T23:40:55+09:00",
+      "text_length": 0,
+      "title": "한국중학생화학대회(KMChC) 대회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-27T22:34:04.232085+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-01T17:51:06+09:00",
       "text_length": 507,
       "title": "극지연구소 청소년 북극연구체험단(21C 다산주니어"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237253263",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237253263",
-      "published_at": "2026-04-01T17:46:59+09:00",
-      "text_length": 271,
-      "title": "2026년 경복궁 집옥재(팔우정 포함) 작은 도서관 개방"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T14:55:58.091084+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T14:55:58.091084+09:00",
-      "link_count": 1,
-      "log_no": "224237005030",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237005030",
-      "published_at": "2026-04-01T14:35:22+09:00",
-      "text_length": 517,
-      "title": "예설라 대치 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-01T14:10:51.835228+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T14:10:51.835228+09:00",
-      "link_count": 0,
-      "log_no": "224236887515",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236887515",
-      "published_at": "2026-04-01T13:02:14+09:00",
-      "text_length": 0,
-      "title": "읽기'는 '자전거 타기'와 비슷… 문해력 향상 교육, 어릴수록 효과 커\""
     }
   ],
-  "updated_at": "2026-05-27T22:34:04.232085+09:00"
+  "updated_at": "2026-05-28T00:27:02.541827+09:00"
 }

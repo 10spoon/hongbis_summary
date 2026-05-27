@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+        "link_count": 0,
+        "log_no": "224298439674",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298439674",
+        "published_at": "2026-05-27T23:40:55+09:00",
+        "text_length": 0,
+        "title": "한국중학생화학대회(KMChC) 대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-27T12:25:55.194106+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-27T12:25:55.194106+09:00",
@@ -5902,6 +5915,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+        "link_count": 0,
+        "log_no": "224298446470",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298446470",
+        "published_at": "2026-05-27T23:49:49+09:00",
+        "text_length": 0,
+        "title": "대치퍼스트 중등기말고사 과학시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
+        "link_count": 0,
+        "log_no": "224298444099",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298444099",
+        "published_at": "2026-05-27T23:46:44+09:00",
+        "text_length": 0,
+        "title": "대치시대인재 고1 6월 단기특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-27T22:34:04.232085+09:00",
@@ -14926,5 +14965,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-27T22:34:04.232085+09:00"
+  "updated_at": "2026-05-28T00:27:02.541827+09:00"
 }
