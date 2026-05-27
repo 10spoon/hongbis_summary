@@ -1,7 +1,20 @@
 {
   "key": "2026-05-27",
-  "post_count": 7,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-27T18:27:42.434864+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T18:27:42.434864+09:00",
+      "link_count": 0,
+      "log_no": "224298106302",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298106302",
+      "published_at": "2026-05-27T17:07:39+09:00",
+      "text_length": 0,
+      "title": "대치세정 한강의 흐름T 고3 6평 분석 및 입시 전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-27T16:44:35.935667+09:00",
@@ -94,5 +107,5 @@
       "title": "수학 미적분·기하 2027 대입 중요 변수 될까"
     }
   ],
-  "updated_at": "2026-05-27T16:44:35.935667+09:00"
+  "updated_at": "2026-05-27T18:27:42.434864+09:00"
 }

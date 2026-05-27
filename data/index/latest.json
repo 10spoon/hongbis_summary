@@ -1,6 +1,19 @@
 {
-  "post_count": 1137,
+  "post_count": 1138,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-27T18:27:42.434864+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T18:27:42.434864+09:00",
+      "link_count": 0,
+      "log_no": "224298106302",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298106302",
+      "published_at": "2026-05-27T17:07:39+09:00",
+      "text_length": 0,
+      "title": "대치세정 한강의 흐름T 고3 6평 분석 및 입시 전략 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-27T16:44:35.935667+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-03-31T23:25:17+09:00",
       "text_length": 0,
       "title": "타블로, 딸 하루 유창한 영어 실력 만든 비법…\"이중언어 되길 원한다면, 기다려라\""
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-03-31T22:54:16.601295+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-03-31T22:54:16.601295+09:00",
-      "link_count": 0,
-      "log_no": "224236242756",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236242756",
-      "published_at": "2026-03-31T22:42:30+09:00",
-      "text_length": 0,
-      "title": "황농문몰입아카데미 2026년 여름방학 몰입캠프"
     }
   ],
-  "updated_at": "2026-05-27T16:44:35.935667+09:00"
+  "updated_at": "2026-05-27T18:27:42.434864+09:00"
 }
