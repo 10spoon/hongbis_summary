@@ -1,6 +1,19 @@
 {
-  "post_count": 1143,
+  "post_count": 1144,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-05-27T20:27:29.597593+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-27T20:27:29.597593+09:00",
+      "link_count": 0,
+      "log_no": "224298275458",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298275458",
+      "published_at": "2026-05-27T20:20:48+09:00",
+      "text_length": 0,
+      "title": "왜 10명 중 9명은 오른손잡이일까\"…이유 밝혀졌다"
+    },
     {
       "category": "선배들의공부방법모음",
       "first_seen_at": "2026-05-27T19:24:08.435134+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T09:22:49+09:00",
       "text_length": 48,
       "title": "우리동네 과학문화 장소"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T10:03:38.932321+09:00",
-      "image_count": 6,
-      "last_changed_at": "2026-04-01T10:03:38.932321+09:00",
-      "link_count": 0,
-      "log_no": "224236625445",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224236625445",
-      "published_at": "2026-04-01T09:19:40+09:00",
-      "text_length": 0,
-      "title": "서울시융합과학교육원 가족과 함께하는 과학 나들이, 해봄"
     }
   ],
-  "updated_at": "2026-05-27T19:24:08.435134+09:00"
+  "updated_at": "2026-05-27T20:27:29.597593+09:00"
 }

@@ -5655,6 +5655,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-05-27T20:27:29.597593+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-27T20:27:29.597593+09:00",
+        "link_count": 0,
+        "log_no": "224298275458",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298275458",
+        "published_at": "2026-05-27T20:20:48+09:00",
+        "text_length": 0,
+        "title": "왜 10명 중 9명은 오른손잡이일까\"…이유 밝혀졌다"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-05-22T00:25:40.459655+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-22T00:25:40.459655+09:00",
@@ -14887,5 +14900,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-27T19:24:08.435134+09:00"
+  "updated_at": "2026-05-27T20:27:29.597593+09:00"
 }
