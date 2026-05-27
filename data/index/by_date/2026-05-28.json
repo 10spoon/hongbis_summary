@@ -1,7 +1,20 @@
 {
   "key": "2026-05-28",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-28T08:30:02.253911+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T08:30:02.253911+09:00",
+      "link_count": 0,
+      "log_no": "224298631740",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298631740",
+      "published_at": "2026-05-28T07:51:09+09:00",
+      "text_length": 0,
+      "title": "애쓰지 않아도 돼” 말에 울컥…사찰로 향한 지친 마음들"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-28T02:24:09.353253+09:00",
@@ -16,5 +29,5 @@
       "title": "고3 때 배울 과목까지 확정해야... 고교학점제 수강신청 내달 시작"
     }
   ],
-  "updated_at": "2026-05-28T02:24:09.353253+09:00"
+  "updated_at": "2026-05-28T08:30:02.253911+09:00"
 }

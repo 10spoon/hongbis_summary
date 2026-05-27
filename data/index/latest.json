@@ -1,6 +1,19 @@
 {
-  "post_count": 1150,
+  "post_count": 1151,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-28T08:30:02.253911+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T08:30:02.253911+09:00",
+      "link_count": 0,
+      "log_no": "224298631740",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298631740",
+      "published_at": "2026-05-28T07:51:09+09:00",
+      "text_length": 0,
+      "title": "애쓰지 않아도 돼” 말에 울컥…사찰로 향한 지친 마음들"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-28T02:24:09.353253+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T18:01:35+09:00",
       "text_length": 0,
       "title": "서강대학교 입학설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237262016",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237262016",
-      "published_at": "2026-04-01T17:54:15+09:00",
-      "text_length": 0,
-      "title": "한생연 자연학교캠프"
     }
   ],
-  "updated_at": "2026-05-28T02:24:09.353253+09:00"
+  "updated_at": "2026-05-28T08:30:02.253911+09:00"
 }
