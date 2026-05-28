@@ -2182,6 +2182,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-28T22:35:48.893044+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T22:35:48.893044+09:00",
+        "link_count": 0,
+        "log_no": "224299444415",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299444415",
+        "published_at": "2026-05-28T22:31:00+09:00",
+        "text_length": 347,
+        "title": "목동미래영재 초6~중3 대상 미래영재 고등과학설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-28T22:35:48.893044+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T22:35:48.893044+09:00",
+        "link_count": 0,
+        "log_no": "224299442558",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299442558",
+        "published_at": "2026-05-28T22:28:40+09:00",
+        "text_length": 17,
+        "title": "MSC 멘토링수학 온라인 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-28T20:27:18.032371+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-28T20:27:18.032371+09:00",
@@ -12228,6 +12254,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-28T22:35:48.893044+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T22:35:48.893044+09:00",
+        "link_count": 0,
+        "log_no": "224299423992",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299423992",
+        "published_at": "2026-05-28T22:05:07+09:00",
+        "text_length": 0,
+        "title": "전직 의대 교수 “명문대·전문직, 결국 인플루언서 스펙 쌓기 될 것”"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-28T18:33:02.446999+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-28T18:33:02.446999+09:00",
@@ -15069,5 +15108,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-28T20:27:18.032371+09:00"
+  "updated_at": "2026-05-28T22:35:48.893044+09:00"
 }
