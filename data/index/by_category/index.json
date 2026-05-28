@@ -12189,6 +12189,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-28T18:33:02.446999+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T18:33:02.446999+09:00",
+        "link_count": 0,
+        "log_no": "224299219264",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299219264",
+        "published_at": "2026-05-28T17:44:53+09:00",
+        "text_length": 0,
+        "title": "다 맞은 문제집은 당장 버리세요!\"…수포자 탈출하는 진짜 수학 공부법"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-28T02:24:09.353253+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-28T02:24:09.353253+09:00",
@@ -15017,5 +15030,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-28T16:40:48.803428+09:00"
+  "updated_at": "2026-05-28T18:33:02.446999+09:00"
 }

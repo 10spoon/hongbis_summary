@@ -1,6 +1,19 @@
 {
-  "post_count": 1153,
+  "post_count": 1154,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-28T18:33:02.446999+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T18:33:02.446999+09:00",
+      "link_count": 0,
+      "log_no": "224299219264",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299219264",
+      "published_at": "2026-05-28T17:44:53+09:00",
+      "text_length": 0,
+      "title": "다 맞은 문제집은 당장 버리세요!\"…수포자 탈출하는 진짜 수학 공부법"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-28T16:40:48.803428+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T20:51:37+09:00",
       "text_length": 0,
       "title": "하루 7~8시간 자고 의대 6곳 합격\"...서울대 의대생의 공부법은"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-01T19:37:00.001379+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T19:37:00.001379+09:00",
-      "link_count": 0,
-      "log_no": "224237359513",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237359513",
-      "published_at": "2026-04-01T19:29:02+09:00",
-      "text_length": 0,
-      "title": "영유 가면 SKY 보장되나’ 미 펜실베니아 주립대 교수 대답은 “그렇지 않다”"
     }
   ],
-  "updated_at": "2026-05-28T16:40:48.803428+09:00"
+  "updated_at": "2026-05-28T18:33:02.446999+09:00"
 }
