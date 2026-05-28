@@ -2169,6 +2169,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-28T12:27:02.142287+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T12:27:02.142287+09:00",
+        "link_count": 1,
+        "log_no": "224298857127",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224298857127",
+        "published_at": "2026-05-28T12:06:10+09:00",
+        "text_length": 570,
+        "title": "강동 스마트캠퍼스 2회차 특강"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-27T22:34:04.232085+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-27T22:34:04.232085+09:00",
@@ -14991,5 +15004,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-28T08:30:02.253911+09:00"
+  "updated_at": "2026-05-28T12:27:02.142287+09:00"
 }

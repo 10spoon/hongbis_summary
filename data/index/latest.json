@@ -1,6 +1,19 @@
 {
-  "post_count": 1151,
+  "post_count": 1152,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-28T12:27:02.142287+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T12:27:02.142287+09:00",
+      "link_count": 1,
+      "log_no": "224298857127",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224298857127",
+      "published_at": "2026-05-28T12:06:10+09:00",
+      "text_length": 570,
+      "title": "강동 스마트캠퍼스 2회차 특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-28T08:30:02.253911+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T18:05:40+09:00",
       "text_length": 1037,
       "title": "2026년 서울과학기술대학교 전국 고교생 문예백일장"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237270706",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237270706",
-      "published_at": "2026-04-01T18:01:35+09:00",
-      "text_length": 0,
-      "title": "서강대학교 입학설명회"
     }
   ],
-  "updated_at": "2026-05-28T08:30:02.253911+09:00"
+  "updated_at": "2026-05-28T12:27:02.142287+09:00"
 }
