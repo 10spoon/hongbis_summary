@@ -1,7 +1,20 @@
 {
   "key": "2026-05-28",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-28T19:27:06.755828+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T19:27:06.755828+09:00",
+      "link_count": 3,
+      "log_no": "224299283716",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299283716",
+      "published_at": "2026-05-28T18:58:35+09:00",
+      "text_length": 717,
+      "title": "이도국어 '예비고1' 신규 등록"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-28T18:33:02.446999+09:00",
@@ -68,5 +81,5 @@
       "title": "고3 때 배울 과목까지 확정해야... 고교학점제 수강신청 내달 시작"
     }
   ],
-  "updated_at": "2026-05-28T18:33:02.446999+09:00"
+  "updated_at": "2026-05-28T19:27:06.755828+09:00"
 }
