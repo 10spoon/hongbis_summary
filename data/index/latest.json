@@ -1,6 +1,19 @@
 {
-  "post_count": 1152,
+  "post_count": 1153,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-28T16:40:48.803428+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T16:40:48.803428+09:00",
+      "link_count": 0,
+      "log_no": "224299082486",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299082486",
+      "published_at": "2026-05-28T15:43:14+09:00",
+      "text_length": 0,
+      "title": "교과서로 떠나는 여행"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-28T12:27:02.142287+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-01T19:29:02+09:00",
       "text_length": 0,
       "title": "영유 가면 SKY 보장되나’ 미 펜실베니아 주립대 교수 대답은 “그렇지 않다”"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-01T18:26:02.799316+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T18:26:02.799316+09:00",
-      "link_count": 0,
-      "log_no": "224237275211",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237275211",
-      "published_at": "2026-04-01T18:05:40+09:00",
-      "text_length": 1037,
-      "title": "2026년 서울과학기술대학교 전국 고교생 문예백일장"
     }
   ],
-  "updated_at": "2026-05-28T12:27:02.142287+09:00"
+  "updated_at": "2026-05-28T16:40:48.803428+09:00"
 }

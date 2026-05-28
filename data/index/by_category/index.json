@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-28T16:40:48.803428+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-28T16:40:48.803428+09:00",
+        "link_count": 0,
+        "log_no": "224299082486",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299082486",
+        "published_at": "2026-05-28T15:43:14+09:00",
+        "text_length": 0,
+        "title": "교과서로 떠나는 여행"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-28T00:27:02.541827+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-28T00:27:02.541827+09:00",
@@ -15004,5 +15017,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-28T12:27:02.142287+09:00"
+  "updated_at": "2026-05-28T16:40:48.803428+09:00"
 }
