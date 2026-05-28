@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-29T08:31:06.077670+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-29T08:31:06.077670+09:00",
+        "link_count": 0,
+        "log_no": "224299684635",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299684635",
+        "published_at": "2026-05-29T08:02:25+09:00",
+        "text_length": 1431,
+        "title": "고려대학교 본교방문 1:1 진로진학상담 운영"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
@@ -12319,6 +12332,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-29T08:31:06.077670+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T08:31:06.077670+09:00",
+        "link_count": 0,
+        "log_no": "224299682739",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299682739",
+        "published_at": "2026-05-29T07:58:50+09:00",
+        "text_length": 0,
+        "title": "LA는 67위..자녀키우기 좋은 도시 톱3 어디?"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-29T08:31:06.077670+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T08:31:06.077670+09:00",
+        "link_count": 0,
+        "log_no": "224299681226",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299681226",
+        "published_at": "2026-05-29T07:55:54+09:00",
+        "text_length": 0,
+        "title": "AI시대 컴퓨터공학 재주목"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
@@ -15186,5 +15225,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-29T00:27:44.206776+09:00"
+  "updated_at": "2026-05-29T08:31:06.077670+09:00"
 }
