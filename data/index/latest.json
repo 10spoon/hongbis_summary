@@ -1,6 +1,32 @@
 {
-  "post_count": 1155,
+  "post_count": 1157,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-28T20:27:18.032371+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-28T20:27:18.032371+09:00",
+      "link_count": 0,
+      "log_no": "224299332768",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299332768",
+      "published_at": "2026-05-28T20:06:28+09:00",
+      "text_length": 0,
+      "title": "스터디코드 입시설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-28T20:27:18.032371+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-28T20:27:18.032371+09:00",
+      "link_count": 0,
+      "log_no": "224299326685",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299326685",
+      "published_at": "2026-05-28T19:58:06+09:00",
+      "text_length": 935,
+      "title": "씨앤씨 6월 학부모 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-28T19:27:06.755828+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-01T22:40:11+09:00",
       "text_length": 0,
       "title": "대치새움 5월 기말전 단기 특강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-01T21:37:56.158265+09:00",
-      "link_count": 0,
-      "log_no": "224237476339",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237476339",
-      "published_at": "2026-04-01T21:32:21+09:00",
-      "text_length": 1240,
-      "title": "목동다원 나오미멘토초청 학부모 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-01T21:37:56.158265+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-01T21:37:56.158265+09:00",
-      "link_count": 0,
-      "log_no": "224237439288",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224237439288",
-      "published_at": "2026-04-01T20:54:23+09:00",
-      "text_length": 480,
-      "title": "다원과학 과학 대회” 준비 전략 설명회"
     }
   ],
-  "updated_at": "2026-05-28T19:27:06.755828+09:00"
+  "updated_at": "2026-05-28T20:27:18.032371+09:00"
 }
