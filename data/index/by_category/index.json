@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 0,
+        "log_no": "224299504419",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299504419",
+        "published_at": "2026-05-28T23:46:56+09:00",
+        "text_length": 0,
+        "title": "2026 서울교육대학교 과학 창의사고력대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-05-28T16:40:48.803428+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-28T16:40:48.803428+09:00",
@@ -2180,6 +2193,45 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 0,
+        "log_no": "224299515076",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299515076",
+        "published_at": "2026-05-29T00:00:09+09:00",
+        "text_length": 0,
+        "title": "두각학원 고2 썸머스쿨 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 0,
+        "log_no": "224299512068",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299512068",
+        "published_at": "2026-05-28T23:56:47+09:00",
+        "text_length": 274,
+        "title": "대치명인 2028 대입 개편과 교과 학습 전략, 우리 아이에게 유리한 고등학교 선택법"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 1,
+        "log_no": "224299478315",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299478315",
+        "published_at": "2026-05-28T23:13:19+09:00",
+        "text_length": 519,
+        "title": "SNT 예비고1 고교선택 2탄 \"단대, 중산편\""
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-05-28T22:35:48.893044+09:00",
@@ -5993,6 +6045,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 0,
+        "log_no": "224299491225",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299491225",
+        "published_at": "2026-05-28T23:29:44+09:00",
+        "text_length": 0,
+        "title": "대치동 와이지 과학 영재고 대비 / 화학12 기본기 문제풀이 추가 개설"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-28T19:27:06.755828+09:00",
@@ -12254,6 +12319,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
+        "link_count": 0,
+        "log_no": "224299474499",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224299474499",
+        "published_at": "2026-05-28T23:08:29+09:00",
+        "text_length": 0,
+        "title": "[지방고가 살아남는 법] 표준편차는 낮추고 원점수는 높이고"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-28T22:35:48.893044+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-28T22:35:48.893044+09:00",
@@ -15108,5 +15186,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-28T22:35:48.893044+09:00"
+  "updated_at": "2026-05-29T00:27:44.206776+09:00"
 }
