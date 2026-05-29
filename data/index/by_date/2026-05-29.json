@@ -1,7 +1,46 @@
 {
   "key": "2026-05-29",
-  "post_count": 10,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-29T22:29:10.311312+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T22:29:10.311312+09:00",
+      "link_count": 1,
+      "log_no": "224300418751",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300418751",
+      "published_at": "2026-05-29T21:33:59+09:00",
+      "text_length": 890,
+      "title": "새움학원 26년 중3 학과+입시설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-29T22:29:10.311312+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-29T22:29:10.311312+09:00",
+      "link_count": 0,
+      "log_no": "224300417478",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300417478",
+      "published_at": "2026-05-29T21:31:57+09:00",
+      "text_length": 0,
+      "title": "경암bio youth camp"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-29T22:29:10.311312+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T22:29:10.311312+09:00",
+      "link_count": 0,
+      "log_no": "224300413555",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300413555",
+      "published_at": "2026-05-29T21:26:08+09:00",
+      "text_length": 0,
+      "title": "학군지 학부모의 네 가지 후회… 아이를 만드는 건 학원 아닌 부모"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
@@ -133,5 +172,5 @@
       "title": "두각학원 고2 썸머스쿨 설명회"
     }
   ],
-  "updated_at": "2026-05-29T16:38:50.908757+09:00"
+  "updated_at": "2026-05-29T22:29:10.311312+09:00"
 }
