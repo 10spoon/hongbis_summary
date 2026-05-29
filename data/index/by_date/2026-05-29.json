@@ -1,7 +1,85 @@
 {
   "key": "2026-05-29",
-  "post_count": 13,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300518091",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300518091",
+      "published_at": "2026-05-29T23:57:51+09:00",
+      "text_length": 901,
+      "title": "개념상상 대치본원 6월 24일 예비중3 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300512834",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300512834",
+      "published_at": "2026-05-29T23:50:43+09:00",
+      "text_length": 0,
+      "title": "한성과고 입학설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300510154",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300510154",
+      "published_at": "2026-05-29T23:46:47+09:00",
+      "text_length": 0,
+      "title": "2027. 세종과학고등학교 입학설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300494610",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300494610",
+      "published_at": "2026-05-29T23:24:03+09:00",
+      "text_length": 0,
+      "title": "명덕외고 중학생 진로탐색교실"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300492740",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300492740",
+      "published_at": "2026-05-29T23:21:24+09:00",
+      "text_length": 0,
+      "title": "고3을 위한 학종 기초 가이드: 학생부 종합전형의 내신 평가"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
+      "link_count": 0,
+      "log_no": "224300491979",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300491979",
+      "published_at": "2026-05-29T23:20:20+09:00",
+      "text_length": 0,
+      "title": "포스텍 이공계학과대탐험"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-29T22:29:10.311312+09:00",
@@ -172,5 +250,5 @@
       "title": "두각학원 고2 썸머스쿨 설명회"
     }
   ],
-  "updated_at": "2026-05-29T22:29:10.311312+09:00"
+  "updated_at": "2026-05-30T00:25:53.677607+09:00"
 }
