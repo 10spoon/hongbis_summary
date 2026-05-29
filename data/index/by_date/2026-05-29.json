@@ -1,7 +1,20 @@
 {
   "key": "2026-05-29",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-29T12:25:35.133780+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T12:25:35.133780+09:00",
+      "link_count": 0,
+      "log_no": "224299847576",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299847576",
+      "published_at": "2026-05-29T11:11:25+09:00",
+      "text_length": 0,
+      "title": "초4에 중학교 3년 과정 끝\"...대치동 학원도 '더 큰' 곳으로 몰린다"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-05-29T08:31:06.077670+09:00",
@@ -55,5 +68,5 @@
       "title": "두각학원 고2 썸머스쿨 설명회"
     }
   ],
-  "updated_at": "2026-05-29T08:31:06.077670+09:00"
+  "updated_at": "2026-05-29T12:25:35.133780+09:00"
 }
