@@ -2208,6 +2208,45 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+        "link_count": 1,
+        "log_no": "224300155024",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224300155024",
+        "published_at": "2026-05-29T16:09:47+09:00",
+        "text_length": 770,
+        "title": "대치위더스 현)중3. 전)17년간 대원외고 입학담당쌤의 대원,한영외고 합격 하는 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+        "link_count": 1,
+        "log_no": "224300086160",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224300086160",
+        "published_at": "2026-05-29T15:08:41+09:00",
+        "text_length": 621,
+        "title": "크레마 수학 반포관 개원설명회(5탄) 4개 전국자사고 분석"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+        "link_count": 0,
+        "log_no": "224300081859",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224300081859",
+        "published_at": "2026-05-29T15:04:59+09:00",
+        "text_length": 0,
+        "title": "대치mexx 손주은 회장 | 내신vs수능, 판단 기준"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-29T00:27:44.206776+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-29T00:27:44.206776+09:00",
@@ -12345,6 +12384,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+        "link_count": 0,
+        "log_no": "224300164847",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224300164847",
+        "published_at": "2026-05-29T16:18:54+09:00",
+        "text_length": 0,
+        "title": "의대 불리해도 영재학교로”…‘삼전닉스’ 열풍에 지원자 역대최고"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-29T12:25:35.133780+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-29T12:25:35.133780+09:00",
@@ -15251,5 +15303,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-29T14:42:15.736457+09:00"
+  "updated_at": "2026-05-29T16:38:50.908757+09:00"
 }

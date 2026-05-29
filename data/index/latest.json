@@ -1,6 +1,58 @@
 {
-  "post_count": 1171,
+  "post_count": 1175,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+      "link_count": 0,
+      "log_no": "224300164847",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300164847",
+      "published_at": "2026-05-29T16:18:54+09:00",
+      "text_length": 0,
+      "title": "의대 불리해도 영재학교로”…‘삼전닉스’ 열풍에 지원자 역대최고"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+      "link_count": 1,
+      "log_no": "224300155024",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300155024",
+      "published_at": "2026-05-29T16:09:47+09:00",
+      "text_length": 770,
+      "title": "대치위더스 현)중3. 전)17년간 대원외고 입학담당쌤의 대원,한영외고 합격 하는 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+      "link_count": 1,
+      "log_no": "224300086160",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300086160",
+      "published_at": "2026-05-29T15:08:41+09:00",
+      "text_length": 621,
+      "title": "크레마 수학 반포관 개원설명회(5탄) 4개 전국자사고 분석"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-29T16:38:50.908757+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-29T16:38:50.908757+09:00",
+      "link_count": 0,
+      "log_no": "224300081859",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300081859",
+      "published_at": "2026-05-29T15:04:59+09:00",
+      "text_length": 0,
+      "title": "대치mexx 손주은 회장 | 내신vs수능, 판단 기준"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-29T14:42:15.736457+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-02T17:20:51+09:00",
       "text_length": 2054,
       "title": "2026학년도 2차 서울대학교 공과대학 멘토링 프로그램 『공대 톡톡(Talk Talk)』 개최"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
-      "link_count": 1,
-      "log_no": "224238474314",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238474314",
-      "published_at": "2026-04-02T17:03:13+09:00",
-      "text_length": 785,
-      "title": "씨앤씨 영재입시센터 과고대비반설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-02T17:36:16.475697+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T17:36:16.475697+09:00",
-      "link_count": 2,
-      "log_no": "224238460825",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238460825",
-      "published_at": "2026-04-02T16:52:42+09:00",
-      "text_length": 763,
-      "title": "반포 시대인재 2027 고3 이과 입시전략 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
-      "link_count": 0,
-      "log_no": "224238159677",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238159677",
-      "published_at": "2026-04-02T12:58:14+09:00",
-      "text_length": 0,
-      "title": "경희대 의약학계열입학설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
-      "link_count": 0,
-      "log_no": "224238156309",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238156309",
-      "published_at": "2026-04-02T12:54:59+09:00",
-      "text_length": 109,
-      "title": "공감학원 화학1 김희진t"
     }
   ],
-  "updated_at": "2026-05-29T14:42:15.736457+09:00"
+  "updated_at": "2026-05-29T16:38:50.908757+09:00"
 }
