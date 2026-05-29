@@ -1,7 +1,20 @@
 {
   "key": "2026-05-29",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-29T14:42:15.736457+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-29T14:42:15.736457+09:00",
+      "link_count": 1,
+      "log_no": "224299953086",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299953086",
+      "published_at": "2026-05-29T13:00:07+09:00",
+      "text_length": 1122,
+      "title": "목동 시대인재 현 중3 (예비고1) 여름방학 강좌"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-29T12:25:35.133780+09:00",
@@ -68,5 +81,5 @@
       "title": "두각학원 고2 썸머스쿨 설명회"
     }
   ],
-  "updated_at": "2026-05-29T12:25:35.133780+09:00"
+  "updated_at": "2026-05-29T14:42:15.736457+09:00"
 }

@@ -1,6 +1,19 @@
 {
-  "post_count": 1170,
+  "post_count": 1171,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-29T14:42:15.736457+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-05-29T14:42:15.736457+09:00",
+      "link_count": 1,
+      "log_no": "224299953086",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224299953086",
+      "published_at": "2026-05-29T13:00:07+09:00",
+      "text_length": 1122,
+      "title": "목동 시대인재 현 중3 (예비고1) 여름방학 강좌"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-29T12:25:35.133780+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-02T12:54:59+09:00",
       "text_length": 109,
       "title": "공감학원 화학1 김희진t"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-02T13:57:09.957170+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-02T13:57:09.957170+09:00",
-      "link_count": 0,
-      "log_no": "224238141336",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238141336",
-      "published_at": "2026-04-02T12:41:07+09:00",
-      "text_length": 0,
-      "title": "한성과학고등학교 발명교육센터"
     }
   ],
-  "updated_at": "2026-05-29T12:25:35.133780+09:00"
+  "updated_at": "2026-05-29T14:42:15.736457+09:00"
 }
