@@ -1,6 +1,45 @@
 {
-  "post_count": 1192,
+  "post_count": 1195,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 0,
+      "log_no": "224300982863",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300982863",
+      "published_at": "2026-05-30T16:11:43+09:00",
+      "text_length": 0,
+      "title": "보람과학 학부모설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 2,
+      "log_no": "224300980251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300980251",
+      "published_at": "2026-05-30T16:07:47+09:00",
+      "text_length": 799,
+      "title": "백인대장 예비고1 S반 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 1,
+      "log_no": "224300936313",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300936313",
+      "published_at": "2026-05-30T15:02:24+09:00",
+      "text_length": 1132,
+      "title": "목동시대인재중등관 6월 단기특강 및 수학 정규반"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-03T19:12:57+09:00",
       "text_length": 0,
       "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239839050",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239839050",
-      "published_at": "2026-04-03T18:48:09+09:00",
-      "text_length": 0,
-      "title": "이대로는 못 버텨\" 남고·여고가 사라진다…무슨 일이"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239829926",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239829926",
-      "published_at": "2026-04-03T18:38:09+09:00",
-      "text_length": 0,
-      "title": "내신 1등급 학생의 비결…“학원보다 자습 우선, 오답 분석 철저히"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 0,
-      "log_no": "224239684540",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239684540",
-      "published_at": "2026-04-03T16:33:08+09:00",
-      "text_length": 0,
-      "title": "두각학원 대학에서 Pick 하는 생기부 만들기"
     }
   ],
-  "updated_at": "2026-05-30T14:33:08.261793+09:00"
+  "updated_at": "2026-05-30T16:18:08.478978+09:00"
 }

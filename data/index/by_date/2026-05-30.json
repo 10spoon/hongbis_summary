@@ -1,7 +1,46 @@
 {
   "key": "2026-05-30",
-  "post_count": 8,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 0,
+      "log_no": "224300982863",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300982863",
+      "published_at": "2026-05-30T16:11:43+09:00",
+      "text_length": 0,
+      "title": "보람과학 학부모설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 2,
+      "log_no": "224300980251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300980251",
+      "published_at": "2026-05-30T16:07:47+09:00",
+      "text_length": 799,
+      "title": "백인대장 예비고1 S반 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T16:18:08.478978+09:00",
+      "link_count": 1,
+      "log_no": "224300936313",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300936313",
+      "published_at": "2026-05-30T15:02:24+09:00",
+      "text_length": 1132,
+      "title": "목동시대인재중등관 6월 단기특강 및 수학 정규반"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
@@ -107,5 +146,5 @@
       "title": "인천진산과고 2027학년도 신입생 입학전형 설명회 및 사전신청 안내"
     }
   ],
-  "updated_at": "2026-05-30T14:33:08.261793+09:00"
+  "updated_at": "2026-05-30T16:18:08.478978+09:00"
 }
