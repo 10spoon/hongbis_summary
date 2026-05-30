@@ -1,7 +1,33 @@
 {
   "key": "2026-05-30",
-  "post_count": 12,
+  "post_count": 14,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-30T18:55:42.541932+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T18:55:42.541932+09:00",
+      "link_count": 0,
+      "log_no": "224301081576",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301081576",
+      "published_at": "2026-05-30T18:48:45+09:00",
+      "text_length": 0,
+      "title": "문해력 해법될까… 다시 떠오른 ‘한자교육’ 논쟁"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T18:55:42.541932+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T18:55:42.541932+09:00",
+      "link_count": 1,
+      "log_no": "224301075505",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301075505",
+      "published_at": "2026-05-30T18:38:46+09:00",
+      "text_length": 881,
+      "title": "목동예섬 엄태욱T 예비고1 고등국어 정규반 시즌1 개강"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-30T18:03:47.502247+09:00",
@@ -159,5 +185,5 @@
       "title": "인천진산과고 2027학년도 신입생 입학전형 설명회 및 사전신청 안내"
     }
   ],
-  "updated_at": "2026-05-30T18:03:47.502247+09:00"
+  "updated_at": "2026-05-30T18:55:42.541932+09:00"
 }
