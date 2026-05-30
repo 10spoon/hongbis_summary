@@ -1,6 +1,32 @@
 {
-  "post_count": 1185,
+  "post_count": 1187,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T12:25:06.076196+09:00",
+      "link_count": 0,
+      "log_no": "224300824361",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300824361",
+      "published_at": "2026-05-30T12:15:04+09:00",
+      "text_length": 0,
+      "title": "50대, 외모 관리는 미용 아닌 자존감 관리입니다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T12:25:06.076196+09:00",
+      "link_count": 0,
+      "log_no": "224300762438",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300762438",
+      "published_at": "2026-05-30T10:50:59+09:00",
+      "text_length": 0,
+      "title": "수능 영향력 70%\"…고교학점제 첫 대입, 교육과정 취지와 충돌 지적"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-03T13:03:17+09:00",
       "text_length": 0,
       "title": "송암스페이스센터 영어우주과학캠프"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-03T09:57:28.407421+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-03T09:57:28.407421+09:00",
-      "link_count": 0,
-      "log_no": "224239147357",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239147357",
-      "published_at": "2026-04-03T09:07:14+09:00",
-      "text_length": 0,
-      "title": "공부 안 하던 아이를 움직인 뜻밖의 방법"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-03T00:37:25.843023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T00:37:25.843023+09:00",
-      "link_count": 0,
-      "log_no": "224238883959",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224238883959",
-      "published_at": "2026-04-03T00:06:39+09:00",
-      "text_length": 0,
-      "title": "서울 시내 5개 대학 2028 입시 방향 분석해보니"
     }
   ],
-  "updated_at": "2026-05-30T00:25:53.677607+09:00"
+  "updated_at": "2026-05-30T12:25:06.076196+09:00"
 }

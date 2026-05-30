@@ -1,7 +1,33 @@
 {
   "key": "2026-05-30",
-  "post_count": 1,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T12:25:06.076196+09:00",
+      "link_count": 0,
+      "log_no": "224300824361",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300824361",
+      "published_at": "2026-05-30T12:15:04+09:00",
+      "text_length": 0,
+      "title": "50대, 외모 관리는 미용 아닌 자존감 관리입니다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T12:25:06.076196+09:00",
+      "link_count": 0,
+      "log_no": "224300762438",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300762438",
+      "published_at": "2026-05-30T10:50:59+09:00",
+      "text_length": 0,
+      "title": "수능 영향력 70%\"…고교학점제 첫 대입, 교육과정 취지와 충돌 지적"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
@@ -16,5 +42,5 @@
       "title": "인천진산과고 2027학년도 신입생 입학전형 설명회 및 사전신청 안내"
     }
   ],
-  "updated_at": "2026-05-30T00:25:53.677607+09:00"
+  "updated_at": "2026-05-30T12:25:06.076196+09:00"
 }
