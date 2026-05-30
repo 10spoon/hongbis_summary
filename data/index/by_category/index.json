@@ -11210,6 +11210,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-31T01:36:09.996728+09:00",
+        "link_count": 0,
+        "log_no": "224301322101",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301322101",
+        "published_at": "2026-05-31T01:28:15+09:00",
+        "text_length": 0,
+        "title": "췌장암, 항암 없이 완치”…‘이부진 요리스승’ 89세의 장수 식단"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
@@ -12798,6 +12811,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-31T01:36:09.996728+09:00",
+        "link_count": 0,
+        "log_no": "224301304102",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301304102",
+        "published_at": "2026-05-31T00:47:59+09:00",
+        "text_length": 0,
+        "title": "최태원 “AI 시대에서는 수학자가 의사보다 훨씬 돈 많이 벌 수도”"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-05-30T18:55:42.541932+09:00",
@@ -15597,6 +15623,19 @@
     "함께맘북클럽": [
       {
         "category": "함께맘북클럽",
+        "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-31T01:36:09.996728+09:00",
+        "link_count": 0,
+        "log_no": "224301311565",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301311565",
+        "published_at": "2026-05-31T01:04:06+09:00",
+        "text_length": 251,
+        "title": "함께맘북클럽 2026년 6월 그래서고등학교를어디로가야할까요?"
+      },
+      {
+        "category": "함께맘북클럽",
         "first_seen_at": "2026-05-12T00:24:51.576160+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-12T00:24:51.576160+09:00",
@@ -15758,5 +15797,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-31T00:42:34.103762+09:00"
+  "updated_at": "2026-05-31T01:36:09.996728+09:00"
 }
