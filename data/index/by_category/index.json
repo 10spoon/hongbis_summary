@@ -6307,6 +6307,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-31T00:42:34.103762+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-31T00:42:34.103762+09:00",
+        "link_count": 0,
+        "log_no": "224301274531",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301274531",
+        "published_at": "2026-05-30T23:58:12+09:00",
+        "text_length": 0,
+        "title": "한생연 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-31T00:42:34.103762+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-31T00:42:34.103762+09:00",
+        "link_count": 0,
+        "log_no": "224301269438",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301269438",
+        "published_at": "2026-05-30T23:51:15+09:00",
+        "text_length": 0,
+        "title": "훈련도감국어 1학기 기말고사시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
@@ -15732,5 +15758,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-30T23:47:21.259203+09:00"
+  "updated_at": "2026-05-31T00:42:34.103762+09:00"
 }
