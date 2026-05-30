@@ -1,7 +1,72 @@
 {
   "key": "2026-05-30",
-  "post_count": 3,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300913119",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300913119",
+      "published_at": "2026-05-30T14:26:41+09:00",
+      "text_length": 0,
+      "title": "내신 약해도 'SKY' 노린다…논술전형 합격 전략은?"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300878834",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300878834",
+      "published_at": "2026-05-30T13:32:09+09:00",
+      "text_length": 0,
+      "title": "대치원수학 6,7,8개강일정"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300876565",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300876565",
+      "published_at": "2026-05-30T13:28:21+09:00",
+      "text_length": 0,
+      "title": "택학원 기말고사 시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300874557",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300874557",
+      "published_at": "2026-05-30T13:25:02+09:00",
+      "text_length": 0,
+      "title": "목동세이영어 수업시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300840656",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300840656",
+      "published_at": "2026-05-30T12:34:35+09:00",
+      "text_length": 642,
+      "title": "아드폰테스 예비 고1 전략 설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
@@ -42,5 +107,5 @@
       "title": "인천진산과고 2027학년도 신입생 입학전형 설명회 및 사전신청 안내"
     }
   ],
-  "updated_at": "2026-05-30T12:25:06.076196+09:00"
+  "updated_at": "2026-05-30T14:33:08.261793+09:00"
 }

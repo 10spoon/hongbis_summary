@@ -1,6 +1,71 @@
 {
-  "post_count": 1187,
+  "post_count": 1192,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300913119",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300913119",
+      "published_at": "2026-05-30T14:26:41+09:00",
+      "text_length": 0,
+      "title": "내신 약해도 'SKY' 노린다…논술전형 합격 전략은?"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300878834",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300878834",
+      "published_at": "2026-05-30T13:32:09+09:00",
+      "text_length": 0,
+      "title": "대치원수학 6,7,8개강일정"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300876565",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300876565",
+      "published_at": "2026-05-30T13:28:21+09:00",
+      "text_length": 0,
+      "title": "택학원 기말고사 시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300874557",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300874557",
+      "published_at": "2026-05-30T13:25:02+09:00",
+      "text_length": 0,
+      "title": "목동세이영어 수업시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T14:33:08.261793+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T14:33:08.261793+09:00",
+      "link_count": 0,
+      "log_no": "224300840656",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224300840656",
+      "published_at": "2026-05-30T12:34:35+09:00",
+      "text_length": 642,
+      "title": "아드폰테스 예비 고1 전략 설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-30T12:25:06.076196+09:00",
@@ -12935,72 +13000,7 @@
       "published_at": "2026-04-03T16:33:08+09:00",
       "text_length": 0,
       "title": "두각학원 대학에서 Pick 하는 생기부 만들기"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 6,
-      "log_no": "224239654936",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239654936",
-      "published_at": "2026-04-03T16:09:56+09:00",
-      "text_length": 1231,
-      "title": "유웨이 대치센터 4월 합격하는 생기부 설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T16:41:41.645972+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 0,
-      "log_no": "224239634996",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239634996",
-      "published_at": "2026-04-03T15:55:37+09:00",
-      "text_length": 0,
-      "title": "대한민국학생창의력챔피언대회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-03T15:42:14.053159+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T15:42:14.053159+09:00",
-      "link_count": 2,
-      "log_no": "224239579447",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239579447",
-      "published_at": "2026-04-03T15:14:31+09:00",
-      "text_length": 752,
-      "title": "시대인재 2027 고3 문과 입시전략 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-03T16:41:41.645972+09:00",
-      "link_count": 2,
-      "log_no": "224239462200",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239462200",
-      "published_at": "2026-04-03T13:40:13+09:00",
-      "text_length": 939,
-      "title": "대치독수리의대관 26 언어와매체 만점배출 류성훈T 언어와매체 5회특강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-03T13:57:48.967947+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-03T13:57:48.967947+09:00",
-      "link_count": 0,
-      "log_no": "224239419261",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239419261",
-      "published_at": "2026-04-03T13:03:17+09:00",
-      "text_length": 0,
-      "title": "송암스페이스센터 영어우주과학캠프"
     }
   ],
-  "updated_at": "2026-05-30T12:25:06.076196+09:00"
+  "updated_at": "2026-05-30T14:33:08.261793+09:00"
 }
