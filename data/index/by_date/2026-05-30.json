@@ -1,7 +1,98 @@
 {
   "key": "2026-05-30",
-  "post_count": 15,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301166882",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301166882",
+      "published_at": "2026-05-30T21:16:57+09:00",
+      "text_length": 0,
+      "title": "가인학원 6월설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301165415",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301165415",
+      "published_at": "2026-05-30T21:14:32+09:00",
+      "text_length": 0,
+      "title": "러셀목동 중3~고2 여름방학 학습전략 및 수업 선택 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301163745",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301163745",
+      "published_at": "2026-05-30T21:11:44+09:00",
+      "text_length": 0,
+      "title": "두각k수학 기말후 방학전 틈새특강"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301162056",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301162056",
+      "published_at": "2026-05-30T21:08:53+09:00",
+      "text_length": 0,
+      "title": "남이 잘 되기를 빌어보라”...삶이 짜증날 때 기분 전환하는 요령"
+    },
+    {
+      "category": "선배들의공부방법모음",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301154357",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301154357",
+      "published_at": "2026-05-30T20:56:15+09:00",
+      "text_length": 0,
+      "title": "[2년 전 오늘] 서울대 의대생이 말해주는 과목별 내신대비 루틴"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 0,
+      "log_no": "224301152018",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301152018",
+      "published_at": "2026-05-30T20:52:22+09:00",
+      "text_length": 0,
+      "title": "대찬학원 예비고1 수학 여름방학 정규 시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
+      "link_count": 3,
+      "log_no": "224301149351",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301149351",
+      "published_at": "2026-05-30T20:47:53+09:00",
+      "text_length": 979,
+      "title": "MEXX 2026 고2 썸머스쿨 강좌"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-30T19:51:22.288658+09:00",
@@ -198,5 +289,5 @@
       "title": "인천진산과고 2027학년도 신입생 입학전형 설명회 및 사전신청 안내"
     }
   ],
-  "updated_at": "2026-05-30T19:51:22.288658+09:00"
+  "updated_at": "2026-05-30T21:42:43.726372+09:00"
 }
