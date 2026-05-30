@@ -1,6 +1,19 @@
 {
-  "post_count": 1195,
+  "post_count": 1196,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T18:03:47.502247+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-05-30T18:03:47.502247+09:00",
+      "link_count": 0,
+      "log_no": "224301053824",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301053824",
+      "published_at": "2026-05-30T18:02:31+09:00",
+      "text_length": 0,
+      "title": "이도국어 고1 시간표 & 커리큘럼"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-30T16:18:08.478978+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-03T20:10:20+09:00",
       "text_length": 0,
       "title": "제7회. 전국문해력대상"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-03T19:29:53.223830+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-03T19:29:53.223830+09:00",
-      "link_count": 0,
-      "log_no": "224239861348",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224239861348",
-      "published_at": "2026-04-03T19:12:57+09:00",
-      "text_length": 0,
-      "title": "제이에스 747 여름방학 집중 프로그램으로 성적 UP"
     }
   ],
-  "updated_at": "2026-05-30T16:18:08.478978+09:00"
+  "updated_at": "2026-05-30T18:03:47.502247+09:00"
 }
