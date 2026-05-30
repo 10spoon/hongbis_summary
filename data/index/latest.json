@@ -1,6 +1,32 @@
 {
-  "post_count": 1206,
+  "post_count": 1208,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
+      "link_count": 0,
+      "log_no": "224301260968",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301260968",
+      "published_at": "2026-05-30T23:39:07+09:00",
+      "text_length": 0,
+      "title": "내신의 중요성과 변환점"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
+      "link_count": 0,
+      "log_no": "224301260561",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301260561",
+      "published_at": "2026-05-30T23:38:31+09:00",
+      "text_length": 0,
+      "title": "서강대미래교육원 AI 스토리영상 부트캠프: AI 인생극장 2.0"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-04T14:17:46+09:00",
       "text_length": 94,
       "title": "대치동 유일수학 강민진T 중등 개별 맞춤 수업"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-04T13:54:26.005896+09:00",
-      "link_count": 0,
-      "log_no": "224240542425",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240542425",
-      "published_at": "2026-04-04T13:04:18+09:00",
-      "text_length": 0,
-      "title": "제이프렙어학원 4월 입학시험"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-04T13:54:26.005896+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-04T13:54:26.005896+09:00",
-      "link_count": 0,
-      "log_no": "224240535244",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240535244",
-      "published_at": "2026-04-04T12:54:28+09:00",
-      "text_length": 0,
-      "title": "가장 친절하게 대해야 할 사람은 가족” 장항준&김은희 부부"
     }
   ],
-  "updated_at": "2026-05-30T21:42:43.726372+09:00"
+  "updated_at": "2026-05-30T23:47:21.259203+09:00"
 }

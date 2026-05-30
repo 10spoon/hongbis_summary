@@ -6307,6 +6307,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
+        "link_count": 0,
+        "log_no": "224301260968",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301260968",
+        "published_at": "2026-05-30T23:39:07+09:00",
+        "text_length": 0,
+        "title": "내신의 중요성과 변환점"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
@@ -11171,6 +11184,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-30T23:47:21.259203+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-30T23:47:21.259203+09:00",
+        "link_count": 0,
+        "log_no": "224301260561",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301260561",
+        "published_at": "2026-05-30T23:38:31+09:00",
+        "text_length": 0,
+        "title": "서강대미래교육원 AI 스토리영상 부트캠프: AI 인생극장 2.0"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
@@ -15706,5 +15732,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-30T21:42:43.726372+09:00"
+  "updated_at": "2026-05-30T23:47:21.259203+09:00"
 }
