@@ -1,6 +1,19 @@
 {
-  "post_count": 1219,
+  "post_count": 1220,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-31T21:46:55.220985+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T21:46:55.220985+09:00",
+      "link_count": 0,
+      "log_no": "224301972217",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301972217",
+      "published_at": "2026-05-31T21:40:32+09:00",
+      "text_length": 0,
+      "title": "수능 국수탐 1등급대 3명 중 2명은 졸업생…\"N수생 강세 변수\""
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-05T12:49:52+09:00",
       "text_length": 0,
       "title": "이공계 문턱 낮아졌다…전국 174개 대학 중 서울대만 '미적분·기하' 본다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T14:02:46.650590+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-05T14:02:46.650590+09:00",
-      "link_count": 0,
-      "log_no": "224241411680",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241411680",
-      "published_at": "2026-04-05T12:34:03+09:00",
-      "text_length": 0,
-      "title": "리얼수학 2026 미국수학 여름특강"
     }
   ],
-  "updated_at": "2026-05-31T18:20:43.001315+09:00"
+  "updated_at": "2026-05-31T21:46:55.220985+09:00"
 }

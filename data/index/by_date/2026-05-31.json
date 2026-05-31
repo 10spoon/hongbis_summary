@@ -1,7 +1,20 @@
 {
   "key": "2026-05-31",
-  "post_count": 9,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-31T21:46:55.220985+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T21:46:55.220985+09:00",
+      "link_count": 0,
+      "log_no": "224301972217",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301972217",
+      "published_at": "2026-05-31T21:40:32+09:00",
+      "text_length": 0,
+      "title": "수능 국수탐 1등급대 3명 중 2명은 졸업생…\"N수생 강세 변수\""
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
@@ -120,5 +133,5 @@
       "title": "최태원 “AI 시대에서는 수학자가 의사보다 훨씬 돈 많이 벌 수도”"
     }
   ],
-  "updated_at": "2026-05-31T18:20:43.001315+09:00"
+  "updated_at": "2026-05-31T21:46:55.220985+09:00"
 }
