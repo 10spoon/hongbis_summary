@@ -1,7 +1,20 @@
 {
   "key": "2026-06-01",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-01T01:40:32.334484+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-06-01T01:40:32.334484+09:00",
+      "link_count": 0,
+      "log_no": "224302163125",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302163125",
+      "published_at": "2026-06-01T01:23:04+09:00",
+      "text_length": 0,
+      "title": "서울대학교 천문학부 공개행사일정"
+    },
     {
       "category": "함께맘북클럽",
       "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
@@ -29,5 +42,5 @@
       "title": "두각학원 고등학교 목표 설정 by 2028 대학별 시행계획"
     }
   ],
-  "updated_at": "2026-06-01T00:42:56.366718+09:00"
+  "updated_at": "2026-06-01T01:40:32.334484+09:00"
 }
