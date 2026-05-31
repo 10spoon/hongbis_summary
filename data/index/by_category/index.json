@@ -2260,6 +2260,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
+        "link_count": 0,
+        "log_no": "224302087266",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302087266",
+        "published_at": "2026-05-31T23:39:53+09:00",
+        "text_length": 0,
+        "title": "시리우스학원 과학고 입시설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
+        "link_count": 0,
+        "log_no": "224302080685",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302080685",
+        "published_at": "2026-05-31T23:32:52+09:00",
+        "text_length": 0,
+        "title": "청심국제중 입학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-31T18:20:43.001315+09:00",
@@ -6331,6 +6357,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
+        "link_count": 0,
+        "log_no": "224302084449",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302084449",
+        "published_at": "2026-05-31T23:36:48+09:00",
+        "text_length": 0,
+        "title": "펨토스물리 전문가 물리대회 여름특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-31T21:46:55.220985+09:00",
@@ -11275,6 +11314,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
+        "link_count": 0,
+        "log_no": "224302085565",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302085565",
+        "published_at": "2026-05-31T23:38:02+09:00",
+        "text_length": 0,
+        "title": "[4년 전 오늘] 日초등생 별명 금지 [횡설수설/이정은]"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-31T01:36:09.996728+09:00",
@@ -12876,6 +12928,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
+        "link_count": 0,
+        "log_no": "224302081807",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302081807",
+        "published_at": "2026-05-31T23:34:02+09:00",
+        "text_length": 0,
+        "title": "[2년 전 오늘] 대치동 엄마들 짐싸겠네…의대 지역인재 전형에 확 뜨는 지방 아파트는"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
@@ -15888,5 +15953,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-31T21:46:55.220985+09:00"
+  "updated_at": "2026-05-31T23:52:30.462782+09:00"
 }
