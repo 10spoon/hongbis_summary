@@ -1,7 +1,20 @@
 {
   "key": "2026-05-31",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-31T10:25:15.630938+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T10:25:15.630938+09:00",
+      "link_count": 0,
+      "log_no": "224301479740",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301479740",
+      "published_at": "2026-05-31T09:32:05+09:00",
+      "text_length": 0,
+      "title": "김아영 UNIST 특임교수가 짚은 AI 시대 창의성의 조건"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
@@ -42,5 +55,5 @@
       "title": "최태원 “AI 시대에서는 수학자가 의사보다 훨씬 돈 많이 벌 수도”"
     }
   ],
-  "updated_at": "2026-05-31T08:24:15.304368+09:00"
+  "updated_at": "2026-05-31T10:25:15.630938+09:00"
 }

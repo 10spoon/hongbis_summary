@@ -12813,6 +12813,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-05-31T10:25:15.630938+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-05-31T10:25:15.630938+09:00",
+        "link_count": 0,
+        "log_no": "224301479740",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301479740",
+        "published_at": "2026-05-31T09:32:05+09:00",
+        "text_length": 0,
+        "title": "김아영 UNIST 특임교수가 짚은 AI 시대 창의성의 조건"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-31T01:36:09.996728+09:00",
@@ -15797,5 +15810,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-31T08:24:15.304368+09:00"
+  "updated_at": "2026-05-31T10:25:15.630938+09:00"
 }
