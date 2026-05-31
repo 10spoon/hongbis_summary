@@ -1,6 +1,32 @@
 {
-  "post_count": 1214,
+  "post_count": 1216,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T16:34:25.957298+09:00",
+      "link_count": 0,
+      "log_no": "224301736074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301736074",
+      "published_at": "2026-05-31T16:19:06+09:00",
+      "text_length": 0,
+      "title": "쟤는 밥 먹을 때 더 못생겼네”...학생들 치를 떠는 공포의 신종 ‘학폭"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T16:34:25.957298+09:00",
+      "link_count": 1,
+      "log_no": "224301731110",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301731110",
+      "published_at": "2026-05-31T16:12:16+09:00",
+      "text_length": 359,
+      "title": "시대인재 반포센터 백봉용T 2026 여름방학 특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-31T10:25:15.630938+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-04T20:39:09+09:00",
       "text_length": 237,
       "title": "서을시립과학관 4월 북토크: 야구x수학"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-04T20:25:58.269256+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-04T20:25:58.269256+09:00",
-      "link_count": 0,
-      "log_no": "224240842111",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240842111",
-      "published_at": "2026-04-04T19:30:57+09:00",
-      "text_length": 0,
-      "title": "서율학원 6월모평대비 3대킬러압축특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-04T19:26:49.162261+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-04T19:26:49.162261+09:00",
-      "link_count": 0,
-      "log_no": "224240838767",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224240838767",
-      "published_at": "2026-04-04T19:26:00+09:00",
-      "text_length": 0,
-      "title": "중간고사 대비, 교과서 중심 전략 및 학년별 대비"
     }
   ],
-  "updated_at": "2026-05-31T10:25:15.630938+09:00"
+  "updated_at": "2026-05-31T16:34:25.957298+09:00"
 }

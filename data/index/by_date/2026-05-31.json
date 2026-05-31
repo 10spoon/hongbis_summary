@@ -1,7 +1,33 @@
 {
   "key": "2026-05-31",
-  "post_count": 4,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T16:34:25.957298+09:00",
+      "link_count": 0,
+      "log_no": "224301736074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301736074",
+      "published_at": "2026-05-31T16:19:06+09:00",
+      "text_length": 0,
+      "title": "쟤는 밥 먹을 때 더 못생겼네”...학생들 치를 떠는 공포의 신종 ‘학폭"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-05-31T16:34:25.957298+09:00",
+      "link_count": 1,
+      "log_no": "224301731110",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224301731110",
+      "published_at": "2026-05-31T16:12:16+09:00",
+      "text_length": 359,
+      "title": "시대인재 반포센터 백봉용T 2026 여름방학 특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-05-31T10:25:15.630938+09:00",
@@ -55,5 +81,5 @@
       "title": "최태원 “AI 시대에서는 수학자가 의사보다 훨씬 돈 많이 벌 수도”"
     }
   ],
-  "updated_at": "2026-05-31T10:25:15.630938+09:00"
+  "updated_at": "2026-05-31T16:34:25.957298+09:00"
 }
