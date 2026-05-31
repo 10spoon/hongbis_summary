@@ -2260,6 +2260,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-31T18:20:43.001315+09:00",
+        "link_count": 0,
+        "log_no": "224301767162",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301767162",
+        "published_at": "2026-05-31T17:01:24+09:00",
+        "text_length": 0,
+        "title": "대치CMS 입시 왕초보 학부모설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-05-31T18:20:43.001315+09:00",
+        "link_count": 0,
+        "log_no": "224301762648",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301762648",
+        "published_at": "2026-05-31T16:55:18+09:00",
+        "text_length": 0,
+        "title": "생각과표현 여름방학설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
         "image_count": 2,
         "last_changed_at": "2026-05-30T21:42:43.726372+09:00",
@@ -6305,6 +6331,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-05-31T18:20:43.001315+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-05-31T18:20:43.001315+09:00",
+        "link_count": 0,
+        "log_no": "224301810657",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224301810657",
+        "published_at": "2026-05-31T18:00:58+09:00",
+        "text_length": 0,
+        "title": "영독학원 중등기말내신시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-31T16:34:25.957298+09:00",
@@ -15836,5 +15875,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-31T16:34:25.957298+09:00"
+  "updated_at": "2026-05-31T18:20:43.001315+09:00"
 }
