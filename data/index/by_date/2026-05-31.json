@@ -1,7 +1,33 @@
 {
   "key": "2026-05-31",
-  "post_count": 15,
+  "post_count": 17,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+      "link_count": 0,
+      "log_no": "224302104851",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302104851",
+      "published_at": "2026-05-31T23:57:52+09:00",
+      "text_length": 0,
+      "title": "MEXX 예비고1 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+      "link_count": 0,
+      "log_no": "224302102622",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302102622",
+      "published_at": "2026-05-31T23:55:56+09:00",
+      "text_length": 0,
+      "title": "대찬학원 예비고1 여름방학정규시간표"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
@@ -198,5 +224,5 @@
       "title": "최태원 “AI 시대에서는 수학자가 의사보다 훨씬 돈 많이 벌 수도”"
     }
   ],
-  "updated_at": "2026-05-31T23:52:30.462782+09:00"
+  "updated_at": "2026-06-01T00:42:56.366718+09:00"
 }

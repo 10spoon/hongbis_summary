@@ -2260,6 +2260,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+        "link_count": 0,
+        "log_no": "224302108340",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302108340",
+        "published_at": "2026-06-01T00:00:25+09:00",
+        "text_length": 0,
+        "title": "두각학원 고등학교 목표 설정 by 2028 대학별 시행계획"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+        "link_count": 0,
+        "log_no": "224302104851",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302104851",
+        "published_at": "2026-05-31T23:57:52+09:00",
+        "text_length": 0,
+        "title": "MEXX 예비고1 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
@@ -6357,6 +6383,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+        "link_count": 0,
+        "log_no": "224302102622",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302102622",
+        "published_at": "2026-05-31T23:55:56+09:00",
+        "text_length": 0,
+        "title": "대찬학원 예비고1 여름방학정규시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
@@ -15779,6 +15818,19 @@
     "함께맘북클럽": [
       {
         "category": "함께맘북클럽",
+        "first_seen_at": "2026-06-01T00:42:56.366718+09:00",
+        "image_count": 90,
+        "last_changed_at": "2026-06-01T00:42:56.366718+09:00",
+        "link_count": 0,
+        "log_no": "224302117497",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302117497",
+        "published_at": "2026-06-01T00:10:46+09:00",
+        "text_length": 30,
+        "title": "유정임작가 자발적몰입을이끄는 공부대화의 기술"
+      },
+      {
+        "category": "함께맘북클럽",
         "first_seen_at": "2026-05-31T01:36:09.996728+09:00",
         "image_count": 3,
         "last_changed_at": "2026-05-31T08:24:15.304368+09:00",
@@ -15953,5 +16005,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-05-31T23:52:30.462782+09:00"
+  "updated_at": "2026-06-01T00:42:56.366718+09:00"
 }
