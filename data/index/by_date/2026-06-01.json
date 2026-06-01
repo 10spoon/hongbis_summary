@@ -1,7 +1,59 @@
 {
   "key": "2026-06-01",
-  "post_count": 16,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-01T23:26:40.494974+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T23:26:40.494974+09:00",
+      "link_count": 1,
+      "log_no": "224303229565",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303229565",
+      "published_at": "2026-06-01T23:22:56+09:00",
+      "text_length": 597,
+      "title": "개념상상 Tier-One 대치동 1% 극상위반 개강설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-01T23:26:40.494974+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T23:26:40.494974+09:00",
+      "link_count": 4,
+      "log_no": "224303228103",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303228103",
+      "published_at": "2026-06-01T23:21:10+09:00",
+      "text_length": 913,
+      "title": "개념상상 서초관 예비고1 내신·입시 전략 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-01T23:26:40.494974+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T23:26:40.494974+09:00",
+      "link_count": 0,
+      "log_no": "224303226985",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303226985",
+      "published_at": "2026-06-01T23:19:50+09:00",
+      "text_length": 0,
+      "title": "고교생이 뽑은 ‘안정적 전공’…1위는 역시 반도체"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-01T23:26:40.494974+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T23:26:40.494974+09:00",
+      "link_count": 0,
+      "log_no": "224303176742",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303176742",
+      "published_at": "2026-06-01T22:24:15+09:00",
+      "text_length": 68,
+      "title": "제3회 용산진학 길라잡이(2028 대입 방향성)"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-01T14:56:09.626715+09:00",
@@ -211,5 +263,5 @@
       "title": "두각학원 고등학교 목표 설정 by 2028 대학별 시행계획"
     }
   ],
-  "updated_at": "2026-06-01T14:56:09.626715+09:00"
+  "updated_at": "2026-06-01T23:26:40.494974+09:00"
 }
