@@ -1,6 +1,58 @@
 {
-  "post_count": 1230,
+  "post_count": 1234,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+      "link_count": 0,
+      "log_no": "224302431843",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302431843",
+      "published_at": "2026-06-01T10:27:13+09:00",
+      "text_length": 0,
+      "title": "한국인 최연소 하버드대 교수‘ 함돈희 “뇌 작동 원리, 미래 컴퓨팅 설계와 직결”"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+      "link_count": 0,
+      "log_no": "224302431051",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302431051",
+      "published_at": "2026-06-01T10:26:23+09:00",
+      "text_length": 0,
+      "title": "너희 집 불 질러서 살아남으면 다 죽이겠다\"…중2 학폭 가해자 협박 충격"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+      "link_count": 0,
+      "log_no": "224302428401",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302428401",
+      "published_at": "2026-06-01T10:23:48+09:00",
+      "text_length": 0,
+      "title": "대입 의무 반영'에도 오히려 늘어난 고교 학교폭력"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+      "link_count": 0,
+      "log_no": "224302425944",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302425944",
+      "published_at": "2026-06-01T10:21:20+09:00",
+      "text_length": 0,
+      "title": "개교 86년 된 여고도 '남녀공학' 원한다"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-01T01:40:32.334484+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-05T23:51:08+09:00",
       "text_length": 203,
       "title": "오투×궤도 과학의날 특집강연회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-06T00:26:27.259350+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-06T00:26:27.259350+09:00",
-      "link_count": 0,
-      "log_no": "224241933683",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241933683",
-      "published_at": "2026-04-05T23:41:12+09:00",
-      "text_length": 0,
-      "title": "수강원수학 고1 공통수학1"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
-      "link_count": 0,
-      "log_no": "224241921278",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241921278",
-      "published_at": "2026-04-05T23:27:07+09:00",
-      "text_length": 0,
-      "title": "[3년 전 오늘] 우리엄마는 말이 통해"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
-      "link_count": 0,
-      "log_no": "224241912004",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241912004",
-      "published_at": "2026-04-05T23:16:54+09:00",
-      "text_length": 0,
-      "title": "대치예감학원 PT수업"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-05T23:27:18.566890+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-05T23:27:18.566890+09:00",
-      "link_count": 0,
-      "log_no": "224241887177",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224241887177",
-      "published_at": "2026-04-05T22:50:35+09:00",
-      "text_length": 0,
-      "title": "수능 만점자 4명이 제자…‘만점 택시’ 기사님의 깜짝 정체"
     }
   ],
-  "updated_at": "2026-06-01T01:40:32.334484+09:00"
+  "updated_at": "2026-06-01T10:28:01.946518+09:00"
 }

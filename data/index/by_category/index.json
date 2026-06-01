@@ -6149,6 +6149,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+        "link_count": 0,
+        "log_no": "224302431843",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302431843",
+        "published_at": "2026-06-01T10:27:13+09:00",
+        "text_length": 0,
+        "title": "한국인 최연소 하버드대 교수‘ 함돈희 “뇌 작동 원리, 미래 컴퓨팅 설계와 직결”"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-05-30T00:25:53.677607+09:00",
         "image_count": 1,
         "last_changed_at": "2026-05-30T00:25:53.677607+09:00",
@@ -12982,6 +12995,45 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+        "link_count": 0,
+        "log_no": "224302431051",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302431051",
+        "published_at": "2026-06-01T10:26:23+09:00",
+        "text_length": 0,
+        "title": "너희 집 불 질러서 살아남으면 다 죽이겠다\"…중2 학폭 가해자 협박 충격"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+        "link_count": 0,
+        "log_no": "224302428401",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302428401",
+        "published_at": "2026-06-01T10:23:48+09:00",
+        "text_length": 0,
+        "title": "대입 의무 반영'에도 오히려 늘어난 고교 학교폭력"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
+        "link_count": 0,
+        "log_no": "224302425944",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224302425944",
+        "published_at": "2026-06-01T10:21:20+09:00",
+        "text_length": 0,
+        "title": "개교 86년 된 여고도 '남녀공학' 원한다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-05-31T23:52:30.462782+09:00",
         "image_count": 0,
         "last_changed_at": "2026-05-31T23:52:30.462782+09:00",
@@ -16018,5 +16070,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-01T01:40:32.334484+09:00"
+  "updated_at": "2026-06-01T10:28:01.946518+09:00"
 }
