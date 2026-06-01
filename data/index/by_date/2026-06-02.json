@@ -1,0 +1,33 @@
+{
+  "key": "2026-06-02",
+  "post_count": 2,
+  "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-02T02:04:43.127731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T02:04:43.127731+09:00",
+      "link_count": 0,
+      "log_no": "224303262656",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303262656",
+      "published_at": "2026-06-02T00:02:27+09:00",
+      "text_length": 268,
+      "title": "MEXX 메가스터디 손주은 회장 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-02T02:04:43.127731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T02:04:43.127731+09:00",
+      "link_count": 5,
+      "log_no": "224303260768",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303260768",
+      "published_at": "2026-06-02T00:00:14+09:00",
+      "text_length": 626,
+      "title": "아카로드 블루M(중등관) [수학.과학] 기말 내신 대비 개강"
+    }
+  ],
+  "updated_at": "2026-06-02T02:04:43.127731+09:00"
+}

@@ -17,10 +17,16 @@
   "category_index_path": "data/index/by_category/index.json",
   "dates": [
     {
+      "date": "2026-06-02",
+      "path": "data/index/by_date/2026-06-02.json",
+      "post_count": 2,
+      "updated_at": "2026-06-02T02:04:43.127731+09:00"
+    },
+    {
       "date": "2026-06-01",
       "path": "data/index/by_date/2026-06-01.json",
-      "post_count": 20,
-      "updated_at": "2026-06-01T23:26:40.494974+09:00"
+      "post_count": 22,
+      "updated_at": "2026-06-02T02:04:43.127731+09:00"
     },
     {
       "date": "2026-05-31",
@@ -443,10 +449,10 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-06-01T14:27:30.918527+00:00",
+  "generated_at": "2026-06-01T17:05:28.436369+00:00",
   "latest_path": "data/index/latest.json",
-  "latest_post_count": 1247,
-  "latest_updated_at": "2026-06-01T23:26:40.494974+09:00",
+  "latest_post_count": 1251,
+  "latest_updated_at": "2026-06-02T02:04:43.127731+09:00",
   "reports": [
     {
       "label": "2026-06-01-1800",

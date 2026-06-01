@@ -1,7 +1,33 @@
 {
   "key": "2026-06-01",
-  "post_count": 20,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-02T02:04:43.127731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T02:04:43.127731+09:00",
+      "link_count": 0,
+      "log_no": "224303257539",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303257539",
+      "published_at": "2026-06-01T23:56:55+09:00",
+      "text_length": 0,
+      "title": "초도약의 시대, 결국 독서가 AI를 이끈다"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-02T02:04:43.127731+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-02T02:04:43.127731+09:00",
+      "link_count": 0,
+      "log_no": "224303233765",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303233765",
+      "published_at": "2026-06-01T23:27:55+09:00",
+      "text_length": 310,
+      "title": "대치미래탐구 예비고1 수학 MTS 정규반 입학 테스트"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-01T23:26:40.494974+09:00",
@@ -263,5 +289,5 @@
       "title": "두각학원 고등학교 목표 설정 by 2028 대학별 시행계획"
     }
   ],
-  "updated_at": "2026-06-01T23:26:40.494974+09:00"
+  "updated_at": "2026-06-02T02:04:43.127731+09:00"
 }
