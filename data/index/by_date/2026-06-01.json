@@ -1,7 +1,59 @@
 {
   "key": "2026-06-01",
-  "post_count": 7,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-01T12:26:11.539300+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-01T12:26:11.539300+09:00",
+      "link_count": 0,
+      "log_no": "224302552856",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302552856",
+      "published_at": "2026-06-01T12:19:37+09:00",
+      "text_length": 0,
+      "title": "아토즈논술 연세대uic 특별설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-01T12:26:11.539300+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T12:26:11.539300+09:00",
+      "link_count": 1,
+      "log_no": "224302545046",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302545046",
+      "published_at": "2026-06-01T12:11:45+09:00",
+      "text_length": 1057,
+      "title": "세정학원 중3 수학 여름특강＆All Day Math"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-01T12:26:11.539300+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T12:26:11.539300+09:00",
+      "link_count": 0,
+      "log_no": "224302539748",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302539748",
+      "published_at": "2026-06-01T12:06:36+09:00",
+      "text_length": 622,
+      "title": "THE다원수학 예비고1 수학 입학 테스트 (1차)"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-01T12:26:11.539300+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-01T12:26:11.539300+09:00",
+      "link_count": 0,
+      "log_no": "224302463560",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224302463560",
+      "published_at": "2026-06-01T10:57:03+09:00",
+      "text_length": 0,
+      "title": "대화가 안 통하는 이유…문제는 말하기보다 '듣기'였다"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
@@ -94,5 +146,5 @@
       "title": "두각학원 고등학교 목표 설정 by 2028 대학별 시행계획"
     }
   ],
-  "updated_at": "2026-06-01T10:28:01.946518+09:00"
+  "updated_at": "2026-06-01T12:26:11.539300+09:00"
 }
