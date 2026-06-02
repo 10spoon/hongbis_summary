@@ -1,7 +1,20 @@
 {
   "key": "2026-06-02",
-  "post_count": 4,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-02T16:58:20.246242+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T16:58:20.246242+09:00",
+      "link_count": 2,
+      "log_no": "224303966597",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303966597",
+      "published_at": "2026-06-02T16:43:32+09:00",
+      "text_length": 770,
+      "title": "파인만입시컨설팅 × 파인만영재고센터 고교선택 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-02T10:26:25.996249+09:00",
@@ -55,5 +68,5 @@
       "title": "아카로드 블루M(중등관) [수학.과학] 기말 내신 대비 개강"
     }
   ],
-  "updated_at": "2026-06-02T10:26:25.996249+09:00"
+  "updated_at": "2026-06-02T16:58:20.246242+09:00"
 }
