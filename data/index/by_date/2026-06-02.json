@@ -1,7 +1,33 @@
 {
   "key": "2026-06-02",
-  "post_count": 6,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-02T20:44:47.032087+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T20:44:47.032087+09:00",
+      "link_count": 1,
+      "log_no": "224304131929",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224304131929",
+      "published_at": "2026-06-02T19:48:43+09:00",
+      "text_length": 902,
+      "title": "새움학원 26년 중3 학과+입시설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-02T20:44:47.032087+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T20:44:47.032087+09:00",
+      "link_count": 0,
+      "log_no": "224304126924",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224304126924",
+      "published_at": "2026-06-02T19:41:56+09:00",
+      "text_length": 0,
+      "title": "한 번 쓰면 절대로 못 줄이는 것…아이 학원비입니다"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-02T19:32:20.577892+09:00",
@@ -81,5 +107,5 @@
       "title": "아카로드 블루M(중등관) [수학.과학] 기말 내신 대비 개강"
     }
   ],
-  "updated_at": "2026-06-02T19:32:20.577892+09:00"
+  "updated_at": "2026-06-02T20:44:47.032087+09:00"
 }
