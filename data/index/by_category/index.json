@@ -11574,6 +11574,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-02T19:32:20.577892+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-02T19:32:20.577892+09:00",
+        "link_count": 0,
+        "log_no": "224304098025",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224304098025",
+        "published_at": "2026-06-02T19:03:29+09:00",
+        "text_length": 0,
+        "title": "과거의 나'에서 벗어나 '미래의 나'를 연습하라"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-01T14:56:09.626715+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-01T14:56:09.626715+09:00",
@@ -16330,5 +16343,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-02T16:58:20.246242+09:00"
+  "updated_at": "2026-06-02T19:32:20.577892+09:00"
 }

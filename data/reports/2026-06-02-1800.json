@@ -1,0 +1,36 @@
+{
+  "new_count": 3,
+  "new_posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-02T16:58:20.246242+09:00",
+      "last_changed_at": "2026-06-02T16:58:20.246242+09:00",
+      "log_no": "224303966597",
+      "post_url": "https://blog.naver.com/hongbis/224303966597",
+      "published_at": "2026-06-02T16:43:32+09:00",
+      "title": "파인만입시컨설팅 × 파인만영재고센터 고교선택 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-02T10:26:25.996249+09:00",
+      "last_changed_at": "2026-06-02T10:26:25.996249+09:00",
+      "log_no": "224303475870",
+      "post_url": "https://blog.naver.com/hongbis/224303475870",
+      "published_at": "2026-06-02T08:52:40+09:00",
+      "title": "jsh과학 여름방학시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-02T10:26:25.996249+09:00",
+      "last_changed_at": "2026-06-02T10:26:25.996249+09:00",
+      "log_no": "224303472912",
+      "post_url": "https://blog.naver.com/hongbis/224303472912",
+      "published_at": "2026-06-02T08:48:24+09:00",
+      "title": "대치동서 한번 달리면 못멈춰”…사교육비 무서운 ‘관성의 법칙’"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-06-02T18:00:00+09:00",
+  "window_start": "2026-06-02T08:00:00+09:00"
+}
