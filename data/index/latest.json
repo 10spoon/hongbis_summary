@@ -1,6 +1,32 @@
 {
-  "post_count": 1251,
+  "post_count": 1253,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-02T10:26:25.996249+09:00",
+      "image_count": 6,
+      "last_changed_at": "2026-06-02T10:26:25.996249+09:00",
+      "link_count": 0,
+      "log_no": "224303475870",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303475870",
+      "published_at": "2026-06-02T08:52:40+09:00",
+      "text_length": 0,
+      "title": "jsh과학 여름방학시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-02T10:26:25.996249+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-02T10:26:25.996249+09:00",
+      "link_count": 0,
+      "log_no": "224303472912",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224303472912",
+      "published_at": "2026-06-02T08:48:24+09:00",
+      "text_length": 0,
+      "title": "대치동서 한번 달리면 못멈춰”…사교육비 무서운 ‘관성의 법칙’"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-02T02:04:43.127731+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-06T23:29:30+09:00",
       "text_length": 0,
       "title": "4개 과학기술원 공동 입학설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-06T23:33:44.648443+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-06T23:33:44.648443+09:00",
-      "link_count": 0,
-      "log_no": "224243196668",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224243196668",
-      "published_at": "2026-04-06T23:19:59+09:00",
-      "text_length": 435,
-      "title": "지성과감성국어 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-06T22:47:23.031994+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-06T22:47:23.031994+09:00",
-      "link_count": 0,
-      "log_no": "224243148111",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224243148111",
-      "published_at": "2026-04-06T22:31:08+09:00",
-      "text_length": 0,
-      "title": "내신 성적 오른 학생 88% “사교육보다 자습 시간 늘리니 점수 올라”"
     }
   ],
-  "updated_at": "2026-06-02T02:04:43.127731+09:00"
+  "updated_at": "2026-06-02T10:26:25.996249+09:00"
 }
