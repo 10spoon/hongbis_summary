@@ -1,6 +1,45 @@
 {
-  "post_count": 1275,
+  "post_count": 1278,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 0,
+      "log_no": "224305065691",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305065691",
+      "published_at": "2026-06-03T21:44:47+09:00",
+      "text_length": 0,
+      "title": "엑스포스학원 6월수학시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 3,
+      "log_no": "224305064778",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305064778",
+      "published_at": "2026-06-03T21:43:38+09:00",
+      "text_length": 633,
+      "title": "CMS 그랜드슬램관 6월 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 2,
+      "log_no": "224305062766",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305062766",
+      "published_at": "2026-06-03T21:41:05+09:00",
+      "text_length": 1029,
+      "title": "시대인재 예비고1 (현 중3) 국어 표현T 단독 간담회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-03T18:54:44.798027+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-08T16:21:13+09:00",
       "text_length": 0,
       "title": "대치이강. 2026 고2,3 3월 학평 실채점 분석 및 입시전략 설명회"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-04-08T15:49:30.366055+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-08T15:49:30.366055+09:00",
-      "link_count": 0,
-      "log_no": "224245225166",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224245225166",
-      "published_at": "2026-04-08T14:54:15+09:00",
-      "text_length": 0,
-      "title": "한빛사인터뷰 박예원 연세대학교 의과대학"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-08T14:02:15.964737+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-08T14:02:15.964737+09:00",
-      "link_count": 0,
-      "log_no": "224245074122",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224245074122",
-      "published_at": "2026-04-08T12:53:49+09:00",
-      "text_length": 480,
-      "title": "목동미래탐구 의대입시 학부모 교실"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-04-08T09:58:36.489342+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-08T09:58:36.489342+09:00",
-      "link_count": 0,
-      "log_no": "224244783559",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224244783559",
-      "published_at": "2026-04-08T08:41:59+09:00",
-      "text_length": 0,
-      "title": "왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?"
     }
   ],
-  "updated_at": "2026-06-03T18:54:44.798027+09:00"
+  "updated_at": "2026-06-03T23:01:29.587957+09:00"
 }

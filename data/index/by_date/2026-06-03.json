@@ -1,7 +1,46 @@
 {
   "key": "2026-06-03",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 0,
+      "log_no": "224305065691",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305065691",
+      "published_at": "2026-06-03T21:44:47+09:00",
+      "text_length": 0,
+      "title": "엑스포스학원 6월수학시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 3,
+      "log_no": "224305064778",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305064778",
+      "published_at": "2026-06-03T21:43:38+09:00",
+      "text_length": 633,
+      "title": "CMS 그랜드슬램관 6월 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
+      "link_count": 2,
+      "log_no": "224305062766",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305062766",
+      "published_at": "2026-06-03T21:41:05+09:00",
+      "text_length": 1029,
+      "title": "시대인재 예비고1 (현 중3) 국어 표현T 단독 간담회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-03T18:54:44.798027+09:00",
@@ -120,5 +159,5 @@
       "title": "개념상상sm 여름방학설명회"
     }
   ],
-  "updated_at": "2026-06-03T18:54:44.798027+09:00"
+  "updated_at": "2026-06-03T23:01:29.587957+09:00"
 }
