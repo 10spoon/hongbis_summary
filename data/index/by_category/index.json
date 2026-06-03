@@ -85,6 +85,32 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305172828",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305172828",
+        "published_at": "2026-06-03T23:59:58+09:00",
+        "text_length": 0,
+        "title": "전북교육청 대학입학처바로가기"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305168992",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305168992",
+        "published_at": "2026-06-03T23:55:26+09:00",
+        "text_length": 0,
+        "title": "고려대학교 본교방문 1:1 진로진학상담 운영"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-03T14:56:41.066704+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-03T14:56:41.066704+09:00",
@@ -2323,6 +2349,71 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305181085",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305181085",
+        "published_at": "2026-06-04T00:10:29+09:00",
+        "text_length": 0,
+        "title": "진선미에듀 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305163923",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305163923",
+        "published_at": "2026-06-03T23:48:42+09:00",
+        "text_length": 0,
+        "title": "바룸국어 중등여름설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305159429",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305159429",
+        "published_at": "2026-06-03T23:42:47+09:00",
+        "text_length": 0,
+        "title": "msc 설명회일정"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305157032",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305157032",
+        "published_at": "2026-06-03T23:39:38+09:00",
+        "text_length": 360,
+        "title": "대치미래탐구 합격 알고리즘설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
+        "link_count": 0,
+        "log_no": "224305141985",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305141985",
+        "published_at": "2026-06-03T23:20:05+09:00",
+        "text_length": 163,
+        "title": "미래GT 중등과학설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
@@ -16642,5 +16733,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-03T23:01:29.587957+09:00"
+  "updated_at": "2026-06-04T00:52:15.275992+09:00"
 }
