@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-03T14:56:41.066704+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-03T14:56:41.066704+09:00",
+        "link_count": 0,
+        "log_no": "224304761321",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224304761321",
+        "published_at": "2026-06-03T14:42:01+09:00",
+        "text_length": 475,
+        "title": "제22회 서울신문 생명공학캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-03T00:40:35.739036+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-03T00:40:35.739036+09:00",
@@ -13333,6 +13346,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-03T14:56:41.066704+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-03T14:56:41.066704+09:00",
+        "link_count": 0,
+        "log_no": "224304755400",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224304755400",
+        "published_at": "2026-06-03T14:33:16+09:00",
+        "text_length": 0,
+        "title": "6월 모평에 휘둘리지 말아야…결과 따라 학습법 바꾸면 손해\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-03T00:40:35.739036+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-03T00:40:35.739036+09:00",
@@ -16499,5 +16525,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-03T00:40:35.739036+09:00"
+  "updated_at": "2026-06-03T14:56:41.066704+09:00"
 }
