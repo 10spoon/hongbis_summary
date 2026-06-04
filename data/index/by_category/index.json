@@ -2351,6 +2351,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
+        "link_count": 0,
+        "log_no": "224305856661",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305856661",
+        "published_at": "2026-06-04T16:14:24+09:00",
+        "text_length": 0,
+        "title": "입시연구소길 6월 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
+        "link_count": 0,
+        "log_no": "224305851709",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305851709",
+        "published_at": "2026-06-04T16:10:21+09:00",
+        "text_length": 826,
+        "title": "씨앤씨학원 2027학년도 면접대비 특목 자사고 입시 대설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
@@ -6825,6 +6851,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
+        "link_count": 0,
+        "log_no": "224305902649",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305902649",
+        "published_at": "2026-06-04T16:54:07+09:00",
+        "text_length": 184,
+        "title": "수이학원 초등수업"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
+        "image_count": 7,
+        "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
+        "link_count": 0,
+        "log_no": "224305862247",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305862247",
+        "published_at": "2026-06-04T16:19:15+09:00",
+        "text_length": 0,
+        "title": "올인아카데미 초등개강시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
@@ -13606,6 +13658,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
+        "link_count": 0,
+        "log_no": "224305870100",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305870100",
+        "published_at": "2026-06-04T16:26:06+09:00",
+        "text_length": 0,
+        "title": "6월 모평 수학, 작년 수능과 비슷하거나 쉬워…공통 22번 '수열'로 변별"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
@@ -16811,5 +16876,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-04T12:26:22.162731+09:00"
+  "updated_at": "2026-06-04T16:54:58.914111+09:00"
 }
