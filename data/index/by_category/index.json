@@ -2351,6 +2351,45 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
+        "link_count": 0,
+        "log_no": "224306289072",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306289072",
+        "published_at": "2026-06-04T23:51:22+09:00",
+        "text_length": 793,
+        "title": "수학원리탐구 (초3~중1) 대학영재원·KJMO 대비 프로그램과 로드맵"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
+        "link_count": 1,
+        "log_no": "224306286286",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306286286",
+        "published_at": "2026-06-04T23:47:52+09:00",
+        "text_length": 409,
+        "title": "시대인재 반포센터 예비고1 입시 전략설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
+        "link_count": 0,
+        "log_no": "224306272006",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306272006",
+        "published_at": "2026-06-04T23:30:31+09:00",
+        "text_length": 489,
+        "title": "삼보어학원 2026 여름방학 초등 · 중등 프로그램 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-04T22:27:24.012973+09:00",
@@ -6864,6 +6903,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
+        "link_count": 0,
+        "log_no": "224306269867",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306269867",
+        "published_at": "2026-06-04T23:28:06+09:00",
+        "text_length": 0,
+        "title": "고앤정학원 여름방학특강시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
@@ -13710,6 +13762,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
+        "link_count": 0,
+        "log_no": "224306273671",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306273671",
+        "published_at": "2026-06-04T23:32:30+09:00",
+        "text_length": 0,
+        "title": "첫 수능 리허설 '6월 모의평가' 종료…\"진짜 승부는 지금부터\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
@@ -16928,5 +16993,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-04T22:27:24.012973+09:00"
+  "updated_at": "2026-06-05T00:24:41.169274+09:00"
 }
