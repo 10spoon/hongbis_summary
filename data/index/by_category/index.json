@@ -2351,6 +2351,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-04T22:27:24.012973+09:00",
+        "link_count": 1,
+        "log_no": "224306152222",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306152222",
+        "published_at": "2026-06-04T21:23:30+09:00",
+        "text_length": 591,
+        "title": "아드폰테스 중2학부모설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T16:54:58.914111+09:00",
@@ -6851,6 +6864,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T22:27:24.012973+09:00",
+        "link_count": 0,
+        "log_no": "224306137077",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306137077",
+        "published_at": "2026-06-04T21:06:12+09:00",
+        "text_length": 548,
+        "title": "예섬학원 영어 김원주T 고등 고난도 독해 4주 집중훈련 특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T22:27:24.012973+09:00",
+        "link_count": 4,
+        "log_no": "224306135694",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306135694",
+        "published_at": "2026-06-04T21:04:30+09:00",
+        "text_length": 825,
+        "title": "두각K수학 입테 신청 및 고등수학의 토탈 솔루션!!"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T22:27:24.012973+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T22:27:24.012973+09:00",
+        "link_count": 1,
+        "log_no": "224306129290",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306129290",
+        "published_at": "2026-06-04T20:56:48+09:00",
+        "text_length": 1082,
+        "title": "목동시대인재 특목·자사고 입시 설명회 & 정규반"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-04T16:54:58.914111+09:00",
@@ -16876,5 +16928,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-04T16:54:58.914111+09:00"
+  "updated_at": "2026-06-04T22:27:24.012973+09:00"
 }
