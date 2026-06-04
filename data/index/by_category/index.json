@@ -85,6 +85,32 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-05T02:20:20.409779+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T02:20:20.409779+09:00",
+        "link_count": 0,
+        "log_no": "224306364452",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306364452",
+        "published_at": "2026-06-05T02:10:10+09:00",
+        "text_length": 0,
+        "title": "2026 동국대학교 온라인 모의논술 시행 안내(사전 안내)"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-05T02:20:20.409779+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-05T02:20:20.409779+09:00",
+        "link_count": 0,
+        "log_no": "224306336534",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306336534",
+        "published_at": "2026-06-05T01:03:04+09:00",
+        "text_length": 0,
+        "title": "국립국어원 전국 논증적 글쓰기대회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-04T00:52:15.275992+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T00:52:15.275992+09:00",
@@ -16993,5 +17019,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-05T00:24:41.169274+09:00"
+  "updated_at": "2026-06-05T02:20:20.409779+09:00"
 }
