@@ -6552,6 +6552,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T10:31:53.560979+09:00",
+        "link_count": 0,
+        "log_no": "224305430978",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305430978",
+        "published_at": "2026-06-04T09:35:14+09:00",
+        "text_length": 0,
+        "title": "노벨상 수상자도 고민한 '오늘 뭐 먹지'…파인만의 수학 해법 약 50년만에 검증"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-06-01T10:28:01.946518+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-01T10:28:01.946518+09:00",
@@ -11899,6 +11912,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T10:31:53.560979+09:00",
+        "link_count": 0,
+        "log_no": "224305432141",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305432141",
+        "published_at": "2026-06-04T09:36:41+09:00",
+        "text_length": 0,
+        "title": "남산둘레길 제쳤습니다\"... 계단하나 없어 시니어도 편하게 걷는 2.2km 무장애 숲길 산책로"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-02T19:32:20.577892+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-02T19:32:20.577892+09:00",
@@ -13552,6 +13578,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T10:31:53.560979+09:00",
+        "link_count": 0,
+        "log_no": "224305433490",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305433490",
+        "published_at": "2026-06-04T09:38:18+09:00",
+        "text_length": 0,
+        "title": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-06-03T14:56:41.066704+09:00",
@@ -16733,5 +16772,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-04T00:52:15.275992+09:00"
+  "updated_at": "2026-06-04T10:31:53.560979+09:00"
 }
