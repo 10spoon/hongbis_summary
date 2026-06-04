@@ -6827,6 +6827,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+        "link_count": 2,
+        "log_no": "224305581912",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305581912",
+        "published_at": "2026-06-04T12:02:27+09:00",
+        "text_length": 1283,
+        "title": "대치미래탐구 국어 김민정T 6평 총평 및 심층 분석(1회 수강)"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+        "link_count": 3,
+        "log_no": "224305558987",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305558987",
+        "published_at": "2026-06-04T11:40:54+09:00",
+        "text_length": 1145,
+        "title": "세정학원 예비고1 통합과학 여름방학 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-03T23:01:29.587957+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-03T23:01:29.587957+09:00",
@@ -13580,6 +13606,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+        "link_count": 0,
+        "log_no": "224305561337",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224305561337",
+        "published_at": "2026-06-04T11:43:12+09:00",
+        "text_length": 0,
+        "title": "6월 모평 오늘 실시…평가원 \"킬러문항 없이 변별력 확보"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T10:31:53.560979+09:00",
@@ -16772,5 +16811,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-04T10:31:53.560979+09:00"
+  "updated_at": "2026-06-04T12:26:22.162731+09:00"
 }

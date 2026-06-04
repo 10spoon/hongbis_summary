@@ -1,6 +1,45 @@
 {
-  "post_count": 1288,
+  "post_count": 1291,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+      "link_count": 2,
+      "log_no": "224305581912",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305581912",
+      "published_at": "2026-06-04T12:02:27+09:00",
+      "text_length": 1283,
+      "title": "대치미래탐구 국어 김민정T 6평 총평 및 심층 분석(1회 수강)"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+      "link_count": 0,
+      "log_no": "224305561337",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305561337",
+      "published_at": "2026-06-04T11:43:12+09:00",
+      "text_length": 0,
+      "title": "6월 모평 오늘 실시…평가원 \"킬러문항 없이 변별력 확보"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-04T12:26:22.162731+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-04T12:26:22.162731+09:00",
+      "link_count": 3,
+      "log_no": "224305558987",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224305558987",
+      "published_at": "2026-06-04T11:40:54+09:00",
+      "text_length": 1145,
+      "title": "세정학원 예비고1 통합과학 여름방학 특강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-09T09:29:31+09:00",
       "text_length": 0,
       "title": "논리적 비약의 위력"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-09T09:49:49.191719+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-09T09:49:49.191719+09:00",
-      "link_count": 1,
-      "log_no": "224246099608",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224246099608",
-      "published_at": "2026-04-09T09:23:43+09:00",
-      "text_length": 80,
-      "title": "성적 상위권과 하위권, '주말 공부 시간'에서 갈렸다"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-09T00:47:20.950247+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-09T00:47:20.950247+09:00",
-      "link_count": 0,
-      "log_no": "224245817612",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224245817612",
-      "published_at": "2026-04-08T23:51:04+09:00",
-      "text_length": 0,
-      "title": "개념폴리아방배 초등설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-08T21:37:36.170907+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-08T21:37:36.170907+09:00",
-      "link_count": 0,
-      "log_no": "224245644299",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224245644299",
-      "published_at": "2026-04-08T20:46:53+09:00",
-      "text_length": 0,
-      "title": "가천대학교 찾아오는 입학설명회"
     }
   ],
-  "updated_at": "2026-06-04T10:31:53.560979+09:00"
+  "updated_at": "2026-06-04T12:26:22.162731+09:00"
 }
