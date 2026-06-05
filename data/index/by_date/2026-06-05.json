@@ -1,7 +1,33 @@
 {
   "key": "2026-06-05",
-  "post_count": 13,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T19:21:27.338310+09:00",
+      "link_count": 1,
+      "log_no": "224307112660",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307112660",
+      "published_at": "2026-06-05T18:44:23+09:00",
+      "text_length": 1192,
+      "title": "Swaton X Groton 2026 Summer Camp"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T19:21:27.338310+09:00",
+      "link_count": 0,
+      "log_no": "224307111392",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307111392",
+      "published_at": "2026-06-05T18:42:37+09:00",
+      "text_length": 0,
+      "title": "수능 첫 시험대 6월 모의평가…\"국어 쉬워지고 수학은 비슷\""
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-05T18:27:10.605560+09:00",
@@ -172,5 +198,5 @@
       "title": "국립국어원 전국 논증적 글쓰기대회"
     }
   ],
-  "updated_at": "2026-06-05T18:27:10.605560+09:00"
+  "updated_at": "2026-06-05T19:21:27.338310+09:00"
 }

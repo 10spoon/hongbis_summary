@@ -1,6 +1,32 @@
 {
-  "post_count": 1318,
+  "post_count": 1320,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T19:21:27.338310+09:00",
+      "link_count": 1,
+      "log_no": "224307112660",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307112660",
+      "published_at": "2026-06-05T18:44:23+09:00",
+      "text_length": 1192,
+      "title": "Swaton X Groton 2026 Summer Camp"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T19:21:27.338310+09:00",
+      "link_count": 0,
+      "log_no": "224307111392",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307111392",
+      "published_at": "2026-06-05T18:42:37+09:00",
+      "text_length": 0,
+      "title": "수능 첫 시험대 6월 모의평가…\"국어 쉬워지고 수학은 비슷\""
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-05T18:27:10.605560+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-10T21:42:32+09:00",
       "text_length": 32,
       "title": "중앙대, 2028학년도 입학전형 시행계획 공개"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
-      "image_count": 10,
-      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
-      "link_count": 0,
-      "log_no": "224248190260",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248190260",
-      "published_at": "2026-04-10T21:40:23+09:00",
-      "text_length": 0,
-      "title": "다솔학원 중1,2 수능국어"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-10T20:33:07.267966+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-10T20:33:07.267966+09:00",
-      "link_count": 1,
-      "log_no": "224248134836",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248134836",
-      "published_at": "2026-04-10T20:32:33+09:00",
-      "text_length": 609,
-      "title": "아카로드 블루M 1학기중간 수학/과학 내신대비"
     }
   ],
-  "updated_at": "2026-06-05T18:27:10.605560+09:00"
+  "updated_at": "2026-06-05T19:21:27.338310+09:00"
 }
