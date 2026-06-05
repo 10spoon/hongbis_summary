@@ -2403,6 +2403,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+        "link_count": 0,
+        "log_no": "224307344215",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307344215",
+        "published_at": "2026-06-06T00:05:55+09:00",
+        "text_length": 0,
+        "title": "EBS 여름방학 대비 EBS 학습전략설명회｜고1·2·3을 위한 등급 상승 솔루션"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+        "link_count": 1,
+        "log_no": "224307320547",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307320547",
+        "published_at": "2026-06-05T23:35:19+09:00",
+        "text_length": 776,
+        "title": "비전21네오관 6평분석 & 2027대입 최종지원전략 설명회 1차"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
@@ -7046,6 +7072,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+        "link_count": 0,
+        "log_no": "224307347905",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307347905",
+        "published_at": "2026-06-06T00:11:03+09:00",
+        "text_length": 0,
+        "title": "목동수학천하 기말고사시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+        "link_count": 0,
+        "log_no": "224307339840",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307339840",
+        "published_at": "2026-06-06T00:00:18+09:00",
+        "text_length": 0,
+        "title": "거산학원 초중고시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
@@ -13970,6 +14022,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+        "link_count": 0,
+        "log_no": "224307338221",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307338221",
+        "published_at": "2026-06-05T23:58:34+09:00",
+        "text_length": 0,
+        "title": "10명 중 4명 6월 모평보다 수능에서 낮은 등급…\"모평 결과 맹신은 금물\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-05T19:21:27.338310+09:00",
@@ -17240,5 +17305,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-05T22:22:45.869548+09:00"
+  "updated_at": "2026-06-06T00:23:20.324202+09:00"
 }

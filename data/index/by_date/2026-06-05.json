@@ -1,7 +1,33 @@
 {
   "key": "2026-06-05",
-  "post_count": 19,
+  "post_count": 21,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+      "link_count": 0,
+      "log_no": "224307338221",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307338221",
+      "published_at": "2026-06-05T23:58:34+09:00",
+      "text_length": 0,
+      "title": "10명 중 4명 6월 모평보다 수능에서 낮은 등급…\"모평 결과 맹신은 금물\""
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
+      "link_count": 1,
+      "log_no": "224307320547",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307320547",
+      "published_at": "2026-06-05T23:35:19+09:00",
+      "text_length": 776,
+      "title": "비전21네오관 6평분석 & 2027대입 최종지원전략 설명회 1차"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
@@ -250,5 +276,5 @@
       "title": "국립국어원 전국 논증적 글쓰기대회"
     }
   ],
-  "updated_at": "2026-06-05T22:22:45.869548+09:00"
+  "updated_at": "2026-06-06T00:23:20.324202+09:00"
 }
