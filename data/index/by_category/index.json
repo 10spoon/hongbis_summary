@@ -2377,6 +2377,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-05T14:47:53.378462+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T14:47:53.378462+09:00",
+        "link_count": 1,
+        "log_no": "224306787070",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306787070",
+        "published_at": "2026-06-05T13:40:04+09:00",
+        "text_length": 869,
+        "title": "엘브라운 반포 + 메디스카이랩 의치한약수·SKY 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-05T00:24:41.169274+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-05T00:24:41.169274+09:00",
@@ -12120,6 +12133,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-05T14:47:53.378462+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-05T14:47:53.378462+09:00",
+        "link_count": 0,
+        "log_no": "224306789233",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224306789233",
+        "published_at": "2026-06-05T13:42:07+09:00",
+        "text_length": 0,
+        "title": "실패 두려워 않는 아이가 AI 인재… 부모는 ‘마음 면역력’ 키워줘야”"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-04T10:31:53.560979+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-04T10:31:53.560979+09:00",
@@ -17032,5 +17058,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-05T10:21:44.619999+09:00"
+  "updated_at": "2026-06-05T14:47:53.378462+09:00"
 }
