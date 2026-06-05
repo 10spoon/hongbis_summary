@@ -1,6 +1,58 @@
 {
-  "post_count": 1320,
+  "post_count": 1324,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307243225",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307243225",
+      "published_at": "2026-06-05T21:52:22+09:00",
+      "text_length": 0,
+      "title": "플라즈마 중등과학시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307241474",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307241474",
+      "published_at": "2026-06-05T21:49:56+09:00",
+      "text_length": 698,
+      "title": "픽스 과학관 통합과학 개념 속성반 개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307229500",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307229500",
+      "published_at": "2026-06-05T21:33:13+09:00",
+      "text_length": 0,
+      "title": "DK수학 수리논술개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 1,
+      "log_no": "224307214866",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307214866",
+      "published_at": "2026-06-05T21:13:01+09:00",
+      "text_length": 495,
+      "title": "목동cms 고등과정 학습전략 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-10T23:39:57+09:00",
       "text_length": 0,
       "title": "내일 에버랜드 가야 하는데\"…소파에 쓰러진 가장들의 슬픈 '신체 부도'"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
-      "link_count": 0,
-      "log_no": "224248223251",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248223251",
-      "published_at": "2026-04-10T22:20:21+09:00",
-      "text_length": 0,
-      "title": "5등급제 생기부 관리, 다섯 가지 궁금증"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
-      "link_count": 0,
-      "log_no": "224248195817",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248195817",
-      "published_at": "2026-04-10T21:47:03+09:00",
-      "text_length": 0,
-      "title": "대치cms 5월과학 단과반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
-      "link_count": 0,
-      "log_no": "224248193077",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248193077",
-      "published_at": "2026-04-10T21:43:52+09:00",
-      "text_length": 0,
-      "title": "현상훈수학 중3 / 5월 놀면뭐하니 특강 및 레테 맞춤 클리닉 시간표"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-10T22:48:57.317024+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-10T22:48:57.317024+09:00",
-      "link_count": 1,
-      "log_no": "224248192016",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248192016",
-      "published_at": "2026-04-10T21:42:32+09:00",
-      "text_length": 32,
-      "title": "중앙대, 2028학년도 입학전형 시행계획 공개"
     }
   ],
-  "updated_at": "2026-06-05T19:21:27.338310+09:00"
+  "updated_at": "2026-06-05T22:22:45.869548+09:00"
 }

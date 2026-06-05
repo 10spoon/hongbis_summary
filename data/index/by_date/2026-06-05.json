@@ -1,7 +1,59 @@
 {
   "key": "2026-06-05",
-  "post_count": 15,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307243225",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307243225",
+      "published_at": "2026-06-05T21:52:22+09:00",
+      "text_length": 0,
+      "title": "플라즈마 중등과학시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307241474",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307241474",
+      "published_at": "2026-06-05T21:49:56+09:00",
+      "text_length": 698,
+      "title": "픽스 과학관 통합과학 개념 속성반 개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 0,
+      "log_no": "224307229500",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307229500",
+      "published_at": "2026-06-05T21:33:13+09:00",
+      "text_length": 0,
+      "title": "DK수학 수리논술개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-05T22:22:45.869548+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T22:22:45.869548+09:00",
+      "link_count": 1,
+      "log_no": "224307214866",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307214866",
+      "published_at": "2026-06-05T21:13:01+09:00",
+      "text_length": 495,
+      "title": "목동cms 고등과정 학습전략 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-05T19:21:27.338310+09:00",
@@ -198,5 +250,5 @@
       "title": "국립국어원 전국 논증적 글쓰기대회"
     }
   ],
-  "updated_at": "2026-06-05T19:21:27.338310+09:00"
+  "updated_at": "2026-06-05T22:22:45.869548+09:00"
 }
