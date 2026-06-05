@@ -1,6 +1,19 @@
 {
-  "post_count": 1307,
+  "post_count": 1308,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-05T10:21:44.619999+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T10:21:44.619999+09:00",
+      "link_count": 0,
+      "log_no": "224306536058",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224306536058",
+      "published_at": "2026-06-05T09:29:24+09:00",
+      "text_length": 0,
+      "title": "우린 뭘해도 AI보다 잘할 수 없다…조수로 쓰고 독서력 키워야\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-05T02:20:20.409779+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-09T23:01:29+09:00",
       "text_length": 0,
       "title": "주말 공부가 등급 가른다\"…1등급 47% '하루 6시간 이상'"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-09T23:58:39.388909+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-09T23:58:39.388909+09:00",
-      "link_count": 2,
-      "log_no": "224247052535",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224247052535",
-      "published_at": "2026-04-09T22:59:09+09:00",
-      "text_length": 585,
-      "title": "목동 CMS입시센터 2028학년도 과학고 입시대비 전략설명회"
     }
   ],
-  "updated_at": "2026-06-05T02:20:20.409779+09:00"
+  "updated_at": "2026-06-05T10:21:44.619999+09:00"
 }
