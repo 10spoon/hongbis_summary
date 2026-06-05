@@ -1,6 +1,19 @@
 {
-  "post_count": 1310,
+  "post_count": 1311,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-05T16:47:11.752298+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-05T16:47:11.752298+09:00",
+      "link_count": 1,
+      "log_no": "224306969206",
+      "place_count": 3,
+      "post_url": "https://blog.naver.com/hongbis/224306969206",
+      "published_at": "2026-06-05T16:23:34+09:00",
+      "text_length": 917,
+      "title": "센티움학원 1차 예비고1(현 중3) 입시 설명회(현대고/세화여고/압구정고/청담고)"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-05T14:47:53.378462+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-09T23:55:59+09:00",
       "text_length": 0,
       "title": "엄마의 기도"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-09T23:58:39.388909+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-09T23:58:39.388909+09:00",
-      "link_count": 0,
-      "log_no": "224247096870",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224247096870",
-      "published_at": "2026-04-09T23:51:17+09:00",
-      "text_length": 0,
-      "title": "우리 아이 왜 자주 아플까요?”…엄마, 3가지만 기억하세요"
     }
   ],
-  "updated_at": "2026-06-05T14:47:53.378462+09:00"
+  "updated_at": "2026-06-05T16:47:11.752298+09:00"
 }
