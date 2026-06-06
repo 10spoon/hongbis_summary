@@ -1,6 +1,32 @@
 {
-  "post_count": 1330,
+  "post_count": 1332,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T14:36:34.709011+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T14:36:34.709011+09:00",
+      "link_count": 3,
+      "log_no": "224307720407",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307720407",
+      "published_at": "2026-06-06T13:20:23+09:00",
+      "text_length": 804,
+      "title": "대치메카 (고1)설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T14:36:34.709011+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T14:36:34.709011+09:00",
+      "link_count": 0,
+      "log_no": "224307719040",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307719040",
+      "published_at": "2026-06-06T13:18:23+09:00",
+      "text_length": 102,
+      "title": "새움학원 26년 중3 학과+입시설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-06T10:17:03.409226+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-11T19:29:28+09:00",
       "text_length": 0,
       "title": "“서울대 컴공과 나와도 갈 데가 없다니”…개발자 60%가 경력직"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-11T19:26:35.454312+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-11T19:26:35.454312+09:00",
-      "link_count": 0,
-      "log_no": "224248953795",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248953795",
-      "published_at": "2026-04-11T18:54:01+09:00",
-      "text_length": 0,
-      "title": "정영어학원 영작반개강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-11T19:26:35.454312+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-11T19:26:35.454312+09:00",
-      "link_count": 0,
-      "log_no": "224248942496",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224248942496",
-      "published_at": "2026-04-11T18:37:15+09:00",
-      "text_length": 0,
-      "title": "숭실대학교 오픈캠퍼스"
     }
   ],
-  "updated_at": "2026-06-06T10:17:03.409226+09:00"
+  "updated_at": "2026-06-06T14:36:34.709011+09:00"
 }

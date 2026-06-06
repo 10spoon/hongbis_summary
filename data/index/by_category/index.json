@@ -2403,6 +2403,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-06T14:36:34.709011+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T14:36:34.709011+09:00",
+        "link_count": 3,
+        "log_no": "224307720407",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307720407",
+        "published_at": "2026-06-06T13:20:23+09:00",
+        "text_length": 804,
+        "title": "대치메카 (고1)설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-06T14:36:34.709011+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T14:36:34.709011+09:00",
+        "link_count": 0,
+        "log_no": "224307719040",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224307719040",
+        "published_at": "2026-06-06T13:18:23+09:00",
+        "text_length": 102,
+        "title": "새움학원 26년 중3 학과+입시설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-06T00:23:20.324202+09:00",
@@ -17318,5 +17344,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-06T10:17:03.409226+09:00"
+  "updated_at": "2026-06-06T14:36:34.709011+09:00"
 }
