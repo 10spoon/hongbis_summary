@@ -1,6 +1,71 @@
 {
-  "post_count": 1336,
+  "post_count": 1341,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
+      "link_count": 0,
+      "log_no": "224308080889",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308080889",
+      "published_at": "2026-06-06T22:46:10+09:00",
+      "text_length": 0,
+      "title": "대치다솔학원 중등과학"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
+      "link_count": 0,
+      "log_no": "224308079268",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308079268",
+      "published_at": "2026-06-06T22:43:46+09:00",
+      "text_length": 0,
+      "title": "대치해냄학원 서울대및 카이스트입시설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
+      "link_count": 0,
+      "log_no": "224308076983",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308076983",
+      "published_at": "2026-06-06T22:40:21+09:00",
+      "text_length": 0,
+      "title": "돌파수학 7월개강시간표"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
+      "link_count": 0,
+      "log_no": "224308074035",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308074035",
+      "published_at": "2026-06-06T22:35:50+09:00",
+      "text_length": 0,
+      "title": "이대자연사박물관 2026 자연사박물관 진로교육 프로그램"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
+      "link_count": 0,
+      "log_no": "224308072505",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308072505",
+      "published_at": "2026-06-06T22:33:23+09:00",
+      "text_length": 0,
+      "title": "더 어릴 때부터, 더 세분화된 서비스로, 점점 고액으로…“해도 너무한 선행학습 사교육”"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-06T21:45:32.489616+09:00",
@@ -12935,72 +13000,7 @@
       "published_at": "2026-04-12T15:20:15+09:00",
       "text_length": 0,
       "title": "대일외고 중3을위한 온라인 만남"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
-      "link_count": 0,
-      "log_no": "224249637810",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249637810",
-      "published_at": "2026-04-12T15:17:47+09:00",
-      "text_length": 0,
-      "title": "서울역사편찬원 2026 시민을 위한 서울역사문화답사"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-12T10:56:34.626692+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-12T10:56:34.626692+09:00",
-      "link_count": 0,
-      "log_no": "224249438906",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249438906",
-      "published_at": "2026-04-12T10:30:40+09:00",
-      "text_length": 0,
-      "title": "고교학점제 도입 1년…학생들 과목선택 기준은 ‘진로’ 아닌 ‘대입’"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-12T10:56:34.626692+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-12T10:56:34.626692+09:00",
-      "link_count": 0,
-      "log_no": "224249438116",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249438116",
-      "published_at": "2026-04-12T10:29:24+09:00",
-      "text_length": 0,
-      "title": "올해 지방 고2, 의대 ‘지역인재전형’ 문 좁아질 듯"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-12T00:26:24.214415+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-12T00:26:24.214415+09:00",
-      "link_count": 0,
-      "log_no": "224249162882",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249162882",
-      "published_at": "2026-04-11T23:43:29+09:00",
-      "text_length": 0,
-      "title": "“여보세요? 그게 뭐야” 집전화 부활에 당황하는 아이들"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-11T21:27:45.496483+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-11T21:27:45.496483+09:00",
-      "link_count": 0,
-      "log_no": "224249039391",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249039391",
-      "published_at": "2026-04-11T21:00:56+09:00",
-      "text_length": 0,
-      "title": "에프엑스수학 예비중1,2 간담회"
     }
   ],
-  "updated_at": "2026-06-06T21:45:32.489616+09:00"
+  "updated_at": "2026-06-06T22:54:12.321899+09:00"
 }
