@@ -1,7 +1,20 @@
 {
   "key": "2026-06-06",
-  "post_count": 8,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T20:45:59.810725+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T20:45:59.810725+09:00",
+      "link_count": 3,
+      "log_no": "224307978232",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307978232",
+      "published_at": "2026-06-06T19:58:21+09:00",
+      "text_length": 851,
+      "title": "시대인재 과학 (일반 /진로) 여름방학 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-06T16:22:03.625727+09:00",
@@ -107,5 +120,5 @@
       "title": "거산학원 초중고시간표"
     }
   ],
-  "updated_at": "2026-06-06T16:22:03.625727+09:00"
+  "updated_at": "2026-06-06T20:45:59.810725+09:00"
 }
