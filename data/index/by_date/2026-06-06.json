@@ -1,7 +1,20 @@
 {
   "key": "2026-06-06",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-06T10:17:03.409226+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T10:17:03.409226+09:00",
+      "link_count": 0,
+      "log_no": "224307552722",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224307552722",
+      "published_at": "2026-06-06T09:12:58+09:00",
+      "text_length": 0,
+      "title": "4살 고시·7살 고시’?…10대에 대가 치른다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-06T00:23:20.324202+09:00",
@@ -42,5 +55,5 @@
       "title": "거산학원 초중고시간표"
     }
   ],
-  "updated_at": "2026-06-06T00:23:20.324202+09:00"
+  "updated_at": "2026-06-06T10:17:03.409226+09:00"
 }
