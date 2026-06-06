@@ -1,6 +1,32 @@
 {
-  "post_count": 1341,
+  "post_count": 1343,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T23:51:20.489659+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-06T23:51:20.489659+09:00",
+      "link_count": 0,
+      "log_no": "224308115171",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308115171",
+      "published_at": "2026-06-06T23:39:07+09:00",
+      "text_length": 0,
+      "title": "김현정수학 온라인설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-06T23:51:20.489659+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-06T23:51:20.489659+09:00",
+      "link_count": 1,
+      "log_no": "224308113691",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308113691",
+      "published_at": "2026-06-06T23:36:47+09:00",
+      "text_length": 190,
+      "title": "미래탐구 대치 중등 특목센터 2027년도 과학고 입시 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-12T15:23:20+09:00",
       "text_length": 0,
       "title": "이화외고 입학설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
-      "link_count": 0,
-      "log_no": "224249641150",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249641150",
-      "published_at": "2026-04-12T15:22:15+09:00",
-      "text_length": 0,
-      "title": "명덕외고 중학생진로탐색교실"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-12T15:48:19.229246+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-12T15:48:19.229246+09:00",
-      "link_count": 0,
-      "log_no": "224249639631",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249639631",
-      "published_at": "2026-04-12T15:20:15+09:00",
-      "text_length": 0,
-      "title": "대일외고 중3을위한 온라인 만남"
     }
   ],
-  "updated_at": "2026-06-06T22:54:12.321899+09:00"
+  "updated_at": "2026-06-06T23:51:20.489659+09:00"
 }

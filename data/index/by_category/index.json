@@ -2416,6 +2416,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-06T23:51:20.489659+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-06T23:51:20.489659+09:00",
+        "link_count": 0,
+        "log_no": "224308115171",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308115171",
+        "published_at": "2026-06-06T23:39:07+09:00",
+        "text_length": 0,
+        "title": "김현정수학 온라인설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-06T23:51:20.489659+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-06T23:51:20.489659+09:00",
+        "link_count": 1,
+        "log_no": "224308113691",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308113691",
+        "published_at": "2026-06-06T23:36:47+09:00",
+        "text_length": 190,
+        "title": "미래탐구 대치 중등 특목센터 2027년도 과학고 입시 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
@@ -17461,5 +17487,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-06T22:54:12.321899+09:00"
+  "updated_at": "2026-06-06T23:51:20.489659+09:00"
 }
