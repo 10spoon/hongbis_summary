@@ -1,7 +1,33 @@
 {
   "key": "2026-06-06",
-  "post_count": 17,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-07T00:44:18.237676+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T00:44:18.237676+09:00",
+      "link_count": 3,
+      "log_no": "224308128121",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308128121",
+      "published_at": "2026-06-06T23:58:58+09:00",
+      "text_length": 322,
+      "title": "선경어학원 중등 여름방학 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-07T00:44:18.237676+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-07T00:44:18.237676+09:00",
+      "link_count": 0,
+      "log_no": "224308126390",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308126390",
+      "published_at": "2026-06-06T23:56:39+09:00",
+      "text_length": 0,
+      "title": "[5년 전 오늘] [이투스]엄마,아빠 때 대학순위는 어땠을까?"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-06T23:51:20.489659+09:00",
@@ -224,5 +250,5 @@
       "title": "거산학원 초중고시간표"
     }
   ],
-  "updated_at": "2026-06-06T23:51:20.489659+09:00"
+  "updated_at": "2026-06-07T00:44:18.237676+09:00"
 }
