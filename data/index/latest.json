@@ -1,6 +1,45 @@
 {
-  "post_count": 1355,
+  "post_count": 1358,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308888987",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308888987",
+      "published_at": "2026-06-07T23:37:09+09:00",
+      "text_length": 0,
+      "title": "목동우리영어 대치임팩트수학제휴학원"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308885167",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308885167",
+      "published_at": "2026-06-07T23:32:04+09:00",
+      "text_length": 626,
+      "title": "두각k 이영아소장, 강호길 원장 외대부고2 성공적인 방학준비"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308882711",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308882711",
+      "published_at": "2026-06-07T23:28:49+09:00",
+      "text_length": 0,
+      "title": "91세 정신과 의사 행복비결 \"작은 일에도 기뻐하라\""
+    },
     {
       "category": "선배들의공부방법모음",
       "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-13T18:41:13+09:00",
       "text_length": 773,
       "title": "2026 시대인재 고1 5월 과목별 특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-13T18:35:38.977661+09:00",
-      "link_count": 0,
-      "log_no": "224251009491",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251009491",
-      "published_at": "2026-04-13T18:23:46+09:00",
-      "text_length": 0,
-      "title": "사교육 컨설팅보다 낫다\" 호평…\"40분만에 500명, 조기 마감\""
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-13T18:35:38.977661+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-13T18:35:38.977661+09:00",
-      "link_count": 0,
-      "log_no": "224251004411",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251004411",
-      "published_at": "2026-04-13T18:18:55+09:00",
-      "text_length": 0,
-      "title": "김정준국어 중등시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-13T10:04:17.353379+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-13T10:04:17.353379+09:00",
-      "link_count": 0,
-      "log_no": "224250288594",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224250288594",
-      "published_at": "2026-04-13T08:46:27+09:00",
-      "text_length": 0,
-      "title": "코어부원정 추가개설반"
     }
   ],
-  "updated_at": "2026-06-07T21:48:53.943028+09:00"
+  "updated_at": "2026-06-07T23:54:24.885421+09:00"
 }

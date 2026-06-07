@@ -1,7 +1,46 @@
 {
   "key": "2026-06-07",
-  "post_count": 10,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308888987",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308888987",
+      "published_at": "2026-06-07T23:37:09+09:00",
+      "text_length": 0,
+      "title": "목동우리영어 대치임팩트수학제휴학원"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308885167",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308885167",
+      "published_at": "2026-06-07T23:32:04+09:00",
+      "text_length": 626,
+      "title": "두각k 이영아소장, 강호길 원장 외대부고2 성공적인 방학준비"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
+      "link_count": 0,
+      "log_no": "224308882711",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308882711",
+      "published_at": "2026-06-07T23:28:49+09:00",
+      "text_length": 0,
+      "title": "91세 정신과 의사 행복비결 \"작은 일에도 기뻐하라\""
+    },
     {
       "category": "선배들의공부방법모음",
       "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
@@ -133,5 +172,5 @@
       "title": "개념상상 예비고1 오전특강"
     }
   ],
-  "updated_at": "2026-06-07T21:48:53.943028+09:00"
+  "updated_at": "2026-06-07T23:54:24.885421+09:00"
 }
