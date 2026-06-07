@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-07T21:48:53.943028+09:00",
+        "link_count": 0,
+        "log_no": "224308773644",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308773644",
+        "published_at": "2026-06-07T21:18:14+09:00",
+        "text_length": 0,
+        "title": "2026하반기 양천구 청년행정인턴모집"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-06T22:54:12.321899+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-06T22:54:12.321899+09:00",
@@ -2178,6 +2191,32 @@
       }
     ],
     "선배들의공부방법모음": [
+      {
+        "category": "선배들의공부방법모음",
+        "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-07T21:48:53.943028+09:00",
+        "link_count": 0,
+        "log_no": "224308774790",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308774790",
+        "published_at": "2026-06-07T21:19:44+09:00",
+        "text_length": 0,
+        "title": "[6년 전 오늘] [인사이트]25살에 '5급 공무원' 합격한 '민사고·서울대 출신' 이규빈의 후덜덜한 연봉"
+      },
+      {
+        "category": "선배들의공부방법모음",
+        "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-07T21:48:53.943028+09:00",
+        "link_count": 0,
+        "log_no": "224308772493",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308772493",
+        "published_at": "2026-06-07T21:16:51+09:00",
+        "text_length": 0,
+        "title": "[2년 전 오늘] 서울대 합격 비결이요? 어린 시절부터 쌓아 온 독서 습관이죠”"
+      },
       {
         "category": "선배들의공부방법모음",
         "first_seen_at": "2026-05-30T21:42:43.726372+09:00",
@@ -17604,5 +17643,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-07T20:53:49.342304+09:00"
+  "updated_at": "2026-06-07T21:48:53.943028+09:00"
 }
