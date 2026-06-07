@@ -1,0 +1,36 @@
+{
+  "new_count": 3,
+  "new_posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+      "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+      "log_no": "224308461652",
+      "post_url": "https://blog.naver.com/hongbis/224308461652",
+      "published_at": "2026-06-07T13:34:49+09:00",
+      "title": "MEXX 명문고 진학의 역설: 환경은 조건일 뿐이다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+      "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+      "log_no": "224308451256",
+      "post_url": "https://blog.naver.com/hongbis/224308451256",
+      "published_at": "2026-06-07T13:17:51+09:00",
+      "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-07T12:25:57.708512+09:00",
+      "last_changed_at": "2026-06-07T12:25:57.708512+09:00",
+      "log_no": "224308401031",
+      "post_url": "https://blog.naver.com/hongbis/224308401031",
+      "published_at": "2026-06-07T11:53:04+09:00",
+      "title": "목동시대인재 특목·자사고 입시 설명회 & 정규반"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-06-07T18:00:00+09:00",
+  "window_start": "2026-06-07T08:00:00+09:00"
+}
