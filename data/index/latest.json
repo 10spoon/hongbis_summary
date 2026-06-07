@@ -1,6 +1,32 @@
 {
-  "post_count": 1347,
+  "post_count": 1349,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+      "link_count": 1,
+      "log_no": "224308461652",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308461652",
+      "published_at": "2026-06-07T13:34:49+09:00",
+      "text_length": 313,
+      "title": "MEXX 명문고 진학의 역설: 환경은 조건일 뿐이다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+      "link_count": 0,
+      "log_no": "224308451256",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308451256",
+      "published_at": "2026-06-07T13:17:51+09:00",
+      "text_length": 0,
+      "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-07T12:25:57.708512+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-12T21:38:30+09:00",
       "text_length": 303,
       "title": "대치미래탐구 중3 파이널 : 1타 합격 프로젝트 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-12T21:28:54.666488+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-12T21:28:54.666488+09:00",
-      "link_count": 1,
-      "log_no": "224249902676",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249902676",
-      "published_at": "2026-04-12T21:01:53+09:00",
-      "text_length": 59,
-      "title": "SNT 고1,2 5월특강"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-12T19:27:29.464582+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-12T19:27:29.464582+09:00",
-      "link_count": 0,
-      "log_no": "224249810059",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224249810059",
-      "published_at": "2026-04-12T19:05:49+09:00",
-      "text_length": 0,
-      "title": "이현이, '학비 1천만원' 명문초 학부모 총회 앞두고 긴장 \"가장 중요한 날\""
     }
   ],
-  "updated_at": "2026-06-07T12:25:57.708512+09:00"
+  "updated_at": "2026-06-07T14:50:28.326158+09:00"
 }

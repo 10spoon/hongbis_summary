@@ -2416,6 +2416,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+        "link_count": 1,
+        "log_no": "224308461652",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308461652",
+        "published_at": "2026-06-07T13:34:49+09:00",
+        "text_length": 313,
+        "title": "MEXX 명문고 진학의 역설: 환경은 조건일 뿐이다"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-07T00:44:18.237676+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-07T00:44:18.237676+09:00",
@@ -14217,6 +14230,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
+        "link_count": 0,
+        "log_no": "224308451256",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308451256",
+        "published_at": "2026-06-07T13:17:51+09:00",
+        "text_length": 0,
+        "title": "작년 고1 학업중단자 1만명 넘었다…내신 5등급제에도 자퇴 늘어"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-07T00:44:18.237676+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-07T00:44:18.237676+09:00",
@@ -17539,5 +17565,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-07T12:25:57.708512+09:00"
+  "updated_at": "2026-06-07T14:50:28.326158+09:00"
 }
