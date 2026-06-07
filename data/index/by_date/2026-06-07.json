@@ -1,7 +1,20 @@
 {
   "key": "2026-06-07",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-07T12:25:57.708512+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-07T12:25:57.708512+09:00",
+      "link_count": 1,
+      "log_no": "224308401031",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224308401031",
+      "published_at": "2026-06-07T11:53:04+09:00",
+      "text_length": 1082,
+      "title": "목동시대인재 특목·자사고 입시 설명회 & 정규반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-07T00:44:18.237676+09:00",
@@ -16,5 +29,5 @@
       "title": "개념상상 예비고1 오전특강"
     }
   ],
-  "updated_at": "2026-06-07T00:44:18.237676+09:00"
+  "updated_at": "2026-06-07T12:25:57.708512+09:00"
 }
