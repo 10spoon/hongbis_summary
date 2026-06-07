@@ -2416,6 +2416,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-07T20:53:49.342304+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-07T20:53:49.342304+09:00",
+        "link_count": 1,
+        "log_no": "224308741484",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308741484",
+        "published_at": "2026-06-07T20:35:43+09:00",
+        "text_length": 309,
+        "title": "목동에이원과학학원 예비고1 학부모 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-07T20:53:49.342304+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-07T20:53:49.342304+09:00",
+        "link_count": 2,
+        "log_no": "224308725480",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308725480",
+        "published_at": "2026-06-07T20:13:01+09:00",
+        "text_length": 589,
+        "title": "픽스 영재관 중2 7월 개강 초출(初出) 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-07T14:50:28.326158+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-07T14:50:28.326158+09:00",
@@ -7215,6 +7241,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-07T20:53:49.342304+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-07T20:53:49.342304+09:00",
+        "link_count": 2,
+        "log_no": "224308740125",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224308740125",
+        "published_at": "2026-06-07T20:33:55+09:00",
+        "text_length": 179,
+        "title": "목동예섬 2026 여름방학 시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-07T12:25:57.708512+09:00",
@@ -17565,5 +17604,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-07T14:50:28.326158+09:00"
+  "updated_at": "2026-06-07T20:53:49.342304+09:00"
 }
