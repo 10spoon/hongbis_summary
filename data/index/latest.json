@@ -1,6 +1,19 @@
 {
-  "post_count": 1368,
+  "post_count": 1369,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-08T20:55:27.848188+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-08T20:55:27.848188+09:00",
+      "link_count": 1,
+      "log_no": "224309816982",
+      "place_count": 3,
+      "post_url": "https://blog.naver.com/hongbis/224309816982",
+      "published_at": "2026-06-08T19:56:49+09:00",
+      "text_length": 914,
+      "title": "센티움학원 3차 예비고1(현 중3) 입시 설명회( 현대고 / 세화여고 / 압구정고 / 청담고)"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-14T00:38:04+09:00",
       "text_length": 0,
       "title": "성균관대 반도체시스템공학과 전공체험"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-14T00:47:06.202599+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-14T00:47:06.202599+09:00",
-      "link_count": 0,
-      "log_no": "224251336322",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251336322",
-      "published_at": "2026-04-13T23:58:32+09:00",
-      "text_length": 0,
-      "title": "러셀목동 썸머스쿨 설명회"
     }
   ],
-  "updated_at": "2026-06-08T18:52:05.653723+09:00"
+  "updated_at": "2026-06-08T20:55:27.848188+09:00"
 }
