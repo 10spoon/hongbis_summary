@@ -1,6 +1,19 @@
 {
-  "post_count": 1369,
+  "post_count": 1370,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-08T22:45:56.956795+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-08T22:45:56.956795+09:00",
+      "link_count": 5,
+      "log_no": "224309872082",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309872082",
+      "published_at": "2026-06-08T21:06:14+09:00",
+      "text_length": 1203,
+      "title": "두각학원 중3 수능 국어 정규 (현대문법/비문학) 김민준t"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-08T20:55:27.848188+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-14T07:58:31+09:00",
       "text_length": 38,
       "title": "수시 같은 정시 온다…대학별 28 입시 윤곽 속속"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-14T00:47:06.202599+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-14T00:47:06.202599+09:00",
-      "link_count": 0,
-      "log_no": "224251367130",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251367130",
-      "published_at": "2026-04-14T00:38:04+09:00",
-      "text_length": 0,
-      "title": "성균관대 반도체시스템공학과 전공체험"
     }
   ],
-  "updated_at": "2026-06-08T20:55:27.848188+09:00"
+  "updated_at": "2026-06-08T22:45:56.956795+09:00"
 }
