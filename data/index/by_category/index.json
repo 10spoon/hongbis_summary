@@ -2455,6 +2455,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-08T14:54:18.006146+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-08T14:54:18.006146+09:00",
+        "link_count": 1,
+        "log_no": "224309496790",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224309496790",
+        "published_at": "2026-06-08T14:49:03+09:00",
+        "text_length": 869,
+        "title": "엘브라운 반포 + 메디스카이랩 의치한약수·SKY 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-08T14:54:18.006146+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-08T14:54:18.006146+09:00",
+        "link_count": 0,
+        "log_no": "224309471951",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224309471951",
+        "published_at": "2026-06-08T14:28:19+09:00",
+        "text_length": 0,
+        "title": "송림학원 여름특강설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
@@ -17734,5 +17760,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-08T10:26:21.093578+09:00"
+  "updated_at": "2026-06-08T14:54:18.006146+09:00"
 }
