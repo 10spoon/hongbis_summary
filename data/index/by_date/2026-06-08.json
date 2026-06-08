@@ -1,7 +1,46 @@
 {
   "key": "2026-06-08",
-  "post_count": 12,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 3,
+      "log_no": "224310018498",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310018498",
+      "published_at": "2026-06-08T23:58:41+09:00",
+      "text_length": 1015,
+      "title": "시대인재 2026 현 중3 입시설명회 안내 (예비고1)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 0,
+      "log_no": "224309996748",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309996748",
+      "published_at": "2026-06-08T23:30:33+09:00",
+      "text_length": 0,
+      "title": "백인대장 고2 여름방학 정규 대체 프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 5,
+      "log_no": "224309996192",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309996192",
+      "published_at": "2026-06-08T23:29:45+09:00",
+      "text_length": 772,
+      "title": "대치미탐의대/과고센터 ★PRE-MEDI 의대수학PROGRAM 간담회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-08T22:45:56.956795+09:00",
@@ -159,5 +198,5 @@
       "title": "청소년 우울감·외로움 첫 정밀 진단…전국 6만명 건강행태 조사"
     }
   ],
-  "updated_at": "2026-06-08T22:45:56.956795+09:00"
+  "updated_at": "2026-06-09T00:27:37.492995+09:00"
 }

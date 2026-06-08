@@ -1,6 +1,45 @@
 {
-  "post_count": 1370,
+  "post_count": 1373,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 3,
+      "log_no": "224310018498",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310018498",
+      "published_at": "2026-06-08T23:58:41+09:00",
+      "text_length": 1015,
+      "title": "시대인재 2026 현 중3 입시설명회 안내 (예비고1)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 0,
+      "log_no": "224309996748",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309996748",
+      "published_at": "2026-06-08T23:30:33+09:00",
+      "text_length": 0,
+      "title": "백인대장 고2 여름방학 정규 대체 프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
+      "link_count": 5,
+      "log_no": "224309996192",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309996192",
+      "published_at": "2026-06-08T23:29:45+09:00",
+      "text_length": 772,
+      "title": "대치미탐의대/과고센터 ★PRE-MEDI 의대수학PROGRAM 간담회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-08T22:45:56.956795+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-14T18:38:50+09:00",
       "text_length": 733,
       "title": "세정입시관 세특 보고서 특강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-14T08:30:37.560917+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-14T08:30:37.560917+09:00",
-      "link_count": 4,
-      "log_no": "224251563839",
-      "place_count": 1,
-      "post_url": "https://blog.naver.com/hongbis/224251563839",
-      "published_at": "2026-04-14T08:22:06+09:00",
-      "text_length": 439,
-      "title": "골든타임수학학원 5월 브릿지 특강(실력의 틈과 틈사이 메꾸기)"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
-      "link_count": 0,
-      "log_no": "224251548300",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251548300",
-      "published_at": "2026-04-14T07:59:38+09:00",
-      "text_length": 0,
-      "title": "적성' 고르랬더니 '등급' 골랐다… 겉도는 고교학점제 1년"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-14T08:19:08.499807+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-14T08:19:08.499807+09:00",
-      "link_count": 1,
-      "log_no": "224251547531",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251547531",
-      "published_at": "2026-04-14T07:58:31+09:00",
-      "text_length": 38,
-      "title": "수시 같은 정시 온다…대학별 28 입시 윤곽 속속"
     }
   ],
-  "updated_at": "2026-06-08T22:45:56.956795+09:00"
+  "updated_at": "2026-06-09T00:27:37.492995+09:00"
 }
