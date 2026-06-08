@@ -1,7 +1,33 @@
 {
   "key": "2026-06-08",
-  "post_count": 8,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
+      "link_count": 0,
+      "log_no": "224309748458",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309748458",
+      "published_at": "2026-06-08T18:29:27+09:00",
+      "text_length": 0,
+      "title": "사춘기를 이긴다는 갱년기의 엄마가 낡은 여권들고 떠나더니…"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
+      "link_count": 0,
+      "log_no": "224309705227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309705227",
+      "published_at": "2026-06-08T17:43:36+09:00",
+      "text_length": 0,
+      "title": "깜깜이 학종에…국민 4명 중 1명 “수능이 가장 공정”"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-08T17:05:57.054436+09:00",
@@ -107,5 +133,5 @@
       "title": "청소년 우울감·외로움 첫 정밀 진단…전국 6만명 건강행태 조사"
     }
   ],
-  "updated_at": "2026-06-08T17:05:57.054436+09:00"
+  "updated_at": "2026-06-08T18:52:05.653723+09:00"
 }

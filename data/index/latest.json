@@ -1,6 +1,32 @@
 {
-  "post_count": 1366,
+  "post_count": 1368,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
+      "link_count": 0,
+      "log_no": "224309748458",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309748458",
+      "published_at": "2026-06-08T18:29:27+09:00",
+      "text_length": 0,
+      "title": "사춘기를 이긴다는 갱년기의 엄마가 낡은 여권들고 떠나더니…"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
+      "link_count": 0,
+      "log_no": "224309705227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224309705227",
+      "published_at": "2026-06-08T17:43:36+09:00",
+      "text_length": 0,
+      "title": "깜깜이 학종에…국민 4명 중 1명 “수능이 가장 공정”"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-08T17:05:57.054436+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-13T23:58:32+09:00",
       "text_length": 0,
       "title": "러셀목동 썸머스쿨 설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-13T23:54:16.351272+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-13T23:54:16.351272+09:00",
-      "link_count": 1,
-      "log_no": "224251329064",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251329064",
-      "published_at": "2026-04-13T23:50:12+09:00",
-      "text_length": 368,
-      "title": "서울시교육청 2026학년도 고1,2학년 집중 진학상담 주간 운영 안내"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-04-13T23:54:16.351272+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-13T23:54:16.351272+09:00",
-      "link_count": 0,
-      "log_no": "224251319448",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224251319448",
-      "published_at": "2026-04-13T23:38:57+09:00",
-      "text_length": 0,
-      "title": "[1년 전 오늘] '유 퀴즈 온 더 블럭' 서울대 공대 출신 지휘자 백윤학 \"공학이랑 음악 비슷해, 음계도 정답이 있다"
     }
   ],
-  "updated_at": "2026-06-08T17:05:57.054436+09:00"
+  "updated_at": "2026-06-08T18:52:05.653723+09:00"
 }
