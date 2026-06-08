@@ -7321,6 +7321,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-08T17:05:57.054436+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-08T17:05:57.054436+09:00",
+        "link_count": 0,
+        "log_no": "224309508044",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224309508044",
+        "published_at": "2026-06-08T14:58:10+09:00",
+        "text_length": 0,
+        "title": "개념상상sm 여름방학시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-07T23:54:24.885421+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-07T23:54:24.885421+09:00",
@@ -14360,6 +14373,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-08T17:05:57.054436+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-08T17:05:57.054436+09:00",
+        "link_count": 0,
+        "log_no": "224309637580",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224309637580",
+        "published_at": "2026-06-08T16:45:06+09:00",
+        "text_length": 0,
+        "title": "\"수능 잘 봐서 하이닉스 가자\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-08T10:26:21.093578+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-08T10:26:21.093578+09:00",
@@ -17760,5 +17786,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-08T14:54:18.006146+09:00"
+  "updated_at": "2026-06-08T17:05:57.054436+09:00"
 }
