@@ -2455,6 +2455,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 3,
+        "log_no": "224310814684",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310814684",
+        "published_at": "2026-06-09T17:35:10+09:00",
+        "text_length": 690,
+        "title": "목동 시대인재 2026 현 중3 입시설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 0,
+        "log_no": "224310746118",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310746118",
+        "published_at": "2026-06-09T16:36:14+09:00",
+        "text_length": 897,
+        "title": "유웨이 대치센터 고2 6월 입시 설명회 & 컨설팅"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-09T00:27:37.492995+09:00",
@@ -7371,6 +7397,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 3,
+        "log_no": "224310748841",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310748841",
+        "published_at": "2026-06-09T16:38:20+09:00",
+        "text_length": 452,
+        "title": "매시브독학관 6월 시대서프 및 독학관 신규등록"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 1,
+        "log_no": "224310743965",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310743965",
+        "published_at": "2026-06-09T16:34:28+09:00",
+        "text_length": 1082,
+        "title": "목동시대인재 특목·자사고 입시 설명회 & 정규반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 2,
+        "log_no": "224310741604",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310741604",
+        "published_at": "2026-06-09T16:32:24+09:00",
+        "text_length": 1124,
+        "title": "세정학원 예비고1 생명과학 여름방학 특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-09T10:16:26.943469+09:00",
@@ -14477,6 +14542,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T18:26:34.717897+09:00",
+        "link_count": 0,
+        "log_no": "224310854841",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310854841",
+        "published_at": "2026-06-09T18:13:03+09:00",
+        "text_length": 0,
+        "title": "2028 대입도 결국 특목고·자사고가 유리해졌다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
@@ -17903,5 +17981,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-09T10:16:26.943469+09:00"
+  "updated_at": "2026-06-09T18:26:34.717897+09:00"
 }
