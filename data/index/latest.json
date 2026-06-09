@@ -1,6 +1,19 @@
 {
-  "post_count": 1381,
+  "post_count": 1382,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-09T20:23:56.622717+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T20:23:56.622717+09:00",
+      "link_count": 0,
+      "log_no": "224310941790",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310941790",
+      "published_at": "2026-06-09T20:02:58+09:00",
+      "text_length": 0,
+      "title": "경찰대학생과 함께하는 2026 청소년 폴리스 아카데미"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-09T18:26:34.717897+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-14T23:49:30+09:00",
       "text_length": 0,
       "title": "아토즈 4월 설명회(서연고 학종, 논술전형 설명회)"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-14T23:54:30.275626+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-14T23:54:30.275626+09:00",
-      "link_count": 0,
-      "log_no": "224252562095",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224252562095",
-      "published_at": "2026-04-14T23:36:30+09:00",
-      "text_length": 0,
-      "title": "대치개념폴리아 초등5월시간표"
     }
   ],
-  "updated_at": "2026-06-09T18:26:34.717897+09:00"
+  "updated_at": "2026-06-09T20:23:56.622717+09:00"
 }

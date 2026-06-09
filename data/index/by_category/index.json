@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-09T20:23:56.622717+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-09T20:23:56.622717+09:00",
+        "link_count": 0,
+        "log_no": "224310941790",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224310941790",
+        "published_at": "2026-06-09T20:02:58+09:00",
+        "text_length": 0,
+        "title": "경찰대학생과 함께하는 2026 청소년 폴리스 아카데미"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-07T21:48:53.943028+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-07T21:48:53.943028+09:00",
@@ -17981,5 +17994,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-09T18:26:34.717897+09:00"
+  "updated_at": "2026-06-09T20:23:56.622717+09:00"
 }
