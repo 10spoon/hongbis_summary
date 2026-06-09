@@ -1,6 +1,32 @@
 {
-  "post_count": 1373,
+  "post_count": 1375,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-09T10:16:26.943469+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-06-09T10:16:26.943469+09:00",
+      "link_count": 0,
+      "log_no": "224310239367",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310239367",
+      "published_at": "2026-06-09T08:47:11+09:00",
+      "text_length": 0,
+      "title": "돌파수학서초 7월개강시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-09T10:16:26.943469+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T10:16:26.943469+09:00",
+      "link_count": 2,
+      "log_no": "224310238066",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310238066",
+      "published_at": "2026-06-09T08:45:10+09:00",
+      "text_length": 556,
+      "title": "MEXX 현 중3 여름방학 통과 /통사 특강 시간표 (예비고1)"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-09T00:27:37.492995+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-14T21:02:11+09:00",
       "text_length": 358,
       "title": "목동 시대인재 고1 국어 이수연T 문법 특강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-14T18:49:00.980479+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-14T18:49:00.980479+09:00",
-      "link_count": 2,
-      "log_no": "224252290709",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224252290709",
-      "published_at": "2026-04-14T18:40:27+09:00",
-      "text_length": 783,
-      "title": "KNS x 파인만 문/이과 최상위권을 위한 고교 선택 전략과 과목별 로드맵 ★현장설명회★"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-14T18:49:00.980479+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-14T18:49:00.980479+09:00",
-      "link_count": 1,
-      "log_no": "224252288739",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224252288739",
-      "published_at": "2026-04-14T18:38:50+09:00",
-      "text_length": 733,
-      "title": "세정입시관 세특 보고서 특강"
     }
   ],
-  "updated_at": "2026-06-09T00:27:37.492995+09:00"
+  "updated_at": "2026-06-09T10:16:26.943469+09:00"
 }
