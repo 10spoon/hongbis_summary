@@ -1,7 +1,46 @@
 {
   "key": "2026-06-09",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-09T22:17:32.061509+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T22:17:32.061509+09:00",
+      "link_count": 0,
+      "log_no": "224310985889",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310985889",
+      "published_at": "2026-06-09T20:58:24+09:00",
+      "text_length": 0,
+      "title": "미래GT 초3대상 [서울교대: 전국초등과학창의 사고력 대회] 4주특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T22:17:32.061509+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T22:17:32.061509+09:00",
+      "link_count": 0,
+      "log_no": "224310983291",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310983291",
+      "published_at": "2026-06-09T20:55:19+09:00",
+      "text_length": 54,
+      "title": "대치이강 중3 2028년 대입 전형 확정 계획안에 따른 학생.학부모와 함께하는 중3 고교선택 전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-09T22:17:32.061509+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-09T22:17:32.061509+09:00",
+      "link_count": 0,
+      "log_no": "224310974265",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224310974265",
+      "published_at": "2026-06-09T20:44:26+09:00",
+      "text_length": 334,
+      "title": "로뎀과학 7월 중등(중1.2학년) 간담회 ※ 중3(예비고1)"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-09T20:23:56.622717+09:00",
@@ -120,5 +159,5 @@
       "title": "MEXX 현 중3 여름방학 통과 /통사 특강 시간표 (예비고1)"
     }
   ],
-  "updated_at": "2026-06-09T20:23:56.622717+09:00"
+  "updated_at": "2026-06-09T22:17:32.061509+09:00"
 }
