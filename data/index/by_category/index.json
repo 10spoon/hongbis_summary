@@ -85,6 +85,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311136007",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311136007",
+        "published_at": "2026-06-09T23:48:45+09:00",
+        "text_length": 0,
+        "title": "한생연 여름방학특강"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311134933",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311134933",
+        "published_at": "2026-06-09T23:47:20+09:00",
+        "text_length": 0,
+        "title": "하나은행 자연사랑 어린이 미술대회"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311128242",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311128242",
+        "published_at": "2026-06-09T23:39:09+09:00",
+        "text_length": 0,
+        "title": "2027학년도 수시대학입학정보박람회"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-09T20:23:56.622717+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-09T20:23:56.622717+09:00",
@@ -2466,6 +2505,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 3,
+        "log_no": "224311146944",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311146944",
+        "published_at": "2026-06-10T00:01:32+09:00",
+        "text_length": 330,
+        "title": "선경어학원 고1~3 6월 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311137544",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311137544",
+        "published_at": "2026-06-09T23:50:42+09:00",
+        "text_length": 0,
+        "title": "양천구 19시, 미래를 켜다(Future ON) - 교육대기자 TV 방종임> AI시대 앞서가는 부모를 위한 자녀 교육법"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-09T22:17:32.061509+09:00",
@@ -7436,6 +7501,71 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311144813",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311144813",
+        "published_at": "2026-06-09T23:59:17+09:00",
+        "text_length": 0,
+        "title": "선제영어 입학테스트"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311140679",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311140679",
+        "published_at": "2026-06-09T23:54:36+09:00",
+        "text_length": 0,
+        "title": "생각하는수학 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311092085",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311092085",
+        "published_at": "2026-06-09T22:58:00+09:00",
+        "text_length": 0,
+        "title": "생각과표현국어 수능국어원리반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311089789",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311089789",
+        "published_at": "2026-06-09T22:55:29+09:00",
+        "text_length": 0,
+        "title": "고앤정수학 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311085270",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311085270",
+        "published_at": "2026-06-09T22:50:20+09:00",
+        "text_length": 0,
+        "title": "이미주수학 여름방학오전특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-09T22:17:32.061509+09:00",
@@ -12900,6 +13030,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
+        "link_count": 0,
+        "log_no": "224311142854",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311142854",
+        "published_at": "2026-06-09T23:57:13+09:00",
+        "text_length": 0,
+        "title": "[4년 전 오늘] 최승자 참 우습다"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-08T18:52:05.653723+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-08T18:52:05.653723+09:00",
@@ -18033,5 +18176,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-09T22:17:32.061509+09:00"
+  "updated_at": "2026-06-10T00:23:19.936506+09:00"
 }
