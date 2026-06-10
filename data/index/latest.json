@@ -1,6 +1,58 @@
 {
-  "post_count": 1399,
+  "post_count": 1403,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-10T12:25:46.392976+09:00",
+      "link_count": 0,
+      "log_no": "224311594054",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311594054",
+      "published_at": "2026-06-10T12:16:11+09:00",
+      "text_length": 0,
+      "title": "서울특별시교육청 2026 생명지킴이 학부모·보호자 연수"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T12:25:46.392976+09:00",
+      "link_count": 0,
+      "log_no": "224311524586",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311524586",
+      "published_at": "2026-06-10T11:10:15+09:00",
+      "text_length": 234,
+      "title": "2026 IYAC 글로벌 청소년 미술 대회 (만 13~19세)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T12:25:46.392976+09:00",
+      "link_count": 0,
+      "log_no": "224311520967",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311520967",
+      "published_at": "2026-06-10T11:06:58+09:00",
+      "text_length": 0,
+      "title": "2026 공동 온라인 선교육과정 모집"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T12:25:46.392976+09:00",
+      "link_count": 0,
+      "log_no": "224311515263",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311515263",
+      "published_at": "2026-06-10T11:01:58+09:00",
+      "text_length": 0,
+      "title": "젠슨 황, 서울대 찾아 \"AI 시대 졸업생...거대한 기회\""
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-15T21:40:05+09:00",
       "text_length": 0,
       "title": "개념상상대치 5월단기특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
-      "link_count": 0,
-      "log_no": "224253707117",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253707117",
-      "published_at": "2026-04-15T21:38:11+09:00",
-      "text_length": 0,
-      "title": "공부해도 제자리?” 1등급 75% ‘피드백’, 5등급은 ‘점수만 확인’"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
-      "link_count": 2,
-      "log_no": "224253704793",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253704793",
-      "published_at": "2026-04-15T21:35:42+09:00",
-      "text_length": 774,
-      "title": "윤도영통합과학시스템 2027 수능 대비 윤도영 생명과학Ⅰ 2단계 실전반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-15T21:39:50.670522+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-15T21:39:50.670522+09:00",
-      "link_count": 1,
-      "log_no": "224253701993",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253701993",
-      "published_at": "2026-04-15T21:32:40+09:00",
-      "text_length": 900,
-      "title": "2응입시팀 5월 연휴 자소서 뼈대 잡기 특강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
-      "link_count": 0,
-      "log_no": "224253636652",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253636652",
-      "published_at": "2026-04-15T20:20:16+09:00",
-      "text_length": 0,
-      "title": "서율학원 고1 5월특강"
     }
   ],
-  "updated_at": "2026-06-10T10:21:57.270229+09:00"
+  "updated_at": "2026-06-10T12:25:46.392976+09:00"
 }
