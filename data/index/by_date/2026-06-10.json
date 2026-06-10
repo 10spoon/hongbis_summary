@@ -1,7 +1,46 @@
 {
   "key": "2026-06-10",
-  "post_count": 18,
+  "post_count": 21,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
+      "link_count": 0,
+      "log_no": "224312261923",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312261923",
+      "published_at": "2026-06-10T23:55:52+09:00",
+      "text_length": 0,
+      "title": "이든수학 7월이후 정규반"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
+      "link_count": 0,
+      "log_no": "224312253075",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312253075",
+      "published_at": "2026-06-10T23:44:22+09:00",
+      "text_length": 0,
+      "title": "초등 부모들이 더 관심, 지역의사 전형 위한 이사는 신중해야”"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
+      "link_count": 0,
+      "log_no": "224312252436",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312252436",
+      "published_at": "2026-06-10T23:43:30+09:00",
+      "text_length": 0,
+      "title": "일상에서 쉼 없이 배우는 아이들 못 이기죠"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
@@ -237,5 +276,5 @@
       "title": "선경어학원 고1~3 6월 설명회"
     }
   ],
-  "updated_at": "2026-06-10T22:32:13.138666+09:00"
+  "updated_at": "2026-06-11T00:26:11.870324+09:00"
 }

@@ -1,0 +1,33 @@
+{
+  "key": "2026-06-11",
+  "post_count": 2,
+  "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
+      "link_count": 3,
+      "log_no": "224312277089",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224312277089",
+      "published_at": "2026-06-11T00:15:55+09:00",
+      "text_length": 389,
+      "title": "대치동수학학원 골든타임수학학원 7월 브릿지&여름방학 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
+      "link_count": 0,
+      "log_no": "224312274017",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312274017",
+      "published_at": "2026-06-11T00:11:16+09:00",
+      "text_length": 0,
+      "title": "단국대학교소프트웨어고등학교 입학설명회"
+    }
+  ],
+  "updated_at": "2026-06-11T00:26:11.870324+09:00"
+}
