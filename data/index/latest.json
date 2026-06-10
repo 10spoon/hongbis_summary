@@ -1,6 +1,19 @@
 {
-  "post_count": 1419,
+  "post_count": 1420,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-11T08:33:54.656230+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-11T08:33:54.656230+09:00",
+      "link_count": 0,
+      "log_no": "224312439954",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312439954",
+      "published_at": "2026-06-11T07:56:25+09:00",
+      "text_length": 0,
+      "title": "이콘퀘스트 경제캠프"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-11T02:24:24.431659+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-16T21:02:02+09:00",
       "text_length": 269,
       "title": "고려대학교 KU캠프"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-16T21:41:07.380415+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-16T21:41:07.380415+09:00",
-      "link_count": 0,
-      "log_no": "224254888580",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224254888580",
-      "published_at": "2026-04-16T20:52:32+09:00",
-      "text_length": 0,
-      "title": "돌파수학 중1 공통수학1 기본반개강"
     }
   ],
-  "updated_at": "2026-06-11T02:24:24.431659+09:00"
+  "updated_at": "2026-06-11T08:33:54.656230+09:00"
 }

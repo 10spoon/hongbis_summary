@@ -1,7 +1,20 @@
 {
   "key": "2026-06-11",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-11T08:33:54.656230+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-11T08:33:54.656230+09:00",
+      "link_count": 0,
+      "log_no": "224312439954",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312439954",
+      "published_at": "2026-06-11T07:56:25+09:00",
+      "text_length": 0,
+      "title": "이콘퀘스트 경제캠프"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-11T02:24:24.431659+09:00",
@@ -42,5 +55,5 @@
       "title": "단국대학교소프트웨어고등학교 입학설명회"
     }
   ],
-  "updated_at": "2026-06-11T02:24:24.431659+09:00"
+  "updated_at": "2026-06-11T08:33:54.656230+09:00"
 }
