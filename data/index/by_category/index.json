@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 1,
+        "log_no": "224312139655",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312139655",
+        "published_at": "2026-06-10T21:28:30+09:00",
+        "text_length": 721,
+        "title": "2026학년도 서울대학교 공과대학 청소년 공학 프런티어 캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-10T12:25:46.392976+09:00",
@@ -2518,6 +2531,71 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 0,
+        "log_no": "224312153736",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312153736",
+        "published_at": "2026-06-10T21:44:48+09:00",
+        "text_length": 466,
+        "title": "러셀 목동 중3 여름방학 학습전략 및 수업선택 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 0,
+        "log_no": "224312151475",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312151475",
+        "published_at": "2026-06-10T21:42:10+09:00",
+        "text_length": 386,
+        "title": "서강대학교 입학설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 3,
+        "log_no": "224312144876",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312144876",
+        "published_at": "2026-06-10T21:34:27+09:00",
+        "text_length": 1027,
+        "title": "파인만 입시컨설팅 연합 대입 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 3,
+        "log_no": "224312143616",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312143616",
+        "published_at": "2026-06-10T21:33:00+09:00",
+        "text_length": 691,
+        "title": "시대인재 현 중3 입시설명회 안내 (예비고1)"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 0,
+        "log_no": "224312134883",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312134883",
+        "published_at": "2026-06-10T21:22:47+09:00",
+        "text_length": 0,
+        "title": "강남인강 '2027학년도 대입 수시 전략의 모든 것'을 개최합니다!"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-10T16:48:04.282947+09:00",
@@ -7566,6 +7644,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 0,
+        "log_no": "224312149566",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312149566",
+        "published_at": "2026-06-10T21:39:55+09:00",
+        "text_length": 0,
+        "title": "대치원수학 중3-1편입전형"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-10T22:32:13.138666+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T22:32:13.138666+09:00",
+        "link_count": 0,
+        "log_no": "224312147115",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224312147115",
+        "published_at": "2026-06-10T21:37:05+09:00",
+        "text_length": 413,
+        "title": "펨토스 전문가 물리대회 여름 특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
@@ -18293,5 +18397,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-10T16:48:04.282947+09:00"
+  "updated_at": "2026-06-10T22:32:13.138666+09:00"
 }
