@@ -1,6 +1,19 @@
 {
-  "post_count": 1418,
+  "post_count": 1419,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-11T02:24:24.431659+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-11T02:24:24.431659+09:00",
+      "link_count": 0,
+      "log_no": "224312283496",
+      "place_count": 3,
+      "post_url": "https://blog.naver.com/hongbis/224312283496",
+      "published_at": "2026-06-11T00:26:29+09:00",
+      "text_length": 565,
+      "title": "압구정센티움학원 2026 고1 입시 설명회, 정문찬소장님"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-16T20:52:32+09:00",
       "text_length": 0,
       "title": "돌파수학 중1 공통수학1 기본반개강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-16T20:39:06.073925+09:00",
-      "image_count": 7,
-      "last_changed_at": "2026-04-16T20:39:06.073925+09:00",
-      "link_count": 0,
-      "log_no": "224254871172",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224254871172",
-      "published_at": "2026-04-16T20:31:33+09:00",
-      "text_length": 0,
-      "title": "한국과학영재학교 과학축전"
     }
   ],
-  "updated_at": "2026-06-11T00:26:11.870324+09:00"
+  "updated_at": "2026-06-11T02:24:24.431659+09:00"
 }
