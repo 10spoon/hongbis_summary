@@ -2507,6 +2507,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+        "link_count": 1,
+        "log_no": "224311457358",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311457358",
+        "published_at": "2026-06-10T10:09:39+09:00",
+        "text_length": 655,
+        "title": "나오미T. 6월설명회(대치두각,목동다원)"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+        "link_count": 1,
+        "log_no": "224311428330",
+        "place_count": 3,
+        "post_url": "https://blog.naver.com/hongbis/224311428330",
+        "published_at": "2026-06-10T09:38:20+09:00",
+        "text_length": 620,
+        "title": "센티움학원 정문찬 소장님과 함께하는 예비고1 입시의 모든 것!"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
@@ -13030,6 +13056,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+        "link_count": 0,
+        "log_no": "224311412166",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311412166",
+        "published_at": "2026-06-10T09:19:59+09:00",
+        "text_length": 0,
+        "title": "문 넓어질 테니 두려워 말고 일터로 나가세요”"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-10T00:23:19.936506+09:00",
@@ -18176,5 +18215,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-10T00:23:19.936506+09:00"
+  "updated_at": "2026-06-10T10:21:57.270229+09:00"
 }

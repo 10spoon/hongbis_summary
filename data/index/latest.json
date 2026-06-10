@@ -1,6 +1,45 @@
 {
-  "post_count": 1396,
+  "post_count": 1399,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+      "link_count": 1,
+      "log_no": "224311457358",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311457358",
+      "published_at": "2026-06-10T10:09:39+09:00",
+      "text_length": 655,
+      "title": "나오미T. 6월설명회(대치두각,목동다원)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+      "link_count": 1,
+      "log_no": "224311428330",
+      "place_count": 3,
+      "post_url": "https://blog.naver.com/hongbis/224311428330",
+      "published_at": "2026-06-10T09:38:20+09:00",
+      "text_length": 620,
+      "title": "센티움학원 정문찬 소장님과 함께하는 예비고1 입시의 모든 것!"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
+      "link_count": 0,
+      "log_no": "224311412166",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311412166",
+      "published_at": "2026-06-10T09:19:59+09:00",
+      "text_length": 0,
+      "title": "문 넓어질 테니 두려워 말고 일터로 나가세요”"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-10T00:23:19.936506+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-15T20:20:16+09:00",
       "text_length": 0,
       "title": "서율학원 고1 5월특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
-      "link_count": 0,
-      "log_no": "224253635093",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253635093",
-      "published_at": "2026-04-15T20:18:25+09:00",
-      "text_length": 0,
-      "title": "[3년 전 오늘] 학종으로 의대 간 선배들의 공통분모 3가지는 ‘이것’"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-15T20:36:28.280490+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-15T20:36:28.280490+09:00",
-      "link_count": 5,
-      "log_no": "224253611108",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253611108",
-      "published_at": "2026-04-15T19:49:26+09:00",
-      "text_length": 915,
-      "title": "목동씨앤씨 수학설명회"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-15T19:41:44.541453+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-15T19:41:44.541453+09:00",
-      "link_count": 0,
-      "log_no": "224253590795",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253590795",
-      "published_at": "2026-04-15T19:25:25+09:00",
-      "text_length": 0,
-      "title": "제10회 춘계 연세 인문학 캠프"
     }
   ],
-  "updated_at": "2026-06-10T00:23:19.936506+09:00"
+  "updated_at": "2026-06-10T10:21:57.270229+09:00"
 }
