@@ -1,6 +1,32 @@
 {
-  "post_count": 1403,
+  "post_count": 1405,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-10T16:48:04.282947+09:00",
+      "image_count": 12,
+      "last_changed_at": "2026-06-10T16:48:04.282947+09:00",
+      "link_count": 0,
+      "log_no": "224311799956",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311799956",
+      "published_at": "2026-06-10T15:29:13+09:00",
+      "text_length": 1121,
+      "title": "클래스데이 산김영준국어 상위권국어전략온라인설명회 참석자전원의대생기부제공"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-10T16:48:04.282947+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-10T16:48:04.282947+09:00",
+      "link_count": 0,
+      "log_no": "224311760730",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224311760730",
+      "published_at": "2026-06-10T14:55:15+09:00",
+      "text_length": 252,
+      "title": "KAIST 주최 과학기술원 공동 입학설명회 안내 (6/27, 토요일, 대전 본원)"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-10T12:25:46.392976+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-16T00:08:59+09:00",
       "text_length": 0,
       "title": "클라디학원 초등수학 정밀진단테스트"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-16T00:43:20.223112+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-16T00:43:20.223112+09:00",
-      "link_count": 0,
-      "log_no": "224253835474",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253835474",
-      "published_at": "2026-04-15T23:59:56+09:00",
-      "text_length": 308,
-      "title": "두각k수학 중3, 이종완T가 들려주는 고등수학 이야기, 딱 이렇게만 하면 성공한다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-15T22:54:31.915612+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-15T22:54:31.915612+09:00",
-      "link_count": 0,
-      "log_no": "224253708879",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224253708879",
-      "published_at": "2026-04-15T21:40:05+09:00",
-      "text_length": 0,
-      "title": "개념상상대치 5월단기특강"
     }
   ],
-  "updated_at": "2026-06-10T12:25:46.392976+09:00"
+  "updated_at": "2026-06-10T16:48:04.282947+09:00"
 }

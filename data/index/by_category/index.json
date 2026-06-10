@@ -2520,6 +2520,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-10T16:48:04.282947+09:00",
+        "image_count": 12,
+        "last_changed_at": "2026-06-10T16:48:04.282947+09:00",
+        "link_count": 0,
+        "log_no": "224311799956",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311799956",
+        "published_at": "2026-06-10T15:29:13+09:00",
+        "text_length": 1121,
+        "title": "클래스데이 산김영준국어 상위권국어전략온라인설명회 참석자전원의대생기부제공"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-10T16:48:04.282947+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-10T16:48:04.282947+09:00",
+        "link_count": 0,
+        "log_no": "224311760730",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224311760730",
+        "published_at": "2026-06-10T14:55:15+09:00",
+        "text_length": 252,
+        "title": "KAIST 주최 과학기술원 공동 입학설명회 안내 (6/27, 토요일, 대전 본원)"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-10T10:21:57.270229+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-10T10:21:57.270229+09:00",
@@ -18267,5 +18293,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-10T12:25:46.392976+09:00"
+  "updated_at": "2026-06-10T16:48:04.282947+09:00"
 }
