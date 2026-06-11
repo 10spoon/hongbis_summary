@@ -7724,6 +7724,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-11T18:46:03.885339+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-11T18:46:03.885339+09:00",
+        "link_count": 0,
+        "log_no": "224313003378",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313003378",
+        "published_at": "2026-06-11T17:10:51+09:00",
+        "text_length": 956,
+        "title": "천개의고원 고2 여름방학 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-11T00:26:11.870324+09:00",
         "image_count": 4,
         "last_changed_at": "2026-06-11T00:26:11.870324+09:00",
@@ -18527,5 +18540,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-11T17:00:38.095079+09:00"
+  "updated_at": "2026-06-11T18:46:03.885339+09:00"
 }
