@@ -1,6 +1,32 @@
 {
-  "post_count": 1421,
+  "post_count": 1423,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-11T17:00:38.095079+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T17:00:38.095079+09:00",
+      "link_count": 0,
+      "log_no": "224312894272",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312894272",
+      "published_at": "2026-06-11T15:36:37+09:00",
+      "text_length": 459,
+      "title": "아드폰테스 중3 학부모 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-11T17:00:38.095079+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T17:00:38.095079+09:00",
+      "link_count": 3,
+      "log_no": "224312890557",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312890557",
+      "published_at": "2026-06-11T15:33:34+09:00",
+      "text_length": 596,
+      "title": "시대인재 2026 현 중3 입시설명회 안내 (예비고1) 2026 정성민 DnA 입시Lab 소장"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-11T14:54:14.961567+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-16T22:42:04+09:00",
       "text_length": 0,
       "title": "국민생각함 청소년 정책패널모집"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-16T22:55:03.997587+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-16T22:55:03.997587+09:00",
-      "link_count": 0,
-      "log_no": "224254978603",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224254978603",
-      "published_at": "2026-04-16T22:34:14+09:00",
-      "text_length": 0,
-      "title": "2026년 학생 및 학부모 대상 'HUFS 지원전략 설명회' 신청"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-16T21:41:07.380415+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-16T21:41:07.380415+09:00",
-      "link_count": 0,
-      "log_no": "224254918121",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224254918121",
-      "published_at": "2026-04-16T21:26:30+09:00",
-      "text_length": 0,
-      "title": "티스과학 5월시간표"
     }
   ],
-  "updated_at": "2026-06-11T14:54:14.961567+09:00"
+  "updated_at": "2026-06-11T17:00:38.095079+09:00"
 }
