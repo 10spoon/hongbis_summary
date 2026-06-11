@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313321063",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313321063",
+        "published_at": "2026-06-11T23:50:41+09:00",
+        "text_length": 358,
+        "title": "123과학탐험대 참가자 모집"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-11T08:33:54.656230+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-11T08:33:54.656230+09:00",
@@ -7750,6 +7763,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313312382",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313312382",
+        "published_at": "2026-06-11T23:38:32+09:00",
+        "text_length": 0,
+        "title": "마리이야기 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313308339",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313308339",
+        "published_at": "2026-06-11T23:33:06+09:00",
+        "text_length": 0,
+        "title": "택학원 여름개강반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-11T22:41:45.133912+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-11T22:41:45.133912+09:00",
@@ -13381,6 +13420,45 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313316029",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313316029",
+        "published_at": "2026-06-11T23:43:29+09:00",
+        "text_length": 0,
+        "title": "[5년 전 오늘] [1년 전 오늘] [모성에도 총량의 법칙이 있다!]"
+      },
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313314859",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313314859",
+        "published_at": "2026-06-11T23:41:58+09:00",
+        "text_length": 0,
+        "title": "[5년 전 오늘] [1년 전 오늘] [가수 이적엄마, 여성학자 박혜란\"젊은 엄마에게 들려주고 싶은 10가지 말\"]"
+      },
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
+        "link_count": 0,
+        "log_no": "224313308727",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313308727",
+        "published_at": "2026-06-11T23:33:38+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] “살림, ‘잘’하기보다 ‘덜’하고 싶다”···4050 여성들의 변화한 삶"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-11T22:41:45.133912+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-11T22:41:45.133912+09:00",
@@ -18618,5 +18696,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-11T22:41:45.133912+09:00"
+  "updated_at": "2026-06-12T00:27:40.987164+09:00"
 }
