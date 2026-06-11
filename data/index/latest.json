@@ -1,6 +1,19 @@
 {
-  "post_count": 1420,
+  "post_count": 1421,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-11T14:54:14.961567+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-11T14:54:14.961567+09:00",
+      "link_count": 1,
+      "log_no": "224312718446",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224312718446",
+      "published_at": "2026-06-11T13:04:45+09:00",
+      "text_length": 454,
+      "title": "피오르에듀 6월 피오르에듀 프리미엄 입시 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-11T08:33:54.656230+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-16T21:26:30+09:00",
       "text_length": 0,
       "title": "티스과학 5월시간표"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-16T21:41:07.380415+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-16T21:41:07.380415+09:00",
-      "link_count": 0,
-      "log_no": "224254896723",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224254896723",
-      "published_at": "2026-04-16T21:02:02+09:00",
-      "text_length": 269,
-      "title": "고려대학교 KU캠프"
     }
   ],
-  "updated_at": "2026-06-11T08:33:54.656230+09:00"
+  "updated_at": "2026-06-11T14:54:14.961567+09:00"
 }
