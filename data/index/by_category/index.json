@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T18:40:55.154497+09:00",
+        "link_count": 0,
+        "log_no": "224314157321",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314157321",
+        "published_at": "2026-06-12T18:13:40+09:00",
+        "text_length": 860,
+        "title": "연세대학교 고등교육혁신원 2026-1 사회혁신 멘토링 청소년 멘티 모집 (~6/21)"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-12T14:53:56.500298+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-12T14:53:56.500298+09:00",
@@ -2570,6 +2583,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T18:40:55.154497+09:00",
+        "link_count": 3,
+        "log_no": "224314144981",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314144981",
+        "published_at": "2026-06-12T18:01:01+09:00",
+        "text_length": 592,
+        "title": "시대인재 2026 예비고1 입시설명회 안내 (현 중3)"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T18:40:55.154497+09:00",
+        "link_count": 1,
+        "log_no": "224314120575",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314120575",
+        "published_at": "2026-06-12T17:35:26+09:00",
+        "text_length": 842,
+        "title": "햇살정원 의대관 2028 서울대 약대& 이공계 역량평가 콜라보면접 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-12T14:53:56.500298+09:00",
@@ -18787,5 +18826,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-12T14:53:56.500298+09:00"
+  "updated_at": "2026-06-12T18:40:55.154497+09:00"
 }
