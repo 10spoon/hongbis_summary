@@ -7776,6 +7776,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-12T12:26:04.011080+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-12T12:26:04.011080+09:00",
+        "link_count": 2,
+        "log_no": "224313673484",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224313673484",
+        "published_at": "2026-06-12T10:43:46+09:00",
+        "text_length": 730,
+        "title": "콴다일로 중등수학관 중3 수학 기말고사 100점 전략"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
@@ -18735,5 +18748,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-12T10:27:12.175815+09:00"
+  "updated_at": "2026-06-12T12:26:04.011080+09:00"
 }
