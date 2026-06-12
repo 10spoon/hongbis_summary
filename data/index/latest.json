@@ -1,6 +1,58 @@
 {
-  "post_count": 1446,
+  "post_count": 1450,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314315260",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314315260",
+      "published_at": "2026-06-12T22:11:26+09:00",
+      "text_length": 0,
+      "title": "미국 대학 캠퍼스에 거대한 변화가 일어나고 있다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314312457",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314312457",
+      "published_at": "2026-06-12T22:07:19+09:00",
+      "text_length": 0,
+      "title": "전회경영어 여름방학문법특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314310174",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314310174",
+      "published_at": "2026-06-12T22:03:52+09:00",
+      "text_length": 0,
+      "title": "세계는 지금 '의사과학자'를 키운다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314286953",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224314286953",
+      "published_at": "2026-06-12T21:28:49+09:00",
+      "text_length": 0,
+      "title": "임창섭과학 여름방학시간표"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-19T13:27:17+09:00",
       "text_length": 0,
       "title": "의대 신입생 내신 합격선 평균 ‘1.22등급’…최상위권 쏠림 더 커졌다"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-18T21:28:46.678641+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-18T21:28:46.678641+09:00",
-      "link_count": 0,
-      "log_no": "224257031339",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224257031339",
-      "published_at": "2026-04-18T20:57:15+09:00",
-      "text_length": 0,
-      "title": "왜 우리는 가족에게 더 상처받을까"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-18T19:27:43.978960+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-18T19:27:43.978960+09:00",
-      "link_count": 1,
-      "log_no": "224256940165",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256940165",
-      "published_at": "2026-04-18T18:41:55+09:00",
-      "text_length": 557,
-      "title": "위더스학원 대수 핵심개념 5월 단기특강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-18T16:40:37.134641+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-18T16:40:37.134641+09:00",
-      "link_count": 1,
-      "log_no": "224256814897",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256814897",
-      "published_at": "2026-04-18T15:49:17+09:00",
-      "text_length": 810,
-      "title": "씨앤씨 특목자사설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-18T15:42:12.205948+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-18T15:42:12.205948+09:00",
-      "link_count": 0,
-      "log_no": "224256783562",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256783562",
-      "published_at": "2026-04-18T15:09:53+09:00",
-      "text_length": 990,
-      "title": "예섬학원 고1 국어 / 수학 5월 단기특강 강좌"
     }
   ],
-  "updated_at": "2026-06-12T18:40:55.154497+09:00"
+  "updated_at": "2026-06-12T22:28:13.540740+09:00"
 }

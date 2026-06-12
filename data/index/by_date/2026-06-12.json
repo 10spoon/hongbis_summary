@@ -1,7 +1,59 @@
 {
   "key": "2026-06-12",
-  "post_count": 10,
+  "post_count": 14,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314315260",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314315260",
+      "published_at": "2026-06-12T22:11:26+09:00",
+      "text_length": 0,
+      "title": "미국 대학 캠퍼스에 거대한 변화가 일어나고 있다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314312457",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314312457",
+      "published_at": "2026-06-12T22:07:19+09:00",
+      "text_length": 0,
+      "title": "전회경영어 여름방학문법특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314310174",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314310174",
+      "published_at": "2026-06-12T22:03:52+09:00",
+      "text_length": 0,
+      "title": "세계는 지금 '의사과학자'를 키운다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T22:28:13.540740+09:00",
+      "link_count": 0,
+      "log_no": "224314286953",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224314286953",
+      "published_at": "2026-06-12T21:28:49+09:00",
+      "text_length": 0,
+      "title": "임창섭과학 여름방학시간표"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
@@ -133,5 +185,5 @@
       "title": "젠슨황, 엔비디아 채용 기준 밝혔다 \"똑똑한 사람은 흔해, 가장 중요한 건 '이것'\""
     }
   ],
-  "updated_at": "2026-06-12T18:40:55.154497+09:00"
+  "updated_at": "2026-06-12T22:28:13.540740+09:00"
 }
