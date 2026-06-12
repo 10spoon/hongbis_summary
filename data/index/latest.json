@@ -1,6 +1,45 @@
 {
-  "post_count": 1436,
+  "post_count": 1439,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-12T10:27:12.175815+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T10:27:12.175815+09:00",
+      "link_count": 2,
+      "log_no": "224313651702",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224313651702",
+      "published_at": "2026-06-12T10:23:09+09:00",
+      "text_length": 1186,
+      "title": "두각학원 수학/영어 즉문즉설 4가지 콘서트"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T10:27:12.175815+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T10:27:12.175815+09:00",
+      "link_count": 0,
+      "log_no": "224313633135",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224313633135",
+      "published_at": "2026-06-12T10:04:40+09:00",
+      "text_length": 0,
+      "title": "힘들 때는 달려보렴\" 82세 老선배가 만든 서울대 러닝 장학금"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-12T10:27:12.175815+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-12T10:27:12.175815+09:00",
+      "link_count": 0,
+      "log_no": "224313624325",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224313624325",
+      "published_at": "2026-06-12T09:55:33+09:00",
+      "text_length": 0,
+      "title": "젠슨황, 엔비디아 채용 기준 밝혔다 \"똑똑한 사람은 흔해, 가장 중요한 건 '이것'\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-17T21:24:24+09:00",
       "text_length": 0,
       "title": "이안어학원 여름방학특강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-17T21:38:25.123742+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-17T21:38:25.123742+09:00",
-      "link_count": 0,
-      "log_no": "224256153316",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256153316",
-      "published_at": "2026-04-17T21:18:16+09:00",
-      "text_length": 765,
-      "title": "서울교대 어린이한마당 하루샘 프로그램 '하루둥이'"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-17T21:38:25.123742+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-17T21:38:25.123742+09:00",
-      "link_count": 0,
-      "log_no": "224256127495",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256127495",
-      "published_at": "2026-04-17T20:45:55+09:00",
-      "text_length": 0,
-      "title": "대치개념폴리아 고교학점제 시대, 2028 대입을 결정짓는 수학 선택 전략 설명회"
-    },
-    {
-      "category": "mom's diary",
-      "first_seen_at": "2026-04-17T21:38:25.123742+09:00",
-      "image_count": 14,
-      "last_changed_at": "2026-04-17T21:38:25.123742+09:00",
-      "link_count": 0,
-      "log_no": "224256125408",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224256125408",
-      "published_at": "2026-04-17T20:43:18+09:00",
-      "text_length": 307,
-      "title": "무슨 말만하면 '굳이'라고 말하는 아들, 딸에게"
     }
   ],
-  "updated_at": "2026-06-12T00:27:40.987164+09:00"
+  "updated_at": "2026-06-12T10:27:12.175815+09:00"
 }
