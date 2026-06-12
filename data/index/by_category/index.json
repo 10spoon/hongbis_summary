@@ -2585,6 +2585,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+        "link_count": 0,
+        "log_no": "224314382683",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314382683",
+        "published_at": "2026-06-12T23:53:26+09:00",
+        "text_length": 459,
+        "title": "CMS 중등관&클라이매쓰 7월 자사/특목고 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+        "link_count": 0,
+        "log_no": "224314365269",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314365269",
+        "published_at": "2026-06-12T23:27:14+09:00",
+        "text_length": 0,
+        "title": "pmg학원 수학 프리메디 2차콘서트"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-12T18:40:55.154497+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-12T18:40:55.154497+09:00",
@@ -7839,6 +7865,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+        "link_count": 0,
+        "log_no": "224314384177",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314384177",
+        "published_at": "2026-06-12T23:55:42+09:00",
+        "text_length": 0,
+        "title": "대치동 와이지 과학 2026년 7~8월 중학생화학대회 파이널 개강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
@@ -18878,5 +18917,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-12T22:28:13.540740+09:00"
+  "updated_at": "2026-06-13T00:24:26.912524+09:00"
 }

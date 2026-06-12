@@ -1,6 +1,45 @@
 {
-  "post_count": 1450,
+  "post_count": 1453,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+      "link_count": 0,
+      "log_no": "224314384177",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314384177",
+      "published_at": "2026-06-12T23:55:42+09:00",
+      "text_length": 0,
+      "title": "대치동 와이지 과학 2026년 7~8월 중학생화학대회 파이널 개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+      "link_count": 0,
+      "log_no": "224314382683",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314382683",
+      "published_at": "2026-06-12T23:53:26+09:00",
+      "text_length": 459,
+      "title": "CMS 중등관&클라이매쓰 7월 자사/특목고 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
+      "link_count": 0,
+      "log_no": "224314365269",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314365269",
+      "published_at": "2026-06-12T23:27:14+09:00",
+      "text_length": 0,
+      "title": "pmg학원 수학 프리메디 2차콘서트"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-12T22:28:13.540740+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-19T21:06:04+09:00",
       "text_length": 632,
       "title": "반포세정 중3(예비고1) 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-19T18:17:01.375895+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-19T18:17:01.375895+09:00",
-      "link_count": 2,
-      "log_no": "224257771536",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224257771536",
-      "published_at": "2026-04-19T17:47:40+09:00",
-      "text_length": 412,
-      "title": "목동시대인재 고1. 5,6월특강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
-      "link_count": 0,
-      "log_no": "224257571825",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224257571825",
-      "published_at": "2026-04-19T13:30:09+09:00",
-      "text_length": 0,
-      "title": "천개의고원 5월 선정도서"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-19T14:13:29.993449+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-19T14:13:29.993449+09:00",
-      "link_count": 0,
-      "log_no": "224257569689",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224257569689",
-      "published_at": "2026-04-19T13:27:17+09:00",
-      "text_length": 0,
-      "title": "의대 신입생 내신 합격선 평균 ‘1.22등급’…최상위권 쏠림 더 커졌다"
     }
   ],
-  "updated_at": "2026-06-12T22:28:13.540740+09:00"
+  "updated_at": "2026-06-13T00:24:26.912524+09:00"
 }
