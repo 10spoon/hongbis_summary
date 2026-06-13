@@ -2598,6 +2598,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-13T16:34:22.478828+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-13T16:34:22.478828+09:00",
+        "link_count": 0,
+        "log_no": "224314834941",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314834941",
+        "published_at": "2026-06-13T16:00:25+09:00",
+        "text_length": 0,
+        "title": "외교부 국제기구진출설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-13T14:46:11.276873+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-13T14:46:11.276873+09:00",
@@ -19008,5 +19021,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-13T14:46:11.276873+09:00"
+  "updated_at": "2026-06-13T16:34:22.478828+09:00"
 }
