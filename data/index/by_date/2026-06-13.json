@@ -1,7 +1,33 @@
 {
   "key": "2026-06-13",
-  "post_count": 9,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T20:54:46.643153+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T20:54:46.643153+09:00",
+      "link_count": 0,
+      "log_no": "224314998181",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314998181",
+      "published_at": "2026-06-13T20:54:20+09:00",
+      "text_length": 0,
+      "title": "큐사이언스 초중등학습전략설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-13T20:54:46.643153+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T20:54:46.643153+09:00",
+      "link_count": 4,
+      "log_no": "224314997029",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224314997029",
+      "published_at": "2026-06-13T20:52:21+09:00",
+      "text_length": 935,
+      "title": "두각K수학 예비고1 입학테스트"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-13T18:23:59.277071+09:00",
@@ -120,5 +146,5 @@
       "title": "널 어떻게 키웠는데\"…'천재 아버지' 둔 평범한 아들의 비극"
     }
   ],
-  "updated_at": "2026-06-13T18:23:59.277071+09:00"
+  "updated_at": "2026-06-13T20:54:46.643153+09:00"
 }
