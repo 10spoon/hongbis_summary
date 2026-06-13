@@ -1,6 +1,45 @@
 {
-  "post_count": 1464,
+  "post_count": 1467,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T21:53:34.782267+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T21:53:34.782267+09:00",
+      "link_count": 0,
+      "log_no": "224315006941",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315006941",
+      "published_at": "2026-06-13T21:09:37+09:00",
+      "text_length": 0,
+      "title": "2027 연세대학교 지역거점설명회 동영상업로드"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T21:53:34.782267+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-13T21:53:34.782267+09:00",
+      "link_count": 2,
+      "log_no": "224315002728",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315002728",
+      "published_at": "2026-06-13T21:02:16+09:00",
+      "text_length": 362,
+      "title": "엘브라운 고2 2028 대입 개편과 맞춤 전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-13T21:53:34.782267+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T21:53:34.782267+09:00",
+      "link_count": 1,
+      "log_no": "224315001027",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315001027",
+      "published_at": "2026-06-13T20:59:28+09:00",
+      "text_length": 565,
+      "title": "세정 입시관 2028 입시 트렌드 분석 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-13T20:54:46.643153+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-20T23:44:45+09:00",
       "text_length": 461,
       "title": "준과학 중3 역사/사회 기말고사"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
-      "link_count": 1,
-      "log_no": "224259321838",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259321838",
-      "published_at": "2026-04-20T23:40:17+09:00",
-      "text_length": 541,
-      "title": "목동다원 대입 개편&고교학점제, 수학 전략 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
-      "link_count": 0,
-      "log_no": "224259319219",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259319219",
-      "published_at": "2026-04-20T23:37:07+09:00",
-      "text_length": 0,
-      "title": "보람과학 5월시간표"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-20T22:54:39.328000+09:00",
-      "image_count": 14,
-      "last_changed_at": "2026-04-20T22:54:39.328000+09:00",
-      "link_count": 0,
-      "log_no": "224259278182",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259278182",
-      "published_at": "2026-04-20T22:51:01+09:00",
-      "text_length": 1133,
-      "title": "하지민교육연구소 인크리딩대치 최상위권 VIP 전략 간담회 주요의대 반도체전공"
     }
   ],
-  "updated_at": "2026-06-13T20:54:46.643153+09:00"
+  "updated_at": "2026-06-13T21:53:34.782267+09:00"
 }
