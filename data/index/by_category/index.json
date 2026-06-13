@@ -2598,6 +2598,45 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-13T14:46:11.276873+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T14:46:11.276873+09:00",
+        "link_count": 3,
+        "log_no": "224314773239",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314773239",
+        "published_at": "2026-06-13T14:21:09+09:00",
+        "text_length": 702,
+        "title": "스펙터학원 고등수학로드맵설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-13T14:46:11.276873+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T14:46:11.276873+09:00",
+        "link_count": 1,
+        "log_no": "224314771663",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314771663",
+        "published_at": "2026-06-13T14:18:37+09:00",
+        "text_length": 256,
+        "title": "MeSA인재 상산고 대비반 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-13T14:46:11.276873+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T14:46:11.276873+09:00",
+        "link_count": 5,
+        "log_no": "224314770148",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224314770148",
+        "published_at": "2026-06-13T14:16:09+09:00",
+        "text_length": 1220,
+        "title": "대치파인만 영재교 그 이후, 과학고/상산고 앵콜 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-13T00:24:26.912524+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-13T00:24:26.912524+09:00",
@@ -18969,5 +19008,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-13T12:25:47.101492+09:00"
+  "updated_at": "2026-06-13T14:46:11.276873+09:00"
 }
