@@ -2611,6 +2611,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+        "link_count": 0,
+        "log_no": "224315111000",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315111000",
+        "published_at": "2026-06-13T23:57:35+09:00",
+        "text_length": 0,
+        "title": "대치명인 펜타킬소장★대입전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-13T21:53:34.782267+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-13T21:53:34.782267+09:00",
@@ -8008,6 +8021,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+        "link_count": 0,
+        "log_no": "224315134827",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315134827",
+        "published_at": "2026-06-14T00:37:50+09:00",
+        "text_length": 0,
+        "title": "더다원수학목동 중3틈새특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
@@ -15595,6 +15621,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+        "link_count": 0,
+        "log_no": "224315114367",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315114367",
+        "published_at": "2026-06-14T00:02:00+09:00",
+        "text_length": 0,
+        "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-13T12:25:47.101492+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-13T12:25:47.101492+09:00",
@@ -19164,5 +19203,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-13T23:56:13.898775+09:00"
+  "updated_at": "2026-06-14T00:49:16.417006+09:00"
 }

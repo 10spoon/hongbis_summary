@@ -1,7 +1,20 @@
 {
   "key": "2026-06-13",
-  "post_count": 19,
+  "post_count": 20,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+      "link_count": 0,
+      "log_no": "224315111000",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315111000",
+      "published_at": "2026-06-13T23:57:35+09:00",
+      "text_length": 0,
+      "title": "대치명인 펜타킬소장★대입전략 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
@@ -250,5 +263,5 @@
       "title": "널 어떻게 키웠는데\"…'천재 아버지' 둔 평범한 아들의 비극"
     }
   ],
-  "updated_at": "2026-06-13T23:56:13.898775+09:00"
+  "updated_at": "2026-06-14T00:49:16.417006+09:00"
 }

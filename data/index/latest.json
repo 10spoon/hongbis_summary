@@ -1,6 +1,45 @@
 {
-  "post_count": 1472,
+  "post_count": 1475,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+      "link_count": 0,
+      "log_no": "224315134827",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315134827",
+      "published_at": "2026-06-14T00:37:50+09:00",
+      "text_length": 0,
+      "title": "더다원수학목동 중3틈새특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+      "link_count": 0,
+      "log_no": "224315114367",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315114367",
+      "published_at": "2026-06-14T00:02:00+09:00",
+      "text_length": 0,
+      "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T00:49:16.417006+09:00",
+      "link_count": 0,
+      "log_no": "224315111000",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315111000",
+      "published_at": "2026-06-13T23:57:35+09:00",
+      "text_length": 0,
+      "title": "대치명인 펜타킬소장★대입전략 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-21T15:42:55+09:00",
       "text_length": 0,
       "title": "23살 결혼' 한가인, 11년 만에 2세 갖은 이유 \"서른살에 사춘기 와, 내 앞가림도 못했다\""
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-21T14:59:11.354258+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-21T14:59:11.354258+09:00",
-      "link_count": 0,
-      "log_no": "224259974827",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259974827",
-      "published_at": "2026-04-21T14:25:50+09:00",
-      "text_length": 0,
-      "title": "제3회 우주항공청 스페이스 캠프 참가 안내"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 0,
-      "log_no": "224259858237",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259858237",
-      "published_at": "2026-04-21T12:48:24+09:00",
-      "text_length": 0,
-      "title": "수학의힘 5월시간표"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 0,
-      "log_no": "224259845785",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259845785",
-      "published_at": "2026-04-21T12:36:51+09:00",
-      "text_length": 0,
-      "title": "교보교육재단 2026년 5월 가족소통캠프"
     }
   ],
-  "updated_at": "2026-06-13T23:56:13.898775+09:00"
+  "updated_at": "2026-06-14T00:49:16.417006+09:00"
 }
