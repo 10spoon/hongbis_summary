@@ -1,6 +1,71 @@
 {
-  "post_count": 1467,
+  "post_count": 1472,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+      "link_count": 0,
+      "log_no": "224315108008",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315108008",
+      "published_at": "2026-06-13T23:53:08+09:00",
+      "text_length": 0,
+      "title": "소나기마을 어린이그림책교실"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+      "link_count": 0,
+      "log_no": "224315104391",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315104391",
+      "published_at": "2026-06-13T23:47:06+09:00",
+      "text_length": 0,
+      "title": "서원학원 여름방학중등시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+      "link_count": 0,
+      "log_no": "224315102988",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315102988",
+      "published_at": "2026-06-13T23:44:49+09:00",
+      "text_length": 0,
+      "title": "대치cms 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+      "link_count": 0,
+      "log_no": "224315101088",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315101088",
+      "published_at": "2026-06-13T23:41:36+09:00",
+      "text_length": 0,
+      "title": "김현정수학 여름학기시간표"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+      "link_count": 0,
+      "log_no": "224315099894",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315099894",
+      "published_at": "2026-06-13T23:39:43+09:00",
+      "text_length": 0,
+      "title": "240년 전, 채제공도 관악산 기운을 받았다"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-13T21:53:34.782267+09:00",
@@ -12935,72 +13000,7 @@
       "published_at": "2026-04-21T12:36:51+09:00",
       "text_length": 0,
       "title": "교보교육재단 2026년 5월 가족소통캠프"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T14:12:09.680090+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-21T14:12:09.680090+09:00",
-      "link_count": 1,
-      "log_no": "224259843077",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259843077",
-      "published_at": "2026-04-21T12:34:20+09:00",
-      "text_length": 991,
-      "title": "시대인재 수학스쿨 고1 5월 단기특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T00:49:02.430481+09:00",
-      "link_count": 0,
-      "log_no": "224259338173",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259338173",
-      "published_at": "2026-04-20T23:59:54+09:00",
-      "text_length": 0,
-      "title": "이기는 최고의 학습법"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T00:49:02.430481+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-21T00:49:02.430481+09:00",
-      "link_count": 0,
-      "log_no": "224259336136",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259336136",
-      "published_at": "2026-04-20T23:57:51+09:00",
-      "text_length": 0,
-      "title": "공감학원 고3 5월 실전모의고사 4회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
-      "link_count": 1,
-      "log_no": "224259328363",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259328363",
-      "published_at": "2026-04-20T23:48:23+09:00",
-      "text_length": 76,
-      "title": "강남영재사관학원 자사고 특목고 입시 프로그램 5월 신규반 개강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-20T23:57:28.249793+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-20T23:57:28.249793+09:00",
-      "link_count": 3,
-      "log_no": "224259325473",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224259325473",
-      "published_at": "2026-04-20T23:44:45+09:00",
-      "text_length": 461,
-      "title": "준과학 중3 역사/사회 기말고사"
     }
   ],
-  "updated_at": "2026-06-13T21:53:34.782267+09:00"
+  "updated_at": "2026-06-13T23:56:13.898775+09:00"
 }

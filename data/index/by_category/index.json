@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+        "link_count": 0,
+        "log_no": "224315108008",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315108008",
+        "published_at": "2026-06-13T23:53:08+09:00",
+        "text_length": 0,
+        "title": "소나기마을 어린이그림책교실"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-13T12:25:47.101492+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-13T12:25:47.101492+09:00",
@@ -7997,6 +8010,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+        "link_count": 0,
+        "log_no": "224315104391",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315104391",
+        "published_at": "2026-06-13T23:47:06+09:00",
+        "text_length": 0,
+        "title": "서원학원 여름방학중등시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+        "link_count": 0,
+        "log_no": "224315102988",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315102988",
+        "published_at": "2026-06-13T23:44:49+09:00",
+        "text_length": 0,
+        "title": "대치cms 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+        "link_count": 0,
+        "log_no": "224315101088",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315101088",
+        "published_at": "2026-06-13T23:41:36+09:00",
+        "text_length": 0,
+        "title": "김현정수학 여름학기시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-13T20:54:46.643153+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-13T20:54:46.643153+09:00",
@@ -13719,6 +13771,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-13T23:56:13.898775+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-13T23:56:13.898775+09:00",
+        "link_count": 0,
+        "log_no": "224315099894",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315099894",
+        "published_at": "2026-06-13T23:39:43+09:00",
+        "text_length": 0,
+        "title": "240년 전, 채제공도 관악산 기운을 받았다"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-12T00:27:40.987164+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-12T00:27:40.987164+09:00",
@@ -19099,5 +19164,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-13T21:53:34.782267+09:00"
+  "updated_at": "2026-06-13T23:56:13.898775+09:00"
 }
