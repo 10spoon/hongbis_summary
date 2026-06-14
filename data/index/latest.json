@@ -1,6 +1,19 @@
 {
-  "post_count": 1479,
+  "post_count": 1480,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T12:26:03.250985+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T12:26:03.250985+09:00",
+      "link_count": 2,
+      "log_no": "224315390439",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315390439",
+      "published_at": "2026-06-14T11:57:48+09:00",
+      "text_length": 999,
+      "title": "시대인재 현 중3 국어 표현T 직장인 단독 간담회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-14T10:28:28.631202+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-21T20:24:45+09:00",
       "text_length": 0,
       "title": "하루 1만 보 안 채워도 된다…새로운 걷기의 기준 ‘7000보"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-21T19:46:21.086341+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T19:46:21.086341+09:00",
-      "link_count": 0,
-      "log_no": "224260342017",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260342017",
-      "published_at": "2026-04-21T19:27:50+09:00",
-      "text_length": 0,
-      "title": "의사랑 결혼하고 싶니?” SNS 달군 ‘의사 남편’ 콘텐츠…강의까지 나왔다는데"
     }
   ],
-  "updated_at": "2026-06-14T10:28:28.631202+09:00"
+  "updated_at": "2026-06-14T12:26:03.250985+09:00"
 }
