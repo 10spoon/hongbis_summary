@@ -1,6 +1,19 @@
 {
-  "post_count": 1482,
+  "post_count": 1483,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T16:52:58.342253+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T16:52:58.342253+09:00",
+      "link_count": 1,
+      "log_no": "224315515847",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315515847",
+      "published_at": "2026-06-14T15:19:11+09:00",
+      "text_length": 594,
+      "title": "시대인재 2026 현 중3 영문법 손정우T 여름방학 특강 (예비고1)"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-21T23:41:51+09:00",
       "text_length": 925,
       "title": "김정준국어 26년 고1 정규반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T21:41:04.479525+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T21:41:04.479525+09:00",
-      "link_count": 3,
-      "log_no": "224260436770",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260436770",
-      "published_at": "2026-04-21T21:08:43+09:00",
-      "text_length": 730,
-      "title": "파인만학원 고교 수학 기출 등급예측 모의고사 & 해제 5,6월 휴일특강"
     }
   ],
-  "updated_at": "2026-06-14T14:54:17.420037+09:00"
+  "updated_at": "2026-06-14T16:52:58.342253+09:00"
 }

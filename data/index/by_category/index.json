@@ -8075,6 +8075,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-14T16:52:58.342253+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-14T16:52:58.342253+09:00",
+        "link_count": 1,
+        "log_no": "224315515847",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224315515847",
+        "published_at": "2026-06-14T15:19:11+09:00",
+        "text_length": 594,
+        "title": "시대인재 2026 현 중3 영문법 손정우T 여름방학 특강 (예비고1)"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-14T14:54:17.420037+09:00",
@@ -19294,5 +19307,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-14T14:54:17.420037+09:00"
+  "updated_at": "2026-06-14T16:52:58.342253+09:00"
 }
