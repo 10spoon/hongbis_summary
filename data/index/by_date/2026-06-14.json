@@ -1,7 +1,33 @@
 {
   "key": "2026-06-14",
-  "post_count": 12,
+  "post_count": 14,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T21:56:59.230891+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T21:56:59.230891+09:00",
+      "link_count": 5,
+      "log_no": "224315774666",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315774666",
+      "published_at": "2026-06-14T21:52:50+09:00",
+      "text_length": 856,
+      "title": "대치메카 (고1)설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T21:56:59.230891+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T21:56:59.230891+09:00",
+      "link_count": 0,
+      "log_no": "224315773325",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315773325",
+      "published_at": "2026-06-14T21:51:12+09:00",
+      "text_length": 0,
+      "title": "대치동 와이지 과학 2026년 7월 화학12 정규반 개강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-14T20:57:11.493090+09:00",
@@ -159,5 +185,5 @@
       "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
     }
   ],
-  "updated_at": "2026-06-14T20:57:11.493090+09:00"
+  "updated_at": "2026-06-14T21:56:59.230891+09:00"
 }
