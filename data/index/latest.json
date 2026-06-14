@@ -1,6 +1,32 @@
 {
-  "post_count": 1483,
+  "post_count": 1485,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T20:57:11.493090+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T20:57:11.493090+09:00",
+      "link_count": 0,
+      "log_no": "224315727621",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315727621",
+      "published_at": "2026-06-14T20:48:27+09:00",
+      "text_length": 0,
+      "title": "공주사대부고 입학설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T20:57:11.493090+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T20:57:11.493090+09:00",
+      "link_count": 2,
+      "log_no": "224315725907",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315725907",
+      "published_at": "2026-06-14T20:45:55+09:00",
+      "text_length": 582,
+      "title": "목동예섬 윤여정 컨설턴트 초청 예비고1 입시 설명회 & 정규반 개강 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-14T16:52:58.342253+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-21T23:58:30+09:00",
       "text_length": 532,
       "title": "두각 K수학 김지훈T, 상산고1 수학 간담회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-22T00:45:46.083247+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T00:45:46.083247+09:00",
-      "link_count": 0,
-      "log_no": "224260591329",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260591329",
-      "published_at": "2026-04-21T23:55:13+09:00",
-      "text_length": 733,
-      "title": "훈련도감국어 대입을 위한 고등 선택 설명회 & 내신 설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T23:52:15.983907+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T23:52:15.983907+09:00",
-      "link_count": 2,
-      "log_no": "224260580781",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260580781",
-      "published_at": "2026-04-21T23:41:51+09:00",
-      "text_length": 925,
-      "title": "김정준국어 26년 고1 정규반"
     }
   ],
-  "updated_at": "2026-06-14T16:52:58.342253+09:00"
+  "updated_at": "2026-06-14T20:57:11.493090+09:00"
 }

@@ -1,7 +1,33 @@
 {
   "key": "2026-06-14",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T20:57:11.493090+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T20:57:11.493090+09:00",
+      "link_count": 0,
+      "log_no": "224315727621",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315727621",
+      "published_at": "2026-06-14T20:48:27+09:00",
+      "text_length": 0,
+      "title": "공주사대부고 입학설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-14T20:57:11.493090+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T20:57:11.493090+09:00",
+      "link_count": 2,
+      "log_no": "224315725907",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315725907",
+      "published_at": "2026-06-14T20:45:55+09:00",
+      "text_length": 582,
+      "title": "목동예섬 윤여정 컨설턴트 초청 예비고1 입시 설명회 & 정규반 개강 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-14T16:52:58.342253+09:00",
@@ -133,5 +159,5 @@
       "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
     }
   ],
-  "updated_at": "2026-06-14T16:52:58.342253+09:00"
+  "updated_at": "2026-06-14T20:57:11.493090+09:00"
 }
