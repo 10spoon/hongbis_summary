@@ -1,7 +1,33 @@
 {
   "key": "2026-06-14",
-  "post_count": 7,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T14:54:17.420037+09:00",
+      "link_count": 0,
+      "log_no": "224315450588",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315450588",
+      "published_at": "2026-06-14T13:37:07+09:00",
+      "text_length": 617,
+      "title": "목동미래영재 중3 대상 고등 생명과학Ⅰ 기초 6주 특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T14:54:17.420037+09:00",
+      "link_count": 0,
+      "log_no": "224315438493",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315438493",
+      "published_at": "2026-06-14T13:17:31+09:00",
+      "text_length": 0,
+      "title": "전과목 1등급이라도 떨어집니다…의대 노리는 고2 챙겨야할 ‘성취도’"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-14T12:26:03.250985+09:00",
@@ -94,5 +120,5 @@
       "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
     }
   ],
-  "updated_at": "2026-06-14T12:26:03.250985+09:00"
+  "updated_at": "2026-06-14T14:54:17.420037+09:00"
 }

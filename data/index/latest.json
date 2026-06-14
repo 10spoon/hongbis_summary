@@ -1,6 +1,32 @@
 {
-  "post_count": 1480,
+  "post_count": 1482,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T14:54:17.420037+09:00",
+      "link_count": 0,
+      "log_no": "224315450588",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315450588",
+      "published_at": "2026-06-14T13:37:07+09:00",
+      "text_length": 617,
+      "title": "목동미래영재 중3 대상 고등 생명과학Ⅰ 기초 6주 특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-14T14:54:17.420037+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T14:54:17.420037+09:00",
+      "link_count": 0,
+      "log_no": "224315438493",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315438493",
+      "published_at": "2026-06-14T13:17:31+09:00",
+      "text_length": 0,
+      "title": "전과목 1등급이라도 떨어집니다…의대 노리는 고2 챙겨야할 ‘성취도’"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-14T12:26:03.250985+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-21T21:08:43+09:00",
       "text_length": 730,
       "title": "파인만학원 고교 수학 기출 등급예측 모의고사 & 해제 5,6월 휴일특강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-21T21:41:04.479525+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T21:41:04.479525+09:00",
-      "link_count": 0,
-      "log_no": "224260434170",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260434170",
-      "published_at": "2026-04-21T21:05:56+09:00",
-      "text_length": 1239,
-      "title": "목동다원 나오미선생님 학부모 설명회(4/22수, 6/24수)"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-21T20:39:40.259455+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T20:39:40.259455+09:00",
-      "link_count": 0,
-      "log_no": "224260394576",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260394576",
-      "published_at": "2026-04-21T20:24:45+09:00",
-      "text_length": 0,
-      "title": "하루 1만 보 안 채워도 된다…새로운 걷기의 기준 ‘7000보"
     }
   ],
-  "updated_at": "2026-06-14T12:26:03.250985+09:00"
+  "updated_at": "2026-06-14T14:54:17.420037+09:00"
 }
