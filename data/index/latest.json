@@ -1,6 +1,58 @@
 {
-  "post_count": 1475,
+  "post_count": 1479,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-14T10:28:28.631202+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-14T10:28:28.631202+09:00",
+      "link_count": 0,
+      "log_no": "224315329368",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315329368",
+      "published_at": "2026-06-14T10:15:27+09:00",
+      "text_length": 62,
+      "title": "주말-오전 10시 30분) [서울기록원] 초등 4-6학년 대상 직업체험프로그램 <기록물 보존요원으로 임명합니다!"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-14T10:28:28.631202+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T10:28:28.631202+09:00",
+      "link_count": 0,
+      "log_no": "224315316564",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315316564",
+      "published_at": "2026-06-14T09:50:54+09:00",
+      "text_length": 347,
+      "title": "서울대학교수의과대학 2026년 제20회 ‘고교생 수의학 아카데미"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-14T10:28:28.631202+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-14T10:28:28.631202+09:00",
+      "link_count": 0,
+      "log_no": "224315308625",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315308625",
+      "published_at": "2026-06-14T09:35:11+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 청소년기 주말 보충 수면, 얼마가 적당할까?"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-14T10:28:28.631202+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T10:28:28.631202+09:00",
+      "link_count": 0,
+      "log_no": "224315308232",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315308232",
+      "published_at": "2026-06-14T09:34:28+09:00",
+      "text_length": 0,
+      "title": "서울특별시교육청 2027학년도 자기주도학습전형 및 고등학교 입학전형 영향평가 매뉴얼 안내"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-14T00:49:16.417006+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-21T19:27:50+09:00",
       "text_length": 0,
       "title": "의사랑 결혼하고 싶니?” SNS 달군 ‘의사 남편’ 콘텐츠…강의까지 나왔다는데"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
-      "link_count": 0,
-      "log_no": "224260268132",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260268132",
-      "published_at": "2026-04-21T18:11:24+09:00",
-      "text_length": 0,
-      "title": "건국대학교 입학전형설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-21T18:32:45.950125+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T18:32:45.950125+09:00",
-      "link_count": 0,
-      "log_no": "224260256593",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260256593",
-      "published_at": "2026-04-21T18:01:22+09:00",
-      "text_length": 0,
-      "title": "우리 아들 의대 보내기 참 힘드네요”…올해 의대 신입생 내신 합격선 ‘3년새 최고’"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-21T15:56:21.652695+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-21T15:56:21.652695+09:00",
-      "link_count": 0,
-      "log_no": "224260083925",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260083925",
-      "published_at": "2026-04-21T15:45:51+09:00",
-      "text_length": 425,
-      "title": "로뎀과학 고등기말내신반 & 중등 정규반"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-21T15:56:21.652695+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-21T15:56:21.652695+09:00",
-      "link_count": 0,
-      "log_no": "224260079862",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260079862",
-      "published_at": "2026-04-21T15:42:55+09:00",
-      "text_length": 0,
-      "title": "23살 결혼' 한가인, 11년 만에 2세 갖은 이유 \"서른살에 사춘기 와, 내 앞가림도 못했다\""
     }
   ],
-  "updated_at": "2026-06-14T00:49:16.417006+09:00"
+  "updated_at": "2026-06-14T10:28:28.631202+09:00"
 }
