@@ -1,7 +1,72 @@
 {
   "key": "2026-06-14",
-  "post_count": 14,
+  "post_count": 19,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-14T23:59:45.583762+09:00",
+      "link_count": 0,
+      "log_no": "224315852246",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315852246",
+      "published_at": "2026-06-14T23:30:44+09:00",
+      "text_length": 0,
+      "title": "육해공 사관학교 고사장은 선착순마감"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-14T23:59:45.583762+09:00",
+      "link_count": 0,
+      "log_no": "224315847951",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315847951",
+      "published_at": "2026-06-14T23:25:02+09:00",
+      "text_length": 0,
+      "title": "서율학원 고1 여름방학시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
+      "image_count": 7,
+      "last_changed_at": "2026-06-14T23:59:45.583762+09:00",
+      "link_count": 0,
+      "log_no": "224315845568",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315845568",
+      "published_at": "2026-06-14T23:21:57+09:00",
+      "text_length": 0,
+      "title": "불꽃수학 예비고1 입학테스트"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
+      "image_count": 11,
+      "last_changed_at": "2026-06-14T23:59:45.583762+09:00",
+      "link_count": 1,
+      "log_no": "224315844202",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315844202",
+      "published_at": "2026-06-14T23:20:11+09:00",
+      "text_length": 477,
+      "title": "목동 시대인재 고1 여름방학 특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-14T23:59:45.583762+09:00",
+      "link_count": 0,
+      "log_no": "224315839905",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224315839905",
+      "published_at": "2026-06-14T23:14:47+09:00",
+      "text_length": 0,
+      "title": "돌파수학 여름방학특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-14T21:56:59.230891+09:00",
@@ -185,5 +250,5 @@
       "title": "지역의사제 10명 중 9명 수시 모집…의대 28곳은 전원 수시 선발"
     }
   ],
-  "updated_at": "2026-06-14T21:56:59.230891+09:00"
+  "updated_at": "2026-06-14T23:59:45.583762+09:00"
 }
