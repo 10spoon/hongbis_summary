@@ -1,7 +1,33 @@
 {
   "key": "2026-06-15",
-  "post_count": 16,
+  "post_count": 18,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 1,
+      "log_no": "224317005259",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317005259",
+      "published_at": "2026-06-15T23:58:28+09:00",
+      "text_length": 718,
+      "title": "시대인재 수학스쿨 예비고1 여름방학 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 1,
+      "log_no": "224317003271",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317003271",
+      "published_at": "2026-06-15T23:55:58+09:00",
+      "text_length": 570,
+      "title": "MeSA인재 상산고 대비반 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-15T23:25:17.268405+09:00",
@@ -211,5 +237,5 @@
       "title": "열흘만에 조회수980만."
     }
   ],
-  "updated_at": "2026-06-15T23:25:17.268405+09:00"
+  "updated_at": "2026-06-16T01:57:05.399925+09:00"
 }

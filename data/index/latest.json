@@ -1,6 +1,58 @@
 {
-  "post_count": 1508,
+  "post_count": 1512,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 1,
+      "log_no": "224317040673",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317040673",
+      "published_at": "2026-06-16T00:55:40+09:00",
+      "text_length": 392,
+      "title": "시대인재 반포센터 2026 현 중3 국어 오경은T 문법 특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 0,
+      "log_no": "224317008263",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317008263",
+      "published_at": "2026-06-16T00:01:56+09:00",
+      "text_length": 458,
+      "title": "대치위더스 입시관 수학프로그램"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 1,
+      "log_no": "224317005259",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317005259",
+      "published_at": "2026-06-15T23:58:28+09:00",
+      "text_length": 718,
+      "title": "시대인재 수학스쿨 예비고1 여름방학 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T01:57:05.399925+09:00",
+      "link_count": 1,
+      "log_no": "224317003271",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317003271",
+      "published_at": "2026-06-15T23:55:58+09:00",
+      "text_length": 570,
+      "title": "MeSA인재 상산고 대비반 설명회"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-15T23:25:17.268405+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-23T12:31:54+09:00",
       "text_length": 0,
       "title": "[2년 전 오늘] 학생 주도 독서활동 지원한다… 교육부, 독서교육통합플랫폼 ‘독서로’ 개통"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-23T12:24:23.156012+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-23T12:24:23.156012+09:00",
-      "link_count": 0,
-      "log_no": "224262312202",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262312202",
-      "published_at": "2026-04-23T12:13:43+09:00",
-      "text_length": 0,
-      "title": "국립어린이과학관 창경궁 과학 나들이 5월 교육 프로그램"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-23T10:05:24.873968+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T10:05:24.873968+09:00",
-      "link_count": 0,
-      "log_no": "224262118711",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262118711",
-      "published_at": "2026-04-23T09:38:26+09:00",
-      "text_length": 0,
-      "title": "“우리 딸, 대치동 가야겠다”…어느 학교 다니냐가 수능 성적 갈랐다"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-23T01:39:00.426023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T01:39:00.426023+09:00",
-      "link_count": 1,
-      "log_no": "224261863918",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261863918",
-      "published_at": "2026-04-23T00:46:41+09:00",
-      "text_length": 47,
-      "title": "2026 영재키움 프로젝트 선발 안내"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-04-23T00:44:31.095163+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-23T00:44:31.095163+09:00",
-      "link_count": 0,
-      "log_no": "224261826786",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261826786",
-      "published_at": "2026-04-22T23:56:46+09:00",
-      "text_length": 0,
-      "title": "[6년 전 오늘] [시험중독]재수, 삼수의 실패...진로를 고민하는 대학생에게 보내는 편지."
     }
   ],
-  "updated_at": "2026-06-15T23:25:17.268405+09:00"
+  "updated_at": "2026-06-16T01:57:05.399925+09:00"
 }
