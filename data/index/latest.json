@@ -1,6 +1,58 @@
 {
-  "post_count": 1492,
+  "post_count": 1496,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "link_count": 0,
+      "log_no": "224316145317",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316145317",
+      "published_at": "2026-06-15T09:31:45+09:00",
+      "text_length": 0,
+      "title": "한가인, 출렁이는 팔뚝살 제거법 공개…\"제일 늦게 빠져\""
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "link_count": 0,
+      "log_no": "224316143410",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316143410",
+      "published_at": "2026-06-15T09:29:29+09:00",
+      "text_length": 0,
+      "title": "9등급제 N수생'과 '5등급제 고3'…2028 수시 변수 된다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "link_count": 0,
+      "log_no": "224316127073",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316127073",
+      "published_at": "2026-06-15T09:10:27+09:00",
+      "text_length": 0,
+      "title": "수학 2.6등급 서울대 붙었다, 그 교사의 특별한 ‘250자 세특’"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "link_count": 0,
+      "log_no": "224316125704",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316125704",
+      "published_at": "2026-06-15T09:08:50+09:00",
+      "text_length": 0,
+      "title": "열흘만에 조회수980만."
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-22T15:18:52+09:00",
       "text_length": 0,
       "title": "개근거지’ 옛말… 고교출석 대입반영 는다"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T15:55:58.264388+09:00",
-      "link_count": 0,
-      "log_no": "224261284074",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261284074",
-      "published_at": "2026-04-22T15:08:52+09:00",
-      "text_length": 0,
-      "title": "오답을 당연한 과정이라 받아들여줄 때"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-22T12:24:05.556984+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T12:24:05.556984+09:00",
-      "link_count": 0,
-      "log_no": "224260994778",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260994778",
-      "published_at": "2026-04-22T11:07:42+09:00",
-      "text_length": 0,
-      "title": "수능 道수석 배출한 '꼴찌학교'"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-22T10:00:18.776955+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T10:00:18.776955+09:00",
-      "link_count": 0,
-      "log_no": "224260899807",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260899807",
-      "published_at": "2026-04-22T09:47:10+09:00",
-      "text_length": 0,
-      "title": "2026년 청소년 과학대장정 참가자 모집"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-22T10:00:18.776955+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T10:00:18.776955+09:00",
-      "link_count": 0,
-      "log_no": "224260896349",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224260896349",
-      "published_at": "2026-04-22T09:43:52+09:00",
-      "text_length": 0,
-      "title": "한국천문올림피아드"
     }
   ],
-  "updated_at": "2026-06-14T23:59:45.583762+09:00"
+  "updated_at": "2026-06-15T10:30:23.568498+09:00"
 }
