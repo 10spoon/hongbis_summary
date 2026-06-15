@@ -1,0 +1,72 @@
+{
+  "new_count": 7,
+  "new_posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-15T17:28:43.675838+09:00",
+      "last_changed_at": "2026-06-15T17:28:43.675838+09:00",
+      "log_no": "224316564292",
+      "post_url": "https://blog.naver.com/hongbis/224316564292",
+      "published_at": "2026-06-15T15:46:11+09:00",
+      "title": "수이학원 7월 초등개강반"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+      "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+      "log_no": "224316386988",
+      "post_url": "https://blog.naver.com/hongbis/224316386988",
+      "published_at": "2026-06-15T13:18:57+09:00",
+      "title": "세정학원 수학관 수학단독 + 학생부전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+      "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+      "log_no": "224316337427",
+      "post_url": "https://blog.naver.com/hongbis/224316337427",
+      "published_at": "2026-06-15T12:29:01+09:00",
+      "title": "새움학원 예비고1 박장원T 통합과학1,2 핵심 개념 완성반"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "log_no": "224316145317",
+      "post_url": "https://blog.naver.com/hongbis/224316145317",
+      "published_at": "2026-06-15T09:31:45+09:00",
+      "title": "한가인, 출렁이는 팔뚝살 제거법 공개…\"제일 늦게 빠져\""
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "log_no": "224316143410",
+      "post_url": "https://blog.naver.com/hongbis/224316143410",
+      "published_at": "2026-06-15T09:29:29+09:00",
+      "title": "9등급제 N수생'과 '5등급제 고3'…2028 수시 변수 된다"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "log_no": "224316127073",
+      "post_url": "https://blog.naver.com/hongbis/224316127073",
+      "published_at": "2026-06-15T09:10:27+09:00",
+      "title": "수학 2.6등급 서울대 붙었다, 그 교사의 특별한 ‘250자 세특’"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
+      "last_changed_at": "2026-06-15T10:30:23.568498+09:00",
+      "log_no": "224316125704",
+      "post_url": "https://blog.naver.com/hongbis/224316125704",
+      "published_at": "2026-06-15T09:08:50+09:00",
+      "title": "열흘만에 조회수980만."
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-06-15T18:00:00+09:00",
+  "window_start": "2026-06-15T08:00:00+09:00"
+}

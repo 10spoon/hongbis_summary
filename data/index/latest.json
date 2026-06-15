@@ -1,6 +1,84 @@
 {
-  "post_count": 1499,
+  "post_count": 1505,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316804663",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316804663",
+      "published_at": "2026-06-15T19:48:26+09:00",
+      "text_length": 0,
+      "title": "제22회 전국중학생 IT 올림피아드"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 2,
+      "log_no": "224316794851",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316794851",
+      "published_at": "2026-06-15T19:34:19+09:00",
+      "text_length": 545,
+      "title": "대치cms 슬기로운 방학생활!을 위한 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316771731",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316771731",
+      "published_at": "2026-06-15T19:01:17+09:00",
+      "text_length": 548,
+      "title": "새움학원 고2 입시설명회 윤환석(아우켈라) 시대팀장"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316763701",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316763701",
+      "published_at": "2026-06-15T18:50:48+09:00",
+      "text_length": 0,
+      "title": "수학에미친사람들서초 고등부여름방학설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316748359",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316748359",
+      "published_at": "2026-06-15T18:31:03+09:00",
+      "text_length": 0,
+      "title": "서울 주요대 N수생 제한 확대…\"영향은 제한적\""
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316709714",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316709714",
+      "published_at": "2026-06-15T17:49:15+09:00",
+      "text_length": 0,
+      "title": "목동더모먼트학원(정고은선생님) 퍼스트스텝오픈"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-15T17:28:43.675838+09:00",
@@ -12922,85 +13000,7 @@
       "published_at": "2026-04-22T23:41:19+09:00",
       "text_length": 0,
       "title": "한양대학교 정책학과 <제2회 멘토링 & 한양 캠퍼스 투어>"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
-      "link_count": 0,
-      "log_no": "224261806487",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261806487",
-      "published_at": "2026-04-22T23:31:15+09:00",
-      "text_length": 0,
-      "title": "2026학년도 발명교육센터 (기초, 특허 과정)"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
-      "link_count": 0,
-      "log_no": "224261803402",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261803402",
-      "published_at": "2026-04-22T23:27:29+09:00",
-      "text_length": 0,
-      "title": "이화외고 입학설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-22T23:52:38.244139+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T23:52:38.244139+09:00",
-      "link_count": 0,
-      "log_no": "224261796293",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261796293",
-      "published_at": "2026-04-22T23:18:50+09:00",
-      "text_length": 390,
-      "title": "반포세정 고1설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
-      "link_count": 2,
-      "log_no": "224261621353",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261621353",
-      "published_at": "2026-04-22T20:08:43+09:00",
-      "text_length": 440,
-      "title": "대치 깊은생각 2026학년도 중3 정규 입학테스트"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
-      "link_count": 1,
-      "log_no": "224261616231",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261616231",
-      "published_at": "2026-04-22T20:03:08+09:00",
-      "text_length": 359,
-      "title": "픽스아카데미 경시관 중2 대상 경시입문(PG), 경시문풀(EG), 창의수학(TG)반 시험"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-22T20:39:23.045509+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T20:39:23.045509+09:00",
-      "link_count": 1,
-      "log_no": "224261614318",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261614318",
-      "published_at": "2026-04-22T20:01:02+09:00",
-      "text_length": 812,
-      "title": "씨앤씨 특목자사고 입시전략 설명회"
     }
   ],
-  "updated_at": "2026-06-15T17:28:43.675838+09:00"
+  "updated_at": "2026-06-15T20:02:39.767929+09:00"
 }

@@ -1,7 +1,85 @@
 {
   "key": "2026-06-15",
-  "post_count": 7,
+  "post_count": 13,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316804663",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316804663",
+      "published_at": "2026-06-15T19:48:26+09:00",
+      "text_length": 0,
+      "title": "제22회 전국중학생 IT 올림피아드"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 2,
+      "log_no": "224316794851",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316794851",
+      "published_at": "2026-06-15T19:34:19+09:00",
+      "text_length": 545,
+      "title": "대치cms 슬기로운 방학생활!을 위한 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316771731",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316771731",
+      "published_at": "2026-06-15T19:01:17+09:00",
+      "text_length": 548,
+      "title": "새움학원 고2 입시설명회 윤환석(아우켈라) 시대팀장"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316763701",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316763701",
+      "published_at": "2026-06-15T18:50:48+09:00",
+      "text_length": 0,
+      "title": "수학에미친사람들서초 고등부여름방학설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316748359",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316748359",
+      "published_at": "2026-06-15T18:31:03+09:00",
+      "text_length": 0,
+      "title": "서울 주요대 N수생 제한 확대…\"영향은 제한적\""
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
+      "link_count": 0,
+      "log_no": "224316709714",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316709714",
+      "published_at": "2026-06-15T17:49:15+09:00",
+      "text_length": 0,
+      "title": "목동더모먼트학원(정고은선생님) 퍼스트스텝오픈"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-15T17:28:43.675838+09:00",
@@ -94,5 +172,5 @@
       "title": "열흘만에 조회수980만."
     }
   ],
-  "updated_at": "2026-06-15T17:28:43.675838+09:00"
+  "updated_at": "2026-06-15T20:02:39.767929+09:00"
 }
