@@ -8140,6 +8140,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-15T17:28:43.675838+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-15T17:28:43.675838+09:00",
+        "link_count": 1,
+        "log_no": "224316564292",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224316564292",
+        "published_at": "2026-06-15T15:46:11+09:00",
+        "text_length": 437,
+        "title": "수이학원 7월 초등개강반"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
@@ -19502,5 +19515,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-15T15:05:19.039794+09:00"
+  "updated_at": "2026-06-15T17:28:43.675838+09:00"
 }
