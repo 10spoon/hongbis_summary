@@ -2637,6 +2637,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+        "link_count": 0,
+        "log_no": "224316386988",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224316386988",
+        "published_at": "2026-06-15T13:18:57+09:00",
+        "text_length": 646,
+        "title": "세정학원 수학관 수학단독 + 학생부전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-14T21:56:59.230891+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-14T21:56:59.230891+09:00",
@@ -8125,6 +8138,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+        "link_count": 2,
+        "log_no": "224316337427",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224316337427",
+        "published_at": "2026-06-15T12:29:01+09:00",
+        "text_length": 696,
+        "title": "새움학원 예비고1 박장원T 통합과학1,2 핵심 개념 완성반"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-14T23:59:45.583762+09:00",
@@ -19476,5 +19502,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-15T10:30:23.568498+09:00"
+  "updated_at": "2026-06-15T15:05:19.039794+09:00"
 }

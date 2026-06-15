@@ -1,6 +1,32 @@
 {
-  "post_count": 1496,
+  "post_count": 1498,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+      "link_count": 0,
+      "log_no": "224316386988",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316386988",
+      "published_at": "2026-06-15T13:18:57+09:00",
+      "text_length": 646,
+      "title": "세정학원 수학관 수학단독 + 학생부전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-15T15:05:19.039794+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-15T15:05:19.039794+09:00",
+      "link_count": 2,
+      "log_no": "224316337427",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224316337427",
+      "published_at": "2026-06-15T12:29:01+09:00",
+      "text_length": 696,
+      "title": "새움학원 예비고1 박장원T 통합과학1,2 핵심 개념 완성반"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-15T10:30:23.568498+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-22T19:34:52+09:00",
       "text_length": 0,
       "title": "보람과학 학부모설명회"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T15:55:58.264388+09:00",
-      "link_count": 0,
-      "log_no": "224261298660",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261298660",
-      "published_at": "2026-04-22T15:20:20+09:00",
-      "text_length": 0,
-      "title": "\"눈에 띄지 않으려고\"…트럼프 아들 메는 13만원 백팩 화제"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-22T15:55:58.264388+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-22T15:55:58.264388+09:00",
-      "link_count": 0,
-      "log_no": "224261296838",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224261296838",
-      "published_at": "2026-04-22T15:18:52+09:00",
-      "text_length": 0,
-      "title": "개근거지’ 옛말… 고교출석 대입반영 는다"
     }
   ],
-  "updated_at": "2026-06-15T10:30:23.568498+09:00"
+  "updated_at": "2026-06-15T15:05:19.039794+09:00"
 }
