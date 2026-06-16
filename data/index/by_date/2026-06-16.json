@@ -1,7 +1,111 @@
 {
   "key": "2026-06-16",
-  "post_count": 14,
+  "post_count": 22,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318161948",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318161948",
+      "published_at": "2026-06-16T23:57:27+09:00",
+      "text_length": 0,
+      "title": "반포세정 2026 고1 설명회 (5차) [2029 대입 및 여름프로그램] ※직장맘을 위한 저녁 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318159546",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318159546",
+      "published_at": "2026-06-16T23:54:28+09:00",
+      "text_length": 0,
+      "title": "두각입시센터 수시교실 : 안슬기 소장] 자연계 면접[MMI, 제시문, 생기부] 설명회 (현장+현장 영상반) 상세보기"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318157747",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318157747",
+      "published_at": "2026-06-16T23:52:06+09:00",
+      "text_length": 0,
+      "title": "mexx 이번 여름의 공부가 고등 성적을 결정한다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318148056",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318148056",
+      "published_at": "2026-06-16T23:39:14+09:00",
+      "text_length": 0,
+      "title": "지혜의숲목동 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 2,
+      "log_no": "224318140803",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318140803",
+      "published_at": "2026-06-16T23:29:55+09:00",
+      "text_length": 1243,
+      "title": "THE DAWON MATH 중3 기말고사 후 여름방학 전 틈새 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318139121",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318139121",
+      "published_at": "2026-06-16T23:27:43+09:00",
+      "text_length": 0,
+      "title": "아토즈논술 서울대 학종 심층분석설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318136493",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318136493",
+      "published_at": "2026-06-16T23:24:23+09:00",
+      "text_length": 0,
+      "title": "2026 우리말겨루기 전국어린이한글대왕 선발대회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T00:04:20.368165+09:00",
+      "link_count": 0,
+      "log_no": "224318081251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318081251",
+      "published_at": "2026-06-16T22:15:22+09:00",
+      "text_length": 0,
+      "title": "대치개념폴리아 초등설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-16T21:55:04.301446+09:00",
@@ -185,5 +289,5 @@
       "title": "대치위더스 입시관 수학프로그램"
     }
   ],
-  "updated_at": "2026-06-16T21:55:04.301446+09:00"
+  "updated_at": "2026-06-17T00:04:20.368165+09:00"
 }
