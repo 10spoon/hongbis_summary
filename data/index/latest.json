@@ -1,6 +1,32 @@
 {
-  "post_count": 1518,
+  "post_count": 1520,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T15:09:04.390489+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T15:09:04.390489+09:00",
+      "link_count": 2,
+      "log_no": "224317640600",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317640600",
+      "published_at": "2026-06-16T14:39:19+09:00",
+      "text_length": 691,
+      "title": "대치 깊은생각 중3 정규 입학테스트 안내"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T15:09:04.390489+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T15:09:04.390489+09:00",
+      "link_count": 1,
+      "log_no": "224317533625",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317533625",
+      "published_at": "2026-06-16T13:02:39+09:00",
+      "text_length": 116,
+      "title": "영재사관학원 자사고/특목고 여름 입시 프로그램 개강!"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-23T19:49:34+09:00",
       "text_length": 0,
       "title": "대학별 입학전형, 복잡해보이나요? 지금 신경쓸 건 ‘딱 하나’"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
-      "link_count": 0,
-      "log_no": "224262843812",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262843812",
-      "published_at": "2026-04-23T19:44:59+09:00",
-      "text_length": 0,
-      "title": "현상훈수학 중3 5월특강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
-      "link_count": 0,
-      "log_no": "224262841849",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262841849",
-      "published_at": "2026-04-23T19:42:48+09:00",
-      "text_length": 430,
-      "title": "픽스아카데미 5월 연휴특강"
     }
   ],
-  "updated_at": "2026-06-16T12:26:23.459952+09:00"
+  "updated_at": "2026-06-16T15:09:04.390489+09:00"
 }

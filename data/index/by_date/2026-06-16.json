@@ -1,7 +1,33 @@
 {
   "key": "2026-06-16",
-  "post_count": 8,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T15:09:04.390489+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T15:09:04.390489+09:00",
+      "link_count": 2,
+      "log_no": "224317640600",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317640600",
+      "published_at": "2026-06-16T14:39:19+09:00",
+      "text_length": 691,
+      "title": "대치 깊은생각 중3 정규 입학테스트 안내"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T15:09:04.390489+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T15:09:04.390489+09:00",
+      "link_count": 1,
+      "log_no": "224317533625",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317533625",
+      "published_at": "2026-06-16T13:02:39+09:00",
+      "text_length": 116,
+      "title": "영재사관학원 자사고/특목고 여름 입시 프로그램 개강!"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
@@ -107,5 +133,5 @@
       "title": "대치위더스 입시관 수학프로그램"
     }
   ],
-  "updated_at": "2026-06-16T12:26:23.459952+09:00"
+  "updated_at": "2026-06-16T15:09:04.390489+09:00"
 }
