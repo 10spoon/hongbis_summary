@@ -1,6 +1,45 @@
 {
-  "post_count": 1512,
+  "post_count": 1515,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 0,
+      "log_no": "224317363227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317363227",
+      "published_at": "2026-06-16T10:25:06+09:00",
+      "text_length": 0,
+      "title": "우리 유전자 교정 기술로 환자를 고치고 싶다\"…배상수 서울대 교수"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 2,
+      "log_no": "224317341496",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317341496",
+      "published_at": "2026-06-16T10:07:22+09:00",
+      "text_length": 939,
+      "title": "콴다일로 2028년 예비고1 (현 중3) 고교 선택 및 여름방학 학습 전략 설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 0,
+      "log_no": "224317291800",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317291800",
+      "published_at": "2026-06-16T09:24:25+09:00",
+      "text_length": 0,
+      "title": "관악구, 럭키(Lucky) 관악산 세 번 오르면 최대 5만 원 돌려받는다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-23T18:53:29+09:00",
       "text_length": 0,
       "title": "시험 잘 보려 마셨다가 망쳤네요”…고등학생 10명 중 3명 ‘카페인 과다’"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
-      "link_count": 0,
-      "log_no": "224262375863",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262375863",
-      "published_at": "2026-04-23T13:15:07+09:00",
-      "text_length": 0,
-      "title": "내신 5등급제 첫 적용…고2 선택과목, 어떻게 준비하나?"
-    },
-    {
-      "category": "함께읽은책",
-      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
-      "link_count": 0,
-      "log_no": "224262331303",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262331303",
-      "published_at": "2026-04-23T12:32:12+09:00",
-      "text_length": 0,
-      "title": "[3년 전 오늘] 중간고사 이후 과학 도서로 세특 풍성하게 채워볼까?"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-23T14:13:51.645488+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-04-23T14:13:51.645488+09:00",
-      "link_count": 0,
-      "log_no": "224262330999",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262330999",
-      "published_at": "2026-04-23T12:31:54+09:00",
-      "text_length": 0,
-      "title": "[2년 전 오늘] 학생 주도 독서활동 지원한다… 교육부, 독서교육통합플랫폼 ‘독서로’ 개통"
     }
   ],
-  "updated_at": "2026-06-16T01:57:05.399925+09:00"
+  "updated_at": "2026-06-16T10:31:24.765946+09:00"
 }

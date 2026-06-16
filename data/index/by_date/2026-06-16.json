@@ -1,7 +1,46 @@
 {
   "key": "2026-06-16",
-  "post_count": 2,
+  "post_count": 5,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 0,
+      "log_no": "224317363227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317363227",
+      "published_at": "2026-06-16T10:25:06+09:00",
+      "text_length": 0,
+      "title": "우리 유전자 교정 기술로 환자를 고치고 싶다\"…배상수 서울대 교수"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 2,
+      "log_no": "224317341496",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317341496",
+      "published_at": "2026-06-16T10:07:22+09:00",
+      "text_length": 939,
+      "title": "콴다일로 2028년 예비고1 (현 중3) 고교 선택 및 여름방학 학습 전략 설명회"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
+      "link_count": 0,
+      "log_no": "224317291800",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317291800",
+      "published_at": "2026-06-16T09:24:25+09:00",
+      "text_length": 0,
+      "title": "관악구, 럭키(Lucky) 관악산 세 번 오르면 최대 5만 원 돌려받는다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-16T01:57:05.399925+09:00",
@@ -29,5 +68,5 @@
       "title": "대치위더스 입시관 수학프로그램"
     }
   ],
-  "updated_at": "2026-06-16T01:57:05.399925+09:00"
+  "updated_at": "2026-06-16T10:31:24.765946+09:00"
 }
