@@ -1,6 +1,32 @@
 {
-  "post_count": 1520,
+  "post_count": 1522,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-16T17:20:12.560683+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-16T17:20:12.560683+09:00",
+      "link_count": 0,
+      "log_no": "224317793327",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317793327",
+      "published_at": "2026-06-16T16:44:29+09:00",
+      "text_length": 0,
+      "title": "종이나라박물관 7월 가족체험프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T17:20:12.560683+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T17:20:12.560683+09:00",
+      "link_count": 3,
+      "log_no": "224317723400",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317723400",
+      "published_at": "2026-06-16T15:47:25+09:00",
+      "text_length": 658,
+      "title": "목동 시대인재 2026 고1 입시설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-16T15:09:04.390489+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-23T20:20:44+09:00",
       "text_length": 0,
       "title": "민쌤과학 기말고사 대비반 개강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-23T20:39:54.699608+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T20:39:54.699608+09:00",
-      "link_count": 0,
-      "log_no": "224262871468",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262871468",
-      "published_at": "2026-04-23T20:17:05+09:00",
-      "text_length": 223,
-      "title": "러셀대치 6모 대비 언매 5주 완성"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-23T20:39:54.699608+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T20:39:54.699608+09:00",
-      "link_count": 0,
-      "log_no": "224262847701",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262847701",
-      "published_at": "2026-04-23T19:49:34+09:00",
-      "text_length": 0,
-      "title": "대학별 입학전형, 복잡해보이나요? 지금 신경쓸 건 ‘딱 하나’"
     }
   ],
-  "updated_at": "2026-06-16T15:09:04.390489+09:00"
+  "updated_at": "2026-06-16T17:20:12.560683+09:00"
 }

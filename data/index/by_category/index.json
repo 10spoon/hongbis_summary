@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-16T17:20:12.560683+09:00",
+        "image_count": 5,
+        "last_changed_at": "2026-06-16T17:20:12.560683+09:00",
+        "link_count": 0,
+        "log_no": "224317793327",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224317793327",
+        "published_at": "2026-06-16T16:44:29+09:00",
+        "text_length": 0,
+        "title": "종이나라박물관 7월 가족체험프로그램"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-15T20:02:39.767929+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-15T20:02:39.767929+09:00",
@@ -2648,6 +2661,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-16T17:20:12.560683+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-16T17:20:12.560683+09:00",
+        "link_count": 3,
+        "log_no": "224317723400",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224317723400",
+        "published_at": "2026-06-16T15:47:25+09:00",
+        "text_length": 658,
+        "title": "목동 시대인재 2026 고1 입시설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
@@ -19788,5 +19814,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-16T15:09:04.390489+09:00"
+  "updated_at": "2026-06-16T17:20:12.560683+09:00"
 }
