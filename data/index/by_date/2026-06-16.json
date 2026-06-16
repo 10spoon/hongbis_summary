@@ -1,7 +1,33 @@
 {
   "key": "2026-06-16",
-  "post_count": 12,
+  "post_count": 14,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-16T21:55:04.301446+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-16T21:55:04.301446+09:00",
+      "link_count": 0,
+      "log_no": "224318042946",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318042946",
+      "published_at": "2026-06-16T21:28:45+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] \"머리 안 좋은 부모, 자녀에게 사과 필요\"…'94억 자가' 장영란과 나눈 비하인드 ('티처스2')"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-16T21:55:04.301446+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T21:55:04.301446+09:00",
+      "link_count": 0,
+      "log_no": "224318042177",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318042177",
+      "published_at": "2026-06-16T21:27:45+09:00",
+      "text_length": 532,
+      "title": "예섬학원 고1 효율적인 여름방학 학습법. 그리고 입시 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-16T17:20:12.560683+09:00",
@@ -159,5 +185,5 @@
       "title": "대치위더스 입시관 수학프로그램"
     }
   ],
-  "updated_at": "2026-06-16T17:20:12.560683+09:00"
+  "updated_at": "2026-06-16T21:55:04.301446+09:00"
 }
