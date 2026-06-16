@@ -1,7 +1,46 @@
 {
   "key": "2026-06-16",
-  "post_count": 5,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 0,
+      "log_no": "224317466829",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317466829",
+      "published_at": "2026-06-16T11:53:47+09:00",
+      "text_length": 0,
+      "title": "주요 10개 대학, 2028대입서 N수생 지원 불가 수시 전형 2.5배 확대"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 0,
+      "log_no": "224317449787",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317449787",
+      "published_at": "2026-06-16T11:37:57+09:00",
+      "text_length": 0,
+      "title": "DK수학 7월정규개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 2,
+      "log_no": "224317446015",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317446015",
+      "published_at": "2026-06-16T11:34:30+09:00",
+      "text_length": 1158,
+      "title": "새움학원 고2 여름방학 과학특강"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
@@ -68,5 +107,5 @@
       "title": "대치위더스 입시관 수학프로그램"
     }
   ],
-  "updated_at": "2026-06-16T10:31:24.765946+09:00"
+  "updated_at": "2026-06-16T12:26:23.459952+09:00"
 }

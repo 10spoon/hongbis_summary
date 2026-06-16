@@ -1,6 +1,45 @@
 {
-  "post_count": 1515,
+  "post_count": 1518,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 0,
+      "log_no": "224317466829",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317466829",
+      "published_at": "2026-06-16T11:53:47+09:00",
+      "text_length": 0,
+      "title": "주요 10개 대학, 2028대입서 N수생 지원 불가 수시 전형 2.5배 확대"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 0,
+      "log_no": "224317449787",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317449787",
+      "published_at": "2026-06-16T11:37:57+09:00",
+      "text_length": 0,
+      "title": "DK수학 7월정규개강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-16T12:26:23.459952+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-16T12:26:23.459952+09:00",
+      "link_count": 2,
+      "log_no": "224317446015",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224317446015",
+      "published_at": "2026-06-16T11:34:30+09:00",
+      "text_length": 1158,
+      "title": "새움학원 고2 여름방학 과학특강"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-04-23T19:42:48+09:00",
       "text_length": 430,
       "title": "픽스아카데미 5월 연휴특강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
-      "link_count": 0,
-      "log_no": "224262821694",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262821694",
-      "published_at": "2026-04-23T19:20:30+09:00",
-      "text_length": 0,
-      "title": "상산고등학교 학교개방주간"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
-      "link_count": 0,
-      "log_no": "224262803383",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262803383",
-      "published_at": "2026-04-23T18:59:50+09:00",
-      "text_length": 0,
-      "title": "외대부고 2026 학교투어일정"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-23T19:47:35.130950+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-23T19:47:35.130950+09:00",
-      "link_count": 0,
-      "log_no": "224262797532",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224262797532",
-      "published_at": "2026-04-23T18:53:29+09:00",
-      "text_length": 0,
-      "title": "시험 잘 보려 마셨다가 망쳤네요”…고등학생 10명 중 3명 ‘카페인 과다’"
     }
   ],
-  "updated_at": "2026-06-16T10:31:24.765946+09:00"
+  "updated_at": "2026-06-16T12:26:23.459952+09:00"
 }
