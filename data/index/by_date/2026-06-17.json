@@ -1,7 +1,85 @@
 {
   "key": "2026-06-17",
-  "post_count": 2,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 0,
+      "log_no": "224319106205",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319106205",
+      "published_at": "2026-06-17T20:41:41+09:00",
+      "text_length": 618,
+      "title": "목동미래영재 중3 대상 고등 생명과학Ⅰ 기초 6주 특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 5,
+      "log_no": "224319093384",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319093384",
+      "published_at": "2026-06-17T20:24:50+09:00",
+      "text_length": 486,
+      "title": "아카로드 블루M 과학고 대비 설명회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 0,
+      "log_no": "224319090593",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319090593",
+      "published_at": "2026-06-17T20:21:07+09:00",
+      "text_length": 0,
+      "title": "22회 경암바이오유스캠프"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 0,
+      "log_no": "224319070320",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319070320",
+      "published_at": "2026-06-17T19:52:27+09:00",
+      "text_length": 0,
+      "title": "KB금융그룹과 함께하는 <K-Bee 꿀벌원정대 5기>"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 0,
+      "log_no": "224319068890",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319068890",
+      "published_at": "2026-06-17T19:50:29+09:00",
+      "text_length": 0,
+      "title": "목동아이스링크 여름방학특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-17T20:53:52.046519+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T20:53:52.046519+09:00",
+      "link_count": 0,
+      "log_no": "224319067798",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319067798",
+      "published_at": "2026-06-17T19:48:50+09:00",
+      "text_length": 0,
+      "title": "현대청운고 입학설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-17T14:57:11.795245+09:00",
@@ -29,5 +107,5 @@
       "title": "구글 독점 깬 30대 서울대 교수"
     }
   ],
-  "updated_at": "2026-06-17T14:57:11.795245+09:00"
+  "updated_at": "2026-06-17T20:53:52.046519+09:00"
 }
