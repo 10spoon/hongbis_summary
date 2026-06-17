@@ -1,6 +1,19 @@
 {
-  "post_count": 1532,
+  "post_count": 1533,
   "posts": [
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-17T12:26:14.512398+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T12:26:14.512398+09:00",
+      "link_count": 0,
+      "log_no": "224318598636",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318598636",
+      "published_at": "2026-06-17T11:52:44+09:00",
+      "text_length": 0,
+      "title": "구글 독점 깬 30대 서울대 교수"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-17T00:04:20.368165+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-24T15:58:12+09:00",
       "text_length": 0,
       "title": "여기 호텔인가요?\"…26억 들인 화장실에 고등학생들 '환호'"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-24T12:24:26.195767+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-24T12:24:26.195767+09:00",
-      "link_count": 0,
-      "log_no": "224263451194",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224263451194",
-      "published_at": "2026-04-24T11:14:11+09:00",
-      "text_length": 0,
-      "title": "'나'라는 님"
     }
   ],
-  "updated_at": "2026-06-17T00:04:20.368165+09:00"
+  "updated_at": "2026-06-17T12:26:14.512398+09:00"
 }

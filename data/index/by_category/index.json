@@ -8034,6 +8034,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-06-17T12:26:14.512398+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-17T12:26:14.512398+09:00",
+        "link_count": 0,
+        "log_no": "224318598636",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224318598636",
+        "published_at": "2026-06-17T11:52:44+09:00",
+        "text_length": 0,
+        "title": "구글 독점 깬 30대 서울대 교수"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-06-16T10:31:24.765946+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-16T10:31:24.765946+09:00",
@@ -19944,5 +19957,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-17T00:04:20.368165+09:00"
+  "updated_at": "2026-06-17T12:26:14.512398+09:00"
 }
