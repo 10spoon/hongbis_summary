@@ -1,6 +1,19 @@
 {
-  "post_count": 1533,
+  "post_count": 1534,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-17T14:57:11.795245+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-17T14:57:11.795245+09:00",
+      "link_count": 0,
+      "log_no": "224318710200",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224318710200",
+      "published_at": "2026-06-17T13:49:32+09:00",
+      "text_length": 0,
+      "title": "중하위권은 학원 많이 다니면 성적 떨어집니다”"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-17T12:26:14.512398+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-24T16:03:50+09:00",
       "text_length": 201,
       "title": "한일고등학교 2026년 제2차 입학설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-24T16:56:13.877319+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-24T16:56:13.877319+09:00",
-      "link_count": 0,
-      "log_no": "224263798304",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224263798304",
-      "published_at": "2026-04-24T15:58:12+09:00",
-      "text_length": 0,
-      "title": "여기 호텔인가요?\"…26억 들인 화장실에 고등학생들 '환호'"
     }
   ],
-  "updated_at": "2026-06-17T12:26:14.512398+09:00"
+  "updated_at": "2026-06-17T14:57:11.795245+09:00"
 }
