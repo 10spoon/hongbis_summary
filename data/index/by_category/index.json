@@ -2728,15 +2728,54 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 2,
+        "log_no": "224320321237",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320321237",
+        "published_at": "2026-06-18T23:55:28+09:00",
+        "text_length": 472,
+        "title": "천개의고원 예비고1(중3) 국어 집중 클리닉 프로그램' 온라인 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 6,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320318932",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320318932",
+        "published_at": "2026-06-18T23:52:03+09:00",
+        "text_length": 0,
+        "title": "현상훈수학 중1,2 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 2,
+        "log_no": "224320317411",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320317411",
+        "published_at": "2026-06-18T23:49:49+09:00",
+        "text_length": 642,
+        "title": "MEXX 현 중3 수학 /통과 직장인 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
         "image_count": 3,
-        "last_changed_at": "2026-06-18T22:28:38.646686+09:00",
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
         "link_count": 2,
         "log_no": "224320257605",
         "place_count": 1,
         "post_url": "https://blog.naver.com/hongbis/224320257605",
         "published_at": "2026-06-18T22:28:13+09:00",
-        "text_length": 426,
+        "text_length": 438,
         "title": "세정입시관 송민정T 2028.2029 대입 전략 설명회"
       },
       {
@@ -8541,6 +8580,45 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320324363",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320324363",
+        "published_at": "2026-06-18T23:59:38+09:00",
+        "text_length": 0,
+        "title": "대찬학원 고1 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320322163",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320322163",
+        "published_at": "2026-06-18T23:56:46+09:00",
+        "text_length": 0,
+        "title": "이든수학 초등관 중등함수 & 순열/조합 리페어반 특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320320190",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320320190",
+        "published_at": "2026-06-18T23:53:55+09:00",
+        "text_length": 0,
+        "title": "코어부원정 7월교과원장반"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
@@ -14681,6 +14759,32 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320325981",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320325981",
+        "published_at": "2026-06-19T00:01:41+09:00",
+        "text_length": 0,
+        "title": "“엄마, 나 믿고 기다려줘요”… 당신은 어떤 부모였나요?"
+      },
+      {
+        "category": "엄마공부",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320314281",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320314281",
+        "published_at": "2026-06-18T23:45:05+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] 귀한 아들 증후군"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-18T00:25:42.162049+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-18T00:25:42.162049+09:00",
@@ -16568,6 +16672,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
+        "link_count": 0,
+        "log_no": "224320315639",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320315639",
+        "published_at": "2026-06-18T23:47:05+09:00",
+        "text_length": 0,
+        "title": "[1년 전 오늘] “교과서가 시작이자 끝”.. 기말시험 효율적 공부법은?"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
@@ -20269,5 +20386,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-18T22:28:38.646686+09:00"
+  "updated_at": "2026-06-19T00:25:14.609625+09:00"
 }
