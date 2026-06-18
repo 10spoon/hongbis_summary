@@ -2728,6 +2728,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-18T20:37:20.247603+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-18T20:37:20.247603+09:00",
+        "link_count": 3,
+        "log_no": "224320157481",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320157481",
+        "published_at": "2026-06-18T20:12:28+09:00",
+        "text_length": 1037,
+        "title": "목동 시대인재 2026 고1 수학 스파르타 & 학교별 수학 간담회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-18T12:26:09.935204+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-18T12:26:09.935204+09:00",
@@ -8149,6 +8162,19 @@
       }
     ],
     "세특자료실": [
+      {
+        "category": "세특자료실",
+        "first_seen_at": "2026-06-18T20:37:20.247603+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-18T20:37:20.247603+09:00",
+        "link_count": 0,
+        "log_no": "224320163056",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320163056",
+        "published_at": "2026-06-18T20:20:37+09:00",
+        "text_length": 0,
+        "title": "KAIST 서선옥 교수, 2026 프런티어 과학상 수상"
+      },
       {
         "category": "세특자료실",
         "first_seen_at": "2026-06-17T12:26:14.512398+09:00",
@@ -20191,5 +20217,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-18T17:00:55.845804+09:00"
+  "updated_at": "2026-06-18T20:37:20.247603+09:00"
 }
