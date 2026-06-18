@@ -1,7 +1,20 @@
 {
   "key": "2026-06-18",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-18T12:26:09.935204+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-18T12:26:09.935204+09:00",
+      "link_count": 0,
+      "log_no": "224319641579",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224319641579",
+      "published_at": "2026-06-18T11:11:38+09:00",
+      "text_length": 822,
+      "title": "두각k 이영아소장전사고 내신경쟁 속 상산고와 외대부고 현장 실데이터 기반 실습형 학부모교실"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-18T00:25:42.162049+09:00",
@@ -29,5 +42,5 @@
       "title": "고양이국어 2026 Pre-예비고등반 학습 전략 설명회"
     }
   ],
-  "updated_at": "2026-06-18T00:25:42.162049+09:00"
+  "updated_at": "2026-06-18T12:26:09.935204+09:00"
 }
