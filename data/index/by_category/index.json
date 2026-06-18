@@ -8491,6 +8491,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-18T17:00:55.845804+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-18T17:00:55.845804+09:00",
+        "link_count": 1,
+        "log_no": "224319935926",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224319935926",
+        "published_at": "2026-06-18T15:58:11+09:00",
+        "text_length": 1165,
+        "title": "대치올깨학원 중1 학생을 위한 유경아 선생님\"6개월 중등 물리/화학 완성반\""
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-18T17:00:55.845804+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-18T17:00:55.845804+09:00",
+        "link_count": 1,
+        "log_no": "224319927626",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224319927626",
+        "published_at": "2026-06-18T15:50:52+09:00",
+        "text_length": 1018,
+        "title": "MEXX 고2 여름방학 국 /영 /과학 신설반"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-18T17:00:55.845804+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-18T17:00:55.845804+09:00",
+        "link_count": 2,
+        "log_no": "224319914318",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224319914318",
+        "published_at": "2026-06-18T15:39:13+09:00",
+        "text_length": 784,
+        "title": "시대인재 중2 수학스쿨 정규반 시간표 및 입반시험"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-18T00:25:42.162049+09:00",
         "image_count": 4,
         "last_changed_at": "2026-06-18T00:25:42.162049+09:00",
@@ -20152,5 +20191,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-18T12:26:09.935204+09:00"
+  "updated_at": "2026-06-18T17:00:55.845804+09:00"
 }
