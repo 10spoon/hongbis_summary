@@ -1,6 +1,58 @@
 {
-  "post_count": 1553,
+  "post_count": 1557,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-18T22:28:38.646686+09:00",
+      "link_count": 2,
+      "log_no": "224320257605",
+      "place_count": 1,
+      "post_url": "https://blog.naver.com/hongbis/224320257605",
+      "published_at": "2026-06-18T22:28:13+09:00",
+      "text_length": 426,
+      "title": "세정입시관 송민정T 2028.2029 대입 전략 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-18T22:28:38.646686+09:00",
+      "link_count": 0,
+      "log_no": "224320242559",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224320242559",
+      "published_at": "2026-06-18T22:08:26+09:00",
+      "text_length": 0,
+      "title": "js747 여름방학특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-18T22:28:38.646686+09:00",
+      "link_count": 0,
+      "log_no": "224320236399",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224320236399",
+      "published_at": "2026-06-18T22:00:24+09:00",
+      "text_length": 0,
+      "title": "수능 문제로 AI 성능 평가해보니…정답률만으론 실력 구분 한계"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-18T22:28:38.646686+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-18T22:28:38.646686+09:00",
+      "link_count": 0,
+      "log_no": "224320202820",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224320202820",
+      "published_at": "2026-06-18T21:15:39+09:00",
+      "text_length": 420,
+      "title": "대치이강 고2] 2028년 대입 전형 확정 계획안에 따른 고2 정시,수시 입시 전략 설명회"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-18T20:37:20.247603+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-25T22:48:49+09:00",
       "text_length": 0,
       "title": "정영어학원 중등내신시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-25T23:30:53.755275+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-25T23:30:53.755275+09:00",
-      "link_count": 0,
-      "log_no": "224265105071",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265105071",
-      "published_at": "2026-04-25T22:44:15+09:00",
-      "text_length": 0,
-      "title": "신어지학원 1학기 기말시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-25T22:42:16.841291+09:00",
-      "image_count": 7,
-      "last_changed_at": "2026-04-25T22:42:16.841291+09:00",
-      "link_count": 0,
-      "log_no": "224265103151",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265103151",
-      "published_at": "2026-04-25T22:41:54+09:00",
-      "text_length": 0,
-      "title": "모든국어 중등 5월 시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-25T22:42:16.841291+09:00",
-      "image_count": 6,
-      "last_changed_at": "2026-04-25T22:42:16.841291+09:00",
-      "link_count": 0,
-      "log_no": "224265086450",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265086450",
-      "published_at": "2026-04-25T22:21:05+09:00",
-      "text_length": 0,
-      "title": "바룸국어 중등5월 시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-25T21:30:09.348892+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-25T21:30:09.348892+09:00",
-      "link_count": 1,
-      "log_no": "224265032651",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265032651",
-      "published_at": "2026-04-25T21:13:36+09:00",
-      "text_length": 950,
-      "title": "예섬SS입시센터 도서×교과 전공별 심화 보고서 특강"
     }
   ],
-  "updated_at": "2026-06-18T20:37:20.247603+09:00"
+  "updated_at": "2026-06-18T22:28:38.646686+09:00"
 }
