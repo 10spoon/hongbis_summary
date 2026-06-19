@@ -16674,6 +16674,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-19T10:32:57.466360+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-19T10:32:57.466360+09:00",
+        "link_count": 0,
+        "log_no": "224320588429",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224320588429",
+        "published_at": "2026-06-19T09:34:50+09:00",
+        "text_length": 0,
+        "title": "중하위권 다니는 보습학원은 '위축', 상위권 대상 입시학원은 '팽창'"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-19T00:25:14.609625+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-19T00:25:14.609625+09:00",
@@ -20386,5 +20399,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-19T00:25:14.609625+09:00"
+  "updated_at": "2026-06-19T10:32:57.466360+09:00"
 }
