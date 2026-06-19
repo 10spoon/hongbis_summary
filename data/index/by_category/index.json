@@ -16817,6 +16817,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-20T03:54:51.395565+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T03:54:51.395565+09:00",
+        "link_count": 0,
+        "log_no": "224321418268",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321418268",
+        "published_at": "2026-06-20T02:55:35+09:00",
+        "text_length": 1,
+        "title": "서울대 생기부에 성적이 아닌 성장을 담아라 믿어도 될까"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-19T22:26:53.405754+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-19T22:26:53.405754+09:00",
@@ -20568,5 +20581,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-20T00:24:53.235121+09:00"
+  "updated_at": "2026-06-20T03:54:51.395565+09:00"
 }

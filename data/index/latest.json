@@ -1,6 +1,19 @@
 {
-  "post_count": 1580,
+  "post_count": 1581,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-20T03:54:51.395565+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T03:54:51.395565+09:00",
+      "link_count": 0,
+      "log_no": "224321418268",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321418268",
+      "published_at": "2026-06-20T02:55:35+09:00",
+      "text_length": 1,
+      "title": "서울대 생기부에 성적이 아닌 성장을 담아라 믿어도 될까"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-26T23:49:57+09:00",
       "text_length": 0,
       "title": "목동시대인재 고3 6평대비특강시간표"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
-      "link_count": 0,
-      "log_no": "224266054230",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224266054230",
-      "published_at": "2026-04-26T23:44:46+09:00",
-      "text_length": 0,
-      "title": "몰입아카데미 2026 여름방학캠프"
     }
   ],
-  "updated_at": "2026-06-20T00:24:53.235121+09:00"
+  "updated_at": "2026-06-20T03:54:51.395565+09:00"
 }
