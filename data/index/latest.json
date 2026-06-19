@@ -1,6 +1,58 @@
 {
-  "post_count": 1576,
+  "post_count": 1580,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 1,
+      "log_no": "224321333517",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321333517",
+      "published_at": "2026-06-19T23:53:59+09:00",
+      "text_length": 1044,
+      "title": "SNT 가자! 외대부고 프리미엄 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 0,
+      "log_no": "224321327074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321327074",
+      "published_at": "2026-06-19T23:44:31+09:00",
+      "text_length": 0,
+      "title": "개념상상SM관 2026년 여름방학 시간표"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 0,
+      "log_no": "224321323185",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321323185",
+      "published_at": "2026-06-19T23:38:56+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 아들과의 관계가 예전같지 않아 너무 힘듭니다..."
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 1,
+      "log_no": "224321322742",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321322742",
+      "published_at": "2026-06-19T23:38:18+09:00",
+      "text_length": 1063,
+      "title": "대치위더스 현)중3을 위한 \"■ 17년간 대원외고 입학 담당쌤의 대원,한영외고 합격 하는 법■> 2차 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-19T22:26:53.405754+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-26T23:44:46+09:00",
       "text_length": 0,
       "title": "몰입아카데미 2026 여름방학캠프"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T00:29:55.552536+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-27T00:29:55.552536+09:00",
-      "link_count": 0,
-      "log_no": "224266050719",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224266050719",
-      "published_at": "2026-04-26T23:40:41+09:00",
-      "text_length": 0,
-      "title": "상아학원 1학기 기말고사시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-26T23:30:57.601126+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-26T23:30:57.601126+09:00",
-      "link_count": 0,
-      "log_no": "224266041358",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224266041358",
-      "published_at": "2026-04-26T23:29:20+09:00",
-      "text_length": 0,
-      "title": "러셀목동 고1 썸머 몰입캠프"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-26T23:30:57.601126+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-26T23:30:57.601126+09:00",
-      "link_count": 0,
-      "log_no": "224266031800",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224266031800",
-      "published_at": "2026-04-26T23:18:10+09:00",
-      "text_length": 0,
-      "title": "수험생이라면 지금 당장, ‘우선순위 학습법’부터 정하라"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-26T21:32:01.134339+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-26T21:32:01.134339+09:00",
-      "link_count": 0,
-      "log_no": "224265904466",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265904466",
-      "published_at": "2026-04-26T21:03:13+09:00",
-      "text_length": 0,
-      "title": "다솔학원 중3통합과학"
     }
   ],
-  "updated_at": "2026-06-19T22:26:53.405754+09:00"
+  "updated_at": "2026-06-20T00:24:53.235121+09:00"
 }

@@ -1,7 +1,59 @@
 {
   "key": "2026-06-19",
-  "post_count": 11,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 1,
+      "log_no": "224321333517",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321333517",
+      "published_at": "2026-06-19T23:53:59+09:00",
+      "text_length": 1044,
+      "title": "SNT 가자! 외대부고 프리미엄 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 0,
+      "log_no": "224321327074",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321327074",
+      "published_at": "2026-06-19T23:44:31+09:00",
+      "text_length": 0,
+      "title": "개념상상SM관 2026년 여름방학 시간표"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 0,
+      "log_no": "224321323185",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321323185",
+      "published_at": "2026-06-19T23:38:56+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 아들과의 관계가 예전같지 않아 너무 힘듭니다..."
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
+      "link_count": 1,
+      "log_no": "224321322742",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321322742",
+      "published_at": "2026-06-19T23:38:18+09:00",
+      "text_length": 1063,
+      "title": "대치위더스 현)중3을 위한 \"■ 17년간 대원외고 입학 담당쌤의 대원,한영외고 합격 하는 법■> 2차 설명회"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-19T22:26:53.405754+09:00",
@@ -146,5 +198,5 @@
       "title": "“엄마, 나 믿고 기다려줘요”… 당신은 어떤 부모였나요?"
     }
   ],
-  "updated_at": "2026-06-19T22:26:53.405754+09:00"
+  "updated_at": "2026-06-20T00:24:53.235121+09:00"
 }
