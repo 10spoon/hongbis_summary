@@ -1,6 +1,19 @@
 {
-  "post_count": 1575,
+  "post_count": 1576,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-19T22:26:53.405754+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-19T22:26:53.405754+09:00",
+      "link_count": 0,
+      "log_no": "224321231439",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321231439",
+      "published_at": "2026-06-19T21:25:09+09:00",
+      "text_length": 0,
+      "title": "SKY 재수? 그냥 ‘이 학과’ 가라…SK하이닉스 채용 뚫는 법"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-19T20:43:17.779900+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-26T21:03:13+09:00",
       "text_length": 0,
       "title": "다솔학원 중3통합과학"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-26T21:32:01.134339+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-04-26T21:32:01.134339+09:00",
-      "link_count": 0,
-      "log_no": "224265899203",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224265899203",
-      "published_at": "2026-04-26T20:57:38+09:00",
-      "text_length": 0,
-      "title": "대림미술관 키즈워크룸 시크릿컬러랩"
     }
   ],
-  "updated_at": "2026-06-19T20:43:17.779900+09:00"
+  "updated_at": "2026-06-19T22:26:53.405754+09:00"
 }
