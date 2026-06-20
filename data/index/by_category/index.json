@@ -2767,6 +2767,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+        "link_count": 1,
+        "log_no": "224322013424",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322013424",
+        "published_at": "2026-06-20T21:35:14+09:00",
+        "text_length": 307,
+        "title": "두각k수학 이종완T&강호길 원장이 들려주는 수학 이야기"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+        "link_count": 0,
+        "log_no": "224322012103",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322012103",
+        "published_at": "2026-06-20T21:33:05+09:00",
+        "text_length": 0,
+        "title": "시대인재 고2 2026 입시 설명회 이민하t 영상"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-20T20:02:34.705979+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-20T20:02:34.705979+09:00",
@@ -8710,6 +8736,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+        "link_count": 0,
+        "log_no": "224322015812",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322015812",
+        "published_at": "2026-06-20T21:39:20+09:00",
+        "text_length": 0,
+        "title": "아이티씨어학원 여름방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-20T18:24:07.729228+09:00",
@@ -16934,6 +16973,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+        "link_count": 0,
+        "log_no": "224322018041",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322018041",
+        "published_at": "2026-06-20T21:42:58+09:00",
+        "text_length": 0,
+        "title": "특별한 스펙보다 중요한 것”… 서울대가 밝힌 학종의 진실"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
@@ -20711,5 +20763,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-20T20:02:34.705979+09:00"
+  "updated_at": "2026-06-20T21:53:40.993418+09:00"
 }

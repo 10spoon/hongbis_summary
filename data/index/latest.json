@@ -1,6 +1,58 @@
 {
-  "post_count": 1591,
+  "post_count": 1595,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+      "link_count": 0,
+      "log_no": "224322018041",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322018041",
+      "published_at": "2026-06-20T21:42:58+09:00",
+      "text_length": 0,
+      "title": "특별한 스펙보다 중요한 것”… 서울대가 밝힌 학종의 진실"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+      "link_count": 0,
+      "log_no": "224322015812",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322015812",
+      "published_at": "2026-06-20T21:39:20+09:00",
+      "text_length": 0,
+      "title": "아이티씨어학원 여름방학특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+      "link_count": 1,
+      "log_no": "224322013424",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322013424",
+      "published_at": "2026-06-20T21:35:14+09:00",
+      "text_length": 307,
+      "title": "두각k수학 이종완T&강호길 원장이 들려주는 수학 이야기"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T21:53:40.993418+09:00",
+      "link_count": 0,
+      "log_no": "224322012103",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322012103",
+      "published_at": "2026-06-20T21:33:05+09:00",
+      "text_length": 0,
+      "title": "시대인재 고2 2026 입시 설명회 이민하t 영상"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-20T20:02:34.705979+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-04-27T21:29:49+09:00",
       "text_length": 0,
       "title": "월 30만원 생활비 준다…삼전·하닉 계약학과 합격선 역대 최고"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T20:53:34.997896+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T20:53:34.997896+09:00",
-      "link_count": 0,
-      "log_no": "224267155516",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267155516",
-      "published_at": "2026-04-27T20:49:58+09:00",
-      "text_length": 821,
-      "title": "러셀 강남 2026 썸머스쿨 모집"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-27T20:53:34.997896+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T20:53:34.997896+09:00",
-      "link_count": 0,
-      "log_no": "224267148812",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267148812",
-      "published_at": "2026-04-27T20:42:53+09:00",
-      "text_length": 0,
-      "title": "대치이강 2028 고2 대입전형 확정 계획안에 따른 입시전략 설명회 <5/10, 17:30 >"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
-      "link_count": 0,
-      "log_no": "224267071677",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267071677",
-      "published_at": "2026-04-27T19:19:48+09:00",
-      "text_length": 0,
-      "title": "불꽃수학 예비고1 7월개강"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
-      "link_count": 0,
-      "log_no": "224267070030",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267070030",
-      "published_at": "2026-04-27T19:17:58+09:00",
-      "text_length": 536,
-      "title": "픽스아카데미 5월 연휴특강"
     }
   ],
-  "updated_at": "2026-06-20T20:02:34.705979+09:00"
+  "updated_at": "2026-06-20T21:53:40.993418+09:00"
 }
