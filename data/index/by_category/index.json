@@ -2767,6 +2767,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-20T20:02:34.705979+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T20:02:34.705979+09:00",
+        "link_count": 3,
+        "log_no": "224321930380",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321930380",
+        "published_at": "2026-06-20T19:05:15+09:00",
+        "text_length": 653,
+        "title": "목동 시대인재 2026 고1 입시설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
         "image_count": 8,
         "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
@@ -20698,5 +20711,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-20T18:24:07.729228+09:00"
+  "updated_at": "2026-06-20T20:02:34.705979+09:00"
 }

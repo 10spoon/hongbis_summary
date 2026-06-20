@@ -1,6 +1,19 @@
 {
-  "post_count": 1590,
+  "post_count": 1591,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-20T20:02:34.705979+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T20:02:34.705979+09:00",
+      "link_count": 3,
+      "log_no": "224321930380",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224321930380",
+      "published_at": "2026-06-20T19:05:15+09:00",
+      "text_length": 653,
+      "title": "목동 시대인재 2026 고1 입시설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-20T18:24:07.729228+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-27T19:17:58+09:00",
       "text_length": 536,
       "title": "픽스아카데미 5월 연휴특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-27T19:56:41.695534+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T19:56:41.695534+09:00",
-      "link_count": 0,
-      "log_no": "224267068872",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267068872",
-      "published_at": "2026-04-27T19:16:43+09:00",
-      "text_length": 0,
-      "title": "2028 의대 입시, 어떤 고교를 선택할 것인가"
     }
   ],
-  "updated_at": "2026-06-20T18:24:07.729228+09:00"
+  "updated_at": "2026-06-20T20:02:34.705979+09:00"
 }
