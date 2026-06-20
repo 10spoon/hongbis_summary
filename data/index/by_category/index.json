@@ -8699,6 +8699,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-20T18:24:07.729228+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-20T18:24:07.729228+09:00",
+        "link_count": 0,
+        "log_no": "224321898775",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321898775",
+        "published_at": "2026-06-20T18:06:46+09:00",
+        "text_length": 0,
+        "title": "대치에이펙스 여름방학특별자습스터디캠프"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
@@ -14915,6 +14928,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-20T18:24:07.729228+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T18:24:07.729228+09:00",
+        "link_count": 0,
+        "log_no": "224321890862",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321890862",
+        "published_at": "2026-06-20T17:53:00+09:00",
+        "text_length": 0,
+        "title": "사랑하는 어린이 친구들, 고마웠어요\" 은마상가 문방구 사장의 작별 인사"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-20T00:24:53.235121+09:00",
@@ -20672,5 +20698,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-20T14:44:41.861835+09:00"
+  "updated_at": "2026-06-20T18:24:07.729228+09:00"
 }
