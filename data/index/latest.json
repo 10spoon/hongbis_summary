@@ -1,6 +1,32 @@
 {
-  "post_count": 1595,
+  "post_count": 1597,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-20T22:55:36.213348+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T22:55:36.213348+09:00",
+      "link_count": 0,
+      "log_no": "224322056196",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322056196",
+      "published_at": "2026-06-20T22:41:48+09:00",
+      "text_length": 475,
+      "title": "제 22회 생명공학캠프(특강과 실험으로 배우는 생명공학의 신기한 세계)"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-20T22:55:36.213348+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-20T22:55:36.213348+09:00",
+      "link_count": 0,
+      "log_no": "224322051018",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322051018",
+      "published_at": "2026-06-20T22:34:02+09:00",
+      "text_length": 0,
+      "title": "2026 한국주니어수학올림피아드 개최 안내 (접수기간 6/17~7/28까지"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-27T22:32:06+09:00",
       "text_length": 0,
       "title": "아드폰테스하이페리온 5월수학프로그램"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-27T21:51:32.264767+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T21:51:32.264767+09:00",
-      "link_count": 0,
-      "log_no": "224267200244",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267200244",
-      "published_at": "2026-04-27T21:35:00+09:00",
-      "text_length": 352,
-      "title": "대치명인 숙명여고1] 1학기 중간고사 내신분석 & 생기부 작성법 실습 간담회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-27T21:51:32.264767+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T21:51:32.264767+09:00",
-      "link_count": 0,
-      "log_no": "224267195063",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267195063",
-      "published_at": "2026-04-27T21:29:49+09:00",
-      "text_length": 0,
-      "title": "월 30만원 생활비 준다…삼전·하닉 계약학과 합격선 역대 최고"
     }
   ],
-  "updated_at": "2026-06-20T21:53:40.993418+09:00"
+  "updated_at": "2026-06-20T22:55:36.213348+09:00"
 }
