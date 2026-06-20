@@ -85,6 +85,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 0,
+        "log_no": "224321731085",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321731085",
+        "published_at": "2026-06-20T13:40:25+09:00",
+        "text_length": 0,
+        "title": "성균관대학교 캠퍼스투어"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 0,
+        "log_no": "224321723776",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321723776",
+        "published_at": "2026-06-20T13:28:28+09:00",
+        "text_length": 301,
+        "title": "가천대학교 2027학년도 의예과, 한의예과, 약학과 모의논술 시행 안내"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 0,
+        "log_no": "224321719643",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321719643",
+        "published_at": "2026-06-20T13:21:33+09:00",
+        "text_length": 0,
+        "title": "고려대경영학과 청소년 멘토링데이"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-18T00:25:42.162049+09:00",
         "image_count": 3,
         "last_changed_at": "2026-06-18T00:25:42.162049+09:00",
@@ -2726,6 +2765,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 8,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 0,
+        "log_no": "224321732721",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321732721",
+        "published_at": "2026-06-20T13:43:09+09:00",
+        "text_length": 0,
+        "title": "현상훈수학 중3 설명회 예비고1 대입 필승전략: 내신 X.X 마무리 + 수능 정면돌파 안내"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 3,
+        "log_no": "224321717950",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321717950",
+        "published_at": "2026-06-20T13:18:46+09:00",
+        "text_length": 921,
+        "title": "목동 시대인재 2026 고1 조현득T & 목동고(김민수T) /양정고(감동길T) /진명여고(김주성T) 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
@@ -8632,6 +8697,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 1,
+        "log_no": "224321746129",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321746129",
+        "published_at": "2026-06-20T14:05:07+09:00",
+        "text_length": 1153,
+        "title": "시대인재 2026 현 중3 과학 여름방학 특강 (화학편)"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-20T00:24:53.235121+09:00",
@@ -16817,6 +16895,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-20T14:44:41.861835+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-20T14:44:41.861835+09:00",
+        "link_count": 0,
+        "log_no": "224321698671",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224321698671",
+        "published_at": "2026-06-20T12:50:57+09:00",
+        "text_length": 0,
+        "title": "급기야 고1 재수까지…'내신 리셋'"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-20T03:54:51.395565+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-20T03:54:51.395565+09:00",
@@ -20581,5 +20672,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-20T03:54:51.395565+09:00"
+  "updated_at": "2026-06-20T14:44:41.861835+09:00"
 }
