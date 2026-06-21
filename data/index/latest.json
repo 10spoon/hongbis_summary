@@ -1,6 +1,32 @@
 {
-  "post_count": 1614,
+  "post_count": 1616,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T00:54:30.630010+09:00",
+      "link_count": 0,
+      "log_no": "224322875598",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322875598",
+      "published_at": "2026-06-22T00:24:20+09:00",
+      "text_length": 295,
+      "title": "돋을볕 국어 학원 고3 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T00:54:30.630010+09:00",
+      "link_count": 0,
+      "log_no": "224322868385",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322868385",
+      "published_at": "2026-06-22T00:12:50+09:00",
+      "text_length": 0,
+      "title": "애듀캐슬학원 대청중3 한국사 기말내신반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-28T22:48:34+09:00",
       "text_length": 0,
       "title": "2026 국립과천과학관 '어린이날 축제' 퍼레이드 인원 모집"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
-      "link_count": 0,
-      "log_no": "224268450881",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268450881",
-      "published_at": "2026-04-28T21:48:09+09:00",
-      "text_length": 356,
-      "title": "미래영재,GT [초5~중 3대상] 2028 대입개편설명회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-28T21:55:35.977023+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-28T21:55:35.977023+09:00",
-      "link_count": 0,
-      "log_no": "224268415356",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268415356",
-      "published_at": "2026-04-28T21:10:06+09:00",
-      "text_length": 0,
-      "title": "pmg학원 중등과학프로그램"
     }
   ],
-  "updated_at": "2026-06-22T00:02:32.276370+09:00"
+  "updated_at": "2026-06-22T00:54:30.630010+09:00"
 }

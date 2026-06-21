@@ -1,7 +1,33 @@
 {
   "key": "2026-06-22",
-  "post_count": 1,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T00:54:30.630010+09:00",
+      "link_count": 0,
+      "log_no": "224322875598",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322875598",
+      "published_at": "2026-06-22T00:24:20+09:00",
+      "text_length": 295,
+      "title": "돋을볕 국어 학원 고3 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T00:54:30.630010+09:00",
+      "link_count": 0,
+      "log_no": "224322868385",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322868385",
+      "published_at": "2026-06-22T00:12:50+09:00",
+      "text_length": 0,
+      "title": "애듀캐슬학원 대청중3 한국사 기말내신반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
@@ -16,5 +42,5 @@
       "title": "엑스포스학원 7월 수업시간표"
     }
   ],
-  "updated_at": "2026-06-22T00:02:32.276370+09:00"
+  "updated_at": "2026-06-22T00:54:30.630010+09:00"
 }
