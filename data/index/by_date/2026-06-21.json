@@ -1,7 +1,46 @@
 {
   "key": "2026-06-21",
-  "post_count": 6,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-21T16:55:42.111997+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-21T16:55:42.111997+09:00",
+      "link_count": 0,
+      "log_no": "224322571465",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322571465",
+      "published_at": "2026-06-21T16:51:39+09:00",
+      "text_length": 0,
+      "title": "정도수학 여름방학특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T16:55:42.111997+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T16:55:42.111997+09:00",
+      "link_count": 0,
+      "log_no": "224322568162",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322568162",
+      "published_at": "2026-06-21T16:46:44+09:00",
+      "text_length": 252,
+      "title": "KAIST 주최 과학기술원 공동 입학설명회 안내 (6/27, 토요일, 대전 본원)"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-21T16:55:42.111997+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T16:55:42.111997+09:00",
+      "link_count": 1,
+      "log_no": "224322565857",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322565857",
+      "published_at": "2026-06-21T16:43:07+09:00",
+      "text_length": 631,
+      "title": "시대인재 반포센터 예비고1(현 중3) 수학 스쿨 여름방학 시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-21T14:56:18.340041+09:00",
@@ -81,5 +120,5 @@
       "title": "내신 1등급, 모의 수능은 3등급…공부 어떻게 해야 돼요?”"
     }
   ],
-  "updated_at": "2026-06-21T14:56:18.340041+09:00"
+  "updated_at": "2026-06-21T16:55:42.111997+09:00"
 }
