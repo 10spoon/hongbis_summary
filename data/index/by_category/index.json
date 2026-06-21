@@ -8842,6 +8842,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-22T00:02:32.276370+09:00",
+        "link_count": 0,
+        "log_no": "224322859443",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322859443",
+        "published_at": "2026-06-22T00:00:26+09:00",
+        "text_length": 0,
+        "title": "엑스포스학원 7월 수업시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-22T00:02:32.276370+09:00",
+        "link_count": 0,
+        "log_no": "224322857675",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322857675",
+        "published_at": "2026-06-21T23:58:33+09:00",
+        "text_length": 0,
+        "title": "다솔학원 통합사회한국사개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-22T00:02:32.276370+09:00",
+        "link_count": 0,
+        "log_no": "224322852891",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322852891",
+        "published_at": "2026-06-21T23:52:17+09:00",
+        "text_length": 0,
+        "title": "민쌤과학 여름방학특강개강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-21T21:58:12.952806+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-21T21:58:12.952806+09:00",
@@ -15136,6 +15175,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
+        "image_count": 0,
+        "last_changed_at": "2026-06-22T00:02:32.276370+09:00",
+        "link_count": 0,
+        "log_no": "224322849827",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322849827",
+        "published_at": "2026-06-21T23:48:16+09:00",
+        "text_length": 0,
+        "title": "[5년 전 오늘] [1년 전 오늘] [얼굴이 예쁠수록 분노조절이 안된다..,.그럼 나는? ㅇ인?]"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-20T18:24:07.729228+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-20T18:24:07.729228+09:00",
@@ -17127,6 +17179,19 @@
       }
     ],
     "입시뉴스": [
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-22T00:02:32.276370+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-22T00:02:32.276370+09:00",
+        "link_count": 0,
+        "log_no": "224322841094",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322841094",
+        "published_at": "2026-06-21T23:35:57+09:00",
+        "text_length": 0,
+        "title": "기말고사 일주일 전 벼락치기 꿀팁? “교과서·기출 위주로 학습하라”"
+      },
       {
         "category": "입시뉴스",
         "first_seen_at": "2026-06-21T20:22:11.673947+09:00",
@@ -20945,5 +21010,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-21T21:58:12.952806+09:00"
+  "updated_at": "2026-06-22T00:02:32.276370+09:00"
 }
