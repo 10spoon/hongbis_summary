@@ -1,6 +1,32 @@
 {
-  "post_count": 1597,
+  "post_count": 1599,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-21T10:30:25.502672+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T10:30:25.502672+09:00",
+      "link_count": 0,
+      "log_no": "224322302083",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322302083",
+      "published_at": "2026-06-21T08:59:58+09:00",
+      "text_length": 3247,
+      "title": "제20회 SNU 자연과학캠프 참가자 모집 6.22접수시작"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-21T10:30:25.502672+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T10:30:25.502672+09:00",
+      "link_count": 0,
+      "log_no": "224322299348",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322299348",
+      "published_at": "2026-06-21T08:53:43+09:00",
+      "text_length": 0,
+      "title": "내신 1등급, 모의 수능은 3등급…공부 어떻게 해야 돼요?”"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-20T22:55:36.213348+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-27T23:18:07+09:00",
       "text_length": 18,
       "title": "성적은 결과이고 태도는 미래입니다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T22:55:31.624526+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-27T22:55:31.624526+09:00",
-      "link_count": 0,
-      "log_no": "224267275703",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267275703",
-      "published_at": "2026-04-27T22:51:57+09:00",
-      "text_length": 0,
-      "title": "역사화랑 수행과수능 생기부형 글쓰기 공모전"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-27T22:55:31.624526+09:00",
-      "image_count": 6,
-      "last_changed_at": "2026-04-27T22:55:31.624526+09:00",
-      "link_count": 0,
-      "log_no": "224267256689",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267256689",
-      "published_at": "2026-04-27T22:32:06+09:00",
-      "text_length": 0,
-      "title": "아드폰테스하이페리온 5월수학프로그램"
     }
   ],
-  "updated_at": "2026-06-20T22:55:36.213348+09:00"
+  "updated_at": "2026-06-21T10:30:25.502672+09:00"
 }
