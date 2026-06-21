@@ -1,6 +1,32 @@
 {
-  "post_count": 1599,
+  "post_count": 1601,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T12:26:25.332451+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T12:26:25.332451+09:00",
+      "link_count": 1,
+      "log_no": "224322396432",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322396432",
+      "published_at": "2026-06-21T12:00:05+09:00",
+      "text_length": 883,
+      "title": "대치아폴론 2028 의대 입시전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T12:26:25.332451+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T12:26:25.332451+09:00",
+      "link_count": 5,
+      "log_no": "224322386331",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322386331",
+      "published_at": "2026-06-21T11:42:31+09:00",
+      "text_length": 486,
+      "title": "아카로드 블루M 과학고 대비 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-21T10:30:25.502672+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-28T09:49:13+09:00",
       "text_length": 0,
       "title": "아이에 대한 걱정, 사랑에서 출발했음을 기억하세요"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-27T23:57:24.670795+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T23:57:24.670795+09:00",
-      "link_count": 1,
-      "log_no": "224267306260",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267306260",
-      "published_at": "2026-04-27T23:25:27+09:00",
-      "text_length": 553,
-      "title": "대치미래탐구 기말대비 성공전략]설명회★ 첫 시험이후 전략: 중간고사 이후 직면하는 것!!"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-04-27T23:57:24.670795+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-27T23:57:24.670795+09:00",
-      "link_count": 0,
-      "log_no": "224267299729",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224267299729",
-      "published_at": "2026-04-27T23:18:07+09:00",
-      "text_length": 18,
-      "title": "성적은 결과이고 태도는 미래입니다"
     }
   ],
-  "updated_at": "2026-06-21T10:30:25.502672+09:00"
+  "updated_at": "2026-06-21T12:26:25.332451+09:00"
 }

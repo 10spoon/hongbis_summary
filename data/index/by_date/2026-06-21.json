@@ -1,7 +1,33 @@
 {
   "key": "2026-06-21",
-  "post_count": 2,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T12:26:25.332451+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T12:26:25.332451+09:00",
+      "link_count": 1,
+      "log_no": "224322396432",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322396432",
+      "published_at": "2026-06-21T12:00:05+09:00",
+      "text_length": 883,
+      "title": "대치아폴론 2028 의대 입시전략 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T12:26:25.332451+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T12:26:25.332451+09:00",
+      "link_count": 5,
+      "log_no": "224322386331",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322386331",
+      "published_at": "2026-06-21T11:42:31+09:00",
+      "text_length": 486,
+      "title": "아카로드 블루M 과학고 대비 설명회"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-21T10:30:25.502672+09:00",
@@ -29,5 +55,5 @@
       "title": "내신 1등급, 모의 수능은 3등급…공부 어떻게 해야 돼요?”"
     }
   ],
-  "updated_at": "2026-06-21T10:30:25.502672+09:00"
+  "updated_at": "2026-06-21T12:26:25.332451+09:00"
 }
