@@ -1,6 +1,32 @@
 {
-  "post_count": 1606,
+  "post_count": 1608,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-21T20:22:11.673947+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T20:22:11.673947+09:00",
+      "link_count": 0,
+      "log_no": "224322670342",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322670342",
+      "published_at": "2026-06-21T19:34:55+09:00",
+      "text_length": 0,
+      "title": "기말고사 일주일 전, 새 문제집보다 교과서·기출문제로 학습 범위 좁혀야"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-21T20:22:11.673947+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-21T20:22:11.673947+09:00",
+      "link_count": 1,
+      "log_no": "224322669389",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322669389",
+      "published_at": "2026-06-21T19:33:17+09:00",
+      "text_length": 625,
+      "title": "새움학원 여름방학 학습 밸런스 가이드 - 입시정보와 학과 관심도를 좁혀가는 방법"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-21T16:55:42.111997+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-28T19:27:45+09:00",
       "text_length": 790,
       "title": "두각k관 고2 기말고사 대비반"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-28T17:00:26.047671+09:00",
-      "link_count": 0,
-      "log_no": "224268122958",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268122958",
-      "published_at": "2026-04-28T16:31:27+09:00",
-      "text_length": 0,
-      "title": "개념상상 5월연휴특강"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-28T17:00:26.047671+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-28T17:00:26.047671+09:00",
-      "link_count": 0,
-      "log_no": "224268119385",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268119385",
-      "published_at": "2026-04-28T16:28:49+09:00",
-      "text_length": 0,
-      "title": "아들 책 날마다 베껴주며 “외우거라”···550년 전 ‘성재일기’ 속 조선의 교육 일상"
     }
   ],
-  "updated_at": "2026-06-21T16:55:42.111997+09:00"
+  "updated_at": "2026-06-21T20:22:11.673947+09:00"
 }
