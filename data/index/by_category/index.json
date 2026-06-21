@@ -2806,6 +2806,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-21T14:56:18.340041+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-21T14:56:18.340041+09:00",
+        "link_count": 5,
+        "log_no": "224322479695",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322479695",
+        "published_at": "2026-06-21T14:28:11+09:00",
+        "text_length": 845,
+        "title": "대치메카(고1,2) 이과계열 스펙분석 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-21T12:26:25.332451+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-21T12:26:25.332451+09:00",
@@ -8801,6 +8814,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-21T14:56:18.340041+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-21T14:56:18.340041+09:00",
+        "link_count": 2,
+        "log_no": "224322484623",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224322484623",
+        "published_at": "2026-06-21T14:36:38+09:00",
+        "text_length": 677,
+        "title": "MEXX 현 중3 국어 손용문T 정규 시즌1 (예비고1)"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-20T21:53:40.993418+09:00",
@@ -20841,5 +20867,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-21T12:26:25.332451+09:00"
+  "updated_at": "2026-06-21T14:56:18.340041+09:00"
 }
