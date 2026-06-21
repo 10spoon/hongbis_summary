@@ -1,6 +1,19 @@
 {
-  "post_count": 1608,
+  "post_count": 1609,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-21T21:58:12.952806+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-21T21:58:12.952806+09:00",
+      "link_count": 0,
+      "log_no": "224322701356",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224322701356",
+      "published_at": "2026-06-21T20:26:37+09:00",
+      "text_length": 0,
+      "title": "DK수학 26년도 여름방학특 강"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-21T20:22:11.673947+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-28T19:28:52+09:00",
       "text_length": 0,
       "title": "[1년 전 오늘] 중간고사 시험 못 봤다는 딸의 문자에 엄마가 보낸 답장"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-28T19:56:58.925967+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-28T19:56:58.925967+09:00",
-      "link_count": 2,
-      "log_no": "224268322316",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268322316",
-      "published_at": "2026-04-28T19:27:45+09:00",
-      "text_length": 790,
-      "title": "두각k관 고2 기말고사 대비반"
     }
   ],
-  "updated_at": "2026-06-21T20:22:11.673947+09:00"
+  "updated_at": "2026-06-21T21:58:12.952806+09:00"
 }
