@@ -2845,6 +2845,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-22T19:53:12.089109+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-22T19:53:12.089109+09:00",
+        "link_count": 1,
+        "log_no": "224323743547",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224323743547",
+        "published_at": "2026-06-22T19:21:24+09:00",
+        "text_length": 709,
+        "title": "픽스 과학 방학특강 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-22T17:28:50.485925+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-22T17:28:50.485925+09:00",
@@ -21140,5 +21153,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-22T17:28:50.485925+09:00"
+  "updated_at": "2026-06-22T19:53:12.089109+09:00"
 }
