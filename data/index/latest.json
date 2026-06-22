@@ -1,6 +1,19 @@
 {
-  "post_count": 1630,
+  "post_count": 1631,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-23T00:07:13.344820+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-23T00:07:13.344820+09:00",
+      "link_count": 0,
+      "log_no": "224323963248",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224323963248",
+      "published_at": "2026-06-22T23:55:45+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 낙오자였던 아인슈타인이 세계적인 천재가 된 이유"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-22T22:11:14.597069+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-29T15:28:37+09:00",
       "text_length": 678,
       "title": "유웨이 대치센터 고2 중간고사 이후 대비전략 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-29T14:25:37.932144+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-29T14:25:37.932144+09:00",
-      "link_count": 0,
-      "log_no": "224269105305",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224269105305",
-      "published_at": "2026-04-29T13:10:20+09:00",
-      "text_length": 0,
-      "title": "제주에 미국 명문 '풀턴 사이언스 아카데미' 캠퍼스 착공"
     }
   ],
-  "updated_at": "2026-06-22T22:11:14.597069+09:00"
+  "updated_at": "2026-06-23T00:07:13.344820+09:00"
 }
