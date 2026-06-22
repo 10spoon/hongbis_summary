@@ -1,7 +1,20 @@
 {
   "key": "2026-06-22",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-22T15:07:56.828412+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T15:07:56.828412+09:00",
+      "link_count": 0,
+      "log_no": "224323417725",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224323417725",
+      "published_at": "2026-06-22T14:30:01+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 고2 입시설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
@@ -42,5 +55,5 @@
       "title": "엑스포스학원 7월 수업시간표"
     }
   ],
-  "updated_at": "2026-06-22T00:54:30.630010+09:00"
+  "updated_at": "2026-06-22T15:07:56.828412+09:00"
 }

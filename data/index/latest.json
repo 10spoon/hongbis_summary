@@ -1,6 +1,19 @@
 {
-  "post_count": 1616,
+  "post_count": 1617,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-22T15:07:56.828412+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-22T15:07:56.828412+09:00",
+      "link_count": 0,
+      "log_no": "224323417725",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224323417725",
+      "published_at": "2026-06-22T14:30:01+09:00",
+      "text_length": 0,
+      "title": "목동시대인재 고2 입시설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-22T00:54:30.630010+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-28T23:08:33+09:00",
       "text_length": 0,
       "title": "중간고사를 치르는 과정에 드러난 안타까운 자화상 - '전교 1등 엄마는 이 시험 기간에 뭘 했을까'"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-04-29T00:07:54.283646+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-29T00:07:54.283646+09:00",
-      "link_count": 0,
-      "log_no": "224268507288",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224268507288",
-      "published_at": "2026-04-28T22:48:34+09:00",
-      "text_length": 0,
-      "title": "2026 국립과천과학관 '어린이날 축제' 퍼레이드 인원 모집"
     }
   ],
-  "updated_at": "2026-06-22T00:54:30.630010+09:00"
+  "updated_at": "2026-06-22T15:07:56.828412+09:00"
 }
