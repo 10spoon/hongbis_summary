@@ -8645,6 +8645,19 @@
     "세특자료실": [
       {
         "category": "세특자료실",
+        "first_seen_at": "2026-06-23T08:32:25.539004+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-23T08:32:25.539004+09:00",
+        "link_count": 0,
+        "log_no": "224324170940",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224324170940",
+        "published_at": "2026-06-23T07:55:50+09:00",
+        "text_length": 0,
+        "title": "거장의 장례식엔 단 두 사람만”…1천억 그림 남긴 호크니, 조용히 떠나다"
+      },
+      {
+        "category": "세특자료실",
         "first_seen_at": "2026-06-22T22:11:14.597069+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-22T22:11:14.597069+09:00",
@@ -21231,5 +21244,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-23T00:07:13.344820+09:00"
+  "updated_at": "2026-06-23T08:32:25.539004+09:00"
 }
