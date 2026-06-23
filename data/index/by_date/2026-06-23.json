@@ -1,7 +1,46 @@
 {
   "key": "2026-06-23",
-  "post_count": 4,
+  "post_count": 7,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T18:26:12.316227+09:00",
+      "link_count": 3,
+      "log_no": "224324830393",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324830393",
+      "published_at": "2026-06-23T18:17:30+09:00",
+      "text_length": 1027,
+      "title": "파인만 입시컨설팅 연합 대입 설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T18:26:12.316227+09:00",
+      "link_count": 2,
+      "log_no": "224324827087",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324827087",
+      "published_at": "2026-06-23T18:13:58+09:00",
+      "text_length": 700,
+      "title": "MEXX 현 중3 통합과학 장풍T S-Bridge 특강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T18:26:12.316227+09:00",
+      "link_count": 0,
+      "log_no": "224324802863",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324802863",
+      "published_at": "2026-06-23T17:50:39+09:00",
+      "text_length": 0,
+      "title": "블랙홀 난제 푼 서울과학고 학생들 \"의대 갈 생각없어…충실히 연구\""
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-23T16:32:17.884924+09:00",
@@ -55,5 +94,5 @@
       "title": "거장의 장례식엔 단 두 사람만”…1천억 그림 남긴 호크니, 조용히 떠나다"
     }
   ],
-  "updated_at": "2026-06-23T16:32:17.884924+09:00"
+  "updated_at": "2026-06-23T18:26:12.316227+09:00"
 }
