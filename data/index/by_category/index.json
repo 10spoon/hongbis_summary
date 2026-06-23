@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325040551",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325040551",
+        "published_at": "2026-06-23T22:27:35+09:00",
+        "text_length": 1166,
+        "title": "IBS 줄기세포 유전학 캠프(CGE-SG) 2026 모집"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-22T22:11:14.597069+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-22T22:11:14.597069+09:00",
@@ -2856,6 +2869,45 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325106404",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325106404",
+        "published_at": "2026-06-23T23:49:55+09:00",
+        "text_length": 0,
+        "title": "아토즈논술 2028 대비 고2 수시전형 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325065700",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325065700",
+        "published_at": "2026-06-23T22:57:49+09:00",
+        "text_length": 311,
+        "title": "대치명인 펜타킬소장,고1입시전략 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325045509",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325045509",
+        "published_at": "2026-06-23T22:33:27+09:00",
+        "text_length": 404,
+        "title": "권박사학원의 2026년 6월 여름특강 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
@@ -9035,6 +9087,71 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325114095",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325114095",
+        "published_at": "2026-06-23T23:59:44+09:00",
+        "text_length": 153,
+        "title": "포모나사탐 파이널 개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325104315",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325104315",
+        "published_at": "2026-06-23T23:47:03+09:00",
+        "text_length": 0,
+        "title": "목동프로세스논술 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325100572",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325100572",
+        "published_at": "2026-06-23T23:42:05+09:00",
+        "text_length": 0,
+        "title": "해빛나인어학원 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325070862",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325070862",
+        "published_at": "2026-06-23T23:04:00+09:00",
+        "text_length": 0,
+        "title": "지혜의숲목동 7월 체험수업"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325063170",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325063170",
+        "published_at": "2026-06-23T22:54:47+09:00",
+        "text_length": 0,
+        "title": "플라즈마학원 여름특강시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
@@ -17480,6 +17597,32 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325097712",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325097712",
+        "published_at": "2026-06-23T23:38:23+09:00",
+        "text_length": 0,
+        "title": "일주일 남았는데 망했나요?”…기말고사 과목별 벼락치기 전략"
+      },
+      {
+        "category": "입시뉴스",
+        "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
+        "link_count": 0,
+        "log_no": "224325055348",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325055348",
+        "published_at": "2026-06-23T22:45:25+09:00",
+        "text_length": 0,
+        "title": "IB 교육 표준은 경기외고”, 전국 교사들 몰린 미래교육 혁신 현장"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-23T22:16:32.063664+09:00",
@@ -21348,5 +21491,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-23T22:16:32.063664+09:00"
+  "updated_at": "2026-06-24T00:21:14.252303+09:00"
 }
