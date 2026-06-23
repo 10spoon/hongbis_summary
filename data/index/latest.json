@@ -1,6 +1,19 @@
 {
-  "post_count": 1633,
+  "post_count": 1634,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-23T14:40:02.257484+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T14:40:02.257484+09:00",
+      "link_count": 4,
+      "log_no": "224324431607",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324431607",
+      "published_at": "2026-06-23T12:27:47+09:00",
+      "text_length": 471,
+      "title": "수행과 수능 여름방학 특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-23T12:25:21.794591+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-29T18:52:22+09:00",
       "text_length": 0,
       "title": "시매쓰 목동 잠실 중계. 우리아이 올바른 연산학습 학부모교육"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-29T16:57:27.833839+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-29T16:57:27.833839+09:00",
-      "link_count": 1,
-      "log_no": "224269351280",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224269351280",
-      "published_at": "2026-04-29T16:18:27+09:00",
-      "text_length": 1143,
-      "title": "시대인재중등관 수학 정규반"
     }
   ],
-  "updated_at": "2026-06-23T12:25:21.794591+09:00"
+  "updated_at": "2026-06-23T14:40:02.257484+09:00"
 }

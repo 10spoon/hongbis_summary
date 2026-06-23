@@ -1,7 +1,20 @@
 {
   "key": "2026-06-23",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-23T14:40:02.257484+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T14:40:02.257484+09:00",
+      "link_count": 4,
+      "log_no": "224324431607",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324431607",
+      "published_at": "2026-06-23T12:27:47+09:00",
+      "text_length": 471,
+      "title": "수행과 수능 여름방학 특강"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-23T12:25:21.794591+09:00",
@@ -29,5 +42,5 @@
       "title": "거장의 장례식엔 단 두 사람만”…1천억 그림 남긴 호크니, 조용히 떠나다"
     }
   ],
-  "updated_at": "2026-06-23T12:25:21.794591+09:00"
+  "updated_at": "2026-06-23T14:40:02.257484+09:00"
 }
