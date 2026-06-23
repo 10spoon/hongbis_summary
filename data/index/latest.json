@@ -1,6 +1,19 @@
 {
-  "post_count": 1632,
+  "post_count": 1633,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-23T12:25:21.794591+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T12:25:21.794591+09:00",
+      "link_count": 0,
+      "log_no": "224324417372",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324417372",
+      "published_at": "2026-06-23T12:13:38+09:00",
+      "text_length": 0,
+      "title": "30대에 ‘자발적 아싸’가 되는 이유"
+    },
     {
       "category": "세특자료실",
       "first_seen_at": "2026-06-23T08:32:25.539004+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-29T16:18:27+09:00",
       "text_length": 1143,
       "title": "시대인재중등관 수학 정규반"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-04-29T16:06:50.059842+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-04-29T16:06:50.059842+09:00",
-      "link_count": 0,
-      "log_no": "224269285126",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224269285126",
-      "published_at": "2026-04-29T15:31:19+09:00",
-      "text_length": 0,
-      "title": "학생들도 자비 없다...'태형' 싱가포르, 학교폭력에 칼 뽑았다"
     }
   ],
-  "updated_at": "2026-06-23T08:32:25.539004+09:00"
+  "updated_at": "2026-06-23T12:25:21.794591+09:00"
 }

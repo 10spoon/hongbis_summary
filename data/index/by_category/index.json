@@ -15396,6 +15396,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-23T12:25:21.794591+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-23T12:25:21.794591+09:00",
+        "link_count": 0,
+        "log_no": "224324417372",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224324417372",
+        "published_at": "2026-06-23T12:13:38+09:00",
+        "text_length": 0,
+        "title": "30대에 ‘자발적 아싸’가 되는 이유"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-23T00:07:13.344820+09:00",
         "image_count": 0,
         "last_changed_at": "2026-06-23T00:07:13.344820+09:00",
@@ -21244,5 +21257,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-23T08:32:25.539004+09:00"
+  "updated_at": "2026-06-23T12:25:21.794591+09:00"
 }
