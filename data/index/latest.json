@@ -1,6 +1,32 @@
 {
-  "post_count": 1638,
+  "post_count": 1640,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T22:16:32.063664+09:00",
+      "link_count": 0,
+      "log_no": "224325003004",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224325003004",
+      "published_at": "2026-06-23T21:43:53+09:00",
+      "text_length": 0,
+      "title": "임창섭과학 고2,고3 여름 방학시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T22:16:32.063664+09:00",
+      "link_count": 0,
+      "log_no": "224324992527",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324992527",
+      "published_at": "2026-06-23T21:31:24+09:00",
+      "text_length": 0,
+      "title": "수학 못하는 중3’ 9년 만에 최다…코로나 학습결손 영향"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-04-29T23:06:21+09:00",
       "text_length": 0,
       "title": "클라디학원 수업시간표"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-04-29T22:55:49.160792+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-04-29T22:55:49.160792+09:00",
-      "link_count": 0,
-      "log_no": "224269749407",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224269749407",
-      "published_at": "2026-04-29T22:54:10+09:00",
-      "text_length": 0,
-      "title": "대치중심학원 이성수t 국어 간담회"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-29T22:55:49.160792+09:00",
-      "image_count": 5,
-      "last_changed_at": "2026-04-29T22:55:49.160792+09:00",
-      "link_count": 0,
-      "log_no": "224269745498",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224269745498",
-      "published_at": "2026-04-29T22:49:48+09:00",
-      "text_length": 0,
-      "title": "목동마녀수학 중등부시간표"
     }
   ],
-  "updated_at": "2026-06-23T18:26:12.316227+09:00"
+  "updated_at": "2026-06-23T22:16:32.063664+09:00"
 }

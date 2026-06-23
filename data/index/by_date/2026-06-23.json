@@ -1,7 +1,33 @@
 {
   "key": "2026-06-23",
-  "post_count": 7,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T22:16:32.063664+09:00",
+      "link_count": 0,
+      "log_no": "224325003004",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224325003004",
+      "published_at": "2026-06-23T21:43:53+09:00",
+      "text_length": 0,
+      "title": "임창섭과학 고2,고3 여름 방학시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-23T22:16:32.063664+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-23T22:16:32.063664+09:00",
+      "link_count": 0,
+      "log_no": "224324992527",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224324992527",
+      "published_at": "2026-06-23T21:31:24+09:00",
+      "text_length": 0,
+      "title": "수학 못하는 중3’ 9년 만에 최다…코로나 학습결손 영향"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-23T18:26:12.316227+09:00",
@@ -94,5 +120,5 @@
       "title": "거장의 장례식엔 단 두 사람만”…1천억 그림 남긴 호크니, 조용히 떠나다"
     }
   ],
-  "updated_at": "2026-06-23T18:26:12.316227+09:00"
+  "updated_at": "2026-06-23T22:16:32.063664+09:00"
 }
