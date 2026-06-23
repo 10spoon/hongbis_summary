@@ -575,11 +575,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-06-23T22:42:37.225432+00:00",
+  "generated_at": "2026-06-23T23:27:14.600753+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 1651,
   "latest_updated_at": "2026-06-24T00:21:14.252303+09:00",
   "reports": [
+    {
+      "label": "2026-06-24-0800",
+      "new_count": 16,
+      "path": "data/reports/2026-06-24-0800.json",
+      "updated_count": 0,
+      "window_end": "2026-06-24T08:00:00+09:00",
+      "window_start": "2026-06-23T18:00:00+09:00"
+    },
     {
       "label": "2026-06-23-1800",
       "new_count": 4,
