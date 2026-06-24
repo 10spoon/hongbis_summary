@@ -2871,6 +2871,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-24T22:04:48.132814+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T22:04:48.132814+09:00",
+        "link_count": 1,
+        "log_no": "224326127749",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224326127749",
+        "published_at": "2026-06-24T20:32:50+09:00",
+        "text_length": 573,
+        "title": "김창호과학 예비고1.하귀성소장 입시전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-24T19:04:48.557895+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-24T19:04:48.557895+09:00",
@@ -21595,5 +21608,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-24T19:04:48.557895+09:00"
+  "updated_at": "2026-06-24T22:04:48.132814+09:00"
 }
