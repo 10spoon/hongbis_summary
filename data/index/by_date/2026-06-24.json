@@ -1,7 +1,20 @@
 {
   "key": "2026-06-24",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-24T16:28:26.239842+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-24T16:28:26.239842+09:00",
+      "link_count": 3,
+      "log_no": "224325775059",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224325775059",
+      "published_at": "2026-06-24T14:53:47+09:00",
+      "text_length": 340,
+      "title": "티스과학 7월 개강 시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-24T14:39:28.491516+09:00",
@@ -68,5 +81,5 @@
       "title": "고교학점제 시대를 준비하는 중학생의 ‘방학 중 진로 탐색’과 ‘과목 선택 전략’"
     }
   ],
-  "updated_at": "2026-06-24T14:39:28.491516+09:00"
+  "updated_at": "2026-06-24T16:28:26.239842+09:00"
 }

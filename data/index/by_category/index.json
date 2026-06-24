@@ -9089,6 +9089,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-24T16:28:26.239842+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-24T16:28:26.239842+09:00",
+        "link_count": 3,
+        "log_no": "224325775059",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224325775059",
+        "published_at": "2026-06-24T14:53:47+09:00",
+        "text_length": 340,
+        "title": "티스과학 7월 개강 시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-24T14:39:28.491516+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-24T14:39:28.491516+09:00",
@@ -21556,5 +21569,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-24T14:39:28.491516+09:00"
+  "updated_at": "2026-06-24T16:28:26.239842+09:00"
 }

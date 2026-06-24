@@ -1,6 +1,19 @@
 {
-  "post_count": 1656,
+  "post_count": 1657,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-24T16:28:26.239842+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-24T16:28:26.239842+09:00",
+      "link_count": 3,
+      "log_no": "224325775059",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224325775059",
+      "published_at": "2026-06-24T14:53:47+09:00",
+      "text_length": 340,
+      "title": "티스과학 7월 개강 시간표"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-24T14:39:28.491516+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-04-30T19:39:08+09:00",
       "text_length": 351,
       "title": "2026학년도 1학기 성균관대 글로벌리더학부 전공체험 행사 개최 안내"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-04-30T19:55:25.999795+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-04-30T19:55:25.999795+09:00",
-      "link_count": 0,
-      "log_no": "224270782403",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224270782403",
-      "published_at": "2026-04-30T19:23:42+09:00",
-      "text_length": 0,
-      "title": "큐사이언스 고등기말내신개강"
     }
   ],
-  "updated_at": "2026-06-24T14:39:28.491516+09:00"
+  "updated_at": "2026-06-24T16:28:26.239842+09:00"
 }
