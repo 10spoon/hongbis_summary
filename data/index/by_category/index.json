@@ -2871,6 +2871,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-24T19:04:48.557895+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T19:04:48.557895+09:00",
+        "link_count": 1,
+        "log_no": "224326043522",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224326043522",
+        "published_at": "2026-06-24T18:39:59+09:00",
+        "text_length": 829,
+        "title": "씨앤씨 영재입시센터 2027학년도 영재학교 입시반 & 경시반 대개강 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-24T00:21:14.252303+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-24T00:21:14.252303+09:00",
@@ -17662,6 +17675,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-24T19:04:48.557895+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-24T19:04:48.557895+09:00",
+        "link_count": 0,
+        "log_no": "224326041389",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224326041389",
+        "published_at": "2026-06-24T18:37:14+09:00",
+        "text_length": 0,
+        "title": "내신 5등급제·통합수능 시대… 학생부·정성평가 비중 는다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-24T14:39:28.491516+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-24T14:39:28.491516+09:00",
@@ -21569,5 +21595,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-24T16:28:26.239842+09:00"
+  "updated_at": "2026-06-24T19:04:48.557895+09:00"
 }
