@@ -1,7 +1,46 @@
 {
   "key": "2026-06-25",
-  "post_count": 6,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 1,
+      "log_no": "224326736543",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326736543",
+      "published_at": "2026-06-25T11:22:36+09:00",
+      "text_length": 827,
+      "title": "수학의답 & 파란국어 화학 백현우T"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 1,
+      "log_no": "224326734115",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326734115",
+      "published_at": "2026-06-25T11:20:24+09:00",
+      "text_length": 1103,
+      "title": "SNT 예비고1 학교선택 찐 휘문/중동 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 0,
+      "log_no": "224326703227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326703227",
+      "published_at": "2026-06-25T10:54:27+09:00",
+      "text_length": 0,
+      "title": "서울대 떨어진 물리올림피아드 금상 학생, MIT 합격…노벨상? 연구·교육환경 바뀌어야\""
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T02:54:35.635371+09:00",
@@ -81,5 +120,5 @@
       "title": "한성과고 학교견학프로그램및 설명회 26일 금요일예약"
     }
   ],
-  "updated_at": "2026-06-25T02:54:35.635371+09:00"
+  "updated_at": "2026-06-25T12:25:08.646880+09:00"
 }

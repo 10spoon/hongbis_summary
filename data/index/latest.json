@@ -1,6 +1,45 @@
 {
-  "post_count": 1666,
+  "post_count": 1669,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 1,
+      "log_no": "224326736543",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326736543",
+      "published_at": "2026-06-25T11:22:36+09:00",
+      "text_length": 827,
+      "title": "수학의답 & 파란국어 화학 백현우T"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 1,
+      "log_no": "224326734115",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326734115",
+      "published_at": "2026-06-25T11:20:24+09:00",
+      "text_length": 1103,
+      "title": "SNT 예비고1 학교선택 찐 휘문/중동 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T12:25:08.646880+09:00",
+      "link_count": 0,
+      "log_no": "224326703227",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326703227",
+      "published_at": "2026-06-25T10:54:27+09:00",
+      "text_length": 0,
+      "title": "서울대 떨어진 물리올림피아드 금상 학생, MIT 합격…노벨상? 연구·교육환경 바뀌어야\""
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T02:54:35.635371+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-05-01T12:21:37+09:00",
       "text_length": 448,
       "title": "\"내 자식이라면\" 하사비스 추천 전공은?..\"전례 없는 방식 될 것\" 단언한 이유"
-    },
-    {
-      "category": "세특자료실",
-      "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
-      "link_count": 0,
-      "log_no": "224271425356",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271425356",
-      "published_at": "2026-05-01T12:05:52+09:00",
-      "text_length": 0,
-      "title": "서울진로진학센터 2026학년도 입학생을 위한 2022 개정 교육과정 선택 과목 안내서"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
-      "link_count": 1,
-      "log_no": "224271423667",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271423667",
-      "published_at": "2026-05-01T12:03:46+09:00",
-      "text_length": 587,
-      "title": "세정학원 고2수학 기말대비 【수열】 5월특강"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
-      "link_count": 0,
-      "log_no": "224271408941",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271408941",
-      "published_at": "2026-05-01T11:44:33+09:00",
-      "text_length": 389,
-      "title": "5월의 시, 이해인"
     }
   ],
-  "updated_at": "2026-06-25T02:54:35.635371+09:00"
+  "updated_at": "2026-06-25T12:25:08.646880+09:00"
 }
