@@ -1,7 +1,20 @@
 {
   "key": "2026-06-26",
-  "post_count": 2,
+  "post_count": 3,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-26T02:58:01.736337+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-26T02:58:01.736337+09:00",
+      "link_count": 0,
+      "log_no": "224327520999",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327520999",
+      "published_at": "2026-06-26T02:49:51+09:00",
+      "text_length": 0,
+      "title": "시대인재입시평가사 이민하이사 유튜브채널"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
@@ -29,5 +42,5 @@
       "title": "목동 초중등논술학원 독특:관점의 발견 설명회 (7월1일)"
     }
   ],
-  "updated_at": "2026-06-26T00:16:40.342117+09:00"
+  "updated_at": "2026-06-26T02:58:01.736337+09:00"
 }

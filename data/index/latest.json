@@ -1,6 +1,19 @@
 {
-  "post_count": 1685,
+  "post_count": 1686,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-26T02:58:01.736337+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-26T02:58:01.736337+09:00",
+      "link_count": 0,
+      "log_no": "224327520999",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327520999",
+      "published_at": "2026-06-26T02:49:51+09:00",
+      "text_length": 0,
+      "title": "시대인재입시평가사 이민하이사 유튜브채널"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-02T04:44:05+09:00",
       "text_length": 0,
       "title": "AI 과학자'에 꽂힌 01년생 수재들 … \"AI가 완전히 새로운 과학 지식 만들것\""
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-02T02:36:55.088172+09:00",
-      "image_count": 7,
-      "last_changed_at": "2026-05-02T02:36:55.088172+09:00",
-      "link_count": 0,
-      "log_no": "224272050663",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224272050663",
-      "published_at": "2026-05-02T01:35:30+09:00",
-      "text_length": 4,
-      "title": "돌파수학초등관 6월개강시간표"
     }
   ],
-  "updated_at": "2026-06-26T00:16:40.342117+09:00"
+  "updated_at": "2026-06-26T02:58:01.736337+09:00"
 }
