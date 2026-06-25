@@ -1,7 +1,59 @@
 {
   "key": "2026-06-25",
-  "post_count": 19,
+  "post_count": 23,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-26T00:16:40.342117+09:00",
+      "link_count": 1,
+      "log_no": "224327437585",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327437585",
+      "published_at": "2026-06-25T23:57:14+09:00",
+      "text_length": 152,
+      "title": "마포대치명인학원 중3을 위한 학생·학부모 연합 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-26T00:16:40.342117+09:00",
+      "link_count": 0,
+      "log_no": "224327434710",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327434710",
+      "published_at": "2026-06-25T23:53:32+09:00",
+      "text_length": 0,
+      "title": "기말고사 1주일, 성적은 공부량보다 '복습'에서 갈린다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-26T00:16:40.342117+09:00",
+      "link_count": 0,
+      "log_no": "224327432123",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327432123",
+      "published_at": "2026-06-25T23:49:59+09:00",
+      "text_length": 0,
+      "title": "손랩정보영재 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-26T00:16:40.342117+09:00",
+      "link_count": 0,
+      "log_no": "224327428534",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327428534",
+      "published_at": "2026-06-25T23:44:56+09:00",
+      "text_length": 0,
+      "title": "js747 여름방학특강"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T22:57:25.348042+09:00",
@@ -250,5 +302,5 @@
       "title": "한성과고 학교견학프로그램및 설명회 26일 금요일예약"
     }
   ],
-  "updated_at": "2026-06-25T22:57:25.348042+09:00"
+  "updated_at": "2026-06-26T00:16:40.342117+09:00"
 }
