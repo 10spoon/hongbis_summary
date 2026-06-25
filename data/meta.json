@@ -587,11 +587,19 @@
       "updated_at": "2026-03-26T17:42:29.911849+09:00"
     }
   ],
-  "generated_at": "2026-06-25T09:25:24.775070+00:00",
+  "generated_at": "2026-06-25T10:04:33.584355+00:00",
   "latest_path": "data/index/latest.json",
   "latest_post_count": 1675,
   "latest_updated_at": "2026-06-25T18:24:49.972112+09:00",
   "reports": [
+    {
+      "label": "2026-06-25-1800",
+      "new_count": 7,
+      "path": "data/reports/2026-06-25-1800.json",
+      "updated_count": 0,
+      "window_end": "2026-06-25T18:00:00+09:00",
+      "window_start": "2026-06-25T08:00:00+09:00"
+    },
     {
       "label": "2026-06-25-0800",
       "new_count": 9,
