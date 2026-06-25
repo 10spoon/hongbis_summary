@@ -9219,6 +9219,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-25T22:57:25.348042+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-25T22:57:25.348042+09:00",
+        "link_count": 0,
+        "log_no": "224327360882",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224327360882",
+        "published_at": "2026-06-25T22:15:00+09:00",
+        "text_length": 0,
+        "title": "대치cms 여름방학몰입특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-25T22:57:25.348042+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-25T22:57:25.348042+09:00",
+        "link_count": 0,
+        "log_no": "224327357836",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224327357836",
+        "published_at": "2026-06-25T22:11:03+09:00",
+        "text_length": 390,
+        "title": "완벽한수학 여름방학 특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-25T18:24:49.972112+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-25T18:24:49.972112+09:00",
@@ -21829,5 +21855,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-25T22:04:29.686145+09:00"
+  "updated_at": "2026-06-25T22:57:25.348042+09:00"
 }

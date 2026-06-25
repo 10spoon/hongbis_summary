@@ -1,6 +1,32 @@
 {
-  "post_count": 1677,
+  "post_count": 1679,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T22:57:25.348042+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-25T22:57:25.348042+09:00",
+      "link_count": 0,
+      "log_no": "224327360882",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327360882",
+      "published_at": "2026-06-25T22:15:00+09:00",
+      "text_length": 0,
+      "title": "대치cms 여름방학몰입특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T22:57:25.348042+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T22:57:25.348042+09:00",
+      "link_count": 0,
+      "log_no": "224327357836",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327357836",
+      "published_at": "2026-06-25T22:11:03+09:00",
+      "text_length": 390,
+      "title": "완벽한수학 여름방학 특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-25T22:04:29.686145+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-01T21:08:31+09:00",
       "text_length": 0,
       "title": "인공지능 기계학습 딥러닝 수학, 인공지능, 그리고 형식화 [1]: 수학을 위한 인공지능"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
-      "link_count": 0,
-      "log_no": "224271844982",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271844982",
-      "published_at": "2026-05-01T21:00:01+09:00",
-      "text_length": 0,
-      "title": "서울대학교 2028학년도 대학 신입학생 입학전형 시행계획"
-    },
-    {
-      "category": "워너비",
-      "first_seen_at": "2026-05-01T21:38:10.810714+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T21:38:10.810714+09:00",
-      "link_count": 0,
-      "log_no": "224271835388",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271835388",
-      "published_at": "2026-05-01T20:47:46+09:00",
-      "text_length": 0,
-      "title": "변호사시험수석, 큰 구멍없는 공부가 만든 1279.21점"
     }
   ],
-  "updated_at": "2026-06-25T22:04:29.686145+09:00"
+  "updated_at": "2026-06-25T22:57:25.348042+09:00"
 }
