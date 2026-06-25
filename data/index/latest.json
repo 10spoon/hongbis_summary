@@ -1,6 +1,32 @@
 {
-  "post_count": 1671,
+  "post_count": 1673,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T16:29:02.093031+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T16:29:02.093031+09:00",
+      "link_count": 3,
+      "log_no": "224327025805",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327025805",
+      "published_at": "2026-06-25T15:49:32+09:00",
+      "text_length": 929,
+      "title": "목동 시대인재 2026 고1 조현득T & 목동고(김민수T) /양정고(감동길T) /진명여고(김주성T) 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T16:29:02.093031+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T16:29:02.093031+09:00",
+      "link_count": 3,
+      "log_no": "224326987196",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326987196",
+      "published_at": "2026-06-25T15:17:14+09:00",
+      "text_length": 834,
+      "title": "KNS 대학 진학 실적으로 보는 강남권 남고 선택 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T14:40:03.509449+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-01T17:20:59+09:00",
       "text_length": 0,
       "title": "예비 포스테키안에게 추천하고 싶은 도서"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T16:11:49.967227+09:00",
-      "link_count": 2,
-      "log_no": "224271579969",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271579969",
-      "published_at": "2026-05-01T15:17:44+09:00",
-      "text_length": 660,
-      "title": "Live : 현민논술 약술형논술 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-01T16:11:49.967227+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T16:11:49.967227+09:00",
-      "link_count": 0,
-      "log_no": "224271577907",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271577907",
-      "published_at": "2026-05-01T15:15:11+09:00",
-      "text_length": 0,
-      "title": "공부해도 성적 안 오르는 이유…‘시간’ 아닌 ‘습관’이 문제"
     }
   ],
-  "updated_at": "2026-06-25T14:40:03.509449+09:00"
+  "updated_at": "2026-06-25T16:29:02.093031+09:00"
 }
