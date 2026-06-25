@@ -1,7 +1,33 @@
 {
   "key": "2026-06-25",
-  "post_count": 13,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T18:24:49.972112+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T18:24:49.972112+09:00",
+      "link_count": 0,
+      "log_no": "224327120811",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327120811",
+      "published_at": "2026-06-25T17:13:01+09:00",
+      "text_length": 0,
+      "title": "대치개념폴리아 2028 대입을 결정짓는 요소와 개념폴리아 방학 몰입교육 커리큘럼 초등설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T18:24:49.972112+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T18:24:49.972112+09:00",
+      "link_count": 2,
+      "log_no": "224327116200",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327116200",
+      "published_at": "2026-06-25T17:08:41+09:00",
+      "text_length": 703,
+      "title": "대치 깊은생각 중3 정규 입학테스트"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-25T16:29:02.093031+09:00",
@@ -172,5 +198,5 @@
       "title": "한성과고 학교견학프로그램및 설명회 26일 금요일예약"
     }
   ],
-  "updated_at": "2026-06-25T16:29:02.093031+09:00"
+  "updated_at": "2026-06-25T18:24:49.972112+09:00"
 }

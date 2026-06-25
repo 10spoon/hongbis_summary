@@ -1,6 +1,32 @@
 {
-  "post_count": 1673,
+  "post_count": 1675,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-25T18:24:49.972112+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T18:24:49.972112+09:00",
+      "link_count": 0,
+      "log_no": "224327120811",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327120811",
+      "published_at": "2026-06-25T17:13:01+09:00",
+      "text_length": 0,
+      "title": "대치개념폴리아 2028 대입을 결정짓는 요소와 개념폴리아 방학 몰입교육 커리큘럼 초등설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T18:24:49.972112+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T18:24:49.972112+09:00",
+      "link_count": 2,
+      "log_no": "224327116200",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224327116200",
+      "published_at": "2026-06-25T17:08:41+09:00",
+      "text_length": 703,
+      "title": "대치 깊은생각 중3 정규 입학테스트"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-25T16:29:02.093031+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-01T19:50:22+09:00",
       "text_length": 884,
       "title": "박지원큰틀국어학원 5월정규, 기말내신시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-01T19:45:37.097392+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T19:45:37.097392+09:00",
-      "link_count": 1,
-      "log_no": "224271770906",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271770906",
-      "published_at": "2026-05-01T19:21:38+09:00",
-      "text_length": 480,
-      "title": "아카로드 블루M 과고프리패스과학반"
-    },
-    {
-      "category": "함께읽은책",
-      "first_seen_at": "2026-05-01T17:56:14.665282+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-05-01T17:56:14.665282+09:00",
-      "link_count": 0,
-      "log_no": "224271680305",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271680305",
-      "published_at": "2026-05-01T17:20:59+09:00",
-      "text_length": 0,
-      "title": "예비 포스테키안에게 추천하고 싶은 도서"
     }
   ],
-  "updated_at": "2026-06-25T16:29:02.093031+09:00"
+  "updated_at": "2026-06-25T18:24:49.972112+09:00"
 }
