@@ -1,7 +1,33 @@
 {
   "key": "2026-06-25",
-  "post_count": 9,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T14:40:03.509449+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-25T14:40:03.509449+09:00",
+      "link_count": 0,
+      "log_no": "224326828593",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326828593",
+      "published_at": "2026-06-25T12:57:29+09:00",
+      "text_length": 0,
+      "title": "에이펙스 7월 초중등시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-25T14:40:03.509449+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T14:40:03.509449+09:00",
+      "link_count": 0,
+      "log_no": "224326825014",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326825014",
+      "published_at": "2026-06-25T12:53:39+09:00",
+      "text_length": 0,
+      "title": "5등급제 시대, 내신 2~3등급 현실 진단과 합격 로드맵은?"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
@@ -120,5 +146,5 @@
       "title": "한성과고 학교견학프로그램및 설명회 26일 금요일예약"
     }
   ],
-  "updated_at": "2026-06-25T12:25:08.646880+09:00"
+  "updated_at": "2026-06-25T14:40:03.509449+09:00"
 }

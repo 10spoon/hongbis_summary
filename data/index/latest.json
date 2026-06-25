@@ -1,6 +1,32 @@
 {
-  "post_count": 1669,
+  "post_count": 1671,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-25T14:40:03.509449+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-25T14:40:03.509449+09:00",
+      "link_count": 0,
+      "log_no": "224326828593",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326828593",
+      "published_at": "2026-06-25T12:57:29+09:00",
+      "text_length": 0,
+      "title": "에이펙스 7월 초중등시간표"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-25T14:40:03.509449+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-25T14:40:03.509449+09:00",
+      "link_count": 0,
+      "log_no": "224326825014",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224326825014",
+      "published_at": "2026-06-25T12:53:39+09:00",
+      "text_length": 0,
+      "title": "5등급제 시대, 내신 2~3등급 현실 진단과 합격 로드맵은?"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-25T12:25:08.646880+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-01T15:15:11+09:00",
       "text_length": 0,
       "title": "공부해도 성적 안 오르는 이유…‘시간’ 아닌 ‘습관’이 문제"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
-      "link_count": 0,
-      "log_no": "224271440990",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271440990",
-      "published_at": "2026-05-01T12:24:38+09:00",
-      "text_length": 0,
-      "title": "2028학년도 입학전형 시행계획에서 확인해야 할 것들"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-05-01T12:25:19.942357+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-01T12:25:19.942357+09:00",
-      "link_count": 1,
-      "log_no": "224271437719",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224271437719",
-      "published_at": "2026-05-01T12:21:37+09:00",
-      "text_length": 448,
-      "title": "\"내 자식이라면\" 하사비스 추천 전공은?..\"전례 없는 방식 될 것\" 단언한 이유"
     }
   ],
-  "updated_at": "2026-06-25T12:25:08.646880+09:00"
+  "updated_at": "2026-06-25T14:40:03.509449+09:00"
 }
