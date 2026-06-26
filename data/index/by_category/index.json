@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-26T21:59:28.640457+09:00",
+        "link_count": 0,
+        "log_no": "224328313729",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328313729",
+        "published_at": "2026-06-26T20:34:34+09:00",
+        "text_length": 0,
+        "title": "교보교육재단 ai윤리on 캠프"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-25T22:04:29.686145+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-25T22:04:29.686145+09:00",
@@ -2895,6 +2908,32 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-26T21:59:28.640457+09:00",
+        "link_count": 1,
+        "log_no": "224328320230",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328320230",
+        "published_at": "2026-06-26T20:44:37+09:00",
+        "text_length": 546,
+        "title": "국어하기좋은날 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-26T21:59:28.640457+09:00",
+        "link_count": 5,
+        "log_no": "224328302802",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328302802",
+        "published_at": "2026-06-26T20:17:32+09:00",
+        "text_length": 494,
+        "title": "아카로드 과학고 대비 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-26T02:58:01.736337+09:00",
@@ -9269,6 +9308,32 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-26T21:59:28.640457+09:00",
+        "link_count": 0,
+        "log_no": "224328318648",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328318648",
+        "published_at": "2026-06-26T20:42:05+09:00",
+        "text_length": 0,
+        "title": "이든수학 여름방학특강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-26T21:59:28.640457+09:00",
+        "link_count": 0,
+        "log_no": "224328315066",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328315066",
+        "published_at": "2026-06-26T20:36:40+09:00",
+        "text_length": 0,
+        "title": "생각부터영어로학원 방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-26T18:24:59.332610+09:00",
@@ -21959,5 +22024,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-26T18:24:59.332610+09:00"
+  "updated_at": "2026-06-26T21:59:28.640457+09:00"
 }
