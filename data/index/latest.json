@@ -1,6 +1,19 @@
 {
-  "post_count": 1686,
+  "post_count": 1687,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T18:24:59.332610+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-26T18:24:59.332610+09:00",
+      "link_count": 1,
+      "log_no": "224328221821",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328221821",
+      "published_at": "2026-06-26T18:18:08+09:00",
+      "text_length": 267,
+      "title": "아이티씨하이 정규 수업/특강/썸머스쿨"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-26T02:58:01.736337+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-02T12:47:15+09:00",
       "text_length": 0,
       "title": "고교학점제 1년…선택권 사라지고 ‘입시부담·학습격차’만 키웠다"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-02T04:44:33.329082+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-02T04:44:33.329082+09:00",
-      "link_count": 0,
-      "log_no": "224272120063",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224272120063",
-      "published_at": "2026-05-02T04:44:05+09:00",
-      "text_length": 0,
-      "title": "AI 과학자'에 꽂힌 01년생 수재들 … \"AI가 완전히 새로운 과학 지식 만들것\""
     }
   ],
-  "updated_at": "2026-06-26T02:58:01.736337+09:00"
+  "updated_at": "2026-06-26T18:24:59.332610+09:00"
 }

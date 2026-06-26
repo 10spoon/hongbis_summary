@@ -1,7 +1,20 @@
 {
   "key": "2026-06-26",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T18:24:59.332610+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-26T18:24:59.332610+09:00",
+      "link_count": 1,
+      "log_no": "224328221821",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328221821",
+      "published_at": "2026-06-26T18:18:08+09:00",
+      "text_length": 267,
+      "title": "아이티씨하이 정규 수업/특강/썸머스쿨"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-26T02:58:01.736337+09:00",
@@ -42,5 +55,5 @@
       "title": "목동 초중등논술학원 독특:관점의 발견 설명회 (7월1일)"
     }
   ],
-  "updated_at": "2026-06-26T02:58:01.736337+09:00"
+  "updated_at": "2026-06-26T18:24:59.332610+09:00"
 }
