@@ -1,7 +1,46 @@
 {
   "key": "2026-06-26",
-  "post_count": 9,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T22:57:10.195193+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-26T22:57:10.195193+09:00",
+      "link_count": 0,
+      "log_no": "224328409773",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328409773",
+      "published_at": "2026-06-26T22:51:48+09:00",
+      "text_length": 0,
+      "title": "김수희과학 여름방학특강시간표"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-26T22:57:10.195193+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-26T22:57:10.195193+09:00",
+      "link_count": 0,
+      "log_no": "224328408441",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328408441",
+      "published_at": "2026-06-26T22:50:00+09:00",
+      "text_length": 0,
+      "title": "신어지학원 고1 여름방학시간표"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-26T22:57:10.195193+09:00",
+      "image_count": 8,
+      "last_changed_at": "2026-06-26T22:57:10.195193+09:00",
+      "link_count": 0,
+      "log_no": "224328390285",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328390285",
+      "published_at": "2026-06-26T22:25:22+09:00",
+      "text_length": 0,
+      "title": "김현구국어 2026 예비고1/고1/고2 7월 개강 설명회 및 여름방학 정규시간표"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-26T21:59:28.640457+09:00",
@@ -120,5 +159,5 @@
       "title": "목동 초중등논술학원 독특:관점의 발견 설명회 (7월1일)"
     }
   ],
-  "updated_at": "2026-06-26T21:59:28.640457+09:00"
+  "updated_at": "2026-06-26T22:57:10.195193+09:00"
 }
