@@ -1,7 +1,46 @@
 {
   "key": "2026-06-26",
-  "post_count": 12,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-27T00:10:00.783270+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T00:10:00.783270+09:00",
+      "link_count": 0,
+      "log_no": "224328450600",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328450600",
+      "published_at": "2026-06-26T23:45:52+09:00",
+      "text_length": 0,
+      "title": "서울대학교와 함께하는 AI창작캠프"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T00:10:00.783270+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T00:10:00.783270+09:00",
+      "link_count": 0,
+      "log_no": "224328442967",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328442967",
+      "published_at": "2026-06-26T23:35:55+09:00",
+      "text_length": 0,
+      "title": "w영어 여름방학특강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T00:10:00.783270+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-27T00:10:00.783270+09:00",
+      "link_count": 0,
+      "log_no": "224328436898",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328436898",
+      "published_at": "2026-06-26T23:27:46+09:00",
+      "text_length": 0,
+      "title": "msc브레인컨설팅 7월 센터별 설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-26T22:57:10.195193+09:00",
@@ -159,5 +198,5 @@
       "title": "목동 초중등논술학원 독특:관점의 발견 설명회 (7월1일)"
     }
   ],
-  "updated_at": "2026-06-26T22:57:10.195193+09:00"
+  "updated_at": "2026-06-27T00:10:00.783270+09:00"
 }
