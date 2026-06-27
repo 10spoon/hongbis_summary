@@ -1,7 +1,59 @@
 {
   "key": "2026-06-27",
-  "post_count": 4,
+  "post_count": 8,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328939078",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328939078",
+      "published_at": "2026-06-27T16:06:03+09:00",
+      "text_length": 0,
+      "title": "반트과학 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328937651",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328937651",
+      "published_at": "2026-06-27T16:04:13+09:00",
+      "text_length": 0,
+      "title": "코어부원정 방학특강 사고력 테마별 추가개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 1,
+      "log_no": "224328934196",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328934196",
+      "published_at": "2026-06-27T15:58:40+09:00",
+      "text_length": 570,
+      "title": "SNT 예비고1 고교선택 찐 경기/영동 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328914251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328914251",
+      "published_at": "2026-06-27T15:27:35+09:00",
+      "text_length": 0,
+      "title": "한얼국어 2027 예비고1 성공 전략 세미나"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
@@ -55,5 +107,5 @@
       "title": "다원교육 [예비고1] 신지호T <최상위 프리미엄 통합과학> 여름방학 특강"
     }
   ],
-  "updated_at": "2026-06-27T14:35:25.913421+09:00"
+  "updated_at": "2026-06-27T16:22:53.606743+09:00"
 }

@@ -1,6 +1,58 @@
 {
-  "post_count": 1702,
+  "post_count": 1706,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328939078",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328939078",
+      "published_at": "2026-06-27T16:06:03+09:00",
+      "text_length": 0,
+      "title": "반트과학 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328937651",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328937651",
+      "published_at": "2026-06-27T16:04:13+09:00",
+      "text_length": 0,
+      "title": "코어부원정 방학특강 사고력 테마별 추가개강"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 1,
+      "log_no": "224328934196",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328934196",
+      "published_at": "2026-06-27T15:58:40+09:00",
+      "text_length": 570,
+      "title": "SNT 예비고1 고교선택 찐 경기/영동 설명회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
+      "link_count": 0,
+      "log_no": "224328914251",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328914251",
+      "published_at": "2026-06-27T15:27:35+09:00",
+      "text_length": 0,
+      "title": "한얼국어 2027 예비고1 성공 전략 세미나"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-05-03T22:44:36+09:00",
       "text_length": 777,
       "title": "목동예섬 2027 약술형 논술 합격 전략 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-03T22:48:25.645518+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T22:48:25.645518+09:00",
-      "link_count": 0,
-      "log_no": "224273687680",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273687680",
-      "published_at": "2026-05-03T22:34:22+09:00",
-      "text_length": 0,
-      "title": "학원 컨설팅비 굳었다'… 내신 1등급 비밀, '학교알리미'에 다 있다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-03T16:56:08.957534+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T16:56:08.957534+09:00",
-      "link_count": 0,
-      "log_no": "224273397299",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273397299",
-      "published_at": "2026-05-03T16:28:43+09:00",
-      "text_length": 0,
-      "title": "포도밭학원 2026학년도 중1 국어 시즌Ⅳ 프로그램"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
-      "link_count": 0,
-      "log_no": "224273282206",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273282206",
-      "published_at": "2026-05-03T13:59:03+09:00",
-      "text_length": 599,
-      "title": "전회경영어 고등부 1학기 내신 일정"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
-      "link_count": 0,
-      "log_no": "224273223985",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273223985",
-      "published_at": "2026-05-03T12:36:48+09:00",
-      "text_length": 0,
-      "title": "중요성 커지는 내신 평가, 학교알리미로 대비한다"
     }
   ],
-  "updated_at": "2026-06-27T14:35:25.913421+09:00"
+  "updated_at": "2026-06-27T16:22:53.606743+09:00"
 }
