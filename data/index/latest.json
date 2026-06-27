@@ -1,6 +1,58 @@
 {
-  "post_count": 1698,
+  "post_count": 1702,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T14:35:25.913421+09:00",
+      "link_count": 0,
+      "log_no": "224328815830",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328815830",
+      "published_at": "2026-06-27T12:47:50+09:00",
+      "text_length": 0,
+      "title": "2027 대입 수시 모집요강 정리 『쎈(SEN)진학 PreView(프리뷰)』"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T14:35:25.913421+09:00",
+      "link_count": 0,
+      "log_no": "224328811037",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328811037",
+      "published_at": "2026-06-27T12:40:04+09:00",
+      "text_length": 0,
+      "title": "영독학원 예비고1 여름방학 개강시간표(원장님 직강반 포함)"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T14:35:25.913421+09:00",
+      "link_count": 0,
+      "log_no": "224328809865",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328809865",
+      "published_at": "2026-06-27T12:38:10+09:00",
+      "text_length": 0,
+      "title": "입시연구소길 대입수시교실"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T14:35:25.913421+09:00",
+      "link_count": 2,
+      "log_no": "224328804304",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328804304",
+      "published_at": "2026-06-27T12:29:04+09:00",
+      "text_length": 958,
+      "title": "다원교육 [예비고1] 신지호T <최상위 프리미엄 통합과학> 여름방학 특강"
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-06-27T00:10:00.783270+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-05-03T12:36:48+09:00",
       "text_length": 0,
       "title": "중요성 커지는 내신 평가, 학교알리미로 대비한다"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-03T14:26:25.733027+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T14:26:25.733027+09:00",
-      "link_count": 0,
-      "log_no": "224273222936",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273222936",
-      "published_at": "2026-05-03T12:35:20+09:00",
-      "text_length": 623,
-      "title": "예섬 학원 중등 수학 1+1 몰입반 1기 모집"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-03T12:25:08.141924+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T12:25:08.141924+09:00",
-      "link_count": 1,
-      "log_no": "224273181844",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273181844",
-      "published_at": "2026-05-03T11:37:15+09:00",
-      "text_length": 613,
-      "title": "세정 수학_홍승재T 5월 중등특강"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-03T10:13:31.331783+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-03T10:13:31.331783+09:00",
-      "link_count": 0,
-      "log_no": "224273117642",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273117642",
-      "published_at": "2026-05-03T10:00:53+09:00",
-      "text_length": 633,
-      "title": "국립국어연구원 잘 쓴 우리말 함께 칭찬해요!"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-02T23:33:00.250608+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-02T23:33:00.250608+09:00",
-      "link_count": 0,
-      "log_no": "224272815815",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224272815815",
-      "published_at": "2026-05-02T22:56:04+09:00",
-      "text_length": 374,
-      "title": "CMS 경시관 고등 KMO 2차 설명회"
     }
   ],
-  "updated_at": "2026-06-27T00:10:00.783270+09:00"
+  "updated_at": "2026-06-27T14:35:25.913421+09:00"
 }
