@@ -18260,6 +18260,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-27T19:55:34.773292+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-27T19:55:34.773292+09:00",
+        "link_count": 0,
+        "log_no": "224329046953",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329046953",
+        "published_at": "2026-06-27T19:03:46+09:00",
+        "text_length": 0,
+        "title": "고교 자퇴하고 수능 올인?… 근심만 키울 순간의 선택"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-26T00:16:40.342117+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-26T00:16:40.342117+09:00",
@@ -22219,5 +22232,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-27T18:10:37.420894+09:00"
+  "updated_at": "2026-06-27T19:55:34.773292+09:00"
 }
