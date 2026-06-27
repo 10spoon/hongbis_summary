@@ -1,0 +1,27 @@
+{
+  "new_count": 2,
+  "new_posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-27T19:55:34.773292+09:00",
+      "last_changed_at": "2026-06-27T19:55:34.773292+09:00",
+      "log_no": "224329046953",
+      "post_url": "https://blog.naver.com/hongbis/224329046953",
+      "published_at": "2026-06-27T19:03:46+09:00",
+      "title": "고교 자퇴하고 수능 올인?… 근심만 키울 순간의 선택"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T18:10:37.420894+09:00",
+      "last_changed_at": "2026-06-27T18:10:37.420894+09:00",
+      "log_no": "224328981192",
+      "post_url": "https://blog.naver.com/hongbis/224328981192",
+      "published_at": "2026-06-27T17:12:54+09:00",
+      "title": "반포파인만 고등부 고교 선택 설명회 3차"
+    }
+  ],
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-06-28T08:00:00+09:00",
+  "window_start": "2026-06-27T18:00:00+09:00"
+}
