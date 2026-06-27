@@ -1,6 +1,19 @@
 {
-  "post_count": 1706,
+  "post_count": 1707,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-27T18:10:37.420894+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-27T18:10:37.420894+09:00",
+      "link_count": 4,
+      "log_no": "224328981192",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224328981192",
+      "published_at": "2026-06-27T17:12:54+09:00",
+      "text_length": 462,
+      "title": "반포파인만 고등부 고교 선택 설명회 3차"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-03T22:53:17+09:00",
       "text_length": 0,
       "title": "백인대장 고1 학교별간담회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-03T22:48:25.645518+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-03T22:48:25.645518+09:00",
-      "link_count": 1,
-      "log_no": "224273696861",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273696861",
-      "published_at": "2026-05-03T22:44:36+09:00",
-      "text_length": 777,
-      "title": "목동예섬 2027 약술형 논술 합격 전략 설명회"
     }
   ],
-  "updated_at": "2026-06-27T16:22:53.606743+09:00"
+  "updated_at": "2026-06-27T18:10:37.420894+09:00"
 }

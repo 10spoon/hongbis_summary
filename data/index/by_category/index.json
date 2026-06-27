@@ -2936,6 +2936,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-27T18:10:37.420894+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-27T18:10:37.420894+09:00",
+        "link_count": 4,
+        "log_no": "224328981192",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224328981192",
+        "published_at": "2026-06-27T17:12:54+09:00",
+        "text_length": 462,
+        "title": "반포파인만 고등부 고교 선택 설명회 3차"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-27T16:22:53.606743+09:00",
@@ -22206,5 +22219,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-27T16:22:53.606743+09:00"
+  "updated_at": "2026-06-27T18:10:37.420894+09:00"
 }
