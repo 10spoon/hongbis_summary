@@ -1,6 +1,19 @@
 {
-  "post_count": 1726,
+  "post_count": 1727,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-29T00:43:47.673257+09:00",
+      "image_count": 5,
+      "last_changed_at": "2026-06-29T00:43:47.673257+09:00",
+      "link_count": 0,
+      "log_no": "224330006028",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330006028",
+      "published_at": "2026-06-28T23:53:37+09:00",
+      "text_length": 0,
+      "title": "큐사이언스 초중등과학 여름정규 프로그램"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-28T23:52:32.403517+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-04T23:27:52+09:00",
       "text_length": 0,
       "title": "서대문자연사박물관 2025년 5월 주말과학체험"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-04T23:58:51.945183+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-05-04T23:58:51.945183+09:00",
-      "link_count": 0,
-      "log_no": "224274894728",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274894728",
-      "published_at": "2026-05-04T23:23:30+09:00",
-      "text_length": 0,
-      "title": "DK수학 논술 5/9 의치약높공 신규개강"
     }
   ],
-  "updated_at": "2026-06-28T23:52:32.403517+09:00"
+  "updated_at": "2026-06-29T00:43:47.673257+09:00"
 }

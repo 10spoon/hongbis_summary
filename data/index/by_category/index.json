@@ -9466,6 +9466,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-29T00:43:47.673257+09:00",
+        "image_count": 5,
+        "last_changed_at": "2026-06-29T00:43:47.673257+09:00",
+        "link_count": 0,
+        "log_no": "224330006028",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330006028",
+        "published_at": "2026-06-28T23:53:37+09:00",
+        "text_length": 0,
+        "title": "큐사이언스 초중등과학 여름정규 프로그램"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-28T23:52:32.403517+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-28T23:52:32.403517+09:00",
@@ -22466,5 +22479,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-28T23:52:32.403517+09:00"
+  "updated_at": "2026-06-29T00:43:47.673257+09:00"
 }
