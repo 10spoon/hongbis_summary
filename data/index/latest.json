@@ -1,6 +1,45 @@
 {
-  "post_count": 1712,
+  "post_count": 1715,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
+      "link_count": 0,
+      "log_no": "224329624925",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329624925",
+      "published_at": "2026-06-28T14:53:22+09:00",
+      "text_length": 0,
+      "title": "스카이멘사 중등부신규개설반"
+    },
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
+      "link_count": 0,
+      "log_no": "224329622248",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329622248",
+      "published_at": "2026-06-28T14:49:10+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 공부는 우리를 삶의 주인으로 만든다"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
+      "link_count": 0,
+      "log_no": "224329620543",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329620543",
+      "published_at": "2026-06-28T14:46:38+09:00",
+      "text_length": 0,
+      "title": "미강학원 개정생명과학 핵심반"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-05-04T16:23:15+09:00",
       "text_length": 0,
       "title": "넥스트M 중등과학개강"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-04T16:20:41.447412+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T16:20:41.447412+09:00",
-      "link_count": 9,
-      "log_no": "224274462476",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274462476",
-      "published_at": "2026-05-04T16:03:21+09:00",
-      "text_length": 1053,
-      "title": "kns 고교별 내신분석설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-04T16:20:41.447412+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T16:20:41.447412+09:00",
-      "link_count": 6,
-      "log_no": "224274450434",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274450434",
-      "published_at": "2026-05-04T15:54:09+09:00",
-      "text_length": 1231,
-      "title": "유웨이 대치센터 4월 합격하는 생기부 설명회"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-04T14:26:55.937115+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T14:26:55.937115+09:00",
-      "link_count": 0,
-      "log_no": "224274312101",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274312101",
-      "published_at": "2026-05-04T14:00:52+09:00",
-      "text_length": 0,
-      "title": "“도대체 무슨 입시 전략이에요?”···대치동 영어 강사가 자식들 시골서 키우는 이유"
     }
   ],
-  "updated_at": "2026-06-28T14:45:06.856647+09:00"
+  "updated_at": "2026-06-28T16:37:57.683436+09:00"
 }
