@@ -1,124 +1,72 @@
 {
-  "key": "2026-06-28",
-  "post_count": 9,
-  "posts": [
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-06-28T19:00:02.882560+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-06-28T19:00:02.882560+09:00",
-      "link_count": 0,
-      "log_no": "224329777407",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224329777407",
-      "published_at": "2026-06-28T18:40:52+09:00",
-      "text_length": 0,
-      "title": "74㎏→51㎏ 한혜연 \"눈·비와도 걷고뛰고…인생 바꾼 다이어트\" [운동은 나의 힘]"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-06-28T18:23:20.656475+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-06-28T18:23:20.656475+09:00",
-      "link_count": 0,
-      "log_no": "224329756476",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224329756476",
-      "published_at": "2026-06-28T18:08:29+09:00",
-      "text_length": 0,
-      "title": "이부진 아들도 3년간 단절”…서울대 합격 1위 비결은 ‘폰프리 스쿨’"
-    },
+  "new_count": 7,
+  "new_posts": [
     {
       "category": "시간표",
       "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
-      "link_count": 0,
       "log_no": "224329624925",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329624925",
       "published_at": "2026-06-28T14:53:22+09:00",
-      "text_length": 0,
       "title": "스카이멘사 중등부신규개설반"
     },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
-      "image_count": 0,
       "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
-      "link_count": 0,
       "log_no": "224329622248",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329622248",
       "published_at": "2026-06-28T14:49:10+09:00",
-      "text_length": 0,
       "title": "[1년 전 오늘] 공부는 우리를 삶의 주인으로 만든다"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-28T16:37:57.683436+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-06-28T16:37:57.683436+09:00",
-      "link_count": 0,
       "log_no": "224329620543",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329620543",
       "published_at": "2026-06-28T14:46:38+09:00",
-      "text_length": 0,
       "title": "미강학원 개정생명과학 핵심반"
     },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
-      "image_count": 4,
       "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
-      "link_count": 2,
       "log_no": "224329618265",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329618265",
       "published_at": "2026-06-28T14:43:13+09:00",
-      "text_length": 685,
       "title": "시대인재 중3 수학스쿨 정규반 시간표 및 입반시험"
     },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
-      "link_count": 0,
       "log_no": "224329551781",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329551781",
       "published_at": "2026-06-28T12:54:08+09:00",
-      "text_length": 546,
       "title": "CMS 중등관&클라이매쓰 7월 자사/특목고 설명회"
     },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
-      "link_count": 0,
       "log_no": "224329547233",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329547233",
       "published_at": "2026-06-28T12:46:19+09:00",
-      "text_length": 0,
       "title": "의대 수시 교과전형 합격선 봤더니…6개大 '내신 전과목 1등급"
     },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-28T10:22:43.057080+09:00",
-      "image_count": 1,
       "last_changed_at": "2026-06-28T10:22:43.057080+09:00",
-      "link_count": 0,
       "log_no": "224329431627",
-      "place_count": 0,
       "post_url": "https://blog.naver.com/hongbis/224329431627",
       "published_at": "2026-06-28T09:27:57+09:00",
-      "text_length": 0,
       "title": "김연아 강철멘탈비결"
     }
   ],
-  "updated_at": "2026-06-28T19:00:02.882560+09:00"
+  "updated_count": 0,
+  "updated_posts": [],
+  "window_end": "2026-06-28T18:00:00+09:00",
+  "window_start": "2026-06-28T08:00:00+09:00"
 }
