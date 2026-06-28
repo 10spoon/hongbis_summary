@@ -9466,6 +9466,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-28T23:52:32.403517+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-28T23:52:32.403517+09:00",
+        "link_count": 0,
+        "log_no": "224329987108",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329987108",
+        "published_at": "2026-06-28T23:30:58+09:00",
+        "text_length": 0,
+        "title": "바룸국어학원 예비중1 7월프로그램"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-28T23:52:32.403517+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-28T23:52:32.403517+09:00",
+        "link_count": 0,
+        "log_no": "224329976885",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329976885",
+        "published_at": "2026-06-28T23:18:40+09:00",
+        "text_length": 0,
+        "title": "목동리매쓰수학 고3 연간커리큘럼"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-28T23:52:32.403517+09:00",
+        "image_count": 6,
+        "last_changed_at": "2026-06-28T23:52:32.403517+09:00",
+        "link_count": 0,
+        "log_no": "224329973681",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329973681",
+        "published_at": "2026-06-28T23:14:45+09:00",
+        "text_length": 0,
+        "title": "김진선수학 여름방학특강"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-28T20:53:15.869207+09:00",
@@ -22427,5 +22466,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-28T20:53:15.869207+09:00"
+  "updated_at": "2026-06-28T23:52:32.403517+09:00"
 }
