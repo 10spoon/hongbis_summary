@@ -16189,6 +16189,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-28T10:22:43.057080+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T10:22:43.057080+09:00",
+        "link_count": 0,
+        "log_no": "224329431627",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329431627",
+        "published_at": "2026-06-28T09:27:57+09:00",
+        "text_length": 0,
+        "title": "김연아 강철멘탈비결"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-25T22:04:29.686145+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-25T22:04:29.686145+09:00",
@@ -22232,5 +22245,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-27T19:55:34.773292+09:00"
+  "updated_at": "2026-06-28T10:22:43.057080+09:00"
 }

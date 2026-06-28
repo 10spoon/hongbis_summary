@@ -1,6 +1,19 @@
 {
-  "post_count": 1708,
+  "post_count": 1709,
   "posts": [
+    {
+      "category": "엄마공부",
+      "first_seen_at": "2026-06-28T10:22:43.057080+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T10:22:43.057080+09:00",
+      "link_count": 0,
+      "log_no": "224329431627",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329431627",
+      "published_at": "2026-06-28T09:27:57+09:00",
+      "text_length": 0,
+      "title": "김연아 강철멘탈비결"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-27T19:55:34.773292+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-03T23:41:11+09:00",
       "text_length": 0,
       "title": "슬로우 도파민’, 하버드 대학이 주목한 쇼츠 중독 해결법!"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-03T23:33:25.032297+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-03T23:33:25.032297+09:00",
-      "link_count": 0,
-      "log_no": "224273712325",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273712325",
-      "published_at": "2026-05-03T23:01:52+09:00",
-      "text_length": 0,
-      "title": "아레네스수학 5월개강시간표"
     }
   ],
-  "updated_at": "2026-06-27T19:55:34.773292+09:00"
+  "updated_at": "2026-06-28T10:22:43.057080+09:00"
 }
