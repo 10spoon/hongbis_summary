@@ -1,6 +1,32 @@
 {
-  "post_count": 1717,
+  "post_count": 1719,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T19:57:01.826020+09:00",
+      "link_count": 0,
+      "log_no": "224329820808",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329820808",
+      "published_at": "2026-06-28T19:53:02+09:00",
+      "text_length": 0,
+      "title": "포도밭학원 2026학년도 중3 논술 시즌III 프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T19:57:01.826020+09:00",
+      "link_count": 1,
+      "log_no": "224329819541",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329819541",
+      "published_at": "2026-06-28T19:50:53+09:00",
+      "text_length": 760,
+      "title": "휴브레인 2027 수시 지원 전략 설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-28T19:00:02.882560+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-04T18:33:12+09:00",
       "text_length": 0,
       "title": "AI시대 경쟁력 만드는 '문화지능'"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-04T18:45:25.693881+09:00",
-      "image_count": 4,
-      "last_changed_at": "2026-05-04T18:45:25.693881+09:00",
-      "link_count": 0,
-      "log_no": "224274628176",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274628176",
-      "published_at": "2026-05-04T18:16:39+09:00",
-      "text_length": 0,
-      "title": "개념상상SM 5,6월 시간표"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-04T18:45:25.693881+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T18:45:25.693881+09:00",
-      "link_count": 2,
-      "log_no": "224274625226",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274625226",
-      "published_at": "2026-05-04T18:13:40+09:00",
-      "text_length": 778,
-      "title": "2026년 청소년 우주과학 경진대회 HIS Youth 참가자 모집"
     }
   ],
-  "updated_at": "2026-06-28T19:00:02.882560+09:00"
+  "updated_at": "2026-06-28T19:57:01.826020+09:00"
 }

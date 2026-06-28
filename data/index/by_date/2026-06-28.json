@@ -1,7 +1,33 @@
 {
   "key": "2026-06-28",
-  "post_count": 9,
+  "post_count": 11,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T19:57:01.826020+09:00",
+      "link_count": 0,
+      "log_no": "224329820808",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329820808",
+      "published_at": "2026-06-28T19:53:02+09:00",
+      "text_length": 0,
+      "title": "포도밭학원 2026학년도 중3 논술 시즌III 프로그램"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T19:57:01.826020+09:00",
+      "link_count": 1,
+      "log_no": "224329819541",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329819541",
+      "published_at": "2026-06-28T19:50:53+09:00",
+      "text_length": 760,
+      "title": "휴브레인 2027 수시 지원 전략 설명회"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-28T19:00:02.882560+09:00",
@@ -120,5 +146,5 @@
       "title": "김연아 강철멘탈비결"
     }
   ],
-  "updated_at": "2026-06-28T19:00:02.882560+09:00"
+  "updated_at": "2026-06-28T19:57:01.826020+09:00"
 }
