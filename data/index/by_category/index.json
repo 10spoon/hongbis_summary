@@ -2936,6 +2936,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-28T20:53:15.869207+09:00",
+        "link_count": 2,
+        "log_no": "224329842047",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329842047",
+        "published_at": "2026-06-28T20:27:31+09:00",
+        "text_length": 178,
+        "title": "목동 초중등논술학원 독특:관점의 발견 설명회 (7월1일)(현대월드타워논술학원)"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-28T19:57:01.826020+09:00",
@@ -2946,6 +2959,19 @@
         "published_at": "2026-06-28T19:50:53+09:00",
         "text_length": 760,
         "title": "휴브레인 2027 수시 지원 전략 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T20:53:15.869207+09:00",
+        "link_count": 1,
+        "log_no": "224329760502",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329760502",
+        "published_at": "2026-06-28T18:14:23+09:00",
+        "text_length": 528,
+        "title": "피오르에듀 고3 수시 마지막 앵콜 설명회"
       },
       {
         "category": "설명회",
@@ -9438,6 +9464,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T20:53:15.869207+09:00",
+        "link_count": 0,
+        "log_no": "224329827570",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329827570",
+        "published_at": "2026-06-28T20:04:19+09:00",
+        "text_length": 0,
+        "title": "서원학원 여름방학중등시간표"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-28T19:57:01.826020+09:00",
@@ -16267,6 +16306,19 @@
     "엄마공부": [
       {
         "category": "엄마공부",
+        "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T20:53:15.869207+09:00",
+        "link_count": 0,
+        "log_no": "224329844717",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329844717",
+        "published_at": "2026-06-28T20:31:39+09:00",
+        "text_length": 0,
+        "title": "우리 직원들 돈벼락 맞는다”…600명 1인당 최대 95억 번다는 회사"
+      },
+      {
+        "category": "엄마공부",
         "first_seen_at": "2026-06-28T19:00:02.882560+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-28T19:00:02.882560+09:00",
@@ -22375,5 +22427,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-28T19:57:01.826020+09:00"
+  "updated_at": "2026-06-28T20:53:15.869207+09:00"
 }
