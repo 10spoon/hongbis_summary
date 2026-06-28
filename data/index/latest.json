@@ -1,6 +1,45 @@
 {
-  "post_count": 1709,
+  "post_count": 1712,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+      "link_count": 2,
+      "log_no": "224329618265",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329618265",
+      "published_at": "2026-06-28T14:43:13+09:00",
+      "text_length": 685,
+      "title": "시대인재 중3 수학스쿨 정규반 시간표 및 입반시험"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+      "link_count": 0,
+      "log_no": "224329551781",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329551781",
+      "published_at": "2026-06-28T12:54:08+09:00",
+      "text_length": 546,
+      "title": "CMS 중등관&클라이매쓰 7월 자사/특목고 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+      "link_count": 0,
+      "log_no": "224329547233",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224329547233",
+      "published_at": "2026-06-28T12:46:19+09:00",
+      "text_length": 0,
+      "title": "의대 수시 교과전형 합격선 봤더니…6개大 '내신 전과목 1등급"
+    },
     {
       "category": "엄마공부",
       "first_seen_at": "2026-06-28T10:22:43.057080+09:00",
@@ -12961,46 +13000,7 @@
       "published_at": "2026-05-04T14:00:52+09:00",
       "text_length": 0,
       "title": "“도대체 무슨 입시 전략이에요?”···대치동 영어 강사가 자식들 시골서 키우는 이유"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-04T14:26:55.937115+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T14:26:55.937115+09:00",
-      "link_count": 0,
-      "log_no": "224274310945",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274310945",
-      "published_at": "2026-05-04T13:59:49+09:00",
-      "text_length": 0,
-      "title": "아들, 고등학교는 지방에서 다니자”…내신경쟁에 ‘서울 프리미엄’ 흔들"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-04T14:26:55.937115+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-04T14:26:55.937115+09:00",
-      "link_count": 0,
-      "log_no": "224274260885",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274260885",
-      "published_at": "2026-05-04T13:17:44+09:00",
-      "text_length": 0,
-      "title": "대한민국손편지쓰기공모전"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-05-04T00:32:35.511306+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-04T00:32:35.511306+09:00",
-      "link_count": 0,
-      "log_no": "224273745864",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224273745864",
-      "published_at": "2026-05-03T23:41:11+09:00",
-      "text_length": 0,
-      "title": "슬로우 도파민’, 하버드 대학이 주목한 쇼츠 중독 해결법!"
     }
   ],
-  "updated_at": "2026-06-28T10:22:43.057080+09:00"
+  "updated_at": "2026-06-28T14:45:06.856647+09:00"
 }

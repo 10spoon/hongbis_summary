@@ -2936,6 +2936,19 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+        "link_count": 0,
+        "log_no": "224329551781",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329551781",
+        "published_at": "2026-06-28T12:54:08+09:00",
+        "text_length": 546,
+        "title": "CMS 중등관&클라이매쓰 7월 자사/특목고 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-27T18:10:37.420894+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-27T18:10:37.420894+09:00",
@@ -9412,6 +9425,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+        "link_count": 2,
+        "log_no": "224329618265",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329618265",
+        "published_at": "2026-06-28T14:43:13+09:00",
+        "text_length": 685,
+        "title": "시대인재 중3 수학스쿨 정규반 시간표 및 입반시험"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-27T16:22:53.606743+09:00",
@@ -18273,6 +18299,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-28T14:45:06.856647+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-28T14:45:06.856647+09:00",
+        "link_count": 0,
+        "log_no": "224329547233",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224329547233",
+        "published_at": "2026-06-28T12:46:19+09:00",
+        "text_length": 0,
+        "title": "의대 수시 교과전형 합격선 봤더니…6개大 '내신 전과목 1등급"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-27T19:55:34.773292+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-27T19:55:34.773292+09:00",
@@ -22245,5 +22284,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-28T10:22:43.057080+09:00"
+  "updated_at": "2026-06-28T14:45:06.856647+09:00"
 }
