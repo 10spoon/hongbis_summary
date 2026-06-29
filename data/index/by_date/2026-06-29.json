@@ -1,7 +1,20 @@
 {
   "key": "2026-06-29",
-  "post_count": 8,
+  "post_count": 9,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-29T17:07:20.231068+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-29T17:07:20.231068+09:00",
+      "link_count": 1,
+      "log_no": "224330711963",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330711963",
+      "published_at": "2026-06-29T16:02:59+09:00",
+      "text_length": 521,
+      "title": "국립정신건강센터 아이에게 딱 하나만 가르친다면, 자기조절 강좌"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-29T14:54:01.926361+09:00",
@@ -107,5 +120,5 @@
       "title": "서울역사박물관 중학생인턴제"
     }
   ],
-  "updated_at": "2026-06-29T14:54:01.926361+09:00"
+  "updated_at": "2026-06-29T17:07:20.231068+09:00"
 }
