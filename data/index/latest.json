@@ -1,6 +1,19 @@
 {
-  "post_count": 1738,
+  "post_count": 1739,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-29T20:55:46.255528+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-29T20:55:46.255528+09:00",
+      "link_count": 1,
+      "log_no": "224330942692",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330942692",
+      "published_at": "2026-06-29T19:57:26+09:00",
+      "text_length": 454,
+      "title": "2028대입정보설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-29T19:34:47.893378+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-05T22:15:10+09:00",
       "text_length": 0,
       "title": "강남하이퍼목동관 학부모 입시교실 안내 (대상 : 중3~고2)"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
-      "link_count": 0,
-      "log_no": "224275782480",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275782480",
-      "published_at": "2026-05-05T22:13:12+09:00",
-      "text_length": 0,
-      "title": "목동종로학원 썸머스쿨"
     }
   ],
-  "updated_at": "2026-06-29T19:34:47.893378+09:00"
+  "updated_at": "2026-06-29T20:55:46.255528+09:00"
 }
