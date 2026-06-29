@@ -1,7 +1,20 @@
 {
   "key": "2026-06-29",
-  "post_count": 14,
+  "post_count": 15,
   "posts": [
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-30T00:27:02.515379+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T00:27:02.515379+09:00",
+      "link_count": 0,
+      "log_no": "224331098724",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224331098724",
+      "published_at": "2026-06-29T23:01:03+09:00",
+      "text_length": 0,
+      "title": "<2026년 전국 논증적 글쓰기 대회> 예선 참가자 모집"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-29T22:47:08.223325+09:00",
@@ -185,5 +198,5 @@
       "title": "서울역사박물관 중학생인턴제"
     }
   ],
-  "updated_at": "2026-06-29T22:47:08.223325+09:00"
+  "updated_at": "2026-06-30T00:27:02.515379+09:00"
 }
