@@ -9557,6 +9557,32 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-06-29T19:34:47.893378+09:00",
+        "image_count": 5,
+        "last_changed_at": "2026-06-29T19:34:47.893378+09:00",
+        "link_count": 0,
+        "log_no": "224330911010",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330911010",
+        "published_at": "2026-06-29T19:14:53+09:00",
+        "text_length": 0,
+        "title": "대치돌파수학 정규반진도표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-29T19:34:47.893378+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-06-29T19:34:47.893378+09:00",
+        "link_count": 0,
+        "log_no": "224330908813",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330908813",
+        "published_at": "2026-06-29T19:11:52+09:00",
+        "text_length": 0,
+        "title": "천개의고원 7월선정도서"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-29T14:54:01.926361+09:00",
         "image_count": 2,
         "last_changed_at": "2026-06-29T14:54:01.926361+09:00",
@@ -22596,5 +22622,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-29T17:07:20.231068+09:00"
+  "updated_at": "2026-06-29T19:34:47.893378+09:00"
 }
