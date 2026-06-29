@@ -1,7 +1,33 @@
 {
   "key": "2026-06-29",
-  "post_count": 12,
+  "post_count": 14,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-29T22:47:08.223325+09:00",
+      "image_count": 4,
+      "last_changed_at": "2026-06-29T22:47:08.223325+09:00",
+      "link_count": 0,
+      "log_no": "224331068034",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224331068034",
+      "published_at": "2026-06-29T22:27:22+09:00",
+      "text_length": 0,
+      "title": "원수학 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-29T22:47:08.223325+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-29T22:47:08.223325+09:00",
+      "link_count": 2,
+      "log_no": "224331065968",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224331065968",
+      "published_at": "2026-06-29T22:25:12+09:00",
+      "text_length": 430,
+      "title": "백인대장 중등관 여름특강"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-29T20:55:46.255528+09:00",
@@ -159,5 +185,5 @@
       "title": "서울역사박물관 중학생인턴제"
     }
   ],
-  "updated_at": "2026-06-29T20:55:46.255528+09:00"
+  "updated_at": "2026-06-29T22:47:08.223325+09:00"
 }
