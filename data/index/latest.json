@@ -1,6 +1,71 @@
 {
-  "post_count": 1727,
+  "post_count": 1732,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+      "image_count": 10,
+      "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+      "link_count": 0,
+      "log_no": "224330410259",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330410259",
+      "published_at": "2026-06-29T11:36:25+09:00",
+      "text_length": 0,
+      "title": "미독수학 여름방학특강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+      "link_count": 0,
+      "log_no": "224330408112",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330408112",
+      "published_at": "2026-06-29T11:34:26+09:00",
+      "text_length": 0,
+      "title": "과학치안아이디어공모전"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+      "link_count": 3,
+      "log_no": "224330403981",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330403981",
+      "published_at": "2026-06-29T11:30:28+09:00",
+      "text_length": 793,
+      "title": "콴다일로 예비고1 (현 중3) 여름방학 수학 학습 전략 간담회"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+      "link_count": 0,
+      "log_no": "224330371638",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330371638",
+      "published_at": "2026-06-29T11:02:23+09:00",
+      "text_length": 338,
+      "title": "7월 근화원 바른생활 습관 캠프"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+      "link_count": 0,
+      "log_no": "224330360444",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224330360444",
+      "published_at": "2026-06-29T10:52:34+09:00",
+      "text_length": 0,
+      "title": "서울역사박물관 중학생인턴제"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-29T00:43:47.673257+09:00",
@@ -12935,72 +13000,7 @@
       "published_at": "2026-05-05T15:05:04+09:00",
       "text_length": 0,
       "title": "[2년 전 오늘] 24수능 표준점수수석, 내신 1.01 공부방법은?"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
-      "link_count": 0,
-      "log_no": "224275372201",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275372201",
-      "published_at": "2026-05-05T13:45:14+09:00",
-      "text_length": 0,
-      "title": "유타대학교 진로체험 및 야외부스행사"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
-      "image_count": 11,
-      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
-      "link_count": 0,
-      "log_no": "224275345290",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275345290",
-      "published_at": "2026-05-05T13:09:09+09:00",
-      "text_length": 0,
-      "title": "두각학원 중3 썸머스쿨"
-    },
-    {
-      "category": "입시뉴스",
-      "first_seen_at": "2026-05-05T14:21:58.777786+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-05T14:21:58.777786+09:00",
-      "link_count": 0,
-      "log_no": "224275340484",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275340484",
-      "published_at": "2026-05-05T13:02:37+09:00",
-      "text_length": 0,
-      "title": "막 오르는 영재고 입시…AI·반도체 강세에 경쟁률 반등할까"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-05T10:04:55.700552+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-05T10:04:55.700552+09:00",
-      "link_count": 0,
-      "log_no": "224275199069",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275199069",
-      "published_at": "2026-05-05T09:57:55+09:00",
-      "text_length": 0,
-      "title": "2026-1학기 성균관대학교 약학과 전공체험"
-    },
-    {
-      "category": "비교과",
-      "first_seen_at": "2026-05-04T23:58:51.945183+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-04T23:58:51.945183+09:00",
-      "link_count": 0,
-      "log_no": "224274898295",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224274898295",
-      "published_at": "2026-05-04T23:27:52+09:00",
-      "text_length": 0,
-      "title": "서대문자연사박물관 2025년 5월 주말과학체험"
     }
   ],
-  "updated_at": "2026-06-29T00:43:47.673257+09:00"
+  "updated_at": "2026-06-29T12:25:53.478427+09:00"
 }

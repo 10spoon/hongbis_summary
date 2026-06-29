@@ -85,6 +85,45 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+        "link_count": 0,
+        "log_no": "224330408112",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330408112",
+        "published_at": "2026-06-29T11:34:26+09:00",
+        "text_length": 0,
+        "title": "과학치안아이디어공모전"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+        "link_count": 0,
+        "log_no": "224330371638",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330371638",
+        "published_at": "2026-06-29T11:02:23+09:00",
+        "text_length": 338,
+        "title": "7월 근화원 바른생활 습관 캠프"
+      },
+      {
+        "category": "비교과",
+        "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+        "image_count": 3,
+        "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+        "link_count": 0,
+        "log_no": "224330360444",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330360444",
+        "published_at": "2026-06-29T10:52:34+09:00",
+        "text_length": 0,
+        "title": "서울역사박물관 중학생인턴제"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-27T14:35:25.913421+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-27T14:35:25.913421+09:00",
@@ -2934,6 +2973,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+        "link_count": 3,
+        "log_no": "224330403981",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330403981",
+        "published_at": "2026-06-29T11:30:28+09:00",
+        "text_length": 793,
+        "title": "콴다일로 예비고1 (현 중3) 여름방학 수학 학습 전략 간담회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-28T20:53:15.869207+09:00",
@@ -9464,6 +9516,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
+        "image_count": 10,
+        "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
+        "link_count": 0,
+        "log_no": "224330410259",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330410259",
+        "published_at": "2026-06-29T11:36:25+09:00",
+        "text_length": 0,
+        "title": "미독수학 여름방학특강"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-29T00:43:47.673257+09:00",
@@ -22479,5 +22544,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-29T00:43:47.673257+09:00"
+  "updated_at": "2026-06-29T12:25:53.478427+09:00"
 }
