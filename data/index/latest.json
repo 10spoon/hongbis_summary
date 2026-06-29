@@ -1,11 +1,24 @@
 {
-  "post_count": 1743,
+  "post_count": 1744,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-30T02:14:05.233499+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-30T02:14:05.233499+09:00",
+      "link_count": 1,
+      "log_no": "224331180039",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224331180039",
+      "published_at": "2026-06-30T00:39:50+09:00",
+      "text_length": 767,
+      "title": "나오미T 생기부500자특강(학생대상)대치두각,목동다원"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-06-30T00:27:02.515379+09:00",
       "image_count": 4,
-      "last_changed_at": "2026-06-30T00:27:02.515379+09:00",
+      "last_changed_at": "2026-06-30T02:14:05.233499+09:00",
       "link_count": 0,
       "log_no": "224331165752",
       "place_count": 0,
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-05T23:52:37+09:00",
       "text_length": 0,
       "title": "목동아거수학 5월 시간표"
-    },
-    {
-      "category": "시간표",
-      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
-      "link_count": 0,
-      "log_no": "224275866820",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275866820",
-      "published_at": "2026-05-05T23:49:25+09:00",
-      "text_length": 0,
-      "title": "대치에이펙스 5월 공수1기본개강"
     }
   ],
-  "updated_at": "2026-06-30T00:27:02.515379+09:00"
+  "updated_at": "2026-06-30T02:14:05.233499+09:00"
 }
