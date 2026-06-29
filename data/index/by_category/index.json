@@ -2975,6 +2975,32 @@
     "설명회": [
       {
         "category": "설명회",
+        "first_seen_at": "2026-06-29T14:54:01.926361+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-29T14:54:01.926361+09:00",
+        "link_count": 0,
+        "log_no": "224330503421",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330503421",
+        "published_at": "2026-06-29T13:08:05+09:00",
+        "text_length": 522,
+        "title": "다원교육 서울과학전람회 대회[탐구보고서반] 설명회"
+      },
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-06-29T14:54:01.926361+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-29T14:54:01.926361+09:00",
+        "link_count": 0,
+        "log_no": "224330500873",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330500873",
+        "published_at": "2026-06-29T13:05:40+09:00",
+        "text_length": 488,
+        "title": "새움학원 학군지 학생들의 현실적인 대입전략 설명회"
+      },
+      {
+        "category": "설명회",
         "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-29T12:25:53.478427+09:00",
@@ -9516,6 +9542,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-06-29T14:54:01.926361+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-06-29T14:54:01.926361+09:00",
+        "link_count": 3,
+        "log_no": "224330607465",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224330607465",
+        "published_at": "2026-06-29T14:39:36+09:00",
+        "text_length": 644,
+        "title": "준과학 중3 학생을 위한 7월 여름학기 수업"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-06-29T12:25:53.478427+09:00",
@@ -22544,5 +22583,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-29T12:25:53.478427+09:00"
+  "updated_at": "2026-06-29T14:54:01.926361+09:00"
 }
