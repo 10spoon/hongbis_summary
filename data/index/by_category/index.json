@@ -18806,6 +18806,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-07-01T08:29:56.899977+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T08:29:56.899977+09:00",
+        "link_count": 0,
+        "log_no": "224332601778",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332601778",
+        "published_at": "2026-07-01T07:56:07+09:00",
+        "text_length": 0,
+        "title": "수능수험표 뒷면에 가채점표 공식인쇄된다"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-30T21:58:00.852314+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-30T21:58:00.852314+09:00",
@@ -22843,5 +22856,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T00:10:18.380181+09:00"
+  "updated_at": "2026-07-01T08:29:56.899977+09:00"
 }
