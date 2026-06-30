@@ -1,6 +1,19 @@
 {
-  "post_count": 1745,
+  "post_count": 1746,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-30T20:19:48.670776+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T20:19:48.670776+09:00",
+      "link_count": 0,
+      "log_no": "224332122637",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332122637",
+      "published_at": "2026-06-30T19:46:23+09:00",
+      "text_length": 0,
+      "title": "졸면 깨우고 '인강'만 허용…대치동 흔든 'AI 스파르타 독서실'"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-30T10:18:03.824545+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-05T23:56:59+09:00",
       "text_length": 0,
       "title": "자습시간부터 늘려야\"…재수생들이 말하는 공부비결은"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
-      "link_count": 0,
-      "log_no": "224275872289",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275872289",
-      "published_at": "2026-05-05T23:55:49+09:00",
-      "text_length": 0,
-      "title": "러셀대치 2027반수반설명회"
     }
   ],
-  "updated_at": "2026-06-30T10:18:03.824545+09:00"
+  "updated_at": "2026-06-30T20:19:48.670776+09:00"
 }

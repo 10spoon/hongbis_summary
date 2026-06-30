@@ -1,7 +1,20 @@
 {
   "key": "2026-06-30",
-  "post_count": 3,
+  "post_count": 4,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-30T20:19:48.670776+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T20:19:48.670776+09:00",
+      "link_count": 0,
+      "log_no": "224332122637",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332122637",
+      "published_at": "2026-06-30T19:46:23+09:00",
+      "text_length": 0,
+      "title": "졸면 깨우고 '인강'만 허용…대치동 흔든 'AI 스파르타 독서실'"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-30T10:18:03.824545+09:00",
@@ -42,5 +55,5 @@
       "title": "케이비즈수학과학학원 방이관오픈 여름특강설명회"
     }
   ],
-  "updated_at": "2026-06-30T10:18:03.824545+09:00"
+  "updated_at": "2026-06-30T20:19:48.670776+09:00"
 }
