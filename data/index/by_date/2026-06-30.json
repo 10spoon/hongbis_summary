@@ -1,7 +1,33 @@
 {
   "key": "2026-06-30",
-  "post_count": 4,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-30T21:58:00.852314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T21:58:00.852314+09:00",
+      "link_count": 3,
+      "log_no": "224332181314",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332181314",
+      "published_at": "2026-06-30T20:53:52+09:00",
+      "text_length": 864,
+      "title": "아카로드 블루M(중등관) 의자사반 / 정규반/ 여름특강 7월 개강"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-06-30T21:58:00.852314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T21:58:00.852314+09:00",
+      "link_count": 0,
+      "log_no": "224332167218",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332167218",
+      "published_at": "2026-06-30T20:38:37+09:00",
+      "text_length": 0,
+      "title": "내신 5등급제·통합수능 시대… 학생부·정성평가 비중 는다"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-06-30T20:19:48.670776+09:00",
@@ -55,5 +81,5 @@
       "title": "케이비즈수학과학학원 방이관오픈 여름특강설명회"
     }
   ],
-  "updated_at": "2026-06-30T20:19:48.670776+09:00"
+  "updated_at": "2026-06-30T21:58:00.852314+09:00"
 }
