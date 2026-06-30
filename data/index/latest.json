@@ -1,6 +1,58 @@
 {
-  "post_count": 1748,
+  "post_count": 1752,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-06-30T22:56:37.366890+09:00",
+      "link_count": 0,
+      "log_no": "224332299592",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332299592",
+      "published_at": "2026-06-30T22:55:31+09:00",
+      "text_length": 0,
+      "title": "365국어 여름방학특강"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-06-30T22:56:37.366890+09:00",
+      "link_count": 0,
+      "log_no": "224332297654",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332297654",
+      "published_at": "2026-06-30T22:53:36+09:00",
+      "text_length": 0,
+      "title": "생각과표현국어 수능국어원리반"
+    },
+    {
+      "category": "세특자료실",
+      "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
+      "image_count": 0,
+      "last_changed_at": "2026-06-30T22:56:37.366890+09:00",
+      "link_count": 0,
+      "log_no": "224332295434",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332295434",
+      "published_at": "2026-06-30T22:51:22+09:00",
+      "text_length": 0,
+      "title": "[1년 전 오늘] 서울대학교 2028학년도 전공 연계 과목 선택 안내"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-06-30T22:56:37.366890+09:00",
+      "link_count": 0,
+      "log_no": "224332291849",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332291849",
+      "published_at": "2026-06-30T22:47:49+09:00",
+      "text_length": 0,
+      "title": "한양대학교 수시 지원전략설명회"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-06-30T21:58:00.852314+09:00",
@@ -12948,59 +13000,7 @@
       "published_at": "2026-05-06T12:55:24+09:00",
       "text_length": 0,
       "title": "2026년(2027학년도) 현대청운고 교외 입학설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-06T14:26:08.888175+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-06T14:26:08.888175+09:00",
-      "link_count": 0,
-      "log_no": "224276385531",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224276385531",
-      "published_at": "2026-05-06T12:54:14+09:00",
-      "text_length": 0,
-      "title": "안동풍산고등학교 입학설명회"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-05-06T08:32:48.387413+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-06T08:32:48.387413+09:00",
-      "link_count": 0,
-      "log_no": "224276104371",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224276104371",
-      "published_at": "2026-05-06T08:24:24+09:00",
-      "text_length": 0,
-      "title": "공부는 엄마가, 땀 흘리는 축구는 아빠가\"… 중년 부부가 완성해 가는 가장 눈부신 '팀플레이'"
-    },
-    {
-      "category": "함께맘북클럽",
-      "first_seen_at": "2026-05-06T02:48:27.359018+09:00",
-      "image_count": 3,
-      "last_changed_at": "2026-05-06T02:48:27.359018+09:00",
-      "link_count": 0,
-      "log_no": "224275946322",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275946322",
-      "published_at": "2026-05-06T01:56:03+09:00",
-      "text_length": 93,
-      "title": "함께맘북클럽 5월 유정임작가 자발적몰입을 이끄는 공부대화의 기술"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-06T01:51:21.934105+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-06T01:51:21.934105+09:00",
-      "link_count": 0,
-      "log_no": "224275914101",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224275914101",
-      "published_at": "2026-05-06T00:52:53+09:00",
-      "text_length": 164,
-      "title": "아이티씨하이 내신 설명회"
     }
   ],
-  "updated_at": "2026-06-30T21:58:00.852314+09:00"
+  "updated_at": "2026-06-30T22:56:37.366890+09:00"
 }
