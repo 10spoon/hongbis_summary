@@ -18702,6 +18702,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-06-30T10:18:03.824545+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-06-30T10:18:03.824545+09:00",
+        "link_count": 0,
+        "log_no": "224331415930",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224331415930",
+        "published_at": "2026-06-30T08:39:11+09:00",
+        "text_length": 0,
+        "title": "내신은 화학, 수능은 지구과학’… 성적 확보 유리한 과목으로 갈아타기"
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-06-28T18:23:20.656475+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-28T18:23:20.656475+09:00",
@@ -22700,5 +22713,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-30T02:14:05.233499+09:00"
+  "updated_at": "2026-06-30T10:18:03.824545+09:00"
 }
