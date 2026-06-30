@@ -9635,6 +9635,45 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-07-01T00:10:18.380181+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-07-01T00:10:18.380181+09:00",
+        "link_count": 0,
+        "log_no": "224332332153",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332332153",
+        "published_at": "2026-06-30T23:27:46+09:00",
+        "text_length": 0,
+        "title": "대치올가교육 여름방학시간표"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-07-01T00:10:18.380181+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T00:10:18.380181+09:00",
+        "link_count": 0,
+        "log_no": "224332323093",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332323093",
+        "published_at": "2026-06-30T23:18:59+09:00",
+        "text_length": 0,
+        "title": "원웅재물리학원 7월개강"
+      },
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-07-01T00:10:18.380181+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T00:10:18.380181+09:00",
+        "link_count": 1,
+        "log_no": "224332319896",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332319896",
+        "published_at": "2026-06-30T23:15:47+09:00",
+        "text_length": 168,
+        "title": "고양이국어 여름방학시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-30T22:56:37.366890+09:00",
@@ -22804,5 +22843,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-06-30T22:56:37.366890+09:00"
+  "updated_at": "2026-07-01T00:10:18.380181+09:00"
 }
