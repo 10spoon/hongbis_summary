@@ -18845,6 +18845,19 @@
     "입시뉴스": [
       {
         "category": "입시뉴스",
+        "first_seen_at": "2026-07-01T14:50:59.122059+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T14:50:59.122059+09:00",
+        "link_count": 0,
+        "log_no": "224332927133",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332927133",
+        "published_at": "2026-07-01T13:22:51+09:00",
+        "text_length": 0,
+        "title": "고1 첫 중간고사 망쳤으니 자퇴할게요\""
+      },
+      {
+        "category": "입시뉴스",
         "first_seen_at": "2026-07-01T10:23:36.548239+09:00",
         "image_count": 1,
         "last_changed_at": "2026-07-01T10:23:36.548239+09:00",
@@ -22908,5 +22921,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T12:25:41.414708+09:00"
+  "updated_at": "2026-07-01T14:50:59.122059+09:00"
 }

@@ -1,7 +1,20 @@
 {
   "key": "2026-07-01",
-  "post_count": 5,
+  "post_count": 6,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-01T14:50:59.122059+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T14:50:59.122059+09:00",
+      "link_count": 0,
+      "log_no": "224332927133",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332927133",
+      "published_at": "2026-07-01T13:22:51+09:00",
+      "text_length": 0,
+      "title": "고1 첫 중간고사 망쳤으니 자퇴할게요\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
@@ -68,5 +81,5 @@
       "title": "수능수험표 뒷면에 가채점표 공식인쇄된다"
     }
   ],
-  "updated_at": "2026-07-01T12:25:41.414708+09:00"
+  "updated_at": "2026-07-01T14:50:59.122059+09:00"
 }

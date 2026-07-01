@@ -1,6 +1,19 @@
 {
-  "post_count": 1760,
+  "post_count": 1761,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-01T14:50:59.122059+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T14:50:59.122059+09:00",
+      "link_count": 0,
+      "log_no": "224332927133",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332927133",
+      "published_at": "2026-07-01T13:22:51+09:00",
+      "text_length": 0,
+      "title": "고1 첫 중간고사 망쳤으니 자퇴할게요\""
+    },
     {
       "category": "비교과",
       "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
@@ -12987,20 +13000,7 @@
       "published_at": "2026-05-06T23:13:09+09:00",
       "text_length": 0,
       "title": "대치이데아학원 상산고설명회"
-    },
-    {
-      "category": "선배들의공부방법모음",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277065224",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277065224",
-      "published_at": "2026-05-06T23:11:10+09:00",
-      "text_length": 0,
-      "title": "[2년 전 오늘] “70→80점 올린 경험 한 번이 대학 바꾼다” 서울대 쌍둥이의 자기주도학습법"
     }
   ],
-  "updated_at": "2026-07-01T12:25:41.414708+09:00"
+  "updated_at": "2026-07-01T14:50:59.122059+09:00"
 }
