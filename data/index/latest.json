@@ -1,6 +1,32 @@
 {
-  "post_count": 1767,
+  "post_count": 1769,
   "posts": [
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-07-01T23:02:11.386735+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-07-01T23:02:11.386735+09:00",
+      "link_count": 0,
+      "log_no": "224333508563",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333508563",
+      "published_at": "2026-07-01T23:02:06+09:00",
+      "text_length": 0,
+      "title": "이대자연사박물관 여름학기 자연사교실"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-07-01T23:02:11.386735+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-07-01T23:02:11.386735+09:00",
+      "link_count": 0,
+      "log_no": "224333505254",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333505254",
+      "published_at": "2026-07-01T22:58:26+09:00",
+      "text_length": 0,
+      "title": "세종과고 수학체험전"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-07-01T22:13:33.547654+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-07T01:20:24+09:00",
       "text_length": 0,
       "title": "내년도 지역의사전형 490명선발"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 2,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277101707",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277101707",
-      "published_at": "2026-05-06T23:53:39+09:00",
-      "text_length": 0,
-      "title": "cms목동w관 6월개강설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277088897",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277088897",
-      "published_at": "2026-05-06T23:38:07+09:00",
-      "text_length": 301,
-      "title": "선제영어학원 5월 설명회"
     }
   ],
-  "updated_at": "2026-07-01T22:13:33.547654+09:00"
+  "updated_at": "2026-07-01T23:02:11.386735+09:00"
 }

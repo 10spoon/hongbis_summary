@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-07-01T23:02:11.386735+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-07-01T23:02:11.386735+09:00",
+        "link_count": 0,
+        "log_no": "224333505254",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224333505254",
+        "published_at": "2026-07-01T22:58:26+09:00",
+        "text_length": 0,
+        "title": "세종과고 수학체험전"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-07-01T16:48:25.667624+09:00",
         "image_count": 1,
         "last_changed_at": "2026-07-01T16:48:25.667624+09:00",
@@ -9698,6 +9711,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-07-01T23:02:11.386735+09:00",
+        "image_count": 2,
+        "last_changed_at": "2026-07-01T23:02:11.386735+09:00",
+        "link_count": 0,
+        "log_no": "224333508563",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224333508563",
+        "published_at": "2026-07-01T23:02:06+09:00",
+        "text_length": 0,
+        "title": "이대자연사박물관 여름학기 자연사교실"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-07-01T20:24:39.518860+09:00",
@@ -22999,5 +23025,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T22:13:33.547654+09:00"
+  "updated_at": "2026-07-01T23:02:11.386735+09:00"
 }
