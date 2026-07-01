@@ -1,7 +1,33 @@
 {
   "key": "2026-07-01",
-  "post_count": 10,
+  "post_count": 12,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-07-01T22:13:33.547654+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T22:13:33.547654+09:00",
+      "link_count": 0,
+      "log_no": "224333402095",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333402095",
+      "published_at": "2026-07-01T21:02:32+09:00",
+      "text_length": 0,
+      "title": "함영원영어학원 중1.2외대부고 입시반 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-01T22:13:33.547654+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T22:13:33.547654+09:00",
+      "link_count": 1,
+      "log_no": "224333395376",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333395376",
+      "published_at": "2026-07-01T20:54:44+09:00",
+      "text_length": 297,
+      "title": "낮에는 총 들고 밤에는 책 펴고 작전명 ‘주軍야독’ 복무 중 의대 합격 ‘결실’ 맺다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-07-01T20:24:39.518860+09:00",
@@ -133,5 +159,5 @@
       "title": "수능수험표 뒷면에 가채점표 공식인쇄된다"
     }
   ],
-  "updated_at": "2026-07-01T20:24:39.518860+09:00"
+  "updated_at": "2026-07-01T22:13:33.547654+09:00"
 }

@@ -1,6 +1,32 @@
 {
-  "post_count": 1765,
+  "post_count": 1767,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-07-01T22:13:33.547654+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T22:13:33.547654+09:00",
+      "link_count": 0,
+      "log_no": "224333402095",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333402095",
+      "published_at": "2026-07-01T21:02:32+09:00",
+      "text_length": 0,
+      "title": "함영원영어학원 중1.2외대부고 입시반 설명회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-01T22:13:33.547654+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T22:13:33.547654+09:00",
+      "link_count": 1,
+      "log_no": "224333395376",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333395376",
+      "published_at": "2026-07-01T20:54:44+09:00",
+      "text_length": 297,
+      "title": "낮에는 총 들고 밤에는 책 펴고 작전명 ‘주軍야독’ 복무 중 의대 합격 ‘결실’ 맺다"
+    },
     {
       "category": "시간표",
       "first_seen_at": "2026-07-01T20:24:39.518860+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-06T23:38:07+09:00",
       "text_length": 301,
       "title": "선제영어학원 5월 설명회"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277086864",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277086864",
-      "published_at": "2026-05-06T23:35:40+09:00",
-      "text_length": 0,
-      "title": "대치이강 2028 고1 대입전형 확정 계획안에 따른 입시전략 설명회 <5/10, 13:30 >"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 3,
-      "log_no": "224277083933",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277083933",
-      "published_at": "2026-05-06T23:32:08+09:00",
-      "text_length": 677,
-      "title": "두각 K수학 강호길 원장&이종완T 하나고&민사고1 수학 간담회"
     }
   ],
-  "updated_at": "2026-07-01T20:24:39.518860+09:00"
+  "updated_at": "2026-07-01T22:13:33.547654+09:00"
 }
