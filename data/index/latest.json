@@ -1,6 +1,32 @@
 {
-  "post_count": 1761,
+  "post_count": 1763,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-07-01T16:48:25.667624+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T16:48:25.667624+09:00",
+      "link_count": 1,
+      "log_no": "224333124760",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333124760",
+      "published_at": "2026-07-01T16:04:44+09:00",
+      "text_length": 829,
+      "title": "서초구 X SM UNIVERSE가 함께하는 2026 진로 토크 콘서트"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-07-01T16:48:25.667624+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T16:48:25.667624+09:00",
+      "link_count": 0,
+      "log_no": "224333106319",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224333106319",
+      "published_at": "2026-07-01T15:50:40+09:00",
+      "text_length": 718,
+      "title": "2026년 과학경진대회 브이로그 공모전"
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-07-01T14:50:59.122059+09:00",
@@ -12974,33 +13000,7 @@
       "published_at": "2026-05-06T23:28:35+09:00",
       "text_length": 0,
       "title": "[6년 전 오늘] [명언화가님]무럭무럭 자라나길......"
-    },
-    {
-      "category": "엄마공부",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 0,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277080121",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277080121",
-      "published_at": "2026-05-06T23:27:39+09:00",
-      "text_length": 0,
-      "title": "[5년 전 오늘] [박완서 한말씀만 하소서-고 박완서작가가 아들을 잃고 쓴 에세이]"
-    },
-    {
-      "category": "설명회",
-      "first_seen_at": "2026-05-07T00:10:58.599949+09:00",
-      "image_count": 1,
-      "last_changed_at": "2026-05-07T00:10:58.599949+09:00",
-      "link_count": 0,
-      "log_no": "224277067017",
-      "place_count": 0,
-      "post_url": "https://blog.naver.com/hongbis/224277067017",
-      "published_at": "2026-05-06T23:13:09+09:00",
-      "text_length": 0,
-      "title": "대치이데아학원 상산고설명회"
     }
   ],
-  "updated_at": "2026-07-01T14:50:59.122059+09:00"
+  "updated_at": "2026-07-01T16:48:25.667624+09:00"
 }

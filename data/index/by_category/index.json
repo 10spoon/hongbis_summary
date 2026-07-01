@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-07-01T16:48:25.667624+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T16:48:25.667624+09:00",
+        "link_count": 0,
+        "log_no": "224333106319",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224333106319",
+        "published_at": "2026-07-01T15:50:40+09:00",
+        "text_length": 718,
+        "title": "2026년 과학경진대회 브이로그 공모전"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
         "image_count": 4,
         "last_changed_at": "2026-07-01T12:25:41.414708+09:00",
@@ -3012,6 +3025,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-07-01T16:48:25.667624+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T16:48:25.667624+09:00",
+        "link_count": 1,
+        "log_no": "224333124760",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224333124760",
+        "published_at": "2026-07-01T16:04:44+09:00",
+        "text_length": 829,
+        "title": "서초구 X SM UNIVERSE가 함께하는 2026 진로 토크 콘서트"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
@@ -22921,5 +22947,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T14:50:59.122059+09:00"
+  "updated_at": "2026-07-01T16:48:25.667624+09:00"
 }
