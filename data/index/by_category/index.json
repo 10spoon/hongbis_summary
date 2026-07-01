@@ -85,6 +85,19 @@
     "비교과": [
       {
         "category": "비교과",
+        "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-07-01T12:25:41.414708+09:00",
+        "link_count": 0,
+        "log_no": "224332813339",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332813339",
+        "published_at": "2026-07-01T11:30:25+09:00",
+        "text_length": 0,
+        "title": "2026 여름 특별 템플스테이"
+      },
+      {
+        "category": "비교과",
         "first_seen_at": "2026-06-30T00:27:02.515379+09:00",
         "image_count": 1,
         "last_changed_at": "2026-06-30T00:27:02.515379+09:00",
@@ -2999,6 +3012,19 @@
       }
     ],
     "설명회": [
+      {
+        "category": "설명회",
+        "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T12:25:41.414708+09:00",
+        "link_count": 2,
+        "log_no": "224332757615",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332757615",
+        "published_at": "2026-07-01T10:42:59+09:00",
+        "text_length": 699,
+        "title": "THE DAWON MATH 중3 ‘ 썸머 목동 스쿨 2차 설명회"
+      },
       {
         "category": "설명회",
         "first_seen_at": "2026-06-30T22:56:37.366890+09:00",
@@ -9633,6 +9659,19 @@
       }
     ],
     "시간표": [
+      {
+        "category": "시간표",
+        "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
+        "image_count": 4,
+        "last_changed_at": "2026-07-01T12:25:41.414708+09:00",
+        "link_count": 0,
+        "log_no": "224332786932",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224332786932",
+        "published_at": "2026-07-01T11:07:52+09:00",
+        "text_length": 0,
+        "title": "종이나라 여름방학 체험교육프로그램"
+      },
       {
         "category": "시간표",
         "first_seen_at": "2026-07-01T00:10:18.380181+09:00",
@@ -22869,5 +22908,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T10:23:36.548239+09:00"
+  "updated_at": "2026-07-01T12:25:41.414708+09:00"
 }
