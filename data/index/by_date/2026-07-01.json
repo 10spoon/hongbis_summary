@@ -1,7 +1,20 @@
 {
   "key": "2026-07-01",
-  "post_count": 1,
+  "post_count": 2,
   "posts": [
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-01T10:23:36.548239+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-01T10:23:36.548239+09:00",
+      "link_count": 0,
+      "log_no": "224332688470",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224332688470",
+      "published_at": "2026-07-01T09:41:38+09:00",
+      "text_length": 0,
+      "title": "고3 기말 이후 본격적인 수시 전쟁…\"단순 입결보다 평가 요소 두루 살펴야\""
+    },
     {
       "category": "입시뉴스",
       "first_seen_at": "2026-07-01T08:29:56.899977+09:00",
@@ -16,5 +29,5 @@
       "title": "수능수험표 뒷면에 가채점표 공식인쇄된다"
     }
   ],
-  "updated_at": "2026-07-01T08:29:56.899977+09:00"
+  "updated_at": "2026-07-01T10:23:36.548239+09:00"
 }
