@@ -9687,6 +9687,19 @@
     "시간표": [
       {
         "category": "시간표",
+        "first_seen_at": "2026-07-01T18:26:50.221634+09:00",
+        "image_count": 1,
+        "last_changed_at": "2026-07-01T18:26:50.221634+09:00",
+        "link_count": 0,
+        "log_no": "224333195044",
+        "place_count": 0,
+        "post_url": "https://blog.naver.com/hongbis/224333195044",
+        "published_at": "2026-07-01T17:02:13+09:00",
+        "text_length": 0,
+        "title": "보람과학 7월개강시간표"
+      },
+      {
+        "category": "시간표",
         "first_seen_at": "2026-07-01T12:25:41.414708+09:00",
         "image_count": 4,
         "last_changed_at": "2026-07-01T12:25:41.414708+09:00",
@@ -22947,5 +22960,5 @@
     ]
   },
   "category_count": 13,
-  "updated_at": "2026-07-01T16:48:25.667624+09:00"
+  "updated_at": "2026-07-01T18:26:50.221634+09:00"
 }
