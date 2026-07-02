@@ -1,7 +1,85 @@
 {
   "key": "2026-07-02",
-  "post_count": 4,
+  "post_count": 10,
   "posts": [
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 3,
+      "log_no": "224334283297",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334283297",
+      "published_at": "2026-07-02T15:58:55+09:00",
+      "text_length": 443,
+      "title": "시대인재 수학스쿨 예비고1 공형준T & 박영석T 단독설명회"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 4,
+      "log_no": "224334267544",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334267544",
+      "published_at": "2026-07-02T15:45:31+09:00",
+      "text_length": 1153,
+      "title": "아카로드 블루M(중등관) 여름특강 개강"
+    },
+    {
+      "category": "비교과",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 3,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 0,
+      "log_no": "224334264529",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334264529",
+      "published_at": "2026-07-02T15:43:07+09:00",
+      "text_length": 0,
+      "title": "한국중학생화학대회"
+    },
+    {
+      "category": "설명회",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 3,
+      "log_no": "224334244749",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334244749",
+      "published_at": "2026-07-02T15:27:20+09:00",
+      "text_length": 1232,
+      "title": "공감학원 중3 영어 윤원중T와 신동우T와의 간담회"
+    },
+    {
+      "category": "입시뉴스",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 1,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 0,
+      "log_no": "224334222150",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334222150",
+      "published_at": "2026-07-02T15:12:01+09:00",
+      "text_length": 0,
+      "title": "학교생활기록부로 돈 벌면 처벌…‘자기 학생부 판매’도 금지"
+    },
+    {
+      "category": "시간표",
+      "first_seen_at": "2026-07-02T16:44:05.103314+09:00",
+      "image_count": 2,
+      "last_changed_at": "2026-07-02T16:44:05.103314+09:00",
+      "link_count": 3,
+      "log_no": "224334215279",
+      "place_count": 0,
+      "post_url": "https://blog.naver.com/hongbis/224334215279",
+      "published_at": "2026-07-02T15:06:30+09:00",
+      "text_length": 644,
+      "title": "준과학 중3 학생을 위한 7월 여름학기 수업"
+    },
     {
       "category": "설명회",
       "first_seen_at": "2026-07-02T02:00:58.267041+09:00",
@@ -55,5 +133,5 @@
       "title": "내신이 곧 수능이다!! 선경어학원 여름방학특강설명회"
     }
   ],
-  "updated_at": "2026-07-02T02:00:58.267041+09:00"
+  "updated_at": "2026-07-02T16:44:05.103314+09:00"
 }
